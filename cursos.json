@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-10-23T15:10:12.835550+01:00",
+  "gerado_em": "2025-10-24T09:04:20.594401+01:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 106,
   "cursos": [
@@ -925,49 +925,8 @@
         "Estilos de relacionamento interpessoal Passivo Agressivo Manipulador Assertivo Inteligência emocional Funcionamento da inteligência emocional Importância do relacionamento intrapessoal e interpessoal Competências emocionais Desenvolvimento das competências emocionais O assistente enquanto elemento impulsionador da atividade de relacionamento com os clientes Experiência positiva no cliente Ciclo experiencial do cliente Importância do assistente enquanto gerador de emoções positivas Características de um assistente Perfil de um assistente Missão do serviço ao cliente Inteligência emocional e criatividade na capacidade de comunicar A mais-valia da inteligência emocional na habilidade de comunicar Desenvolvimento de competências emocionais nas relações com os outros Desenvolvimento de competências de escuta na relação com os outros Identificação e desenvolvimento do seu nível de empatia com os outros O reforço da capacidade de dinamização de grupos Estratégias de motivação de grupos Competências emocionais e gestão de conflitos em grupos (de trabalho / de formação)"
       ],
       "descricao": null,
-      "inscricoes_abertas": true,
-      "acoes": [
-        {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=372&accao=779",
-          "id_curso": 372,
-          "id_accao": 779,
-          "titulo": "Inteligência Emocional (UFCD 9208)",
-          "area_formacao": "Comércio",
-          "duracao_total": "25 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c372.jpg",
-          "objetivos": [
-            "Desenvolver competências que permitam ao assistente potenciar o relacionamento com o cliente, promovendo experiências positivas através da compreensão do ciclo experiencial e da valorização das dimensões intrapessoal e interpessoal, atuando como agente gerador de emoções e satisfação.."
-          ],
-          "conteudos": [
-            "Estilos de relacionamento interpessoal Passivo Agressivo Manipulador Assertivo Inteligência emocional Funcionamento da inteligência emocional Importância do relacionamento intrapessoal e interpessoal Competências emocionais Desenvolvimento das competências emocionais O assistente enquanto elemento impulsionador da atividade de relacionamento com os clientes Experiência positiva no cliente Ciclo experiencial do cliente Importância do assistente enquanto gerador de emoções positivas Características de um assistente Perfil de um assistente Missão do serviço ao cliente Inteligência emocional e criatividade na capacidade de comunicar A mais",
-            "valia da inteligência emocional na habilidade de comunicar Desenvolvimento de competências emocionais nas relações com os outros Desenvolvimento de competências de escuta na relação com os outros Identificação e desenvolvimento do seu nível de empatia com os outros O reforço da capacidade de dinamização de grupos Estratégias de motivação de grupos Competências emocionais e gestão de conflitos em grupos (de trabalho / de formação)"
-          ],
-          "formadores": [],
-          "detalhe": {
-            "inicio": "23/10/2025",
-            "fim": "26/11/2025"
-          },
-          "resumo": {
-            "horario": "19:00-22:00 (+ 2 sessões das 19:00-22:30)",
-            "local": "Escola Secundária da Póvoa de Lanhoso"
-          },
-          "apresentacao": null,
-          "metodologia": null,
-          "condicoes_inscricao": null,
-          "destinatarios": null,
-          "requisitos": null,
-          "certificacao": null,
-          "calendario": [],
-          "imagens": [],
-          "cards_extraidas": [
-            "Datas de Realização",
-            "Área de Formação",
-            "Objetivos",
-            "Conteúdos Programáticos",
-            "Formador(es)"
-          ]
-        }
-      ]
+      "inscricoes_abertas": false,
+      "acoes": []
     },
     {
       "id_curso": 344,
@@ -1676,7 +1635,7 @@
           },
           "resumo": {
             "horario": "Pós-laboral",
-            "local": "Cabreiros (Braga)"
+            "local": "JF de Cabreiros - Braga"
           },
           "apresentacao": "Nos termos do artigo 18.º, Lei n.º 26/2013, de 11 de abril, todos aqueles que necessitam de aplicar estes PF’s devem dispor de certificado da ação de formação em Aplicação de Produtos Fitofarmacêuticos, passando assim a dispor da habilitação de aplicador.Com esta ação pretende-se atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.",
           "metodologia": "Ativa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo, podendo envolver uma visita de estudo.",
