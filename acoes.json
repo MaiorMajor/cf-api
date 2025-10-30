@@ -1,69 +1,8 @@
 {
-  "gerado_em": "2025-10-29T09:09:40.661785+00:00",
+  "gerado_em": "2025-10-30T09:14:09.668486+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 19,
+  "total": 20,
   "acoes": [
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=325&accao=694",
-      "id_curso": 325,
-      "id_accao": 694,
-      "titulo": "10784 - Gestão da presença empresarial nas redes sociais",
-      "area_formacao": "Comércio",
-      "duracao_total": "50 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a694.jpg",
-      "objetivos": [
-        "Capacitar os formandos para a gestão da presença empresarial das suas Entidades Empregadoras nas redes sociais.."
-      ],
-      "conteudos": [
-        "Tipos de presença e funcionalidades específicas",
-        "Tipologias de conteúdos",
-        "Métricas e reporting",
-        "Exemplos e análise de casos",
-        "Instagram marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
-        "LinkedIn marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
-        "Youtube marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
-        "Outras redes sociais",
-        "Gestão de sinergias entre diferentes redes sociais"
-      ],
-      "formadores": [
-        {
-          "nome": "Flávia Vilas Boas",
-          "biografia": "Licenciada em Marketing pela Escola de Economia e Gestão da Universidade do Minho. Pós-graduada em gestão e negócios também pela Universidade do Minho. Foi responsável pelo gabinete de comunicação e imagem do Hospital de Braga, nomeadamente pelo Facebook do Banco de Sangue e do Linkedin do Hospital de Braga (2023). É responsável pela gestão de redes sociais e website de algumas empresas clientes, desde janeiro de 2022. Foi responsável pelo desenvolvimento de uma estratégia empresarial e de marketing para a Aplicação Shop&Go do Ikea. Finalista da Competição Nacional StartUp Programme Junior Achievement Portugal (JAP) - Desenvolvimento de uma ideia de negócio. Consultora e Formadora de Gestão de Redes Sociais. Formadora na Castelform nas temáticas de Marketing (Plano de negócios; Neuromarketing; Gestão de Redes Sociais), com a avaliação de 4,85 na escala de 1 a 5.",
-          "foto_url": "https://castelform.pt/ficheiros/e12277.jpg"
-        }
-      ],
-      "detalhe": {
-        "inicio": "30/10/2025",
-        "fim": "11/12/2025"
-      },
-      "resumo": {
-        "horario": "Pós-laboral",
-        "local": "Formação a Distância (FAD)"
-      },
-      "apresentacao": "Esta formação tem como objetivo capacitar os formandos e as empresas/organizações a desenvolver estratégias de comunicação eficazes para as redes sociais, considerando as particularidades e funcionalidades de cada plataforma. Durante a formação, será abordada a gestão de redes sociais e a comunicação de produtos e serviços através de campanhas online, destacando a importância de uma abordagem estratégica e alinhada ao público-alvo de cada rede social.Além disso, serão explorados os elementos fundamentais do marketing digital, incluindo mídias sociais e anúncios digitais, como ferramentas indispensáveis para divulgar produtos e serviços de forma impactante.",
-      "metodologia": "Curso de Formação a distancia: 50% síncrono (on line) e 50% assíncrono:- Nas sessões síncronas o/a formador/a apresenta os conteúdos teóricos e desenvolve aplicações práticas que os formandos poderão depois explorar e replicar.- Nas sessões assíncronas os formandos têm a possibilidade de desenvolver as propostas de trabalho sugeridas nas sessões síncronas, para testar os conhecimentos adquiridos.",
-      "condicoes_inscricao": "Ativos/as empregados/as (por conta de outrem do setor privado com ou sem fins lucrativos), maiores de 18 anos, com escolaridade igual ou superior ao 9º ano.Cumpridos os critérios de elegibilidade, a seleção é efetuada por ordem de inscrição.Os formandos necessitam de computador com microfone, câmara e acesso à Internet.Documentação necessária:- Cópia do Certificado de Habilitações;- Cópia do último recibo de vencimento;- Declaração da entidade empregadora com horário de trabalho, assinada, carimbada e datada;- Comprovativo de IBAN em nome do/a formando/a.",
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "Terças e Quintas Feiras- Sessões síncronas: das 19:30-23:30 horas ou das 19:30-23:00 horas"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Datas de Realização",
-        "Apresentação",
-        "Condições de Inscrição",
-        "Área de Formação",
-        "Objetivos",
-        "Objetivos Específicos",
-        "Conteúdos Programáticos",
-        "Formador(es)",
-        "Metodologia",
-        "Avaliação",
-        "Observações"
-      ]
-    },
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=367&accao=768",
       "id_curso": 367,
@@ -105,6 +44,67 @@
         "Área de Formação",
         "Objetivos",
         "Conteúdos Programáticos"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=325&accao=694",
+      "id_curso": 325,
+      "id_accao": 694,
+      "titulo": "10784 - Gestão da presença empresarial nas redes sociais",
+      "area_formacao": "Comércio",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a694.jpg",
+      "objetivos": [
+        "Capacitar os formandos para a gestão da presença empresarial das suas Entidades Empregadoras nas redes sociais.."
+      ],
+      "conteudos": [
+        "Tipos de presença e funcionalidades específicas",
+        "Tipologias de conteúdos",
+        "Métricas e reporting",
+        "Exemplos e análise de casos",
+        "Instagram marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
+        "LinkedIn marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
+        "Youtube marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
+        "Outras redes sociais",
+        "Gestão de sinergias entre diferentes redes sociais"
+      ],
+      "formadores": [
+        {
+          "nome": "Flávia Vilas Boas",
+          "biografia": "Licenciada em Marketing pela Escola de Economia e Gestão da Universidade do Minho. Pós-graduada em gestão e negócios também pela Universidade do Minho. Foi responsável pelo gabinete de comunicação e imagem do Hospital de Braga, nomeadamente pelo Facebook do Banco de Sangue e do Linkedin do Hospital de Braga (2023). É responsável pela gestão de redes sociais e website de algumas empresas clientes, desde janeiro de 2022. Foi responsável pelo desenvolvimento de uma estratégia empresarial e de marketing para a Aplicação Shop&Go do Ikea. Finalista da Competição Nacional StartUp Programme Junior Achievement Portugal (JAP) - Desenvolvimento de uma ideia de negócio. Consultora e Formadora de Gestão de Redes Sociais. Formadora na Castelform nas temáticas de Marketing (Plano de negócios; Neuromarketing; Gestão de Redes Sociais), com a avaliação de 4,85 na escala de 1 a 5.",
+          "foto_url": "https://castelform.pt/ficheiros/e12277.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "06/11/2025",
+        "fim": "18/12/2025"
+      },
+      "resumo": {
+        "horario": "Pós-laboral",
+        "local": "Formação a Distância (FAD)"
+      },
+      "apresentacao": "Esta formação tem como objetivo capacitar os formandos e as empresas/organizações a desenvolver estratégias de comunicação eficazes para as redes sociais, considerando as particularidades e funcionalidades de cada plataforma. Durante a formação, será abordada a gestão de redes sociais e a comunicação de produtos e serviços através de campanhas online, destacando a importância de uma abordagem estratégica e alinhada ao público-alvo de cada rede social.Além disso, serão explorados os elementos fundamentais do marketing digital, incluindo mídias sociais e anúncios digitais, como ferramentas indispensáveis para divulgar produtos e serviços de forma impactante.",
+      "metodologia": "Curso de Formação a distancia: 50% síncrono (on line) e 50% assíncrono:- Nas sessões síncronas o/a formador/a apresenta os conteúdos teóricos e desenvolve aplicações práticas que os formandos poderão depois explorar e replicar.- Nas sessões assíncronas os formandos têm a possibilidade de desenvolver as propostas de trabalho sugeridas nas sessões síncronas, para testar os conhecimentos adquiridos.",
+      "condicoes_inscricao": "Ativos/as empregados/as (por conta de outrem do setor privado com ou sem fins lucrativos), maiores de 18 anos, com escolaridade igual ou superior ao 9º ano.Cumpridos os critérios de elegibilidade, a seleção é efetuada por ordem de inscrição.Os formandos necessitam de computador com microfone, câmara e acesso à Internet.Documentação necessária:- Cópia do Certificado de Habilitações;- Cópia do último recibo de vencimento;- Declaração da entidade empregadora com horário de trabalho, assinada, carimbada e datada;- Comprovativo de IBAN em nome do/a formando/a.",
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "Terças e Quintas Feiras- Sessões síncronas: das 19:30-23:30 horas ou das 19:30-23:00 horas"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Datas de Realização",
+        "Apresentação",
+        "Condições de Inscrição",
+        "Área de Formação",
+        "Objetivos",
+        "Objetivos Específicos",
+        "Conteúdos Programáticos",
+        "Formador(es)",
+        "Metodologia",
+        "Avaliação",
+        "Observações"
       ]
     },
     {
@@ -860,6 +860,82 @@
       "imagens": [],
       "cards_extraidas": [
         "Datas de Realização",
+        "Apresentação",
+        "Condições de Inscrição",
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos",
+        "Formador(es)",
+        "Metodologia"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=16&accao=782",
+      "id_curso": 16,
+      "id_accao": 782,
+      "titulo": "Atualização de Aplicação de Produtos Fitofarmacêuticos (AAPF) - (UFCD 9261)",
+      "area_formacao": "Produção Agrícola e Animal",
+      "duracao_total": "25 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a782.jpg",
+      "objetivos": [
+        "Atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.."
+      ],
+      "conteudos": [
+        "Sistemas regulamentares",
+        "Autorização de produtos fitofarmacêuticos",
+        "Classificação, embalagem e rotulagem",
+        "Venda, aquisição e uso responsávelProteção Integrada (PI)",
+        "Legislação específica e registos",
+        "Prática da PI e tomada de decisão",
+        "Aconselhamento agrícola",
+        "Avaliação comparativa de produtos fitofarmacêuticos e segurançaProdução Integrada (PRODI)",
+        "Princípios da PRODI",
+        "Regulamentação e registos",
+        "Caderno de campoModo de Produção Biológico",
+        "Princípios gerais",
+        "Regulamento comunitário relativo ao modo de produção biológico",
+        "Utilização de produtos fitofarmacêuticos em modo de produção biológicoSegurança na utilização de produtos fitofarmacêuticos",
+        "Aspetos toxicológicos inerentes à sua manipulação e aplicação",
+        "Noção de dose, concentração e volume de calda",
+        "Informação e leitura do rótulo",
+        "Produtos ilegais",
+        "Equipamentos de proteção individual (EPI) segundo as características do produto fitofarmacêuticoRedução do risco na aplicação dos produtos fitofarmacêuticos",
+        "Inspeção periódica de equipamentos",
+        "Características do equipamento de aplicação",
+        "Critérios para a escolha do material de aplicação",
+        "Técnicas de aplicação, calibração, regulação do material de aplicação e inspeção",
+        "Arrastamento da calda e dispositivos anti deriva",
+        "Redução do risco para o ambiente, espécies e organismos não visados",
+        "Impacte no ambiente do uso de produtos fitofarmacêuticos",
+        "Risco para as espécies não visadas e medidas de mitigação do riscoSegurança na manipulação e preparação de caldas e limpeza de equipamentos de aplicaçãoGestão de resíduos de embalagens e resíduos de excedentes de produtos fitofarmacêuticos (obsoletos)Segurança alimentarLimite máximo de resíduosIntervalo de segurançaExposição do consumidor e cumprimento das indicações do rótuloArmazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticosCondições e características dos locais de armazenamentoSinalização, perigos e segurança durante o armazenamentoPerigos e segurança no transporteAcidentes com produtos fitofarmacêuticosPrevenção de acidentesAcidentes de trabalhoSintomas de intoxicação e medidas de primeiros socorros"
+      ],
+      "formadores": [
+        {
+          "nome": "Gracinda Alves",
+          "biografia": "(n. 1980) . Licenciatura em Engenharia Agronómica, Ramo Zootecnia. Professora do ensino profissional agrícola na temática de mecanização e colaboradora em exploração agrícola familiar. Formadora em cursos de zootecnia, produção agícola e mecanização agrícola. Possui formação específica em mecanização agrícola estando homologada pela DRAPN para ministrar cursos de Condução e Operação com o Trator em Segurança (COTs)",
+          "foto_url": "https://castelform.pt/ficheiros/e3759.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "09/12/2025",
+        "fim": null
+      },
+      "resumo": {
+        "horario": "Pós-laboral",
+        "local": "Arco de Baúlhe"
+      },
+      "apresentacao": "Nos termos do artigo 18.º, Lei n.º 26/2013, de 11 de abril, todos aqueles que necessitam de aplicar estes PF’s devem dispor de certificado da ação de formação em Aplicação de Produtos Fitofarmacêuticos, passando assim a dispor da habilitação de aplicador.Com esta ação pretende-se atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.",
+      "metodologia": "Ativa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo, podendo envolver uma visita de estudo.",
+      "condicoes_inscricao": "Formação direcionada para candidatos/as que cuja data de validade do cartão de aplicador, obtido anteriormente pela via da formação, esteja a caducar (data de validade do cartão é de 10 anos - recomendamos que a atualização seja feita com pelo menos 1 ano de antecedência da data limite da validade).1 - Habilitação Literária: Escolaridade mínima obrigatória. Necessário cópia do certificado escolar ou do certificado de habilitações.Ser detentor de curso de Aplicação de Produtos Fitofarmacêuticos homologado pelo Ministério da Agricultura. Necessário cópia do Cartão de Aplicador.2- Comprovativo de situação profissional: a) Se trabalhadores por conta de outrem: Recibo de Vencimento do ultimo mêsb) Se coletado: Declaração de Inicio de Atividade + RVE ou Fatura recente (se trabalhadores por conta própria) ou Certidão extraída da AT sobre o enquadramento em IVA.c) Se Desempregado: Declaração do IEFP.3- Cópia do Cartão de Cidadão.4- Cópia do Cartão de Aplicador",
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "09/12/2025",
+        "09/12/2025"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
         "Apresentação",
         "Condições de Inscrição",
         "Área de Formação",
