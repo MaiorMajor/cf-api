@@ -1,103 +1,8 @@
 {
-  "gerado_em": "2025-11-03T09:05:51.686888+00:00",
+  "gerado_em": "2025-11-04T09:08:36.404950+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 21,
+  "total": 20,
   "acoes": [
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=331&accao=747",
-      "id_curso": 331,
-      "id_accao": 747,
-      "titulo": "10803 - Análise avançada de dados",
-      "area_formacao": "Ciências Informáticas",
-      "duracao_total": "25 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a747.jpg",
-      "objetivos": [
-        "Capacitar os formandos para aplicar rotinas de tratamento e processamento de dados em Power BI, para a análise de resultados e a produção de dashboards e relatórios visuais mais atraentes visando melhorar a tomada de decisão com base em dados.."
-      ],
-      "conteudos": [
-        "Introdução à análise avançada de dadosResumo estatísticoOutliers com visuais no Power BIClusterização de dadosTécnicas de agrupamentoAnálise de séries temporaisFunção AnaliseVisuais personalizados de análise avançadaFuncionalidade Quick InsightsFuncionalidade de inteligência artificialIntrodução ao trabalho com visões de inteligência artificialControle de qualidade visualInfluenciadores",
-        "chave visuaisElementos visuais da Árvore de DecomposiçãoAnálise de dados no Power BI Desktop"
-      ],
-      "formadores": [
-        {
-          "nome": "Ricardo Costa",
-          "biografia": "(n. 1978). Licenciado em Economia. A sua experiência profissional na área da Informática tem sido desenvolvida desde 2002 até ao presente. Atualmente desempenho funções com formador e professor na área das TIC e Robótica. Integra a equipa de formadores da Castelform, onde nos últimos 4 anos (entre nov. 2020 e maio de 2024), lecionou 17 ações de Excel Avançado e 5 de PowerBI, envolvendo mais de 500 formandos, tendo obtido avaliação de satisfação 4,9 (excelente), na escala de 1 a 5",
-          "foto_url": "https://castelform.pt/ficheiros/e7679.jpg"
-        }
-      ],
-      "detalhe": {
-        "inicio": "03/11/2025",
-        "fim": "24/11/2025"
-      },
-      "resumo": {
-        "horario": "Laboral",
-        "local": "Formação a Distância (FAD)"
-      },
-      "apresentacao": "Capacitar os formandos para aplicar rotinas de tratamento e processamento de dados em Power BI, para a análise de resultados e a produção de dashboards e relatórios visuais mais atraentes visando melhorar a tomada de decisão com base em dados.O Power BI suporta a integração de uma variedade de fontes de dados, como bancos de dados, serviços online e arquivos locais. Fundamental para profissionais que precisam processar dados de várias origens.Em cada edição deste curso o formador vai dando informações sobre as últimas atualizações da ferramenta e tendências no campo da análise de dados.",
-      "metodologia": "Formação a distância (totalmente \"on line\").Utilização do método demonstrativo na execução de exercícios práticos/atividades colocados na plataforma e que os formandos descarregam para os seus PCs no inicio de cada sessão e/ou proposta de atividade. Com o apoio dos vídeos disponibilizados após cada sessão, os formandos poderão repetir o exercício/atividade e desta forma ir consolidando as funcionalidades e rotinas do PowerBI a fim de que no final consigam a produção de dashboards e relatórios analíticos mais atrativos e informativos.",
-      "condicoes_inscricao": "Ativos empregados (exceto os da Administração Pública) com habilitação igual ou superior ao 12º ano de escolaridade.",
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "03/11/2025 das 14:00 às 18:0006/11/2025 das 14:00 às 17:0010/11/2025 das 14:00 às 18:0013/11/2025 das 14:00 às 17:0017/11/2025 das 14:00 às 18:0020/11/2025 das 14:00 às 17:0024/11/2025 das 14:00 às 18:00"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Datas de Realização",
-        "Apresentação",
-        "Condições de Inscrição",
-        "Área de Formação",
-        "Objetivos",
-        "Objetivos Específicos",
-        "Conteúdos Programáticos",
-        "Formador(es)",
-        "Metodologia"
-      ]
-    },
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=367&accao=768",
-      "id_curso": 367,
-      "id_accao": 768,
-      "titulo": "0754 - Processador de texto",
-      "area_formacao": "Ciências Informáticas",
-      "duracao_total": "50 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a768.jpg",
-      "objetivos": [
-        "Elaborar, editar e imprimir documentos.Introduzir elementos gráficos em documentos.Elaborar e editar documentos longos.."
-      ],
-      "conteudos": [
-        "Processador de texto – introdução Janela principal Inserção de texto (teclado) Modos de visualização básicos AjudaOperações básicas Criação, gravação e abertura de documentos Seleção de texto Anulação e repetição de açõesFormatações Formatações globais do documento Formatação do tipo de letra Formatações de parágrafo Utilização das tabelas pré",
-        "definidas Criação de listas Limites e sombreadosEdição e revisão de texto Múltiplos documentos abertos Cópia do texto Verificação ortográfica Comando “localizar e substituir”Impressão Impressão de documentos, envelopes e etiquetasTabulações, tabelas e colunas Definir tabulações Criação, modificação e formatação de tabelas Divisão do texto em colunasMelhorar o aspeto visual Símbolos Caixas de texto Desenho, importação de imagens, inserção de formas automáticasDocumentos longos Quebras de página e de seleção Cabeçalhos e rodapés EstilosPercorrer o documento rapidamente Divisão do ecrã Marcadores e referências cruzadas Legendas e notas de rodapé Criação de índice Destaques Visualização do mapa de um documento Junção de documentos"
-      ],
-      "formadores": [],
-      "detalhe": {
-        "inicio": "04/11/2025",
-        "fim": "18/12/2025"
-      },
-      "resumo": {
-        "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
-        "local": "Formação a Distância (FAD)"
-      },
-      "apresentacao": null,
-      "metodologia": null,
-      "condicoes_inscricao": null,
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "04/11/2025",
-        "18/12/2025",
-        "04/11/2025",
-        "18/12/2025"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Área de Formação",
-        "Objetivos",
-        "Conteúdos Programáticos"
-      ]
-    },
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=325&accao=694",
       "id_curso": 325,
@@ -737,6 +642,49 @@
       ]
     },
     {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=367&accao=768",
+      "id_curso": 367,
+      "id_accao": 768,
+      "titulo": "0754 - Processador de texto",
+      "area_formacao": "Ciências Informáticas",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a768.jpg",
+      "objetivos": [
+        "Elaborar, editar e imprimir documentos.Introduzir elementos gráficos em documentos.Elaborar e editar documentos longos.."
+      ],
+      "conteudos": [
+        "Processador de texto – introdução Janela principal Inserção de texto (teclado) Modos de visualização básicos AjudaOperações básicas Criação, gravação e abertura de documentos Seleção de texto Anulação e repetição de açõesFormatações Formatações globais do documento Formatação do tipo de letra Formatações de parágrafo Utilização das tabelas pré",
+        "definidas Criação de listas Limites e sombreadosEdição e revisão de texto Múltiplos documentos abertos Cópia do texto Verificação ortográfica Comando “localizar e substituir”Impressão Impressão de documentos, envelopes e etiquetasTabulações, tabelas e colunas Definir tabulações Criação, modificação e formatação de tabelas Divisão do texto em colunasMelhorar o aspeto visual Símbolos Caixas de texto Desenho, importação de imagens, inserção de formas automáticasDocumentos longos Quebras de página e de seleção Cabeçalhos e rodapés EstilosPercorrer o documento rapidamente Divisão do ecrã Marcadores e referências cruzadas Legendas e notas de rodapé Criação de índice Destaques Visualização do mapa de um documento Junção de documentos"
+      ],
+      "formadores": [],
+      "detalhe": {
+        "inicio": "25/11/2025",
+        "fim": "13/01/2026"
+      },
+      "resumo": {
+        "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
+        "local": "Formação a Distância (FAD)"
+      },
+      "apresentacao": null,
+      "metodologia": null,
+      "condicoes_inscricao": null,
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "25/11/2025",
+        "13/01/2026",
+        "25/11/2025",
+        "13/01/2026"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos"
+      ]
+    },
+    {
       "url": "https://castelform.pt/informacaocurso.aspx?id=219&accao=722",
       "id_curso": 219,
       "id_accao": 722,
@@ -866,7 +814,9 @@
       "destinatarios": null,
       "requisitos": null,
       "certificacao": null,
-      "calendario": [],
+      "calendario": [
+        "Semana 12/12/2025 - 3ª feira - 19:00-22:30 - 3.5 HSemana 208/12/2025 - 2ª feira - 19:00-22:30 - 3.5 H09/12/2025 - 3ª feira - 19:00-22:30 - 3.5 H10/12/2025 - 4ª feira - 19:00-22:30 - 3.5 HSemana 316/12/2025 - 3ª feira - 19:00-22:30 - 3.5 H17/12/2025 - 4ª feira - 19:00-22:30 - 3.5 H19/12/2025 - 6ª feira - 18:30-22:30 - 4 H"
+      ],
       "imagens": [],
       "cards_extraidas": [
         "Datas de Realização",
