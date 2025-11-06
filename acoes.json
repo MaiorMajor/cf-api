@@ -1,69 +1,8 @@
 {
-  "gerado_em": "2025-11-06T09:03:55.213785+00:00",
+  "gerado_em": "2025-11-06T15:29:00.107225+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 20,
   "acoes": [
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=325&accao=694",
-      "id_curso": 325,
-      "id_accao": 694,
-      "titulo": "10784 - Gestão da presença empresarial nas redes sociais",
-      "area_formacao": "Comércio",
-      "duracao_total": "50 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a694.jpg",
-      "objetivos": [
-        "Capacitar os formandos para a gestão da presença empresarial das suas Entidades Empregadoras nas redes sociais.."
-      ],
-      "conteudos": [
-        "Tipos de presença e funcionalidades específicas",
-        "Tipologias de conteúdos",
-        "Métricas e reporting",
-        "Exemplos e análise de casos",
-        "Instagram marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
-        "LinkedIn marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
-        "Youtube marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
-        "Outras redes sociais",
-        "Gestão de sinergias entre diferentes redes sociais"
-      ],
-      "formadores": [
-        {
-          "nome": "Flávia Vilas Boas",
-          "biografia": "Licenciada em Marketing pela Escola de Economia e Gestão da Universidade do Minho. Pós-graduada em gestão e negócios também pela Universidade do Minho. Foi responsável pelo gabinete de comunicação e imagem do Hospital de Braga, nomeadamente pelo Facebook do Banco de Sangue e do Linkedin do Hospital de Braga (2023). É responsável pela gestão de redes sociais e website de algumas empresas clientes, desde janeiro de 2022. Foi responsável pelo desenvolvimento de uma estratégia empresarial e de marketing para a Aplicação Shop&Go do Ikea. Finalista da Competição Nacional StartUp Programme Junior Achievement Portugal (JAP) - Desenvolvimento de uma ideia de negócio. Consultora e Formadora de Gestão de Redes Sociais. Formadora na Castelform nas temáticas de Marketing (Plano de negócios; Neuromarketing; Gestão de Redes Sociais), com a avaliação de 4,85 na escala de 1 a 5.",
-          "foto_url": "https://castelform.pt/ficheiros/e12277.jpg"
-        }
-      ],
-      "detalhe": {
-        "inicio": "06/11/2025",
-        "fim": "18/12/2025"
-      },
-      "resumo": {
-        "horario": "Pós-laboral",
-        "local": "Formação a Distância (FAD)"
-      },
-      "apresentacao": "Domine as redes sociais e transforme a presença digital da sua empresa.Esta formação tem como objetivo capacitar os formandos e as empresas/organizações a desenvolver estratégias de comunicação eficazes para as redes sociais, considerando as particularidades e funcionalidades de cada plataforma. Durante a formação, será abordada a gestão de redes sociais e a comunicação de produtos e serviços através de campanhas online, destacando a importância de uma abordagem estratégica e alinhada ao público-alvo de cada rede social.Além disso, serão explorados os elementos fundamentais do marketing digital, incluindo mídias sociais e anúncios digitais, como ferramentas indispensáveis para divulgar produtos e serviços de forma impactante.",
-      "metodologia": "Curso de Formação a distancia: 50% síncrono (on line) e 50% assíncrono:- Nas sessões síncronas o/a formador/a apresenta os conteúdos teóricos e desenvolve aplicações práticas que os formandos poderão depois explorar e replicar.- Nas sessões assíncronas os formandos têm a possibilidade de desenvolver as propostas de trabalho sugeridas nas sessões síncronas, para testar os conhecimentos adquiridos.",
-      "condicoes_inscricao": "Ativos/as empregados/as (por conta de outrem do setor privado com ou sem fins lucrativos), maiores de 18 anos, com escolaridade igual ou superior ao 9º ano.Cumpridos os critérios de elegibilidade, a seleção é efetuada por ordem de inscrição.Os formandos necessitam de computador com microfone, câmara e acesso à Internet.Documentação necessária:- Cópia do Certificado de Habilitações;- Cópia do último recibo de vencimento;- Declaração da entidade empregadora com horário de trabalho, assinada, carimbada e datada;- Comprovativo de IBAN em nome do/a formando/a.",
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "Terças e Quintas Feiras- Sessões síncronas: das 19:30-23:30 horas ou das 19:30-23:00 horas"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Datas de Realização",
-        "Apresentação",
-        "Condições de Inscrição",
-        "Área de Formação",
-        "Objetivos",
-        "Objetivos Específicos",
-        "Conteúdos Programáticos",
-        "Formador(es)",
-        "Metodologia",
-        "Avaliação",
-        "Observações"
-      ]
-    },
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=357&accao=760",
       "id_curso": 357,
@@ -103,63 +42,6 @@
       "imagens": [],
       "cards_extraidas": [
         "Datas de Realização",
-        "Condições de Inscrição",
-        "Área de Formação",
-        "Objetivos",
-        "Conteúdos Programáticos",
-        "Formador(es)",
-        "Metodologia",
-        "Avaliação",
-        "Observações"
-      ]
-    },
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=358&accao=741",
-      "id_curso": 358,
-      "id_accao": 741,
-      "titulo": "0616 - Aplicações informáticas para o processamento de salários",
-      "area_formacao": "Gestão e Administração",
-      "duracao_total": "25 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a741.jpg",
-      "objetivos": [
-        "Capaictar os formandos para a utilização de uma aplicação informática da área de gestão de pessoal e para a utilização de base de dados com ligação a outras aplicações.."
-      ],
-      "conteudos": [
-        "Adaptado da UFCD \"Aplicações informáticas de gestão de pessoal\" (UFCD 0616)Legislação LaboralProcessamento salarialAplicações informáticas:",
-        "As aplicações informáticas e as organizações",
-        "As possibilidades das aplicações informáticasAplicação informática (TOC Online):",
-        "Apresentação do software",
-        "Módulo de processamento salarial e gestão de RH"
-      ],
-      "formadores": [
-        {
-          "nome": "Andrea Braga",
-          "biografia": "Licenciatura em Fiscalidade (2007). Contabilista Certificada (desde 2008). Contabilista numa Empresa de contabilidade (desde 2012). Formadora nos Cursos de Técnico/a de Contabilidade; Técnico/a de Apoio à Gestão; Técnicos/as Administrativos; Curso Técnico Especialista em Contabilidade e Fiscalidade; Formadora Certificada e E-Formadora. Formações relevantes: - Técnica Superior Segurança Trabalho (2020) - Gestão administrativa de Recursos Humanos: Rose Specialist (2022); Rose People (2023); - Formação em Ambiente Moodle (2024) e Gestão e Coordenação da Formação (2024)",
-          "foto_url": "https://castelform.pt/ficheiros/e14646.jpg"
-        }
-      ],
-      "detalhe": {
-        "inicio": "10/11/2025",
-        "fim": "03/12/2025"
-      },
-      "resumo": {
-        "horario": "Pós-laboral",
-        "local": "Formação a Distância (FAD)"
-      },
-      "apresentacao": "Curso inovador de Gestão de Recursos Humanos projetado para capacitar os formandos a utilizar uma aplicação informática ajustada à gestão eficiente de recursos humanos. Neste curso aprenderá a utilizar uma base de dados integrada, que se conecta a outras aplicações, permitindo uma gestão mais eficaz e integrada dos recursos humanos da sua empresa. Com uma abordagem prática e interativa, os formandos desenvolverão competências valiosas que transformarão a forma como gerem as informações sobre gestão de recursos humanos e processamento salarial.",
-      "metodologia": "Formato de Formação a Distância (FAD) com sessões síncronas.Sessões Síncronas - das 19:00 às 22:30 h - com todo o grupo de formandos e formadora “on line”, na plataforma ZOOM.Sessões Síncronas de prática simulada, na metodologia de projeto, em que os formandos, de forma individual ou em grupo (em salas individuais ou partilhadas), desenvolvem tarefas e aplicações práticas sugeridas pela formadora, que na segunda fase da sessão dá tutoria aos formandos e orientação pedagógico na execução das propostas de trabalho.",
-      "condicoes_inscricao": "Escolaridade mínima:3º ciclo ou 9º ano (completo).Documentação necessária:1. Cópia do cartão de cidadão ou do Visto de Residência, com autorização para trabalho (se candidato/a estrangeiro/a).2. Certificado Escolar ou Certificado de Habilitações Académicas (ou Declaração da instituição de Ensino onde completou, com aproveitamento, o último ano escolar ou do ensino superior, atestando dessa forma as habilitações escolares ou académicas. No caso de candidato/a estrangeiro/a, o certificado de escolaridade ou o certificado de habilitações académicas deve estar reconhecido no sistema de ensino português (seja Escola Secundária, seja Universidade).3. Cópia do último recibo de vencimento (podem ser rasurados os valores auferidos).4. Declaração de Horário de trabalho (ex: de segunda a sexta feira, das 9:00h às 13:00h e das 14:00h às 18:00h).5. IBAN extraído do Netbanking onde deve constar o nome do/a candidato/a.Pagamento do subsídio de alimentação no valor de 6,00 euros/sessão, aos formandos que completem, em cada sessão, pelo menos 3 horas de formação no horário pós-laboral.",
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "10/11/2025",
-        "10/11/2025",
-        "03/12/2025"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Apresentação",
         "Condições de Inscrição",
         "Área de Formação",
         "Objetivos",
@@ -266,56 +148,6 @@
       "imagens": [],
       "cards_extraidas": [
         "Área de Formação"
-      ]
-    },
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=310&accao=758",
-      "id_curso": 310,
-      "id_accao": 758,
-      "titulo": "0757 - Folha de cálculo - funcionalidades avançadas",
-      "area_formacao": "Ciências Informáticas",
-      "duracao_total": "25 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/c310.jpg",
-      "objetivos": [
-        "Executar ligações entre múltiplas folhas de cálculo.",
-        "Efetuar a análise de dados.",
-        "Automatizar ações através da utilização de macros.."
-      ],
-      "conteudos": [
-        "Múltiplas folhas de cálculo Múltiplas folhas Reunião de folhas de cálculo Ligação entre folhas Resumo de dados Inserção de subtotais Destaques Relatórios Análise de dados Análise de dados em tabelas e listas",
-        "Criação, ordenação e filtragem de dados",
-        "Formulários Criação e formatação de uma tabela dinâmica Utilização de totais e subtotais Fórmulas em tabelas dinâmicas Elaboração de gráficos Macros Macros pré",
-        "definidas Macros de personalização das barras de ferramentas Criação e gravação de uma macro Atribuição de uma macro a um botão Execução de uma macro"
-      ],
-      "formadores": [
-        {
-          "nome": "Ricardo Costa",
-          "biografia": "(n. 1978). Licenciado em Economia. A sua experiência profissional na área da Informática tem sido desenvolvida desde 2002 até ao presente. Atualmente desempenho funções com formador e professor na área das TIC e Robótica. Integra a equipa de formadores da Castelform, onde nos últimos 4 anos (entre nov. 2020 e maio de 2024), lecionou 17 ações de Excel Avançado e 5 de PowerBI, envolvendo mais de 500 formandos, tendo obtido avaliação de satisfação 4,9 (excelente), na escala de 1 a 5",
-          "foto_url": "https://castelform.pt/ficheiros/e7679.jpg"
-        }
-      ],
-      "detalhe": {
-        "inicio": "12/11/2025",
-        "fim": "15/12/2025"
-      },
-      "resumo": {
-        "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
-        "local": "Formação a Distância (FAD)"
-      },
-      "apresentacao": null,
-      "metodologia": null,
-      "condicoes_inscricao": null,
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [],
-      "imagens": [],
-      "cards_extraidas": [
-        "Datas de Realização",
-        "Área de Formação",
-        "Objetivos",
-        "Conteúdos Programáticos",
-        "Formador(es)"
       ]
     },
     {
@@ -538,6 +370,63 @@
         "Conteúdos Programáticos",
         "Formador(es)",
         "Metodologia"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=358&accao=741",
+      "id_curso": 358,
+      "id_accao": 741,
+      "titulo": "0616 - Aplicações informáticas para o processamento de salários",
+      "area_formacao": "Gestão e Administração",
+      "duracao_total": "25 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a741.jpg",
+      "objetivos": [
+        "Capaictar os formandos para a utilização de uma aplicação informática da área de gestão de pessoal e para a utilização de base de dados com ligação a outras aplicações.."
+      ],
+      "conteudos": [
+        "Adaptado da UFCD \"Aplicações informáticas de gestão de pessoal\" (UFCD 0616)Legislação LaboralProcessamento salarialAplicações informáticas:",
+        "As aplicações informáticas e as organizações",
+        "As possibilidades das aplicações informáticasAplicação informática (TOC Online):",
+        "Apresentação do software",
+        "Módulo de processamento salarial e gestão de RH"
+      ],
+      "formadores": [
+        {
+          "nome": "Andrea Braga",
+          "biografia": "Licenciatura em Fiscalidade (2007). Contabilista Certificada (desde 2008). Contabilista numa Empresa de contabilidade (desde 2012). Formadora nos Cursos de Técnico/a de Contabilidade; Técnico/a de Apoio à Gestão; Técnicos/as Administrativos; Curso Técnico Especialista em Contabilidade e Fiscalidade; Formadora Certificada e E-Formadora. Formações relevantes: - Técnica Superior Segurança Trabalho (2020) - Gestão administrativa de Recursos Humanos: Rose Specialist (2022); Rose People (2023); - Formação em Ambiente Moodle (2024) e Gestão e Coordenação da Formação (2024)",
+          "foto_url": "https://castelform.pt/ficheiros/e14646.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "18/11/2025",
+        "fim": "09/12/2025"
+      },
+      "resumo": {
+        "horario": "Pós-laboral",
+        "local": "Formação a Distância (FAD)"
+      },
+      "apresentacao": "Curso inovador de Gestão de Recursos Humanos projetado para capacitar os formandos a utilizar uma aplicação informática ajustada à gestão eficiente de recursos humanos. Neste curso aprenderá a utilizar uma base de dados integrada, que se conecta a outras aplicações, permitindo uma gestão mais eficaz e integrada dos recursos humanos da sua empresa. Com uma abordagem prática e interativa, os formandos desenvolverão competências valiosas que transformarão a forma como gerem as informações sobre gestão de recursos humanos e processamento salarial.",
+      "metodologia": "Formato de Formação a Distância (FAD) com sessões síncronas.Sessões Síncronas - das 19:00 às 22:30 h - com todo o grupo de formandos e formadora “on line”, na plataforma ZOOM.Sessões Síncronas de prática simulada, na metodologia de projeto, em que os formandos, de forma individual ou em grupo (em salas individuais ou partilhadas), desenvolvem tarefas e aplicações práticas sugeridas pela formadora, que na segunda fase da sessão dá tutoria aos formandos e orientação pedagógico na execução das propostas de trabalho.",
+      "condicoes_inscricao": "Escolaridade mínima:3º ciclo ou 9º ano (completo).Documentação necessária:1. Cópia do cartão de cidadão ou do Visto de Residência, com autorização para trabalho (se candidato/a estrangeiro/a).2. Certificado Escolar ou Certificado de Habilitações Académicas (ou Declaração da instituição de Ensino onde completou, com aproveitamento, o último ano escolar ou do ensino superior, atestando dessa forma as habilitações escolares ou académicas. No caso de candidato/a estrangeiro/a, o certificado de escolaridade ou o certificado de habilitações académicas deve estar reconhecido no sistema de ensino português (seja Escola Secundária, seja Universidade).3. Cópia do último recibo de vencimento (podem ser rasurados os valores auferidos).4. Declaração de Horário de trabalho (ex: de segunda a sexta feira, das 9:00h às 13:00h e das 14:00h às 18:00h).5. IBAN extraído do Netbanking onde deve constar o nome do/a candidato/a.Pagamento do subsídio de alimentação no valor de 6,00 euros/sessão, aos formandos que completem, em cada sessão, pelo menos 3 horas de formação no horário pós-laboral.",
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "18/11/2025",
+        "18/11/2025",
+        "09/12/2025"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Apresentação",
+        "Condições de Inscrição",
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos",
+        "Formador(es)",
+        "Metodologia",
+        "Avaliação",
+        "Observações"
       ]
     },
     {
@@ -1022,6 +911,67 @@
       ]
     },
     {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=325&accao=694",
+      "id_curso": 325,
+      "id_accao": 694,
+      "titulo": "10784 - Gestão da presença empresarial nas redes sociais",
+      "area_formacao": "Comércio",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a694.jpg",
+      "objetivos": [
+        "Capacitar os formandos para a gestão da presença empresarial das suas Entidades Empregadoras nas redes sociais.."
+      ],
+      "conteudos": [
+        "Tipos de presença e funcionalidades específicas",
+        "Tipologias de conteúdos",
+        "Métricas e reporting",
+        "Exemplos e análise de casos",
+        "Instagram marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
+        "LinkedIn marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
+        "Youtube marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
+        "Outras redes sociais",
+        "Gestão de sinergias entre diferentes redes sociais"
+      ],
+      "formadores": [
+        {
+          "nome": "Flávia Vilas Boas",
+          "biografia": "Licenciada em Marketing pela Escola de Economia e Gestão da Universidade do Minho. Pós-graduada em gestão e negócios também pela Universidade do Minho. Foi responsável pelo gabinete de comunicação e imagem do Hospital de Braga, nomeadamente pelo Facebook do Banco de Sangue e do Linkedin do Hospital de Braga (2023). É responsável pela gestão de redes sociais e website de algumas empresas clientes, desde janeiro de 2022. Foi responsável pelo desenvolvimento de uma estratégia empresarial e de marketing para a Aplicação Shop&Go do Ikea. Finalista da Competição Nacional StartUp Programme Junior Achievement Portugal (JAP) - Desenvolvimento de uma ideia de negócio. Consultora e Formadora de Gestão de Redes Sociais. Formadora na Castelform nas temáticas de Marketing (Plano de negócios; Neuromarketing; Gestão de Redes Sociais), com a avaliação de 4,85 na escala de 1 a 5.",
+          "foto_url": "https://castelform.pt/ficheiros/e12277.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "06/01/2026",
+        "fim": "19/02/2026"
+      },
+      "resumo": {
+        "horario": "Pós-laboral",
+        "local": "Formação a Distância (FAD)"
+      },
+      "apresentacao": "Domine as redes sociais e transforme a presença digital da sua empresa.Esta formação tem como objetivo capacitar os formandos e as empresas/organizações a desenvolver estratégias de comunicação eficazes para as redes sociais, considerando as particularidades e funcionalidades de cada plataforma. Durante a formação, será abordada a gestão de redes sociais e a comunicação de produtos e serviços através de campanhas online, destacando a importância de uma abordagem estratégica e alinhada ao público-alvo de cada rede social.Além disso, serão explorados os elementos fundamentais do marketing digital, incluindo mídias sociais e anúncios digitais, como ferramentas indispensáveis para divulgar produtos e serviços de forma impactante.",
+      "metodologia": "Curso de Formação a distancia: 50% síncrono (on line) e 50% assíncrono:- Nas sessões síncronas o/a formador/a apresenta os conteúdos teóricos e desenvolve aplicações práticas que os formandos poderão depois explorar e replicar.- Nas sessões assíncronas os formandos têm a possibilidade de desenvolver as propostas de trabalho sugeridas nas sessões síncronas, para testar os conhecimentos adquiridos.",
+      "condicoes_inscricao": "Ativos/as empregados/as (por conta de outrem do setor privado com ou sem fins lucrativos), maiores de 18 anos, com escolaridade igual ou superior ao 9º ano.Cumpridos os critérios de elegibilidade, a seleção é efetuada por ordem de inscrição.Os formandos necessitam de computador com microfone, câmara e acesso à Internet.Documentação necessária:- Cópia do Certificado de Habilitações;- Cópia do último recibo de vencimento;- Declaração da entidade empregadora com horário de trabalho, assinada, carimbada e datada;- Comprovativo de IBAN em nome do/a formando/a.",
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "Terças e Quintas Feiras- Sessões síncronas: das 19:30-23:30 horas ou das 19:30-23:00 horas"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Datas de Realização",
+        "Apresentação",
+        "Condições de Inscrição",
+        "Área de Formação",
+        "Objetivos",
+        "Objetivos Específicos",
+        "Conteúdos Programáticos",
+        "Formador(es)",
+        "Metodologia",
+        "Avaliação",
+        "Observações"
+      ]
+    },
+    {
       "url": "https://castelform.pt/informacaocurso.aspx?id=2&accao=780",
       "id_curso": 2,
       "id_accao": 780,
@@ -1078,6 +1028,60 @@
         "Conteúdos Programáticos",
         "Formador(es)",
         "Metodologia"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=310&accao=758",
+      "id_curso": 310,
+      "id_accao": 758,
+      "titulo": "0757 - Folha de cálculo - funcionalidades avançadas",
+      "area_formacao": "Ciências Informáticas",
+      "duracao_total": "25 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/c310.jpg",
+      "objetivos": [
+        "Executar ligações entre múltiplas folhas de cálculo.",
+        "Efetuar a análise de dados.",
+        "Automatizar ações através da utilização de macros.."
+      ],
+      "conteudos": [
+        "Múltiplas folhas de cálculo Múltiplas folhas Reunião de folhas de cálculo Ligação entre folhas Resumo de dados Inserção de subtotais Destaques Relatórios Análise de dados Análise de dados em tabelas e listas",
+        "Criação, ordenação e filtragem de dados",
+        "Formulários Criação e formatação de uma tabela dinâmica Utilização de totais e subtotais Fórmulas em tabelas dinâmicas Elaboração de gráficos Macros Macros pré",
+        "definidas Macros de personalização das barras de ferramentas Criação e gravação de uma macro Atribuição de uma macro a um botão Execução de uma macro"
+      ],
+      "formadores": [
+        {
+          "nome": "Ricardo Costa",
+          "biografia": "(n. 1978). Licenciado em Economia. A sua experiência profissional na área da Informática tem sido desenvolvida desde 2002 até ao presente. Atualmente desempenho funções com formador e professor na área das TIC e Robótica. Integra a equipa de formadores da Castelform, onde nos últimos 4 anos (entre nov. 2020 e maio de 2024), lecionou 17 ações de Excel Avançado e 5 de PowerBI, envolvendo mais de 500 formandos, tendo obtido avaliação de satisfação 4,9 (excelente), na escala de 1 a 5",
+          "foto_url": "https://castelform.pt/ficheiros/e7679.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "20/01/2026",
+        "fim": "10/02/2026"
+      },
+      "resumo": {
+        "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
+        "local": "Formação a Distância (FAD)"
+      },
+      "apresentacao": null,
+      "metodologia": null,
+      "condicoes_inscricao": null,
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "20/01/2026",
+        "10/02/2026",
+        "20/01/2026",
+        "10/02/2026"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos",
+        "Formador(es)"
       ]
     },
     {

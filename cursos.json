@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-11-06T09:05:18.885360+00:00",
+  "gerado_em": "2025-11-06T15:30:23.101484+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 106,
   "cursos": [
@@ -168,8 +168,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "12/11/2025",
-            "fim": "15/12/2025"
+            "inicio": "20/01/2026",
+            "fim": "10/02/2026"
           },
           "resumo": {
             "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
@@ -181,10 +181,14 @@
           "destinatarios": null,
           "requisitos": null,
           "certificacao": null,
-          "calendario": [],
+          "calendario": [
+            "20/01/2026",
+            "10/02/2026",
+            "20/01/2026",
+            "10/02/2026"
+          ],
           "imagens": [],
           "cards_extraidas": [
-            "Datas de Realização",
             "Área de Formação",
             "Objetivos",
             "Conteúdos Programáticos",
@@ -745,8 +749,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "06/11/2025",
-            "fim": "18/12/2025"
+            "inicio": "06/01/2026",
+            "fim": "19/02/2026"
           },
           "resumo": {
             "horario": "Pós-laboral",
@@ -1164,8 +1168,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "10/11/2025",
-            "fim": "03/12/2025"
+            "inicio": "18/11/2025",
+            "fim": "09/12/2025"
           },
           "resumo": {
             "horario": "Pós-laboral",
@@ -1178,9 +1182,9 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "10/11/2025",
-            "10/11/2025",
-            "03/12/2025"
+            "18/11/2025",
+            "18/11/2025",
+            "09/12/2025"
           ],
           "imagens": [],
           "cards_extraidas": [
