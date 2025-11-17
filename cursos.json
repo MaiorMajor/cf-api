@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2025-11-14T09:14:36.906577+00:00",
+  "gerado_em": "2025-11-17T09:12:38.368577+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 106,
+  "total": 107,
   "cursos": [
     {
       "id_curso": 362,
@@ -1953,6 +1953,21 @@
       "duracao_total": "250.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C142.jpg",
       "conteudos": [],
+      "descricao": null,
+      "inscricoes_abertas": false,
+      "acoes": []
+    },
+    {
+      "id_curso": 377,
+      "titulo": "Operações culturais de implantação, condução, manutenção e colheita da vinha (UFCD 6288)",
+      "area_formacao": "Produção Agrícola e Animal",
+      "duracao_total": "50.0 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/C377.jpg",
+      "conteudos": [
+        "Exigências ecológicas da vinha e fatores edafoclimáticos, favoráveis ao seu desenvolvimentoTécnicas e operações de instalação Preparação do terreno Processos de mobilização do solo e máquinas utilizadas, de acordo com as necessidades de mobilização – surribas, ripagem, gradagem, escarificação, fresagem e outros Tipos de fertilização Exigências edafoclimáticas e necessidades em nutrientes Desequilíbrios nutricionais Principais carências Cálculo de adubação em conformidade com a análise de terra Incorporação de matéria orgânica Fertilização de fundo/aplicação de correctivos Formas e métodos de drenagem e conservação do solo Disponibilidade e qualidade da água e instalação de sistemas de rega Marcação de terreno, compasso de plantação de acordo com o sistema de piquetagem e abertura de covas Plantação de bacelos – sistemas e épocas de plantação Poda de transplantação Tutores, armação e aramação da vinha Retancha Sistemas de propagação da vinha Operação de regulação/afinação e manutenção das máquinas de mobilização do solo, de distribuição de fertilizantes e de plantação Preparação do terreno, fertilização e plantação, segundo o modo de Produção Integrada Preparação do terreno, fertilização e plantação, segundo o Modo de Produção BiológicoTécnicas e operações de condução Sistemas de condução Tipos e épocas de poda Poda de formação Poda de frutificação Podas sanitárias Empa Intervenções em verde - desladroamento, desponta, desfolha e monda de fruto Enxertias, tipo e épocas Máquinas, ferramentas e utensílios de poda e de enxertia Condução da vinha em Produção Integrada Condução da vinha em Modo de Produção BiológicoTécnicas e operações de manutenção Manutenção do solo Fertilização de produção Rega/fertirrigação Monda de frutos Protecção Integrada da vinha (doenças pragas e infestantes",
+        "luta química",
+        "fitofármacos e procedimentos operativos e técnicas de aplicação) Acidentes fisiológicos e meteorológicos Operação de regulação/afinação e manutenção das máquinas de mobilização do solo e de distribuição de adubos e de produtos fitossanitários Manutenção da vinha em Produção Integrada Manutenção da vinha em Modo de Produção Biológico (compostagem)Técnicas e operações de colheita Determinação do momento da colheita, de acordo com os fins a que se destina a produção Métodos para determinação da época de colheita Procedimentos a observar na colheita Medidas profilácticas na conservação da uva, antes, durante e após a colheita Colheita manual e mecânica - máquinas e equipamentos para colheita da uva Normalização Operação de regulação/afinação e manutenção das máquinas e equipamentos utilizados na colheita Procedimentos operativos e técnicas de aplicaçãoTécnicas e operações de armazenamento e conservação, de acordo com o destino da produção Armazenamento e acondicionamento Condições de armazenamento Procedimentos operativos e técnicas de aplicaçãoBoas práticas de segurança, higiene e saúde no trabalho"
+      ],
       "descricao": null,
       "inscricoes_abertas": false,
       "acoes": []
