@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2025-11-18T14:00:39.435104+00:00",
+  "gerado_em": "2025-11-19T09:01:44.070712+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 107,
+  "total": 108,
   "cursos": [
     {
       "id_curso": 362,
@@ -2251,6 +2251,54 @@
       "descricao": null,
       "inscricoes_abertas": false,
       "acoes": []
+    },
+    {
+      "id_curso": 378,
+      "titulo": "Orientações Curriculares para a Educação Pré-Escolar e Orientações Pedagógicas para a Creche",
+      "area_formacao": "Serviços de Apoio a Crianças e Jovens",
+      "duracao_total": "6.0 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/C378.jpg",
+      "conteudos": [],
+      "descricao": null,
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=378&accao=790",
+          "id_curso": 378,
+          "id_accao": 790,
+          "titulo": "Orientações Curriculares para a Educação Pré-Escolar e Orientações Pedagógicas para a Creche",
+          "area_formacao": "Serviços de Apoio a Crianças e Jovens",
+          "duracao_total": "6 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/c0.jpg",
+          "objetivos": [],
+          "conteudos": [],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "19/11/2025",
+            "fim": "20/11/2025"
+          },
+          "resumo": {
+            "horario": "16h00-19h00",
+            "local": "Avenida do Cristo Rei nº784770-203 Joane"
+          },
+          "apresentacao": null,
+          "metodologia": null,
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "19/11/2025",
+            "19/11/2025",
+            "20/11/2025"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Área de Formação",
+            "Formador(es)"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 230,
