@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-11-20T09:08:54.047533+00:00",
+  "gerado_em": "2025-11-20T15:23:07.414284+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 107,
   "cursos": [
@@ -1414,6 +1414,49 @@
       "inscricoes_abertas": true,
       "acoes": [
         {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=18&accao=777",
+          "id_curso": 18,
+          "id_accao": 777,
+          "titulo": "Aplicação de Produtos Fitofarmacêuticos com Equipamento de Pulverização Manual (UFCD 9263)",
+          "area_formacao": "Produção Agrícola e Animal",
+          "duracao_total": "25 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/c18.jpg",
+          "objetivos": [
+            "Atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.."
+          ],
+          "conteudos": [
+            "Sistemas regulamentares Autorização de produtos fitofarmacêuticos Classificação, embalagem e rotulagem Venda, aquisição e uso responsáv Proteção Integrada (PI) Legislação específica e registos Prática da PI e tomada de decisão Aconselhamento agrícola Avaliação comparativa de produtos fitofarmacêuticos e segurança Produção Integrada (PRODI) Princípios da PRODI Regulamentação e registos Caderno de campo Modo de Produção Biológico Princípios gerais Regulamento comunitário relativo ao modo de produção biológico Utilização de produtos fitofarmacêuticos em modo de produção biológico Segurança na utilização de produtos fitofarmacêuticos Aspetos toxicológicos inerentes à sua manipulação e aplicação Noção de dose, concentração e volume de calda Informação e leitura do rótulo Produtos ilegais Equipamentos de proteção individual (EPI) segundo as características do produto fitofarmacêutico Redução do risco na aplicação dos produtos fitofarmacêuticos Inspeção periódica de equipamentos Características do equipamento de aplicação Critérios para a escolha do material de aplicação Técnicas de aplicação, calibração, regulação do material de aplicação e inspeção Arrastamento da calda e dispositivos anti deriva Redução do risco para o ambiente, espécies e organismos não visados Impacte no ambiente do uso de produtos fitofarmacêuticos Risco para as espécies não visadas e medidas de mitigação do risco Segurança na manipulação e preparação de caldas e limpeza de equipamentos de aplicação Gestão de resíduos de embalagens e resíduos de excedentes de produtos fitofarmacêuticos (obsoletos) Segurança alimentar Limite máximo de resíduos Intervalo de segurança Exposição do consumidor e cumprimento das indicações do rótulo Armazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticos Condições e características dos locais de armazenamento Sinalização, perigos e segurança durante o armazenamento Perigos e segurança no transporte Acidentes com produtos fitofarmacêuticos Prevenção de acidentes Acidentes de trabalho Sintomas de intoxicação e medidas de primeiros socorros"
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "07/01/2026",
+            "fim": "17/02/2026"
+          },
+          "resumo": {
+            "horario": "Pós-laboral",
+            "local": "Braga - Dume"
+          },
+          "apresentacao": null,
+          "metodologia": "Ativa, centrada no participante, utilizando técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo.",
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "07/01/2026",
+            "07/01/2026",
+            "17/02/2026"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Área de Formação",
+            "Objetivos",
+            "Conteúdos Programáticos",
+            "Metodologia",
+            "Observações"
+          ]
+        },
+        {
           "url": "https://castelform.pt/informacaocurso.aspx?id=18&accao=788",
           "id_curso": 18,
           "id_accao": 788,
@@ -1455,8 +1498,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "07/01/2026",
-            "fim": "21/01/2026"
+            "inicio": "26/01/2026",
+            "fim": "10/02/2026"
           },
           "resumo": {
             "horario": "Pós-laboral",
@@ -1468,9 +1511,7 @@
           "destinatarios": null,
           "requisitos": null,
           "certificacao": null,
-          "calendario": [
-            "7,9,12,14,16,17 de janeiro. 5 dias com 3,5 horas e 1 sábado com 7 horas."
-          ],
+          "calendario": [],
           "imagens": [],
           "cards_extraidas": [
             "Datas de Realização",
@@ -1481,49 +1522,6 @@
             "Conteúdos Programáticos",
             "Formador(es)",
             "Metodologia"
-          ]
-        },
-        {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=18&accao=777",
-          "id_curso": 18,
-          "id_accao": 777,
-          "titulo": "Aplicação de Produtos Fitofarmacêuticos com Equipamento de Pulverização Manual (UFCD 9263)",
-          "area_formacao": "Produção Agrícola e Animal",
-          "duracao_total": "25 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c18.jpg",
-          "objetivos": [
-            "Atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.."
-          ],
-          "conteudos": [
-            "Sistemas regulamentares Autorização de produtos fitofarmacêuticos Classificação, embalagem e rotulagem Venda, aquisição e uso responsáv Proteção Integrada (PI) Legislação específica e registos Prática da PI e tomada de decisão Aconselhamento agrícola Avaliação comparativa de produtos fitofarmacêuticos e segurança Produção Integrada (PRODI) Princípios da PRODI Regulamentação e registos Caderno de campo Modo de Produção Biológico Princípios gerais Regulamento comunitário relativo ao modo de produção biológico Utilização de produtos fitofarmacêuticos em modo de produção biológico Segurança na utilização de produtos fitofarmacêuticos Aspetos toxicológicos inerentes à sua manipulação e aplicação Noção de dose, concentração e volume de calda Informação e leitura do rótulo Produtos ilegais Equipamentos de proteção individual (EPI) segundo as características do produto fitofarmacêutico Redução do risco na aplicação dos produtos fitofarmacêuticos Inspeção periódica de equipamentos Características do equipamento de aplicação Critérios para a escolha do material de aplicação Técnicas de aplicação, calibração, regulação do material de aplicação e inspeção Arrastamento da calda e dispositivos anti deriva Redução do risco para o ambiente, espécies e organismos não visados Impacte no ambiente do uso de produtos fitofarmacêuticos Risco para as espécies não visadas e medidas de mitigação do risco Segurança na manipulação e preparação de caldas e limpeza de equipamentos de aplicação Gestão de resíduos de embalagens e resíduos de excedentes de produtos fitofarmacêuticos (obsoletos) Segurança alimentar Limite máximo de resíduos Intervalo de segurança Exposição do consumidor e cumprimento das indicações do rótulo Armazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticos Condições e características dos locais de armazenamento Sinalização, perigos e segurança durante o armazenamento Perigos e segurança no transporte Acidentes com produtos fitofarmacêuticos Prevenção de acidentes Acidentes de trabalho Sintomas de intoxicação e medidas de primeiros socorros"
-          ],
-          "formadores": [],
-          "detalhe": {
-            "inicio": "27/01/2026",
-            "fim": "12/02/2026"
-          },
-          "resumo": {
-            "horario": "Pós-laboral",
-            "local": "Braga (local a confirmar)"
-          },
-          "apresentacao": null,
-          "metodologia": "Ativa, centrada no participante, utilizando técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo.",
-          "condicoes_inscricao": null,
-          "destinatarios": null,
-          "requisitos": null,
-          "certificacao": null,
-          "calendario": [
-            "27/01/2026",
-            "27/01/2026",
-            "12/02/2026"
-          ],
-          "imagens": [],
-          "cards_extraidas": [
-            "Área de Formação",
-            "Objetivos",
-            "Conteúdos Programáticos",
-            "Metodologia",
-            "Observações"
           ]
         }
       ]
