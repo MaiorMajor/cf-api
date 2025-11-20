@@ -1,50 +1,8 @@
 {
-  "gerado_em": "2025-11-19T09:00:10.102205+00:00",
+  "gerado_em": "2025-11-20T09:07:28.273381+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 21,
+  "total": 20,
   "acoes": [
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=378&accao=790",
-      "id_curso": 378,
-      "id_accao": 790,
-      "titulo": "Orientações Curriculares para a Educação Pré-Escolar e Orientações Pedagógicas para a Creche",
-      "area_formacao": "Serviços de Apoio a Crianças e Jovens",
-      "duracao_total": "6 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/c0.jpg",
-      "objetivos": [],
-      "conteudos": [],
-      "formadores": [
-        {
-          "nome": "Ana Luísa da Silva Braga Araújo",
-          "biografia": "",
-          "foto_url": "https://castelform.pt/ficheiros/e0.jpg"
-        }
-      ],
-      "detalhe": {
-        "inicio": "19/11/2025",
-        "fim": "20/11/2025"
-      },
-      "resumo": {
-        "horario": "16h00-19h00",
-        "local": "Avenida do Cristo Rei nº784770-203 Joane"
-      },
-      "apresentacao": null,
-      "metodologia": null,
-      "condicoes_inscricao": null,
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "19/11/2025",
-        "19/11/2025",
-        "20/11/2025"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Área de Formação",
-        "Formador(es)"
-      ]
-    },
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=368&accao=769",
       "id_curso": 368,
@@ -360,7 +318,7 @@
       },
       "resumo": {
         "horario": "Pós-laboral",
-        "local": "JF de Cabreiros - Braga"
+        "local": "Braga - Dume"
       },
       "apresentacao": "Nos termos do artigo 18.º, Lei n.º 26/2013, de 11 de abril, todos aqueles que necessitam de aplicar estes PF’s devem dispor de certificado da ação de formação em Aplicação de Produtos Fitofarmacêuticos, passando assim a dispor da habilitação de aplicador.Com esta ação pretende-se atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.",
       "metodologia": "Ativa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo, podendo envolver uma visita de estudo.",
@@ -705,10 +663,10 @@
       ]
     },
     {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=16&accao=788",
-      "id_curso": 16,
+      "url": "https://castelform.pt/informacaocurso.aspx?id=18&accao=788",
+      "id_curso": 18,
       "id_accao": 788,
-      "titulo": "Atualização de Aplicação de Produtos Fitofarmacêuticos (AAPF) - (UFCD 9261)",
+      "titulo": "Aplicação de Produtos Fitofarmacêuticos com Equipamentos de Pulverização Manual (UFCD 9263)",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "25 horas",
       "imagem_url": "https://castelform.pt/ficheiros/a788.jpg",
@@ -757,7 +715,7 @@
       },
       "resumo": {
         "horario": "Pós-laboral",
-        "local": "Braga (local a confirmar)"
+        "local": "JF de Cabreiros - Braga"
       },
       "apresentacao": "Nos termos do artigo 18.º, Lei n.º 26/2013, de 11 de abril, todos aqueles que necessitam de aplicar estes PF’s devem dispor de certificado da ação de formação em Aplicação de Produtos Fitofarmacêuticos, passando assim a dispor da habilitação de aplicador.Com esta ação pretende-se atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.",
       "metodologia": "Ativa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo, podendo envolver uma visita de estudo.",
@@ -765,7 +723,9 @@
       "destinatarios": null,
       "requisitos": null,
       "certificacao": null,
-      "calendario": [],
+      "calendario": [
+        "7,9,12,14,16,17 de janeiro. 5 dias com 3,5 horas e 1 sábado com 7 horas."
+      ],
       "imagens": [],
       "cards_extraidas": [
         "Datas de Realização",

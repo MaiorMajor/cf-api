@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2025-11-19T09:01:44.070712+00:00",
+  "gerado_em": "2025-11-20T09:08:54.047533+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 108,
+  "total": 107,
   "cursos": [
     {
       "id_curso": 362,
@@ -1414,6 +1414,76 @@
       "inscricoes_abertas": true,
       "acoes": [
         {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=18&accao=788",
+          "id_curso": 18,
+          "id_accao": 788,
+          "titulo": "Aplicação de Produtos Fitofarmacêuticos com Equipamentos de Pulverização Manual (UFCD 9263)",
+          "area_formacao": "Produção Agrícola e Animal",
+          "duracao_total": "25 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/a788.jpg",
+          "objetivos": [
+            "Atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.."
+          ],
+          "conteudos": [
+            "Sistemas regulamentares",
+            "Autorização de produtos fitofarmacêuticos",
+            "Classificação, embalagem e rotulagem",
+            "Venda, aquisição e uso responsávelProteção Integrada (PI)",
+            "Legislação específica e registos",
+            "Prática da PI e tomada de decisão",
+            "Aconselhamento agrícola",
+            "Avaliação comparativa de produtos fitofarmacêuticos e segurançaProdução Integrada (PRODI)",
+            "Princípios da PRODI",
+            "Regulamentação e registos",
+            "Caderno de campoModo de Produção Biológico",
+            "Princípios gerais",
+            "Regulamento comunitário relativo ao modo de produção biológico",
+            "Utilização de produtos fitofarmacêuticos em modo de produção biológicoSegurança na utilização de produtos fitofarmacêuticos",
+            "Aspetos toxicológicos inerentes à sua manipulação e aplicação",
+            "Noção de dose, concentração e volume de calda",
+            "Informação e leitura do rótulo",
+            "Produtos ilegais",
+            "Equipamentos de proteção individual (EPI) segundo as características do produto fitofarmacêuticoRedução do risco na aplicação dos produtos fitofarmacêuticos",
+            "Inspeção periódica de equipamentos",
+            "Características do equipamento de aplicação",
+            "Critérios para a escolha do material de aplicação",
+            "Técnicas de aplicação, calibração, regulação do material de aplicação e inspeção",
+            "Arrastamento da calda e dispositivos anti deriva",
+            "Redução do risco para o ambiente, espécies e organismos não visados",
+            "Impacte no ambiente do uso de produtos fitofarmacêuticos",
+            "Risco para as espécies não visadas e medidas de mitigação do riscoSegurança na manipulação e preparação de caldas e limpeza de equipamentos de aplicaçãoGestão de resíduos de embalagens e resíduos de excedentes de produtos fitofarmacêuticos (obsoletos)Segurança alimentarLimite máximo de resíduosIntervalo de segurançaExposição do consumidor e cumprimento das indicações do rótuloArmazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticosCondições e características dos locais de armazenamentoSinalização, perigos e segurança durante o armazenamentoPerigos e segurança no transporteAcidentes com produtos fitofarmacêuticosPrevenção de acidentesAcidentes de trabalhoSintomas de intoxicação e medidas de primeiros socorros"
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "07/01/2026",
+            "fim": "21/01/2026"
+          },
+          "resumo": {
+            "horario": "Pós-laboral",
+            "local": "JF de Cabreiros - Braga"
+          },
+          "apresentacao": "Nos termos do artigo 18.º, Lei n.º 26/2013, de 11 de abril, todos aqueles que necessitam de aplicar estes PF’s devem dispor de certificado da ação de formação em Aplicação de Produtos Fitofarmacêuticos, passando assim a dispor da habilitação de aplicador.Com esta ação pretende-se atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.",
+          "metodologia": "Ativa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo, podendo envolver uma visita de estudo.",
+          "condicoes_inscricao": "Formação direcionada para candidatos/as que cuja data de validade do cartão de aplicador, obtido anteriormente pela via da formação, esteja a caducar (data de validade do cartão é de 10 anos - recomendamos que a atualização seja feita com pelo menos 1 ano de antecedência da data limite da validade).Habilitação Literária: Escolaridade mínima obrigatóriaPrecedência: Ser detentor de curso de Aplicação de Produtos Fitofarmacêuticos homologado pelo Ministério da Agricultura.",
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "7,9,12,14,16,17 de janeiro. 5 dias com 3,5 horas e 1 sábado com 7 horas."
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Datas de Realização",
+            "Apresentação",
+            "Condições de Inscrição",
+            "Área de Formação",
+            "Objetivos",
+            "Conteúdos Programáticos",
+            "Formador(es)",
+            "Metodologia"
+          ]
+        },
+        {
           "url": "https://castelform.pt/informacaocurso.aspx?id=18&accao=777",
           "id_curso": 18,
           "id_accao": 777,
@@ -1587,7 +1657,7 @@
           },
           "resumo": {
             "horario": "Pós-laboral",
-            "local": "JF de Cabreiros - Braga"
+            "local": "Braga - Dume"
           },
           "apresentacao": "Nos termos do artigo 18.º, Lei n.º 26/2013, de 11 de abril, todos aqueles que necessitam de aplicar estes PF’s devem dispor de certificado da ação de formação em Aplicação de Produtos Fitofarmacêuticos, passando assim a dispor da habilitação de aplicador.Com esta ação pretende-se atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.",
           "metodologia": "Ativa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo, podendo envolver uma visita de estudo.",
@@ -1745,74 +1815,6 @@
             "Formador(es)",
             "Metodologia",
             "Observações"
-          ]
-        },
-        {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=16&accao=788",
-          "id_curso": 16,
-          "id_accao": 788,
-          "titulo": "Atualização de Aplicação de Produtos Fitofarmacêuticos (AAPF) - (UFCD 9261)",
-          "area_formacao": "Produção Agrícola e Animal",
-          "duracao_total": "25 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/a788.jpg",
-          "objetivos": [
-            "Atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.."
-          ],
-          "conteudos": [
-            "Sistemas regulamentares",
-            "Autorização de produtos fitofarmacêuticos",
-            "Classificação, embalagem e rotulagem",
-            "Venda, aquisição e uso responsávelProteção Integrada (PI)",
-            "Legislação específica e registos",
-            "Prática da PI e tomada de decisão",
-            "Aconselhamento agrícola",
-            "Avaliação comparativa de produtos fitofarmacêuticos e segurançaProdução Integrada (PRODI)",
-            "Princípios da PRODI",
-            "Regulamentação e registos",
-            "Caderno de campoModo de Produção Biológico",
-            "Princípios gerais",
-            "Regulamento comunitário relativo ao modo de produção biológico",
-            "Utilização de produtos fitofarmacêuticos em modo de produção biológicoSegurança na utilização de produtos fitofarmacêuticos",
-            "Aspetos toxicológicos inerentes à sua manipulação e aplicação",
-            "Noção de dose, concentração e volume de calda",
-            "Informação e leitura do rótulo",
-            "Produtos ilegais",
-            "Equipamentos de proteção individual (EPI) segundo as características do produto fitofarmacêuticoRedução do risco na aplicação dos produtos fitofarmacêuticos",
-            "Inspeção periódica de equipamentos",
-            "Características do equipamento de aplicação",
-            "Critérios para a escolha do material de aplicação",
-            "Técnicas de aplicação, calibração, regulação do material de aplicação e inspeção",
-            "Arrastamento da calda e dispositivos anti deriva",
-            "Redução do risco para o ambiente, espécies e organismos não visados",
-            "Impacte no ambiente do uso de produtos fitofarmacêuticos",
-            "Risco para as espécies não visadas e medidas de mitigação do riscoSegurança na manipulação e preparação de caldas e limpeza de equipamentos de aplicaçãoGestão de resíduos de embalagens e resíduos de excedentes de produtos fitofarmacêuticos (obsoletos)Segurança alimentarLimite máximo de resíduosIntervalo de segurançaExposição do consumidor e cumprimento das indicações do rótuloArmazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticosCondições e características dos locais de armazenamentoSinalização, perigos e segurança durante o armazenamentoPerigos e segurança no transporteAcidentes com produtos fitofarmacêuticosPrevenção de acidentesAcidentes de trabalhoSintomas de intoxicação e medidas de primeiros socorros"
-          ],
-          "formadores": [],
-          "detalhe": {
-            "inicio": "07/01/2026",
-            "fim": "21/01/2026"
-          },
-          "resumo": {
-            "horario": "Pós-laboral",
-            "local": "Braga (local a confirmar)"
-          },
-          "apresentacao": "Nos termos do artigo 18.º, Lei n.º 26/2013, de 11 de abril, todos aqueles que necessitam de aplicar estes PF’s devem dispor de certificado da ação de formação em Aplicação de Produtos Fitofarmacêuticos, passando assim a dispor da habilitação de aplicador.Com esta ação pretende-se atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.",
-          "metodologia": "Ativa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo, podendo envolver uma visita de estudo.",
-          "condicoes_inscricao": "Formação direcionada para candidatos/as que cuja data de validade do cartão de aplicador, obtido anteriormente pela via da formação, esteja a caducar (data de validade do cartão é de 10 anos - recomendamos que a atualização seja feita com pelo menos 1 ano de antecedência da data limite da validade).Habilitação Literária: Escolaridade mínima obrigatóriaPrecedência: Ser detentor de curso de Aplicação de Produtos Fitofarmacêuticos homologado pelo Ministério da Agricultura.",
-          "destinatarios": null,
-          "requisitos": null,
-          "certificacao": null,
-          "calendario": [],
-          "imagens": [],
-          "cards_extraidas": [
-            "Datas de Realização",
-            "Apresentação",
-            "Condições de Inscrição",
-            "Área de Formação",
-            "Objetivos",
-            "Conteúdos Programáticos",
-            "Formador(es)",
-            "Metodologia"
           ]
         }
       ]
@@ -2251,54 +2253,6 @@
       "descricao": null,
       "inscricoes_abertas": false,
       "acoes": []
-    },
-    {
-      "id_curso": 378,
-      "titulo": "Orientações Curriculares para a Educação Pré-Escolar e Orientações Pedagógicas para a Creche",
-      "area_formacao": "Serviços de Apoio a Crianças e Jovens",
-      "duracao_total": "6.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C378.jpg",
-      "conteudos": [],
-      "descricao": null,
-      "inscricoes_abertas": true,
-      "acoes": [
-        {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=378&accao=790",
-          "id_curso": 378,
-          "id_accao": 790,
-          "titulo": "Orientações Curriculares para a Educação Pré-Escolar e Orientações Pedagógicas para a Creche",
-          "area_formacao": "Serviços de Apoio a Crianças e Jovens",
-          "duracao_total": "6 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c0.jpg",
-          "objetivos": [],
-          "conteudos": [],
-          "formadores": [],
-          "detalhe": {
-            "inicio": "19/11/2025",
-            "fim": "20/11/2025"
-          },
-          "resumo": {
-            "horario": "16h00-19h00",
-            "local": "Avenida do Cristo Rei nº784770-203 Joane"
-          },
-          "apresentacao": null,
-          "metodologia": null,
-          "condicoes_inscricao": null,
-          "destinatarios": null,
-          "requisitos": null,
-          "certificacao": null,
-          "calendario": [
-            "19/11/2025",
-            "19/11/2025",
-            "20/11/2025"
-          ],
-          "imagens": [],
-          "cards_extraidas": [
-            "Área de Formação",
-            "Formador(es)"
-          ]
-        }
-      ]
     },
     {
       "id_curso": 230,
