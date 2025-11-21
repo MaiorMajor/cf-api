@@ -1,47 +1,8 @@
 {
-  "gerado_em": "2025-11-20T15:21:44.566007+00:00",
+  "gerado_em": "2025-11-21T09:15:46.308428+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 20,
   "acoes": [
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=368&accao=769",
-      "id_curso": 368,
-      "id_accao": 769,
-      "titulo": "0755 - Processador de texto - funcionalidades avançadas",
-      "area_formacao": "Ciências Informáticas",
-      "duracao_total": "25 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a769.jpg",
-      "objetivos": [
-        "Automatizar tarefas de edição e elaboração de documentos.Efectuar impressões em série.Elaborar e utilizar macros e formulários.."
-      ],
-      "conteudos": [
-        "Modelos e assistentes Criação de modelos Modelos pré",
-        "definidos Modelo normal Criação de documentos com recurso a assistentesImpressão em série Documento principal Documento de dadosFormulários Criação de campos de formulários Preenchimento de formuláriosMacros Criação Gravação Execução"
-      ],
-      "formadores": [],
-      "detalhe": {
-        "inicio": "20/11/2025",
-        "fim": "11/12/2025"
-      },
-      "resumo": {
-        "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
-        "local": "Formação a Distância (FAD)"
-      },
-      "apresentacao": null,
-      "metodologia": null,
-      "condicoes_inscricao": null,
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [],
-      "imagens": [],
-      "cards_extraidas": [
-        "Datas de Realização",
-        "Área de Formação",
-        "Objetivos",
-        "Conteúdos Programáticos"
-      ]
-    },
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=365&accao=759",
       "id_curso": 365,
@@ -687,7 +648,7 @@
       },
       "apresentacao": null,
       "metodologia": "Ativa, centrada no participante, utilizando técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo.",
-      "condicoes_inscricao": null,
+      "condicoes_inscricao": "Idade igual ou superior a 16 anos. Situação Profissional:Activos (trabalhadores por conta própria, trabalhadores por conta de outrem, desempregados) que exerçam ou venham a exercer actividades de aplicação de fitofármacos.",
       "destinatarios": null,
       "requisitos": null,
       "certificacao": null,
@@ -698,6 +659,7 @@
       ],
       "imagens": [],
       "cards_extraidas": [
+        "Condições de Inscrição",
         "Área de Formação",
         "Objetivos",
         "Conteúdos Programáticos",
@@ -823,6 +785,45 @@
         "Conteúdos Programáticos",
         "Formador(es)",
         "Metodologia"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=368&accao=769",
+      "id_curso": 368,
+      "id_accao": 769,
+      "titulo": "0755 - Processador de texto - funcionalidades avançadas",
+      "area_formacao": "Ciências Informáticas",
+      "duracao_total": "25 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a769.jpg",
+      "objetivos": [
+        "Automatizar tarefas de edição e elaboração de documentos.Efectuar impressões em série.Elaborar e utilizar macros e formulários.."
+      ],
+      "conteudos": [
+        "Modelos e assistentes Criação de modelos Modelos pré",
+        "definidos Modelo normal Criação de documentos com recurso a assistentesImpressão em série Documento principal Documento de dadosFormulários Criação de campos de formulários Preenchimento de formuláriosMacros Criação Gravação Execução"
+      ],
+      "formadores": [],
+      "detalhe": {
+        "inicio": "19/01/2026",
+        "fim": "09/02/2026"
+      },
+      "resumo": {
+        "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
+        "local": "Formação a Distância (FAD)"
+      },
+      "apresentacao": null,
+      "metodologia": null,
+      "condicoes_inscricao": null,
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [],
+      "imagens": [],
+      "cards_extraidas": [
+        "Datas de Realização",
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos"
       ]
     },
     {

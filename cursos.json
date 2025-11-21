@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-11-20T15:23:07.414284+00:00",
+  "gerado_em": "2025-11-21T09:17:10.747763+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 107,
   "cursos": [
@@ -113,8 +113,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "20/11/2025",
-            "fim": "11/12/2025"
+            "inicio": "19/01/2026",
+            "fim": "09/02/2026"
           },
           "resumo": {
             "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
@@ -1438,7 +1438,7 @@
           },
           "apresentacao": null,
           "metodologia": "Ativa, centrada no participante, utilizando técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo.",
-          "condicoes_inscricao": null,
+          "condicoes_inscricao": "Idade igual ou superior a 16 anos. Situação Profissional:Activos (trabalhadores por conta própria, trabalhadores por conta de outrem, desempregados) que exerçam ou venham a exercer actividades de aplicação de fitofármacos.",
           "destinatarios": null,
           "requisitos": null,
           "certificacao": null,
@@ -1449,6 +1449,7 @@
           ],
           "imagens": [],
           "cards_extraidas": [
+            "Condições de Inscrição",
             "Área de Formação",
             "Objetivos",
             "Conteúdos Programáticos",
