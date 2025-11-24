@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-11-24T09:10:35.968307+00:00",
+  "gerado_em": "2025-11-24T10:00:25.533590+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 107,
   "cursos": [
@@ -247,62 +247,6 @@
       "inscricoes_abertas": true,
       "acoes": [
         {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=365&accao=759",
-          "id_curso": 365,
-          "id_accao": 759,
-          "titulo": "Power BI",
-          "area_formacao": "Ciências Informáticas",
-          "duracao_total": "25 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/a759.jpg",
-          "objetivos": [
-            "-Transformar dados e criar métricas.-Interpretar a linguagem Data Analysis Expressions (DAX).."
-          ],
-          "conteudos": [
-            "Introdução à transformação de dados",
-            "Transformação de dados",
-            "Função Calculate",
-            "Relações eficazmente",
-            "Medidas semi",
-            "aditivas",
-            "Introdução ao DAX no Power BI Desktop",
-            "Inteligência de Tempo e Medidas em DAX",
-            "Introdução à otimização de desempenho",
-            "Desempenho de medidas, relacionamentos e visuais",
-            "Variáveis para melhorar o desempenho e a resolução de problemas",
-            "Redução de cardinalidade",
-            "Otimização dos modelos DirectQuery com armazenamento ao nível da tabela",
-            "Criação de gestão de agregações"
-          ],
-          "formadores": [],
-          "detalhe": {
-            "inicio": "24/11/2025",
-            "fim": "22/12/2025"
-          },
-          "resumo": {
-            "horario": "19:30-23:00",
-            "local": "Formação a Distância (FAD)"
-          },
-          "apresentacao": null,
-          "metodologia": null,
-          "condicoes_inscricao": null,
-          "destinatarios": null,
-          "requisitos": null,
-          "certificacao": null,
-          "calendario": [
-            "24/11/2025",
-            "22/12/2025",
-            "24/11/2025",
-            "22/12/2025"
-          ],
-          "imagens": [],
-          "cards_extraidas": [
-            "Área de Formação",
-            "Objetivos",
-            "Conteúdos Programáticos",
-            "Formador(es)"
-          ]
-        },
-        {
           "url": "https://castelform.pt/informacaocurso.aspx?id=365&accao=766",
           "id_curso": 365,
           "id_accao": 766,
@@ -349,6 +293,62 @@
             "26/01/2026",
             "05/01/2026",
             "26/01/2026"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Área de Formação",
+            "Objetivos",
+            "Conteúdos Programáticos",
+            "Formador(es)"
+          ]
+        },
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=365&accao=759",
+          "id_curso": 365,
+          "id_accao": 759,
+          "titulo": "Power BI",
+          "area_formacao": "Ciências Informáticas",
+          "duracao_total": "25 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/a759.jpg",
+          "objetivos": [
+            "-Transformar dados e criar métricas.-Interpretar a linguagem Data Analysis Expressions (DAX).."
+          ],
+          "conteudos": [
+            "Introdução à transformação de dados",
+            "Transformação de dados",
+            "Função Calculate",
+            "Relações eficazmente",
+            "Medidas semi",
+            "aditivas",
+            "Introdução ao DAX no Power BI Desktop",
+            "Inteligência de Tempo e Medidas em DAX",
+            "Introdução à otimização de desempenho",
+            "Desempenho de medidas, relacionamentos e visuais",
+            "Variáveis para melhorar o desempenho e a resolução de problemas",
+            "Redução de cardinalidade",
+            "Otimização dos modelos DirectQuery com armazenamento ao nível da tabela",
+            "Criação de gestão de agregações"
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "10/03/2026",
+            "fim": "31/03/2026"
+          },
+          "resumo": {
+            "horario": "19:30-23:00",
+            "local": "Formação a Distância (FAD)"
+          },
+          "apresentacao": null,
+          "metodologia": null,
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "10/03/2026",
+            "31/03/2026",
+            "10/03/2026",
+            "31/03/2026"
           ],
           "imagens": [],
           "cards_extraidas": [
