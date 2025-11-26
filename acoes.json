@@ -1,51 +1,8 @@
 {
-  "gerado_em": "2025-11-25T09:06:58.875658+00:00",
+  "gerado_em": "2025-11-26T09:01:44.234554+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 22,
   "acoes": [
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=367&accao=768",
-      "id_curso": 367,
-      "id_accao": 768,
-      "titulo": "0754 - Processador de texto",
-      "area_formacao": "Ciências Informáticas",
-      "duracao_total": "50 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a768.jpg",
-      "objetivos": [
-        "Elaborar, editar e imprimir documentos.Introduzir elementos gráficos em documentos.Elaborar e editar documentos longos.."
-      ],
-      "conteudos": [
-        "Processador de texto – introdução Janela principal Inserção de texto (teclado) Modos de visualização básicos AjudaOperações básicas Criação, gravação e abertura de documentos Seleção de texto Anulação e repetição de açõesFormatações Formatações globais do documento Formatação do tipo de letra Formatações de parágrafo Utilização das tabelas pré",
-        "definidas Criação de listas Limites e sombreadosEdição e revisão de texto Múltiplos documentos abertos Cópia do texto Verificação ortográfica Comando “localizar e substituir”Impressão Impressão de documentos, envelopes e etiquetasTabulações, tabelas e colunas Definir tabulações Criação, modificação e formatação de tabelas Divisão do texto em colunasMelhorar o aspeto visual Símbolos Caixas de texto Desenho, importação de imagens, inserção de formas automáticasDocumentos longos Quebras de página e de seleção Cabeçalhos e rodapés EstilosPercorrer o documento rapidamente Divisão do ecrã Marcadores e referências cruzadas Legendas e notas de rodapé Criação de índice Destaques Visualização do mapa de um documento Junção de documentos"
-      ],
-      "formadores": [],
-      "detalhe": {
-        "inicio": "25/11/2025",
-        "fim": "13/01/2026"
-      },
-      "resumo": {
-        "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
-        "local": "Formação a Distância (FAD)"
-      },
-      "apresentacao": null,
-      "metodologia": null,
-      "condicoes_inscricao": null,
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "25/11/2025",
-        "13/01/2026",
-        "25/11/2025",
-        "13/01/2026"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Área de Formação",
-        "Objetivos",
-        "Conteúdos Programáticos"
-      ]
-    },
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=16&accao=782",
       "id_curso": 16,
@@ -1207,6 +1164,49 @@
         "Metodologia",
         "Avaliação",
         "Observações"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=367&accao=768",
+      "id_curso": 367,
+      "id_accao": 768,
+      "titulo": "0754 - Processador de texto",
+      "area_formacao": "Ciências Informáticas",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a768.jpg",
+      "objetivos": [
+        "Elaborar, editar e imprimir documentos.Introduzir elementos gráficos em documentos.Elaborar e editar documentos longos.."
+      ],
+      "conteudos": [
+        "Processador de texto – introdução Janela principal Inserção de texto (teclado) Modos de visualização básicos AjudaOperações básicas Criação, gravação e abertura de documentos Seleção de texto Anulação e repetição de açõesFormatações Formatações globais do documento Formatação do tipo de letra Formatações de parágrafo Utilização das tabelas pré",
+        "definidas Criação de listas Limites e sombreadosEdição e revisão de texto Múltiplos documentos abertos Cópia do texto Verificação ortográfica Comando “localizar e substituir”Impressão Impressão de documentos, envelopes e etiquetasTabulações, tabelas e colunas Definir tabulações Criação, modificação e formatação de tabelas Divisão do texto em colunasMelhorar o aspeto visual Símbolos Caixas de texto Desenho, importação de imagens, inserção de formas automáticasDocumentos longos Quebras de página e de seleção Cabeçalhos e rodapés EstilosPercorrer o documento rapidamente Divisão do ecrã Marcadores e referências cruzadas Legendas e notas de rodapé Criação de índice Destaques Visualização do mapa de um documento Junção de documentos"
+      ],
+      "formadores": [],
+      "detalhe": {
+        "inicio": "03/03/2026",
+        "fim": "14/04/2026"
+      },
+      "resumo": {
+        "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
+        "local": "Formação a Distância (FAD)"
+      },
+      "apresentacao": null,
+      "metodologia": null,
+      "condicoes_inscricao": null,
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "03/03/2026",
+        "14/04/2026",
+        "03/03/2026",
+        "14/04/2026"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos"
       ]
     },
     {
