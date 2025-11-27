@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-11-26T09:03:09.880028+00:00",
+  "gerado_em": "2025-11-27T09:07:33.180895+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 107,
   "cursos": [
@@ -1415,8 +1415,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "21/01/2026",
-            "fim": "21/02/2026"
+            "inicio": "17/02/2026",
+            "fim": "17/03/2026"
           },
           "resumo": {
             "horario": "Pós-Laboral (18:30-22:30 Sábado - 09:00-17:00)",
@@ -1480,7 +1480,7 @@
           "formadores": [],
           "detalhe": {
             "inicio": "07/01/2026",
-            "fim": "17/02/2026"
+            "fim": "19/01/2026"
           },
           "resumo": {
             "horario": "Pós-laboral",
@@ -1493,16 +1493,16 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "07/01/2026",
-            "07/01/2026",
-            "17/02/2026"
+            "Semana 107-01-2026 - 4ª feira - 18:30 - 22:30 - 4.0 H09-01-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 212-01-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H14-01-2026 - 4ª feira - 09:00 - 12:30 - 3.5 H17-01-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 319-01-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
           ],
           "imagens": [],
           "cards_extraidas": [
+            "Datas de Realização",
             "Condições de Inscrição",
             "Área de Formação",
             "Objetivos",
             "Conteúdos Programáticos",
+            "Formador(es)",
             "Metodologia",
             "Observações"
           ]
@@ -1634,7 +1634,7 @@
           "formadores": [],
           "detalhe": {
             "inicio": "02/12/2025",
-            "fim": "19/12/2025"
+            "fim": "16/12/2025"
           },
           "resumo": {
             "horario": "Pós-laboral",
@@ -1646,9 +1646,7 @@
           "destinatarios": null,
           "requisitos": null,
           "certificacao": null,
-          "calendario": [
-            "Semana 12/12/2025 - 3ª feira - 19:00-22:30 - 3.5 HSemana 208/12/2025 - 2ª feira - 19:00-22:30 - 3.5 H09/12/2025 - 3ª feira - 19:00-22:30 - 3.5 H10/12/2025 - 4ª feira - 19:00-22:30 - 3.5 HSemana 316/12/2025 - 3ª feira - 19:00-22:30 - 3.5 H17/12/2025 - 4ª feira - 19:00-22:30 - 3.5 H19/12/2025 - 6ª feira - 18:30-22:30 - 4 H"
-          ],
+          "calendario": [],
           "imagens": [],
           "cards_extraidas": [
             "Datas de Realização",
