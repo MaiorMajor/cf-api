@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2025-11-28T09:04:51.083789+00:00",
+  "gerado_em": "2025-12-02T09:15:46.109483+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 107,
+  "total": 108,
   "cursos": [
     {
       "id_curso": 362,
@@ -233,6 +233,65 @@
       "descricao": null,
       "inscricoes_abertas": false,
       "acoes": []
+    },
+    {
+      "id_curso": 379,
+      "titulo": "10794 - Programação avançada com Python",
+      "area_formacao": "Ciências Informáticas",
+      "duracao_total": "50.0 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/C379.jpg",
+      "conteudos": [],
+      "descricao": null,
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=379&accao=794",
+          "id_curso": 379,
+          "id_accao": 794,
+          "titulo": "10794 - Programação avançada com Python",
+          "area_formacao": "Ciências Informáticas",
+          "duracao_total": "50 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/a794.jpg",
+          "objetivos": [
+            "Capacitar os formandos a criar soluções de alta complexidade utilizando Python, aprofundando conhecimentos em estruturas avançadas da linguagem, boas práticas de desenvolvimento, programação orientada a objetos, integração com bibliotecas especializadas e construção de aplicações robustas, eficientes e escaláveis para diferentes contextos profissionais.."
+          ],
+          "conteudos": [
+            "Tratamento idiomático de dados Comparação de operadores em cadeia Indentação Falsy Truthy Equivalente ao operador ternário Palavra reservada “in” Uso do retorno na avaliação de expressões Formatação de strings Expressões LambdaClasses e Objetos Criação de classes Privados vs públicos Herança Métodos estáticosSerialization e deserialization de objetos em PythonTeste, registo e depuraçãoCriação de livrarias e distribuição de programas em PythonÂmbito em funçõesMetaprogramação, programação dinâmica Metaclasses Código a gerar códigoIteradores, Geradores e Co",
+            "rotinas Método iter() Looping Como criar iteradores Geradores Método __next_()Desenvolvimento para a web em Python Django ou Flask Criação de webservices Acesso a dado"
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "09/12/2025",
+            "fim": "17/02/2026"
+          },
+          "resumo": {
+            "horario": "Pós laboral das 19h30-22h30",
+            "local": "Formação a Distância (FAD)"
+          },
+          "apresentacao": "Prepare-se para o Futuro da Análise de Dados! Neste curso prático e dinâmico, fica capacitado a manipular e transformar dados de forma eficiente utilizando a poderosa linguagem Python. O curso aborda desde a importação de dados até a criação de variáveis personalizadas, passando por operações de limpeza e transformação.",
+          "metodologia": "Formação a distância (totalmente \"on line\").Utilização do método demonstrativo nas sessões síncronas (on line) com execução de exercícios práticos/atividades colocados na plataforma e que os formandos descarregam para os seus PCs no inicio de cada sessão e/ou nova atividade. Havendo autorização dos formandos, as sessões de formação são gravadas e os vídeos disponibilizados após cada sessãsão. Desta forma, os vídeos são recrusos pedagógicos de apoio cuja visualização permite aos formandos repetir o exercício/atividade e desta forma ir consolidando as funcionalidades e rotinas de progrmação com Python a fim de que no final consigam a produção de dashboards e relatórios analíticos mais atrativos e informativos.",
+          "condicoes_inscricao": "Escolaridade mínima:12º ano (completo).Documentação necessária:1. Cópia do cartão de cidadão ou do Visto de Residência, com autorização para trabalho (se candidato/a estrangeiro/a).2. Certificado Escolar ou Certificado de Habilitações Académicas (ou Declaração da instituição de Ensino onde completou, com aproveitamento, o último ano escolar ou do ensino superior, atestando dessa forma as habilitações escolares ou académicas. No caso de candidato/a estrangeiro/a, o certificado de escolaridade ou o certificado de habilitações académicas deve estar reconhecido no sistema de ensino português (seja Escola Secundária, seja Universidade).3. Cópia do último recibo de vencimento (podem ser rasurados os valores auferidos).4. Declaração de Horário de trabalho (ex: de segunda a sexta feira, das 9:00h às 13:00h e das 14:00h às 18:00h).5. IBAN extraído do Netbanking onde deve constar o nome do/a candidato/a.Pagamento do subsídio de alimentação no valor de 6,00 euros/sessão, aos formandos que completem, em cada sessão, pelo menos 3 horas de formação no horário pós-laboral.",
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "09/12/2025",
+            "09/12/2025",
+            "17/02/2026"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Apresentação",
+            "Condições de Inscrição",
+            "Área de Formação",
+            "Objetivos",
+            "Objetivos Específicos",
+            "Conteúdos Programáticos",
+            "Formador(es)",
+            "Metodologia"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 365,
