@@ -1,84 +1,8 @@
 {
-  "gerado_em": "2025-12-03T09:05:24.791647+00:00",
+  "gerado_em": "2025-12-04T09:03:24.875744+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 21,
   "acoes": [
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=16&accao=776",
-      "id_curso": 16,
-      "id_accao": 776,
-      "titulo": "Atualização de Aplicação de Produtos Fitofarmacêuticos (AAPF) - (UFCD 9261)",
-      "area_formacao": "Produção Agrícola e Animal",
-      "duracao_total": "25 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a776.jpg",
-      "objetivos": [
-        "Atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.."
-      ],
-      "conteudos": [
-        "Sistemas regulamentares",
-        "Autorização de produtos fitofarmacêuticos",
-        "Classificação, embalagem e rotulagem",
-        "Venda, aquisição e uso responsávelProteção Integrada (PI)",
-        "Legislação específica e registos",
-        "Prática da PI e tomada de decisão",
-        "Aconselhamento agrícola",
-        "Avaliação comparativa de produtos fitofarmacêuticos e segurançaProdução Integrada (PRODI)",
-        "Princípios da PRODI",
-        "Regulamentação e registos",
-        "Caderno de campoModo de Produção Biológico",
-        "Princípios gerais",
-        "Regulamento comunitário relativo ao modo de produção biológico",
-        "Utilização de produtos fitofarmacêuticos em modo de produção biológicoSegurança na utilização de produtos fitofarmacêuticos",
-        "Aspetos toxicológicos inerentes à sua manipulação e aplicação",
-        "Noção de dose, concentração e volume de calda",
-        "Informação e leitura do rótulo",
-        "Produtos ilegais",
-        "Equipamentos de proteção individual (EPI) segundo as características do produto fitofarmacêuticoRedução do risco na aplicação dos produtos fitofarmacêuticos",
-        "Inspeção periódica de equipamentos",
-        "Características do equipamento de aplicação",
-        "Critérios para a escolha do material de aplicação",
-        "Técnicas de aplicação, calibração, regulação do material de aplicação e inspeção",
-        "Arrastamento da calda e dispositivos anti deriva",
-        "Redução do risco para o ambiente, espécies e organismos não visados",
-        "Impacte no ambiente do uso de produtos fitofarmacêuticos",
-        "Risco para as espécies não visadas e medidas de mitigação do riscoSegurança na manipulação e preparação de caldas e limpeza de equipamentos de aplicaçãoGestão de resíduos de embalagens e resíduos de excedentes de produtos fitofarmacêuticos (obsoletos)Segurança alimentarLimite máximo de resíduosIntervalo de segurançaExposição do consumidor e cumprimento das indicações do rótuloArmazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticosCondições e características dos locais de armazenamentoSinalização, perigos e segurança durante o armazenamentoPerigos e segurança no transporteAcidentes com produtos fitofarmacêuticosPrevenção de acidentesAcidentes de trabalhoSintomas de intoxicação e medidas de primeiros socorros"
-      ],
-      "formadores": [
-        {
-          "nome": "Custódio de Sousa Oliveira",
-          "biografia": "Mestre em Agricultura Biológica. Foi Director Geral da Adega Cooperativa de Braga, Crl entre 1994 e 2001. Téncico Agricola na Cavagri-Cooperativa Agrícola do Alto Cávado, Crl, entre 2001 e 2009. Participação nos workshops regionais do Projecto “Bio-Regiões\", dinamizado pela Rede Rural Nacional e Rede Internacional das Bio-Regiões (INNER). Formador desde 2010, já lecionou diversas formações na área agricola. Formador homologado pela DRAPN em cursos APF e COTS, desde 2013.",
-          "foto_url": "https://castelform.pt/ficheiros/e4493.jpg"
-        }
-      ],
-      "detalhe": {
-        "inicio": "03/12/2025",
-        "fim": "22/12/2025"
-      },
-      "resumo": {
-        "horario": "Pós-laboral",
-        "local": "Braga - Dume"
-      },
-      "apresentacao": "Nos termos do artigo 18.º, Lei n.º 26/2013, de 11 de abril, todos aqueles que necessitam de aplicar estes PF’s devem dispor de certificado da ação de formação em Aplicação de Produtos Fitofarmacêuticos, passando assim a dispor da habilitação de aplicador.Com esta ação pretende-se atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.",
-      "metodologia": "Ativa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo, podendo envolver uma visita de estudo.",
-      "condicoes_inscricao": "Formação direcionada para aplicadores de fitofármacos cuja data de validade do cartão de aplicador esteja dentro da validade à data de conclusão do curso. Recomenda-se que que a atualização seja feita com pelo menos 1 ano de antecedência da data limite da validade. 1 - Habilitação Literária: Escolaridade mínima obrigatória. Necessário cópia do certificado escolar ou do certificado de habilitações.Ser detentor de curso de Aplicação de Produtos Fitofarmacêuticos homologado pelo Ministério da Agricultura. Necessário cópia do Cartão de Aplicador.2- Comprovativo de situação profissional: a) Se trabalhadores por conta de outrem: Recibo de Vencimento do ultimo mêsb) Se coletado: Declaração de Inicio de Atividade + RVE ou Fatura recente (se trabalhadores por conta própria) ou Certidão extraída da AT sobre o enquadramento em IVA.c) Se Desempregado: Declaração do IEFP.3- Cópia do Cartão de Cidadão.4- Cópia do Cartão de Aplicador",
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "Semana 103/12/2025 - 4ª feira - 19:00-22:30 - 3.5 H05/12/2025 - 6ª feira - 19:00-22:30 - 3.5 HSemana 210/12/2025 - 4ª feira - 19:00-22:30 - 3.5 HSemana 316/12/2025 - 3ª feira - 19:00-22:30 - 3.5 H18/12/2025 - 5ª feira - 19:00-22:30 - 3.5 H20/12/2025 - sábado - 19:00-22:30 - 3.5 HSemana 422/12/2025 - 2ª feira - 18:30-22:30 - 4 H"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Datas de Realização",
-        "Apresentação",
-        "Condições de Inscrição",
-        "Área de Formação",
-        "Objetivos",
-        "Conteúdos Programáticos",
-        "Formador(es)",
-        "Metodologia"
-      ]
-    },
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=379&accao=794",
       "id_curso": 379,
@@ -737,6 +661,46 @@
         "Área de Formação",
         "Objetivos",
         "Conteúdos Programáticos"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=380&accao=795",
+      "id_curso": 380,
+      "id_accao": 795,
+      "titulo": "Técnico/a de Geriatria (EFA)",
+      "area_formacao": "Trabalho Social e Orientação",
+      "duracao_total": "1995 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a795.jpg",
+      "objetivos": [
+        "Prestar cuidados de apoio direto ao idoso, em contexto domiciliar e institucional, contribuindo para o seu bem-estar biopsicossocial, tendo em consideração os objetivos definidos pela equipa técnica local e os princípios deontológicos de atuação.."
+      ],
+      "conteudos": [],
+      "formadores": [],
+      "detalhe": {
+        "inicio": "19/01/2026",
+        "fim": "31/12/2027"
+      },
+      "resumo": {
+        "horario": "09:00-13:00/14:00-18:00",
+        "local": "Braga (local a confirmar)"
+      },
+      "apresentacao": "Prestar cuidados de apoio direto ao idoso, em contexto domiciliar e institucional, contribuindo para o seu bem-estar biopsicossocial, tendo em consideração os objetivos definidos pela equipa técnica local e os princípios deontológicos de atuação.",
+      "metodologia": null,
+      "condicoes_inscricao": "Idade superior a 21 anosEmpregados e desempregadosMínimo 9º ano e máximo 10º ano incompleto",
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "19/01/2026",
+        "19/01/2026",
+        "31/12/2027"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Apresentação",
+        "Condições de Inscrição",
+        "Área de Formação",
+        "Objetivos"
       ]
     },
     {
