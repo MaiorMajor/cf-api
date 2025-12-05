@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2025-12-04T09:53:27.185532+00:00",
+  "gerado_em": "2025-12-05T09:06:36.683875+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 21,
+  "total": 22,
   "acoes": [
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=379&accao=794",
@@ -1173,6 +1173,46 @@
         "Objetivos",
         "Conteúdos Programáticos",
         "Formador(es)"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=381&accao=796",
+      "id_curso": 381,
+      "id_accao": 796,
+      "titulo": "Técnico/a Auxiliar de Saúde (EFA)",
+      "area_formacao": "Saúde - Programas não Classificados Noutra Área de Formação",
+      "duracao_total": "2020 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a796.jpg",
+      "objetivos": [
+        "Desenvolver as competências profissionais, éticas e legais necessárias ao desempenho qualificado do/a Técnico/a Auxiliar de Saúde, assegurando a compreensão das suas atividades, responsabilidades, direitos e deveres, bem como a capacidade de atuar de forma segura, supervisionada, proativa e adequada aos diferentes contextos, públicos e normas institucionais no âmbito dos cuidados de saúde.."
+      ],
+      "conteudos": [],
+      "formadores": [],
+      "detalhe": {
+        "inicio": "16/03/2026",
+        "fim": "31/12/2027"
+      },
+      "resumo": {
+        "horario": "09:00-13:00/14:00-18:00",
+        "local": "Braga (local a confirmar)"
+      },
+      "apresentacao": "O/A Técnico/a Auxiliar de Saúde é o/a profissional que auxilia na prestação de cuidados de saúde aos utentes, na recolha e transporte de amostras biológicas, na limpeza, higienização e transporte de roupas, materiais e equipamentos, na limpeza e higienização dos espaços e no apoio logístico e administrativo das diferentes unidades e serviços de saúde, sob orientações do profissional de saúde.",
+      "metodologia": null,
+      "condicoes_inscricao": "Idade superior a 21 anosEmpregados e desempregadosMínimo 9º ano e máximo 10º ano incompleto",
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "16/03/2026",
+        "16/03/2026",
+        "31/12/2027"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Apresentação",
+        "Condições de Inscrição",
+        "Área de Formação",
+        "Objetivos"
       ]
     }
   ]
