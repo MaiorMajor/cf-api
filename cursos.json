@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2025-12-12T09:11:19.554095+00:00",
+  "gerado_em": "2025-12-15T09:13:22.634988+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 111,
   "cursos": [
@@ -2393,12 +2393,49 @@
       "id_curso": 383,
       "titulo": "Operacional de Queima",
       "area_formacao": "Silvicultura e Caça",
-      "duracao_total": null,
+      "duracao_total": "200 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C383.jpg",
       "conteudos": [],
       "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=383&accao=798",
+          "id_curso": 383,
+          "id_accao": 798,
+          "titulo": "Operacional de Queima",
+          "area_formacao": "Silvicultura e Caça",
+          "duracao_total": "200 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/a798.jpg",
+          "objetivos": [],
+          "conteudos": [],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "20/12/2025",
+            "fim": "30/04/2026"
+          },
+          "resumo": {
+            "horario": "20:00 às 00:00 e sábados das 9:00 às 18:30",
+            "local": "Largo António Pereira Tamanco 1404405-536 Vila Nova de GaiaGPS: 41.096354881897916,-8.6379169914610863"
+          },
+          "apresentacao": null,
+          "metodologia": null,
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "20/12/2025",
+            "20/12/2025",
+            "30/04/2026"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Área de Formação",
+            "Formador(es)"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 263,
