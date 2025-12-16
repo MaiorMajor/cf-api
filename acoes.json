@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2025-12-15T09:11:54.527471+00:00",
+  "gerado_em": "2025-12-16T09:07:22.931182+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 22,
+  "total": 23,
   "acoes": [
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=377&accao=789",
@@ -32,7 +32,7 @@
       },
       "resumo": {
         "horario": "09:00-18:00/18:30-22:30",
-        "local": "Escola Primária de Penajóia"
+        "local": "JF de Penajóia"
       },
       "apresentacao": null,
       "metodologia": null,
@@ -103,6 +103,48 @@
         "Conteúdos Programáticos",
         "Formador(es)",
         "Metodologia"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=384&accao=799",
+      "id_curso": 384,
+      "id_accao": 799,
+      "titulo": "Crianças com necessidades específicas de educação",
+      "area_formacao": "Serviços de Apoio a Crianças e Jovens",
+      "duracao_total": "20 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/c0.jpg",
+      "objetivos": [],
+      "conteudos": [],
+      "formadores": [
+        {
+          "nome": "Joana Isabel Pereira da Silva",
+          "biografia": "Licenciatura em Educação com especialização em Educação de Adultos e Intervenção Comunitária. Licenciatura em Psicologia com especialização em Psicologia Clinica e da Saúde. Pós graduada em Sociologia da Saúde. Especialização avançada em neuropsicologia. Especialização avançada em Psicologia Educacional e Vocacional. Formadora desde 2009.",
+          "foto_url": "https://castelform.pt/ficheiros/e16636.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "17/12/2025",
+        "fim": "02/01/2026"
+      },
+      "resumo": {
+        "horario": "14h00-17h30",
+        "local": "Largo de Santo António nº 824775-456 NINEsecretariacpnine@gmail.com"
+      },
+      "apresentacao": null,
+      "metodologia": null,
+      "condicoes_inscricao": null,
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "17/12/2025",
+        "17/12/2025",
+        "02/01/2026"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Área de Formação",
+        "Formador(es)"
       ]
     },
     {
@@ -452,8 +494,7 @@
         "Objetivos",
         "Conteúdos Programáticos",
         "Formador(es)",
-        "Metodologia",
-        "Observações"
+        "Metodologia"
       ]
     },
     {

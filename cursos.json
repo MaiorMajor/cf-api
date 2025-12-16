@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2025-12-15T09:13:22.634988+00:00",
+  "gerado_em": "2025-12-16T09:08:51.302762+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 111,
+  "total": 112,
   "cursos": [
     {
       "id_curso": 362,
@@ -1593,8 +1593,7 @@
             "Objetivos",
             "Conteúdos Programáticos",
             "Formador(es)",
-            "Metodologia",
-            "Observações"
+            "Metodologia"
           ]
         },
         {
@@ -1922,7 +1921,7 @@
           },
           "resumo": {
             "horario": "09:00-18:00/18:30-22:30",
-            "local": "Escola Primária de Penajóia"
+            "local": "JF de Penajóia"
           },
           "apresentacao": null,
           "metodologia": null,
@@ -2195,6 +2194,17 @@
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "12.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C307.jpg",
+      "conteudos": [],
+      "descricao": null,
+      "inscricoes_abertas": false,
+      "acoes": []
+    },
+    {
+      "id_curso": 384,
+      "titulo": "Crianças com necessidades específicas de educação",
+      "area_formacao": "Serviços de Apoio a Crianças e Jovens",
+      "duracao_total": "20.0 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/C384.jpg",
       "conteudos": [],
       "descricao": null,
       "inscricoes_abertas": false,
