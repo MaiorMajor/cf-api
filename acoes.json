@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2025-12-17T08:56:31.283827+00:00",
+  "gerado_em": "2025-12-17T11:17:53.189542+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 21,
+  "total": 23,
   "acoes": [
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=16&accao=756",
@@ -851,6 +851,79 @@
       ]
     },
     {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=16&accao=801",
+      "id_curso": 16,
+      "id_accao": 801,
+      "titulo": "Atualização de Aplicação de Produtos Fitofarmacêuticos (AAPF) - (UFCD 9261)",
+      "area_formacao": "Produção Agrícola e Animal",
+      "duracao_total": "25 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/c16.jpg",
+      "objetivos": [
+        "Atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.."
+      ],
+      "conteudos": [
+        "Sistemas regulamentares",
+        "Autorização de produtos fitofarmacêuticos",
+        "Classificação, embalagem e rotulagem",
+        "Venda, aquisição e uso responsávelProteção Integrada (PI)",
+        "Legislação específica e registos",
+        "Prática da PI e tomada de decisão",
+        "Aconselhamento agrícola",
+        "Avaliação comparativa de produtos fitofarmacêuticos e segurançaProdução Integrada (PRODI)",
+        "Princípios da PRODI",
+        "Regulamentação e registos",
+        "Caderno de campoModo de Produção Biológico",
+        "Princípios gerais",
+        "Regulamento comunitário relativo ao modo de produção biológico",
+        "Utilização de produtos fitofarmacêuticos em modo de produção biológicoSegurança na utilização de produtos fitofarmacêuticos",
+        "Aspetos toxicológicos inerentes à sua manipulação e aplicação",
+        "Noção de dose, concentração e volume de calda",
+        "Informação e leitura do rótulo",
+        "Produtos ilegais",
+        "Equipamentos de proteção individual (EPI) segundo as características do produto fitofarmacêuticoRedução do risco na aplicação dos produtos fitofarmacêuticos",
+        "Inspeção periódica de equipamentos",
+        "Características do equipamento de aplicação",
+        "Critérios para a escolha do material de aplicação",
+        "Técnicas de aplicação, calibração, regulação do material de aplicação e inspeção",
+        "Arrastamento da calda e dispositivos anti deriva",
+        "Redução do risco para o ambiente, espécies e organismos não visados",
+        "Impacte no ambiente do uso de produtos fitofarmacêuticos",
+        "Risco para as espécies não visadas e medidas de mitigação do riscoSegurança na manipulação e preparação de caldas e limpeza de equipamentos de aplicaçãoGestão de resíduos de embalagens e resíduos de excedentes de produtos fitofarmacêuticos (obsoletos)Segurança alimentarLimite máximo de resíduosIntervalo de segurançaExposição do consumidor e cumprimento das indicações do rótuloArmazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticosCondições e características dos locais de armazenamentoSinalização, perigos e segurança durante o armazenamentoPerigos e segurança no transporteAcidentes com produtos fitofarmacêuticosPrevenção de acidentesAcidentes de trabalhoSintomas de intoxicação e medidas de primeiros socorros"
+      ],
+      "formadores": [
+        {
+          "nome": "Carlos Manuel da Cunha Carvalho Marques",
+          "biografia": "Licenciado em Engenharia Agronómica e Mestre em Enologia e Viticultura. Atualmente presta consultoria a explorações agrícolas nas operações de tratamentos fitossanitários e na calibração e inspeção de equipamentos de pulverização. Ministrou várias formções na área agricola e florestal, nomeadamente as UFCD's 4552, 9998, COTS (35h/50h), ADCAPF e APF.",
+          "foto_url": "https://castelform.pt/ficheiros/e11547.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "27/01/2026",
+        "fim": "05/02/2026"
+      },
+      "resumo": {
+        "horario": "Pós-Laboral (18:30-22:30 Sábado - 09:00-17:00)",
+        "local": "UF de Este (São Pedro e São Mamede)"
+      },
+      "apresentacao": null,
+      "metodologia": "Ativa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo, podendo envolver uma visita de estudo.",
+      "condicoes_inscricao": "Formação direcionada para candidatos/as que cuja data de validade do cartão de aplicador, obtido anteriormente pela via da formação, esteja a caducar (data de validade do cartão é de 10 anos - recomendamos que a atualização seja feita com pelo menos 1 ano de antecedência da data limite da validade).Formação direcionada para candidatos/as que cuja data de validade do cartão de aplicador, obtido anteriormente pela via da formação, esteja a caducar (data de validade do cartão é de 10 anos - recomendamos que a atualização seja feita com pelo menos 1 ano de antecedência da data limite da validade).1 - Habilitação Literária: Escolaridade mínima obrigatória. Necessário cópia do certificado escolar ou do certificado de habilitações.Ser detentor de curso de Aplicação de Produtos Fitofarmacêuticos homologado pelo Ministério da Agricultura. Necessário cópia do Cartão de Aplicador.2- Comprovativo de situação profissional: a) Se trabalhadores por conta de outrem: Recibo de Vencimento do ultimo mêsb) Se coletado: Declaração de Inicio de Atividade + RVE ou Fatura recente (se trabalhadores por conta própria) ou Certidão extraída da AT sobre o enquadramento em IVA.c) Se Desempregado: Declaração do IEFP.3- Cópia do Cartão de Cidadão.4- Cópia do Cartão de Aplicador",
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [],
+      "imagens": [],
+      "cards_extraidas": [
+        "Datas de Realização",
+        "Condições de Inscrição",
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos",
+        "Formador(es)",
+        "Metodologia"
+      ]
+    },
+    {
       "url": "https://castelform.pt/informacaocurso.aspx?id=379&accao=794",
       "id_curso": 379,
       "id_accao": 794,
@@ -958,6 +1031,105 @@
         "Metodologia",
         "Avaliação",
         "Observações"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=62&accao=800",
+      "id_curso": 62,
+      "id_accao": 800,
+      "titulo": "Conduzir e Operar com o trator em Segurança (COTS) (UFCD 9596)",
+      "area_formacao": "Produção Agrícola e Animal",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a800.jpg",
+      "objetivos": [
+        "Complementar os conhecimentos teóricos e práticos dos participantes sobre a condução e operação de tratores em segurança tendo em vista a melhoria do seu desempenho na via pública e na exploração e a redução da sinistralidade.."
+      ],
+      "conteudos": [
+        "Acidentes com tratores em Portugal:",
+        "Caraterização geral",
+        "dados estatísticos",
+        "Acidentes e mortalidade na via pública",
+        "incidência, tipo de acidentes e principais causas",
+        "Acidentes e mortalidade na exploração",
+        "incidência, tipo de acidentes e principais causasCondução e prevenção rodoviária com veículos agrícolas",
+        "Código da Estrada, Código do trabalho e Normas aplicáveis:",
+        "Habilitação para a condução de tratores agrícolas",
+        "Princípios gerais de trânsito e de segurança rodoviária",
+        "Condutor e o seu estado físico e psicológico",
+        "Condutor e o veículo",
+        "Condutor e os outros utentes da via",
+        "Condutor, a via e os outros fatores externos",
+        "Condutor e o conhecimento do veiculo, aptidões e comportamentos",
+        "Legislação aplicávelVeículo seguro",
+        "equipamento de segurança e proteção do trator:",
+        "Homologação",
+        "Declaração CE de Conformidade. Marcação CE. Manual de instruções",
+        "Manual de instruções – consulta, verificações e manutenções periódicas do veículo",
+        "Estruturas de proteção",
+        "cabine, quadro, arco de S. António",
+        "Sistema de retenção e cinto de segurança",
+        "Protetores de órgãos ativos e quentes",
+        "Extintor",
+        "Sinalização luminosa rotativa",
+        "Espelhos retrovisores",
+        "Caixa de primeiros socorrosEquipamento de proteção individual:",
+        "Descrição, características e função de cada elemento de proteção",
+        "Cuidados particulares com o vestuário a usar em função das máquinas a operarCondução e operação com o trator em segurança:",
+        "Principais mandamentos de segurança com o trator",
+        "Cuidados a ter antes de acionar e começar a trabalhar e no acesso ao trator",
+        "Posição do operador para conduzir o trator ou operar comandos periféricos",
+        "Cuidados a ter com o trator acionado",
+        "Cuidados a ter na condução do trator, adequada às do tráfego, do piso e das condições climatéricas",
+        "Cuidados a ter com outras pessoas",
+        "Cuidados a ter no engate de máquinas e alfaias aos três pontos do hidráulico",
+        "Cuidados a ter no engate do reboque e dispositivos de segurança",
+        "Condução do trator na via publica – sem e com reboque, sem e com maquinas montadas, semi",
+        "montadas ou rebocadas",
+        "Cuidados a ter para evitar o reviramento ou o capotamento do tratorCondução do trator em condições perigosas e operar com orgãos ativos:",
+        "Condução e operação em terreno acidentado",
+        "Condução e operação do trator com carregador frontal",
+        "Condução e operação do trator com reboque carregado e descarregado",
+        "Cuidados a ter com o uso da báscula do reboque",
+        "Operação com a TDF (tomada de força) – sistemas mecânicos de segurança para o veio e, de proteção para o operador",
+        "Operação com o sistema hidráulico",
+        "Velocidade no trator adequada às condições do piso e das condições climatéricas",
+        "Travagem do trator; utilização do sistema de travagem; combinação da travagem com a utilização da caixa de velocidades",
+        "Respeito pelas distâncias de segurança relativamente a cômoros, valas e precipíciosBoas práticas de segurança na condução, operação e engate/desengate de reboques e semi",
+        "reboques e outras máquinas agrícolas e saúde no trabalho agrícola"
+      ],
+      "formadores": [
+        {
+          "nome": "Luís Miguel Ramos da Fonseca",
+          "biografia": "",
+          "foto_url": "https://castelform.pt/ficheiros/e17005.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "09/02/2026",
+        "fim": "02/03/2026"
+      },
+      "resumo": {
+        "horario": "Dias úteis (18:30-22:30) + Sábados e 1 dia útil (9:00-17:00)",
+        "local": "Armamar"
+      },
+      "apresentacao": null,
+      "metodologia": "Ativa, Centrada no participante, baseada na experiência e participação dos formandos, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em campo.",
+      "condicoes_inscricao": "Apresentar a seguinte documentação na fase de inscrição:1- Cópia do Certificado de Escolaridade ou de Habilitações Académicas2- Comprovativo de situação profissional: a) Recibo de Vencimento do ultimo mês (se trabalhadores por conta de outrem) b) Declaração de Inicio de Atividade + RVE ou Fatura recente (se trabalhadores por conta própria)Declaração do IEFP em como se encontra desempregado/a e inscrito/a à procura de emprego ou, em alternativa, com comprovativo da Segurança Social em como está desempregado (pode ser obtido via Segurança Social Direta - PDF de Extrato de Remunerações). 3- Cópia da Carta de Condução que habilite à Condução de Veículos Agrícolas (Carta de ligeiros ou pesados)4- Cópia do Cartão de CidadãoOutras condições de inscrição e seleção:N.º de formandos máximo: 16Idade: = 18 anos Habilitações literárias:. Escolaridade obrigatória, nos termos dos n.º 3 do artigo 7.º, do Anexo do Despacho n.º 5756/2020, de 26 de maio.. De acordo com alínea b1) do n.º 3, do artigo 7.º, do Anexo, do referido despacho, podem ser ainda aceites formandos que não disponham de escolaridade obrigatória, desde que comprovem saber ler, escrever e interpretar um texto.Outros requisitos:. Carta de condução da Categoria B, C ou D;. Título de condução que habilite a conduzir veículos agrícolas, quando o seu titular pretenda atualizar conhecimentos.",
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "Semana 109-02-2026 - 2ª feira - 18:30 - 22:30 - 4.0 H10-02-2026 - 3ª feira - 18:30 - 22:30 - 4.0 H13-02-2026 - 6ª feira - 18:30 - 22:00 - 3.5 H14-02-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 216-02-2026 - 2ª feira - 18:30 - 22:30 - 4.0 H20-02-2026 - 6ª feira - 18:30 - 22:00 - 3.5 H21-02-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 327-02-2026 - 6ª feira - 18:30 - 21:30 - 3.0 H28-02-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 402-03-2026 - 2ª feira - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Datas de Realização",
+        "Condições de Inscrição",
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos",
+        "Formador(es)",
+        "Metodologia"
       ]
     },
     {
