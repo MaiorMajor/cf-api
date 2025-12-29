@@ -1,123 +1,38 @@
 {
-  "gerado_em": "2025-12-17T11:17:53.189542+00:00",
+  "gerado_em": "2025-12-29T09:51:55.780630+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 23,
+  "total": 22,
   "acoes": [
     {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=16&accao=756",
-      "id_curso": 16,
-      "id_accao": 756,
-      "titulo": "Atualização de Aplicação de Produtos Fitofarmacêuticos (AAPF) - (UFCD 9261)",
+      "url": "https://castelform.pt/informacaocurso.aspx?id=377&accao=791",
+      "id_curso": 377,
+      "id_accao": 791,
+      "titulo": "Operações culturais de implantação, condução, manutenção e colheita da vinha (UFCD 6288)",
       "area_formacao": "Produção Agrícola e Animal",
-      "duracao_total": "25 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a756.jpg",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a791.jpg",
       "objetivos": [
-        "Atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.."
+        "Dominar as operações culturais da vinha — desde a implantação até à colheita — incluindo a execução prática das tarefas e o uso adequado das máquinas específicas.."
       ],
       "conteudos": [
-        "Sistemas regulamentares",
-        "Autorização de produtos fitofarmacêuticos",
-        "Classificação, embalagem e rotulagem",
-        "Venda, aquisição e uso responsávelProteção Integrada (PI)",
-        "Legislação específica e registos",
-        "Prática da PI e tomada de decisão",
-        "Aconselhamento agrícola",
-        "Avaliação comparativa de produtos fitofarmacêuticos e segurançaProdução Integrada (PRODI)",
-        "Princípios da PRODI",
-        "Regulamentação e registos",
-        "Caderno de campoModo de Produção Biológico",
-        "Princípios gerais",
-        "Regulamento comunitário relativo ao modo de produção biológico",
-        "Utilização de produtos fitofarmacêuticos em modo de produção biológicoSegurança na utilização de produtos fitofarmacêuticos",
-        "Aspetos toxicológicos inerentes à sua manipulação e aplicação",
-        "Noção de dose, concentração e volume de calda",
-        "Informação e leitura do rótulo",
-        "Produtos ilegais",
-        "Equipamentos de proteção individual (EPI) segundo as características do produto fitofarmacêuticoRedução do risco na aplicação dos produtos fitofarmacêuticos",
-        "Inspeção periódica de equipamentos",
-        "Características do equipamento de aplicação",
-        "Critérios para a escolha do material de aplicação",
-        "Técnicas de aplicação, calibração, regulação do material de aplicação e inspeção",
-        "Arrastamento da calda e dispositivos anti deriva",
-        "Redução do risco para o ambiente, espécies e organismos não visados",
-        "Impacte no ambiente do uso de produtos fitofarmacêuticos",
-        "Risco para as espécies não visadas e medidas de mitigação do riscoSegurança na manipulação e preparação de caldas e limpeza de equipamentos de aplicaçãoGestão de resíduos de embalagens e resíduos de excedentes de produtos fitofarmacêuticos (obsoletos)Segurança alimentarLimite máximo de resíduosIntervalo de segurançaExposição do consumidor e cumprimento das indicações do rótuloArmazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticosCondições e características dos locais de armazenamentoSinalização, perigos e segurança durante o armazenamentoPerigos e segurança no transporteAcidentes com produtos fitofarmacêuticosPrevenção de acidentesAcidentes de trabalhoSintomas de intoxicação e medidas de primeiros socorros"
+        "Exigências ecológicas da vinha e fatores edafoclimáticos, favoráveis ao seu desenvolvimentoTécnicas e operações de instalação Preparação do terreno Processos de mobilização do solo e máquinas utilizadas, de acordo com as necessidades de mobilização – surribas, ripagem, gradagem, escarificação, fresagem e outros Tipos de fertilização Exigências edafoclimáticas e necessidades em nutrientes Desequilíbrios nutricionais Principais carências Cálculo de adubação em conformidade com a análise de terra Incorporação de matéria orgânica Fertilização de fundo/aplicação de correctivos Formas e métodos de drenagem e conservação do solo Disponibilidade e qualidade da água e instalação de sistemas de rega Marcação de terreno, compasso de plantação de acordo com o sistema de piquetagem e abertura de covas Plantação de bacelos – sistemas e épocas de plantação Poda de transplantação Tutores, armação e aramação da vinha Retancha Sistemas de propagação da vinha Operação de regulação/afinação e manutenção das máquinas de mobilização do solo, de distribuição de fertilizantes e de plantação Preparação do terreno, fertilização e plantação, segundo o modo de Produção Integrada Preparação do terreno, fertilização e plantação, segundo o Modo de Produção BiológicoTécnicas e operações de condução Sistemas de condução Tipos e épocas de poda Poda de formação Poda de frutificação Podas sanitárias Empa Intervenções em verde",
+        "desladroamento, desponta, desfolha e monda de fruto Enxertias, tipo e épocas Máquinas, ferramentas e utensílios de poda e de enxertia Condução da vinha em Produção Integrada Condução da vinha em Modo de Produção BiológicoTécnicas e operações de manutenção Manutenção do solo Fertilização de produção Rega/fertirrigação Monda de frutos Protecção Integrada da vinha (doenças pragas e infestantes; luta química; fitofármacos e procedimentos operativos e técnicas de aplicação) Acidentes fisiológicos e meteorológicos Operação de regulação/afinação e manutenção das máquinas de mobilização do solo e de distribuição de adubos e de produtos fitossanitários Manutenção da vinha em Produção Integrada Manutenção da vinha em Modo de Produção Biológico (compostagem)Técnicas e operações de colheita Determinação do momento da colheita, de acordo com os fins a que se destina a produção Métodos para determinação da época de colheita Procedimentos a observar na colheita Medidas profilácticas na conservação da uva, antes, durante e após a colheita Colheita manual e mecânica",
+        "máquinas e equipamentos para colheita da uva Normalização Operação de regulação/afinação e manutenção das máquinas e equipamentos utilizados na colheita Procedimentos operativos e técnicas de aplicaçãoTécnicas e operações de armazenamento e conservação, de acordo com o destino da produção Armazenamento e acondicionamento Condições de armazenamento Procedimentos operativos e técnicas de aplicaçãoBoas práticas de segurança, higiene e saúde no trabalho"
       ],
       "formadores": [
         {
-          "nome": "Gracinda Alves",
-          "biografia": "(n. 1980) . Licenciatura em Engenharia Agronómica, Ramo Zootecnia. Professora do ensino profissional agrícola na temática de mecanização e colaboradora em exploração agrícola familiar. Formadora em cursos de zootecnia, produção agícola e mecanização agrícola. Possui formação específica em mecanização agrícola estando homologada pela DRAPN para ministrar cursos de Condução e Operação com o Trator em Segurança (COTs)",
-          "foto_url": "https://castelform.pt/ficheiros/e3759.jpg"
+          "nome": "Sílvia Pereira",
+          "biografia": "(n. 1978). Licenciada em Engenharia Agronómica pel Instituto Politécnico de Bragança. Desde nov. de2001 assume funções de Técnica de viticultura nas Caves Vale do Rodo, CRL. Desde 2003 foi formadora de diversos APFs, COTs e Operação com equipamentos motomanuais. Frequentou diversos cursos específicos relacionados com APF (AMETPP; ADCAPF, DCAPF, na Consultua) e possui curso de “Técnica de Higiene e Segurança no Trabalho (Consultua, 2000), exercendo consultoria e formação na área de HST, designadamente com equipamentos motomanuais",
+          "foto_url": "https://castelform.pt/ficheiros/e2755.jpg"
         }
       ],
       "detalhe": {
-        "inicio": "20/12/2025",
-        "fim": "30/12/2025"
+        "inicio": "02/01/2026",
+        "fim": "20/01/2026"
       },
       "resumo": {
-        "horario": "Pós-laboral",
-        "local": "JF de Montalegre"
-      },
-      "apresentacao": null,
-      "metodologia": "Ativa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo, podendo envolver uma visita de estudo.",
-      "condicoes_inscricao": "Formação direcionada para candidatos/as que cuja data de validade do cartão de aplicador, obtido anteriormente pela via da formação, esteja a caducar (data de validade do cartão é de 10 anos - recomendamos que a atualização seja feita com pelo menos 1 ano de antecedência da data limite da validade).Habilitação Literária: Escolaridade mínima obrigatóriaPrecedência: Ser detentor de curso de Aplicação de Produtos Fitofarmacêuticos homologado pelo Ministério da Agricultura.",
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "Semana 120/12/2025 - Sábado - 18:00-22:30 - 4.5 HSemana 222/12/2025 - 2ª feira - 18:30-22:30 - 4 H23/12/2025 - 3ª feira - 18:30-22:30 - 4 H26/12/2025 - 6ª feira - 18:30-22:30 - 4 HSemana 329/12/2025 - 2ª feira - 18:30-22:30 - 4 H30/12/2025 - 3ª feira - 18:00-22:30 - 4.5 H"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Datas de Realização",
-        "Condições de Inscrição",
-        "Área de Formação",
-        "Objetivos",
-        "Conteúdos Programáticos",
-        "Formador(es)",
-        "Metodologia",
-        "Observações"
-      ]
-    },
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=383&accao=798",
-      "id_curso": 383,
-      "id_accao": 798,
-      "titulo": "Operacional de Queima",
-      "area_formacao": "Silvicultura e Caça",
-      "duracao_total": "200 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a798.jpg",
-      "objetivos": [],
-      "conteudos": [],
-      "formadores": [
-        {
-          "nome": "Fábio Miguel da Silva Neves",
-          "biografia": "",
-          "foto_url": "https://castelform.pt/ficheiros/e0.jpg"
-        },
-        {
-          "nome": "Fernando Alexandre Tavares Madureira",
-          "biografia": "",
-          "foto_url": "https://castelform.pt/ficheiros/e0.jpg"
-        },
-        {
-          "nome": "Filipe da Silva Antunes",
-          "biografia": "",
-          "foto_url": "https://castelform.pt/ficheiros/e0.jpg"
-        },
-        {
-          "nome": "Rui Manuel Mendes Costa",
-          "biografia": "",
-          "foto_url": "https://castelform.pt/ficheiros/e0.jpg"
-        }
-      ],
-      "detalhe": {
-        "inicio": "20/12/2025",
-        "fim": "30/04/2026"
-      },
-      "resumo": {
-        "horario": "20:00 às 00:00 e sábados das 9:00 às 18:30",
-        "local": "Largo António Pereira Tamanco 1404405-536 Vila Nova de GaiaGPS: 41.096354881897916,-8.6379169914610863"
+        "horario": "Misto (2ª a 6ª das 09:00-17:00 e/ou 14:00-22:30 e Sábado das 09:00-17:00)",
+        "local": "JF de Penajóia"
       },
       "apresentacao": null,
       "metodologia": null,
@@ -126,13 +41,14 @@
       "requisitos": null,
       "certificacao": null,
       "calendario": [
-        "20/12/2025",
-        "20/12/2025",
-        "30/04/2026"
+        "Semana 102-01-2026 - 6ª feira - 18:30 - 22:30 - 4.0 H03-01-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 205-01-2026 - 2ª feira - 14:30 - 17:30 e das 18:30 - 22:30 - 7.0 H06-01-2026 - 3ª feira - 14:30 - 17:30 e das 18:30 - 22:30 - 7.0 H08-01-2026 - 5ª feira - 14:30 - 17:30 e das 18:30 - 22:30 - 7.0 H09-01-2026 - 6ª feira - 14:00 - 17:30 - 3.5 HSemana 312-01-2026 - 2ª feira - 14:00 - 17:30 - 3.5 H15-01-2026 - 5ª feira - 14:00 - 17:30 - 3.5 H16-01-2026 - 6ª feira - 14:00 - 17:30 - 3.5 HSemana 420-01-2026 - 3ª feira - 14:00 - 18:00 - 4.0 H"
       ],
       "imagens": [],
       "cards_extraidas": [
+        "Datas de Realização",
         "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos",
         "Formador(es)"
       ]
     },
@@ -340,7 +256,7 @@
       "requisitos": null,
       "certificacao": null,
       "calendario": [
-        "Semana 107-01-2026 - 4ª feira - 18:30 - 22:30 - 4.0 H09-01-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 212-01-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H14-01-2026 - 4ª feira - 09:00 - 12:30 - 3.5 H17-01-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 319-01-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
+        "Semana 107-01-2026 - 4ª feira - 18:30 - 22:30 - 4.0 H09-01-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 212-01-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H14-01-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H17-01-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 319-01-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
       ],
       "imagens": [],
       "cards_extraidas": [
@@ -551,7 +467,7 @@
       },
       "apresentacao": "Prestar cuidados de apoio direto ao idoso, em contexto domiciliar e institucional, contribuindo para o seu bem-estar biopsicossocial, tendo em consideração os objetivos definidos pela equipa técnica local e os princípios deontológicos de atuação.",
       "metodologia": null,
-      "condicoes_inscricao": "Idade superior a 21 anosEmpregados e desempregadosMínimo 9º ano e máximo 10º ano incompleto",
+      "condicoes_inscricao": "Idade superior a 21 anosEmpregados e desempregadosMínimo 9º ano e máximo 12º ano incompleto",
       "destinatarios": null,
       "requisitos": null,
       "certificacao": null,
@@ -899,7 +815,7 @@
       ],
       "detalhe": {
         "inicio": "27/01/2026",
-        "fim": "05/02/2026"
+        "fim": "03/02/2026"
       },
       "resumo": {
         "horario": "Pós-Laboral (18:30-22:30 Sábado - 09:00-17:00)",
@@ -911,7 +827,9 @@
       "destinatarios": null,
       "requisitos": null,
       "certificacao": null,
-      "calendario": [],
+      "calendario": [
+        "Semana 127-01-2026 - 3ª feira - 18:30 - 22:30 - 4.0 H28-01-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H29-01-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H30-01-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H31-01-2026 - Sábado - 09:00 - 12:00 e das 13:00 - 16:30 - 6.5 HSemana 203-02-2026 - 3ª feira - 18:30 - 22:30 - 4.0 H"
+      ],
       "imagens": [],
       "cards_extraidas": [
         "Datas de Realização",
@@ -1359,7 +1277,7 @@
       },
       "apresentacao": "O/A Técnico/a Auxiliar de Saúde é o/a profissional que auxilia na prestação de cuidados de saúde aos utentes, na recolha e transporte de amostras biológicas, na limpeza, higienização e transporte de roupas, materiais e equipamentos, na limpeza e higienização dos espaços e no apoio logístico e administrativo das diferentes unidades e serviços de saúde, sob orientações do profissional de saúde.",
       "metodologia": null,
-      "condicoes_inscricao": "Idade superior a 21 anosEmpregados e desempregadosMínimo 9º ano e máximo 10º ano incompleto",
+      "condicoes_inscricao": "Idade superior a 21 anosEmpregados e desempregadosMínimo 9º ano e máximo 12º ano incompleto",
       "destinatarios": null,
       "requisitos": null,
       "certificacao": null,
