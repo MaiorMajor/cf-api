@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-01-05T14:20:26.326135+00:00",
+  "gerado_em": "2026-01-06T09:30:51.888133+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 111,
   "cursos": [
@@ -168,8 +168,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "20/01/2026",
-            "fim": "10/02/2026"
+            "inicio": "03/02/2026",
+            "fim": "26/02/2026"
           },
           "resumo": {
             "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
@@ -182,13 +182,57 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "20/01/2026",
-            "10/02/2026",
-            "20/01/2026",
-            "10/02/2026"
+            "- 03/02/2026 das 19:30 às 23:00- 05/02/2026 das 19:30 às 23:00- 10/02/2026 das 19:30 às 22:30- 12/02/2026 das 19:30 às 22:30- 17/02/2026 das 19:30 às 22:30 - 19/02/2026 das 19:30 às 22:30- 24/02/2026 das 19:30 às 22:30- 26/02/2026 das 19:30 às 22:30"
           ],
           "imagens": [],
           "cards_extraidas": [
+            "Datas de Realização",
+            "Área de Formação",
+            "Objetivos",
+            "Conteúdos Programáticos",
+            "Formador(es)"
+          ]
+        },
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=310&accao=805",
+          "id_curso": 310,
+          "id_accao": 805,
+          "titulo": "0757 - Folha de cálculo - funcionalidades avançadas",
+          "area_formacao": "Ciências Informáticas",
+          "duracao_total": "25 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/c310.jpg",
+          "objetivos": [
+            "Executar ligações entre múltiplas folhas de cálculo.",
+            "Efetuar a análise de dados.",
+            "Automatizar ações através da utilização de macros.."
+          ],
+          "conteudos": [
+            "Múltiplas folhas de cálculo Múltiplas folhas Reunião de folhas de cálculo Ligação entre folhas Resumo de dados Inserção de subtotais Destaques Relatórios Análise de dados Análise de dados em tabelas e listas",
+            "Criação, ordenação e filtragem de dados",
+            "Formulários Criação e formatação de uma tabela dinâmica Utilização de totais e subtotais Fórmulas em tabelas dinâmicas Elaboração de gráficos Macros Macros pré",
+            "definidas Macros de personalização das barras de ferramentas Criação e gravação de uma macro Atribuição de uma macro a um botão Execução de uma macro"
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "03/03/2026",
+            "fim": "26/03/2026"
+          },
+          "resumo": {
+            "horario": "Pós laboral (19h30-23h00 e 19h30-23h30)",
+            "local": "Formação a Distância (FAD)"
+          },
+          "apresentacao": null,
+          "metodologia": null,
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "- 03/03/2026 das 19:30 às 23:00- 05/03/2026 das 19:30 às 23:00- 10/03/2026 das 19:30 às 22:30- 13/03/2026 das 19:30 às 22:30- 17/03/2026 das 19:30 às 22:30- 20/03/2026 das 19:30 às 22:30- 24/03/2026 das 19:30 às 22:30- 26/03/2026 das 19:30 às 22:30"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Datas de Realização",
             "Área de Formação",
             "Objetivos",
             "Conteúdos Programáticos",
@@ -795,8 +839,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "06/01/2026",
-            "fim": "19/02/2026"
+            "inicio": "13/01/2026",
+            "fim": "26/02/2026"
           },
           "resumo": {
             "horario": "Pós-laboral",
@@ -1805,7 +1849,7 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "Semana 1:02-02-2026 - 2ª feira - 18:30 - 22:30 - 4.0 H04-02-2026 - 4ª feira - 19:00 - 22:30 - 3.5 HSemana 2:09-02-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H11-02-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H14-02-2026 -´Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 3:16-02-2026 - 2ª feira - 18:30 - 22:30 - 4.0 H"
+            "Semana 102-02-2026 - 2ª feira - 18:30 - 22:30 - 4.0 H04-02-2026 - 4ª feira - 19:00 - 22:30 - 3.5 HSemana 209-02-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H11-02-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H14-02-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 316-02-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
           ],
           "imagens": [],
           "cards_extraidas": [
