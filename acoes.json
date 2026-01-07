@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-01-07T09:05:37.261416+00:00",
+  "gerado_em": "2026-01-07T14:53:35.462789+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 22,
   "acoes": [
@@ -67,6 +67,11 @@
           "nome": "Custódio de Sousa Oliveira",
           "biografia": "Mestre em Agricultura Biológica. Foi Director Geral da Adega Cooperativa de Braga, Crl entre 1994 e 2001. Téncico Agricola na Cavagri-Cooperativa Agrícola do Alto Cávado, Crl, entre 2001 e 2009. Participação nos workshops regionais do Projecto “Bio-Regiões\", dinamizado pela Rede Rural Nacional e Rede Internacional das Bio-Regiões (INNER). Formador desde 2010, já lecionou diversas formações na área agricola. Formador homologado pela DRAPN em cursos APF e COTS, desde 2013.",
           "foto_url": "https://castelform.pt/ficheiros/e4493.jpg"
+        },
+        {
+          "nome": "Maria Helena Dias Soares",
+          "biografia": "Bacharelato em Engenharia Agro-Pecuária e Pós-Garduação em Agricultura Biológica. Ministrou diversas formações na area agricola presenciais e online, nomeadamente as UFCD's 9263, 6281, 11026, 926, 6290. É sócia da Associação Portuguesa de Horticultura e da Sociedade da Ciências Agrárias de Portugal.",
+          "foto_url": "https://castelform.pt/ficheiros/e0.jpg"
         }
       ],
       "detalhe": {
@@ -74,8 +79,8 @@
         "fim": "19/01/2026"
       },
       "resumo": {
-        "horario": "Pós-laboral",
-        "local": "Braga - Dume"
+        "horario": "Pós-Laboral (18:30-22:30 Sábado - 09:00-17:00)",
+        "local": "Braga - Dume - Junta de Freguesia de Dume"
       },
       "apresentacao": null,
       "metodologia": "Ativa, centrada no participante, utilizando técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo.",
