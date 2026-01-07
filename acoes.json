@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-01-06T09:29:25.189093+00:00",
+  "gerado_em": "2026-01-07T09:05:37.261416+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 22,
   "acoes": [
@@ -1087,9 +1087,7 @@
       "destinatarios": null,
       "requisitos": null,
       "certificacao": null,
-      "calendario": [
-        "- 03/03/2026 das 19:30 às 23:00- 05/03/2026 das 19:30 às 23:00- 10/03/2026 das 19:30 às 22:30- 13/03/2026 das 19:30 às 22:30- 17/03/2026 das 19:30 às 22:30- 20/03/2026 das 19:30 às 22:30- 24/03/2026 das 19:30 às 22:30- 26/03/2026 das 19:30 às 22:30"
-      ],
+      "calendario": [],
       "imagens": [],
       "cards_extraidas": [
         "Datas de Realização",
