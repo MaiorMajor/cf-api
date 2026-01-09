@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-01-08T09:05:07.269734+00:00",
+  "gerado_em": "2026-01-09T09:03:05.527291+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 21,
   "acoes": [
@@ -753,13 +753,13 @@
       ]
     },
     {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=75&accao=778",
-      "id_curso": 75,
+      "url": "https://castelform.pt/informacaocurso.aspx?id=387&accao=778",
+      "id_curso": 387,
       "id_accao": 778,
-      "titulo": "Poda e enxertia em fruticultura (UFCD 6352)",
+      "titulo": "Podar e enxertar fruteiras (UC 4274)",
       "area_formacao": "Produção Agrícola e Animal",
-      "duracao_total": "50 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/c75.jpg",
+      "duracao_total": "25 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a778.jpg",
       "objetivos": [],
       "conteudos": [
         "Conceitos básicos de poda",
@@ -786,7 +786,7 @@
       ],
       "detalhe": {
         "inicio": "05/02/2026",
-        "fim": "07/03/2026"
+        "fim": "21/02/2026"
       },
       "resumo": {
         "horario": "Pós laboral",
@@ -799,7 +799,7 @@
       "requisitos": null,
       "certificacao": null,
       "calendario": [
-        "Semana 105-02-2026 - 5ª feira - 18:30 - 22:30 - 4.0 H06-02-2026 - 6ª feira - 18:30 - 22:30 - 4.0 HSemana 212-02-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H13-02-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 318-02-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H20-02-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H21-02-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 425-02-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H27-02-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 504-03-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H06-03-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H07-03-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H"
+        "Semana 105-02-2026 - 5ª feira - 18:30 - 22:30 - 4.0 H06-02-2026 - 6ª feira - 19:00 - 22:30 - 3,5 HSemana 212-02-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H13-02-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 318-02-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H21-02-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H"
       ],
       "imagens": [],
       "cards_extraidas": [
@@ -807,8 +807,7 @@
         "Área de Formação",
         "Objetivos Específicos",
         "Conteúdos Programáticos",
-        "Formador(es)",
-        "Observações"
+        "Formador(es)"
       ]
     },
     {
