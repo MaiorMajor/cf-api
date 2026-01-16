@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-01-15T09:02:53.797228+00:00",
+  "gerado_em": "2026-01-16T09:00:51.514209+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 22,
+  "total": 23,
   "acoes": [
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=365&accao=766",
@@ -551,6 +551,64 @@
         "Datas de Realização",
         "Área de Formação",
         "Objetivos",
+        "Conteúdos Programáticos",
+        "Formador(es)"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=75&accao=778",
+      "id_curso": 75,
+      "id_accao": 778,
+      "titulo": "Poda e enxertia em fruticultura (UFCD 6352)",
+      "area_formacao": "Produção Agrícola e Animal",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a778.jpg",
+      "objetivos": [],
+      "conteudos": [
+        "Conceitos básicos de poda",
+        "Épocas adequadas para a realização da poda",
+        "Material de poda",
+        "Formas de condução e densidade",
+        "Tipos de poda e relação com os hábitos de frutificação das variedades",
+        "Poda de formação",
+        "Poda de frutificação/renovação",
+        "Técnicas de corte, proteção das feridas e sua cicatrização",
+        "Poda em verde e época de realização",
+        "Intensidade da poda",
+        "Monda de frutos, época de realização e técnicas utilizadas",
+        "Diferentes sistemas de condução",
+        "Relação entre o tipo de poda e o sistema de condução",
+        "Execução dos diferentes tipos de poda, de acordo com o estado vegetativo, sanidade e sistema de condução escolhido"
+      ],
+      "formadores": [
+        {
+          "nome": "Carlos Manuel da Cunha Carvalho Marques",
+          "biografia": "Licenciado em Engenharia Agronómica e Mestre em Enologia e Viticultura. Atualmente presta consultoria a explorações agrícolas nas operações de tratamentos fitossanitários e na calibração e inspeção de equipamentos de pulverização. Ministrou várias formções na área agricola e florestal, nomeadamente as UFCD's 4552, 9998, COTS (35h/50h), ADCAPF e APF.",
+          "foto_url": "https://castelform.pt/ficheiros/e11547.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "05/02/2026",
+        "fim": "28/02/2026"
+      },
+      "resumo": {
+        "horario": "Pós laboral",
+        "local": "Junta de Freguesia de Arentim e Cunha (Braga)"
+      },
+      "apresentacao": null,
+      "metodologia": null,
+      "condicoes_inscricao": null,
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "Semana 105-02-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H06-02-2026 - 6ª feira - 19:00 - 22:30 - 3,5 HSemana 212-02-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H13-02-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 318-02-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H21-02-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 423-02-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H26-02-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H28-02-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Datas de Realização",
+        "Área de Formação",
+        "Objetivos Específicos",
         "Conteúdos Programáticos",
         "Formador(es)"
       ]
