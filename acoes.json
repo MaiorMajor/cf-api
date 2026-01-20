@@ -1,149 +1,8 @@
 {
-  "gerado_em": "2026-01-19T09:25:35.788160+00:00",
+  "gerado_em": "2026-01-20T09:08:56.406541+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 23,
+  "total": 22,
   "acoes": [
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=365&accao=766",
-      "id_curso": 365,
-      "id_accao": 766,
-      "titulo": "Power BI (Avançado)",
-      "area_formacao": "Ciências Informáticas",
-      "duracao_total": "25 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/c365.jpg",
-      "objetivos": [
-        "-Transformar dados e criar métricas.-Interpretar a linguagem Data Analysis Expressions (DAX).."
-      ],
-      "conteudos": [
-        "Introdução à transformação de dados",
-        "Transformação de dados",
-        "Função Calculate",
-        "Relações eficazmente",
-        "Medidas semi",
-        "aditivas",
-        "Introdução ao DAX no Power BI Desktop",
-        "Inteligência de Tempo e Medidas em DAX",
-        "Introdução à otimização de desempenho",
-        "Desempenho de medidas, relacionamentos e visuais",
-        "Variáveis para melhorar o desempenho e a resolução de problemas",
-        "Redução de cardinalidade",
-        "Otimização dos modelos DirectQuery com armazenamento ao nível da tabela",
-        "Criação de gestão de agregações"
-      ],
-      "formadores": [
-        {
-          "nome": "Ricardo Dias",
-          "biografia": "(n. 1971). Bacharelato em Gestão Informática - Ramo Informática de Gestão (Instituto Politécnico da Guarda). ECDL – Carta Europeia de Condução em Informática. Foi sócio-gerente e fundador da Empresa especializada no desenvolvimento da Plataforma Mestreclique - Gestão Integrada de Formação/ Consultoria. Atualmente é Formador e Consultor em Sistemas de Informação, com predominância na Plataforma Mestreclique, Excel e Power BI e ainda formação-ação para empresas",
-          "foto_url": "https://castelform.pt/ficheiros/e87.jpg"
-        }
-      ],
-      "detalhe": {
-        "inicio": "19/01/2026",
-        "fim": "09/02/2026"
-      },
-      "resumo": {
-        "horario": "19:30-23:00",
-        "local": "Formação a Distância (FAD)"
-      },
-      "apresentacao": null,
-      "metodologia": null,
-      "condicoes_inscricao": null,
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "19/01/2026",
-        "09/02/2026",
-        "19/01/2026",
-        "09/02/2026"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Área de Formação",
-        "Objetivos",
-        "Conteúdos Programáticos",
-        "Formador(es)"
-      ]
-    },
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=368&accao=769",
-      "id_curso": 368,
-      "id_accao": 769,
-      "titulo": "0755 - Processador de texto - funcionalidades avançadas",
-      "area_formacao": "Ciências Informáticas",
-      "duracao_total": "25 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a769.jpg",
-      "objetivos": [
-        "Automatizar tarefas de edição e elaboração de documentos.Efectuar impressões em série.Elaborar e utilizar macros e formulários.."
-      ],
-      "conteudos": [
-        "Modelos e assistentes Criação de modelos Modelos pré",
-        "definidos Modelo normal Criação de documentos com recurso a assistentesImpressão em série Documento principal Documento de dadosFormulários Criação de campos de formulários Preenchimento de formuláriosMacros Criação Gravação Execução"
-      ],
-      "formadores": [],
-      "detalhe": {
-        "inicio": "19/01/2026",
-        "fim": "09/02/2026"
-      },
-      "resumo": {
-        "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
-        "local": "Formação a Distância (FAD)"
-      },
-      "apresentacao": null,
-      "metodologia": null,
-      "condicoes_inscricao": null,
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [],
-      "imagens": [],
-      "cards_extraidas": [
-        "Datas de Realização",
-        "Área de Formação",
-        "Objetivos",
-        "Conteúdos Programáticos"
-      ]
-    },
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=380&accao=795",
-      "id_curso": 380,
-      "id_accao": 795,
-      "titulo": "Técnico/a de Geriatria (EFA)",
-      "area_formacao": "Trabalho Social e Orientação",
-      "duracao_total": "1995 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a795.jpg",
-      "objetivos": [
-        "Prestar cuidados de apoio direto ao idoso, em contexto domiciliar e institucional, contribuindo para o seu bem-estar biopsicossocial, tendo em consideração os objetivos definidos pela equipa técnica local e os princípios deontológicos de atuação.."
-      ],
-      "conteudos": [],
-      "formadores": [],
-      "detalhe": {
-        "inicio": "19/01/2026",
-        "fim": "31/12/2027"
-      },
-      "resumo": {
-        "horario": "09:00-13:00/14:00-18:00",
-        "local": "Braga (local a confirmar)"
-      },
-      "apresentacao": "Prestar cuidados de apoio direto ao idoso, em contexto domiciliar e institucional, contribuindo para o seu bem-estar biopsicossocial, tendo em consideração os objetivos definidos pela equipa técnica local e os princípios deontológicos de atuação.",
-      "metodologia": null,
-      "condicoes_inscricao": "Idade superior a 21 anosEmpregados e desempregadosMínimo 9º ano e máximo 12º ano incompleto",
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "19/01/2026",
-        "19/01/2026",
-        "31/12/2027"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Apresentação",
-        "Condições de Inscrição",
-        "Área de Formação",
-        "Objetivos"
-      ]
-    },
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=308&accao=770",
       "id_curso": 308,
@@ -504,6 +363,68 @@
       ]
     },
     {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=365&accao=766",
+      "id_curso": 365,
+      "id_accao": 766,
+      "titulo": "Power BI (Avançado)",
+      "area_formacao": "Ciências Informáticas",
+      "duracao_total": "25 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/c365.jpg",
+      "objetivos": [
+        "-Transformar dados e criar métricas.-Interpretar a linguagem Data Analysis Expressions (DAX).."
+      ],
+      "conteudos": [
+        "Introdução à transformação de dados",
+        "Transformação de dados",
+        "Função Calculate",
+        "Relações eficazmente",
+        "Medidas semi",
+        "aditivas",
+        "Introdução ao DAX no Power BI Desktop",
+        "Inteligência de Tempo e Medidas em DAX",
+        "Introdução à otimização de desempenho",
+        "Desempenho de medidas, relacionamentos e visuais",
+        "Variáveis para melhorar o desempenho e a resolução de problemas",
+        "Redução de cardinalidade",
+        "Otimização dos modelos DirectQuery com armazenamento ao nível da tabela",
+        "Criação de gestão de agregações"
+      ],
+      "formadores": [
+        {
+          "nome": "Ricardo Dias",
+          "biografia": "(n. 1971). Bacharelato em Gestão Informática - Ramo Informática de Gestão (Instituto Politécnico da Guarda). ECDL – Carta Europeia de Condução em Informática. Foi sócio-gerente e fundador da Empresa especializada no desenvolvimento da Plataforma Mestreclique - Gestão Integrada de Formação/ Consultoria. Atualmente é Formador e Consultor em Sistemas de Informação, com predominância na Plataforma Mestreclique, Excel e Power BI e ainda formação-ação para empresas",
+          "foto_url": "https://castelform.pt/ficheiros/e87.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "02/02/2026",
+        "fim": "23/02/2026"
+      },
+      "resumo": {
+        "horario": "19:30-23:00",
+        "local": "Formação a Distância (FAD)"
+      },
+      "apresentacao": null,
+      "metodologia": null,
+      "condicoes_inscricao": null,
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "02/02/2026",
+        "23/02/2026",
+        "02/02/2026",
+        "23/02/2026"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos",
+        "Formador(es)"
+      ]
+    },
+    {
       "url": "https://castelform.pt/informacaocurso.aspx?id=310&accao=758",
       "id_curso": 310,
       "id_accao": 758,
@@ -686,6 +607,45 @@
         "Conteúdos Programáticos",
         "Formador(es)",
         "Metodologia"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=368&accao=769",
+      "id_curso": 368,
+      "id_accao": 769,
+      "titulo": "0755 - Processador de texto - funcionalidades avançadas",
+      "area_formacao": "Ciências Informáticas",
+      "duracao_total": "25 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a769.jpg",
+      "objetivos": [
+        "Automatizar tarefas de edição e elaboração de documentos.Efectuar impressões em série.Elaborar e utilizar macros e formulários.."
+      ],
+      "conteudos": [
+        "Modelos e assistentes Criação de modelos Modelos pré",
+        "definidos Modelo normal Criação de documentos com recurso a assistentesImpressão em série Documento principal Documento de dadosFormulários Criação de campos de formulários Preenchimento de formuláriosMacros Criação Gravação Execução"
+      ],
+      "formadores": [],
+      "detalhe": {
+        "inicio": "09/02/2026",
+        "fim": "02/03/2026"
+      },
+      "resumo": {
+        "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
+        "local": "Formação a Distância (FAD)"
+      },
+      "apresentacao": null,
+      "metodologia": null,
+      "condicoes_inscricao": null,
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [],
+      "imagens": [],
+      "cards_extraidas": [
+        "Datas de Realização",
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos"
       ]
     },
     {

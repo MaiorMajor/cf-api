@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-01-19T09:27:05.265958+00:00",
+  "gerado_em": "2026-01-20T09:10:24.779888+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 112,
   "cursos": [
@@ -113,8 +113,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "19/01/2026",
-            "fim": "09/02/2026"
+            "inicio": "09/02/2026",
+            "fim": "02/03/2026"
           },
           "resumo": {
             "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
@@ -376,8 +376,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "19/01/2026",
-            "fim": "09/02/2026"
+            "inicio": "02/02/2026",
+            "fim": "23/02/2026"
           },
           "resumo": {
             "horario": "19:30-23:00",
@@ -390,10 +390,10 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "19/01/2026",
-            "09/02/2026",
-            "19/01/2026",
-            "09/02/2026"
+            "02/02/2026",
+            "23/02/2026",
+            "02/02/2026",
+            "23/02/2026"
           ],
           "imagens": [],
           "cards_extraidas": [
@@ -2826,49 +2826,8 @@
       "imagem_url": "https://castelform.pt/ficheiros/C380.jpg",
       "conteudos": [],
       "descricao": null,
-      "inscricoes_abertas": true,
-      "acoes": [
-        {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=380&accao=795",
-          "id_curso": 380,
-          "id_accao": 795,
-          "titulo": "Técnico/a de Geriatria (EFA)",
-          "area_formacao": "Trabalho Social e Orientação",
-          "duracao_total": "1995 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/a795.jpg",
-          "objetivos": [
-            "Prestar cuidados de apoio direto ao idoso, em contexto domiciliar e institucional, contribuindo para o seu bem-estar biopsicossocial, tendo em consideração os objetivos definidos pela equipa técnica local e os princípios deontológicos de atuação.."
-          ],
-          "conteudos": [],
-          "formadores": [],
-          "detalhe": {
-            "inicio": "19/01/2026",
-            "fim": "31/12/2027"
-          },
-          "resumo": {
-            "horario": "09:00-13:00/14:00-18:00",
-            "local": "Braga (local a confirmar)"
-          },
-          "apresentacao": "Prestar cuidados de apoio direto ao idoso, em contexto domiciliar e institucional, contribuindo para o seu bem-estar biopsicossocial, tendo em consideração os objetivos definidos pela equipa técnica local e os princípios deontológicos de atuação.",
-          "metodologia": null,
-          "condicoes_inscricao": "Idade superior a 21 anosEmpregados e desempregadosMínimo 9º ano e máximo 12º ano incompleto",
-          "destinatarios": null,
-          "requisitos": null,
-          "certificacao": null,
-          "calendario": [
-            "19/01/2026",
-            "19/01/2026",
-            "31/12/2027"
-          ],
-          "imagens": [],
-          "cards_extraidas": [
-            "Apresentação",
-            "Condições de Inscrição",
-            "Área de Formação",
-            "Objetivos"
-          ]
-        }
-      ]
+      "inscricoes_abertas": false,
+      "acoes": []
     },
     {
       "id_curso": 228,
