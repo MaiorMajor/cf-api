@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-01-23T09:01:44.276999+00:00",
+  "gerado_em": "2026-01-26T09:15:20.383983+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 112,
+  "total": 113,
   "cursos": [
     {
       "id_curso": 362,
@@ -647,6 +647,53 @@
       "descricao": null,
       "inscricoes_abertas": false,
       "acoes": []
+    },
+    {
+      "id_curso": 391,
+      "titulo": "Pensamento Computacional e IA Aplicada à Criação de Conteúdos",
+      "area_formacao": "Ciências Informáticas",
+      "duracao_total": "50.0 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/C391.jpg",
+      "conteudos": [],
+      "descricao": null,
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=391&accao=814",
+          "id_curso": 391,
+          "id_accao": 814,
+          "titulo": "Pensamento Computacional e IA Aplicada à Criação de Conteúdos",
+          "area_formacao": "Ciências Informáticas",
+          "duracao_total": "50 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/a814.jpg",
+          "objetivos": [],
+          "conteudos": [],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "31/01/2026",
+            "fim": "02/03/2026"
+          },
+          "resumo": {
+            "horario": "Pós laboral / Sábados",
+            "local": "Arruamento H Zona Industrial de Albergaria-a-Velha3850-909 Albergaria-a-Velhacristinamfmelo@gmail.com"
+          },
+          "apresentacao": null,
+          "metodologia": null,
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "31/01/2026",
+            "31/01/2026",
+            "02/03/2026"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Área de Formação"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 303,
@@ -1538,7 +1585,7 @@
             "fim": "10/02/2026"
           },
           "resumo": {
-            "horario": "Pós-laboral",
+            "horario": "Pós-Laboral (18:30-22:30 Sábado - 09:00-17:00)",
             "local": "JF de Cabreiros - Braga"
           },
           "apresentacao": "Nos termos do artigo 18.º, Lei n.º 26/2013, de 11 de abril, todos aqueles que necessitam de aplicar estes PF’s devem dispor de certificado da ação de formação em Aplicação de Produtos Fitofarmacêuticos, passando assim a dispor da habilitação de aplicador.Com esta ação pretende-se atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.",
@@ -2133,7 +2180,7 @@
           "formadores": [],
           "detalhe": {
             "inicio": "05/02/2026",
-            "fim": "28/02/2026"
+            "fim": "15/03/2026"
           },
           "resumo": {
             "horario": "Pós laboral",
@@ -2146,7 +2193,7 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "Semana 105-02-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H06-02-2026 - 6ª feira - 19:00 - 22:30 - 3,5 HSemana 212-02-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H13-02-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 318-02-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H21-02-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 423-02-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H26-02-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H28-02-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H"
+            "Semana 105-02-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H06-02-2026 - 6ª feira - 19:00 - 22:30 - 3,5 H07-02-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 212-02-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H13-02-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 318-02-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H21-02-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 423-02-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H26-02-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H"
           ],
           "imagens": [],
           "cards_extraidas": [
