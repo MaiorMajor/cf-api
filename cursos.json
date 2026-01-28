@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-01-28T09:10:19.356174+00:00",
+  "gerado_em": "2026-01-28T14:36:20.573989+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 113,
   "cursos": [
@@ -671,7 +671,7 @@
           "formadores": [],
           "detalhe": {
             "inicio": "31/01/2026",
-            "fim": "02/03/2026"
+            "fim": "03/03/2026"
           },
           "resumo": {
             "horario": "Pós laboral / Sábados",
@@ -686,11 +686,12 @@
           "calendario": [
             "31/01/2026",
             "31/01/2026",
-            "02/03/2026"
+            "03/03/2026"
           ],
           "imagens": [],
           "cards_extraidas": [
-            "Área de Formação"
+            "Área de Formação",
+            "Formador(es)"
           ]
         }
       ]
