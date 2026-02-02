@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-02-02T09:07:43.666089+00:00",
+  "gerado_em": "2026-02-02T13:03:22.075513+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 22,
+  "total": 23,
   "acoes": [
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=16&accao=801",
@@ -194,6 +194,48 @@
         "Área de Formação",
         "Objetivos",
         "Conteúdos Programáticos",
+        "Formador(es)"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=392&accao=818",
+      "id_curso": 392,
+      "id_accao": 818,
+      "titulo": "UC00892 Organizar informação e tratar dados de apoio à gestão",
+      "area_formacao": "Ciências Informáticas",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/c0.jpg",
+      "objetivos": [],
+      "conteudos": [],
+      "formadores": [
+        {
+          "nome": "Elisabete Sofia Rei Lopes",
+          "biografia": "Mestrado em TIC na Educação e Formação (2023). Licenciatura em Educação de Infância pela Escola Superior de Educação de Bragança (ESEB), concluído em julho de 2003. Ensino Secundário, curso de humanidades concluído em 1999, na Escola Secundária de Mirandela. Formadora do IEFP desde 2024 nas temáticas Proficiência digital 0759 – Base de dados. Professora de Informática e programação na Agrupamento de Escolas de Mirandela desde 2021 até ao presente. Educadora de Infância no Colégio Nossa Senhora do Amparo. Formadora da Cefosap desde 2020.",
+          "foto_url": "https://castelform.pt/ficheiros/e16585.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "02/02/2026",
+        "fim": "27/02/2026"
+      },
+      "resumo": {
+        "horario": "Pós laboral / Sábados",
+        "local": "Formação a Distância (FAD)"
+      },
+      "apresentacao": null,
+      "metodologia": null,
+      "condicoes_inscricao": null,
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "02/02/2026",
+        "02/02/2026",
+        "27/02/2026"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Área de Formação",
         "Formador(es)"
       ]
     },
@@ -1078,70 +1120,6 @@
       ]
     },
     {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=2&accao=816",
-      "id_curso": 2,
-      "id_accao": 816,
-      "titulo": "Processos e métodos de proteção fitossanitária e de aplicação de produtos fitofarmacêuticos - UFCD 6281",
-      "area_formacao": "Produção Agrícola e Animal",
-      "duracao_total": "50 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/c2.jpg",
-      "objetivos": [
-        "Capacitar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com os princípios da protecção integrada.."
-      ],
-      "conteudos": [
-        "Introdução ao curso 1. Apresentação do grupo 2. Levantamento de expectativas dos participantes 3. Apresentação do programa de acção BLOCO I",
-        "Princípios gerais de proteção das culturasI.1 Meios de protecção das culturas",
-        "controlo de doenças, pragas e infestantes I.1.1. Luta biológica I.1.2. Luta cultural I.1.3. Luta genética I.1.4. Luta biotécnica I.1.5. Luta química I.2 Proteção integrada I.2.1. Evolução da protecção das plantas I.2.2. Legislação específica I.2.3. Princípios gerais de proteção integrada I.2.4. Estimativa do risco e modelos de previsão I.2.5. Nível económico de ataque (NEA) I.2.6. Tomada de decisão I.2.7. Luta química",
-        "Seleção de produtos fitofarmacêuticos I.2.8. Registo dos tratamentos realizados (caderno de campo) I.3 Produção integrada I.3.1. Princípios da PRODI I.3.2. Estratégia de produção I.3.3. Principais técnicas de produção I.3.4. Regulamentação e registosI.4 Agricultura biológica I.4.1. Princípios gerais I.4.2. Regulamento Comunitário relativo à Agricultura Biológica BLOCO II",
-        "Segurança na utilização de produtos fitofarmacêuticos, sistemas regulamentares e redução do risco II.1 Produtos fitofarmacêiticos II.1.1. Definição de produto fitofarmacêutico II.1.2. Classificação química II.1.3. Modos de ação II.1.4. Formulação II.2 Sistemas regulamentares dos PF II.2.1. Homologação dos produtos fitofarmacêuticos II. 2.2. Produtos ilegais",
-        "sua identificação II.2.3. Distribuição, venda e aplicação II.2.4. Gestão de resíduos de embalagens e de excedentes II.2.5. Outra legislação aplicável ou complementar II.3. Segurança na utilização dos produtos fitofarmacêuticos II.3.1. Aspetos toxicológicos inerentes à manipulação e aplicação dos produtos fitofarmacêuticos II.3.2. Símbolos toxicológicos e ecotoxicológicos II.3.3. Informação e leitura do rótulo II.3.4. Equipamento de proteção individual (EPI) II.3.5. Relação entre o EPI e as diferentes características dos produtos fitofarmacêuticos II.3.6. Sintomas de intoxicação com produtos fitofarmacêuticos II.4 Redução do risco no manuseamento e aplicação de produtos fitofarmacêuticos II.4.1. Verificação das condições de trabalho, condições atmosféricas, material de aplicação a utilizar, leitura do rótulo II.4.2. Cuidados com a preparação da calda II.4.3. Noção de dose e de concentração da calda II.4.4. Utilização do EPI correcto II.4.5. Boas práticas de segurança e saúde no trabalho II.5 Redução do risco para o ambiente, espécies e organismos não visados II.5.1. Impacte no ambiente do uso de produtos fitofarmacêuticos II.5.2. Riscos para as espécies e os organismos não visados resultantes da aplicação dos produtos fitofarmacêuticos II.5.3. Preparação da calda II.5.4. Eliminação de excedentes de calda II.5.5. Lavagem do equipamento de aplicação II.5.6. Gestão de embalagens e produtos obsoletos II.5.7. Boas práticas de segurança e saúde no trabalho II.6 Redução do risco para o consumidor II.6.1. Noção de resíduo II.6.2. Limite Máximo de Resíduo II.6.3. Intervalo de segurança II.6.4. Exposição do consumidor e cumprimento das indicações do rótulo II.6.5. Controlo de resíduos BLOCO III",
-        "Máquinas de aplicação de produtos fitofarmacêuticos e técnicas de aplicaçãoIII.1. Máquinas de aplicação",
-        "pulverizadores, atomizadores e polvilhadores III.1.1. Tipos, constituição e funcionamento III.1.2. Equipamentos combinados de mobilização, sementeira e tratamento fitossanitário III.1.3. Critérios para a seleção das máquinas de aplicação III.1.4. Engate das máquinas ao trator e regulações comuns III.1.5. Inspeção do equipamento e verificação do estado de funcionamento III.1.6. Técnicas de calibração e regulação das máquinas de aplicação III.1.7. Limpeza, conservação e manutenção do material de aplicação III.1.8. Operações de engate ao trator e regulação, de calibração e regulação de máquinas de aplicação e de limpeza, conservação e manutenção III.1.9. Boas práticas de segurança e saúde no trabalhoIII.2. Preparação da calda e técnicas de aplicação III.2.1. Cálculo de doses, concentrações e volumes de calda com herbicidas, inseticidas, fungicidas e outros produtos fitofarmacêuticos III.2.2. Preparação da calda III.2.3. Técnicas de aplicação III.2.4. Arrastamento da calda III.2.5. Cuidados com o equipamento após aplicação III.2.6. Eliminação de excedentes de calda e de embalagens III.2.7. Operações de aplicação de PF III.2.8. Boas práticas de segurança e saúde no trabalho BLOCO IV",
-        "Armazenamento, transporte e acidentes com produtos fitofarmacêuticosIV.1 Armazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticos IV.1.1. Condições e características dos locais de armazenamento de produtos fitofarmacêuticos IV.1.2. Perigos e segurança durante o armazenamento. Sinalização. IV.1.3. Perigos e segurança no transporte de pequenas quantidades de produtos fitofarmacêuticos IV.2 Acidentes com produtos fitofarmacêuticos IV.2.1. Prevenção de acidentes IV.2.2. Acidentes de trabalho IV.2.3. Medidas de primeiros socorros Avaliação e encerramentoAvaliação de conhecimentos Avaliação de conhecimentos",
-        "Prova teórica escritaAvaliação de reação e encerramento Avaliação de reação Encerramento"
-      ],
-      "formadores": [
-        {
-          "nome": "Custódio de Sousa Oliveira",
-          "biografia": "Mestre em Agricultura Biológica. Foi Director Geral da Adega Cooperativa de Braga, Crl entre 1994 e 2001. Téncico Agricola na Cavagri-Cooperativa Agrícola do Alto Cávado, Crl, entre 2001 e 2009. Participação nos workshops regionais do Projecto “Bio-Regiões\", dinamizado pela Rede Rural Nacional e Rede Internacional das Bio-Regiões (INNER). Formador desde 2010, já lecionou diversas formações na área agricola. Formador homologado pela DRAPN em cursos APF e COTS, desde 2013.",
-          "foto_url": "https://castelform.pt/ficheiros/e4493.jpg"
-        },
-        {
-          "nome": "Maria Helena Dias Soares",
-          "biografia": "Bacharelato em Engenharia Agro-Pecuária e Pós-Garduação em Agricultura Biológica. Ministrou diversas formações na area agricola presenciais e online, nomeadamente as UFCD's 9263, 6281, 11026, 926, 6290. É sócia da Associação Portuguesa de Horticultura e da Sociedade da Ciências Agrárias de Portugal.",
-          "foto_url": "https://castelform.pt/ficheiros/e0.jpg"
-        }
-      ],
-      "detalhe": {
-        "inicio": "06/03/2026",
-        "fim": "01/04/2026"
-      },
-      "resumo": {
-        "horario": "2ª a 6ª das 18:30 às 22:30 / Sábado e Domingo das 09:00 às 17:00",
-        "local": "APCB - Amares"
-      },
-      "apresentacao": null,
-      "metodologia": "Activa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de casos e trabalhos de grupo",
-      "condicoes_inscricao": "Idade igual ou superior a 18 anos;Escolaridade mínima obrigatória; Situação Profissional:Activos: trabalhadores por conta de outrém, trabalhadores por conta própria ou em situação de desemprego que exercem actividade agrícola a tempo inteiro ou parcial (agricultores empresários e não empresários, trabalhadores agrícolas permanentes e eventuais, mão de obra agrícola familiar) Outros critérios:Exercer ou vir a exercer actividade relacionada com a aplicação de produtos fitofarmacêuticos",
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "06/03/2026",
-        "06/03/2026",
-        "01/04/2026"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Condições de Inscrição",
-        "Área de Formação",
-        "Objetivos",
-        "Conteúdos Programáticos",
-        "Formador(es)",
-        "Metodologia"
-      ]
-    },
-    {
       "url": "https://castelform.pt/informacaocurso.aspx?id=365&accao=759",
       "id_curso": 365,
       "id_accao": 759,
@@ -1241,6 +1219,70 @@
         "Condições de Inscrição",
         "Área de Formação",
         "Objetivos"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=2&accao=816",
+      "id_curso": 2,
+      "id_accao": 816,
+      "titulo": "Processos e métodos de proteção fitossanitária e de aplicação de produtos fitofarmacêuticos - UFCD 6281",
+      "area_formacao": "Produção Agrícola e Animal",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/c2.jpg",
+      "objetivos": [
+        "Capacitar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com os princípios da protecção integrada.."
+      ],
+      "conteudos": [
+        "Introdução ao curso 1. Apresentação do grupo 2. Levantamento de expectativas dos participantes 3. Apresentação do programa de acção BLOCO I",
+        "Princípios gerais de proteção das culturasI.1 Meios de protecção das culturas",
+        "controlo de doenças, pragas e infestantes I.1.1. Luta biológica I.1.2. Luta cultural I.1.3. Luta genética I.1.4. Luta biotécnica I.1.5. Luta química I.2 Proteção integrada I.2.1. Evolução da protecção das plantas I.2.2. Legislação específica I.2.3. Princípios gerais de proteção integrada I.2.4. Estimativa do risco e modelos de previsão I.2.5. Nível económico de ataque (NEA) I.2.6. Tomada de decisão I.2.7. Luta química",
+        "Seleção de produtos fitofarmacêuticos I.2.8. Registo dos tratamentos realizados (caderno de campo) I.3 Produção integrada I.3.1. Princípios da PRODI I.3.2. Estratégia de produção I.3.3. Principais técnicas de produção I.3.4. Regulamentação e registosI.4 Agricultura biológica I.4.1. Princípios gerais I.4.2. Regulamento Comunitário relativo à Agricultura Biológica BLOCO II",
+        "Segurança na utilização de produtos fitofarmacêuticos, sistemas regulamentares e redução do risco II.1 Produtos fitofarmacêiticos II.1.1. Definição de produto fitofarmacêutico II.1.2. Classificação química II.1.3. Modos de ação II.1.4. Formulação II.2 Sistemas regulamentares dos PF II.2.1. Homologação dos produtos fitofarmacêuticos II. 2.2. Produtos ilegais",
+        "sua identificação II.2.3. Distribuição, venda e aplicação II.2.4. Gestão de resíduos de embalagens e de excedentes II.2.5. Outra legislação aplicável ou complementar II.3. Segurança na utilização dos produtos fitofarmacêuticos II.3.1. Aspetos toxicológicos inerentes à manipulação e aplicação dos produtos fitofarmacêuticos II.3.2. Símbolos toxicológicos e ecotoxicológicos II.3.3. Informação e leitura do rótulo II.3.4. Equipamento de proteção individual (EPI) II.3.5. Relação entre o EPI e as diferentes características dos produtos fitofarmacêuticos II.3.6. Sintomas de intoxicação com produtos fitofarmacêuticos II.4 Redução do risco no manuseamento e aplicação de produtos fitofarmacêuticos II.4.1. Verificação das condições de trabalho, condições atmosféricas, material de aplicação a utilizar, leitura do rótulo II.4.2. Cuidados com a preparação da calda II.4.3. Noção de dose e de concentração da calda II.4.4. Utilização do EPI correcto II.4.5. Boas práticas de segurança e saúde no trabalho II.5 Redução do risco para o ambiente, espécies e organismos não visados II.5.1. Impacte no ambiente do uso de produtos fitofarmacêuticos II.5.2. Riscos para as espécies e os organismos não visados resultantes da aplicação dos produtos fitofarmacêuticos II.5.3. Preparação da calda II.5.4. Eliminação de excedentes de calda II.5.5. Lavagem do equipamento de aplicação II.5.6. Gestão de embalagens e produtos obsoletos II.5.7. Boas práticas de segurança e saúde no trabalho II.6 Redução do risco para o consumidor II.6.1. Noção de resíduo II.6.2. Limite Máximo de Resíduo II.6.3. Intervalo de segurança II.6.4. Exposição do consumidor e cumprimento das indicações do rótulo II.6.5. Controlo de resíduos BLOCO III",
+        "Máquinas de aplicação de produtos fitofarmacêuticos e técnicas de aplicaçãoIII.1. Máquinas de aplicação",
+        "pulverizadores, atomizadores e polvilhadores III.1.1. Tipos, constituição e funcionamento III.1.2. Equipamentos combinados de mobilização, sementeira e tratamento fitossanitário III.1.3. Critérios para a seleção das máquinas de aplicação III.1.4. Engate das máquinas ao trator e regulações comuns III.1.5. Inspeção do equipamento e verificação do estado de funcionamento III.1.6. Técnicas de calibração e regulação das máquinas de aplicação III.1.7. Limpeza, conservação e manutenção do material de aplicação III.1.8. Operações de engate ao trator e regulação, de calibração e regulação de máquinas de aplicação e de limpeza, conservação e manutenção III.1.9. Boas práticas de segurança e saúde no trabalhoIII.2. Preparação da calda e técnicas de aplicação III.2.1. Cálculo de doses, concentrações e volumes de calda com herbicidas, inseticidas, fungicidas e outros produtos fitofarmacêuticos III.2.2. Preparação da calda III.2.3. Técnicas de aplicação III.2.4. Arrastamento da calda III.2.5. Cuidados com o equipamento após aplicação III.2.6. Eliminação de excedentes de calda e de embalagens III.2.7. Operações de aplicação de PF III.2.8. Boas práticas de segurança e saúde no trabalho BLOCO IV",
+        "Armazenamento, transporte e acidentes com produtos fitofarmacêuticosIV.1 Armazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticos IV.1.1. Condições e características dos locais de armazenamento de produtos fitofarmacêuticos IV.1.2. Perigos e segurança durante o armazenamento. Sinalização. IV.1.3. Perigos e segurança no transporte de pequenas quantidades de produtos fitofarmacêuticos IV.2 Acidentes com produtos fitofarmacêuticos IV.2.1. Prevenção de acidentes IV.2.2. Acidentes de trabalho IV.2.3. Medidas de primeiros socorros Avaliação e encerramentoAvaliação de conhecimentos Avaliação de conhecimentos",
+        "Prova teórica escritaAvaliação de reação e encerramento Avaliação de reação Encerramento"
+      ],
+      "formadores": [
+        {
+          "nome": "Custódio de Sousa Oliveira",
+          "biografia": "Mestre em Agricultura Biológica. Foi Director Geral da Adega Cooperativa de Braga, Crl entre 1994 e 2001. Téncico Agricola na Cavagri-Cooperativa Agrícola do Alto Cávado, Crl, entre 2001 e 2009. Participação nos workshops regionais do Projecto “Bio-Regiões\", dinamizado pela Rede Rural Nacional e Rede Internacional das Bio-Regiões (INNER). Formador desde 2010, já lecionou diversas formações na área agricola. Formador homologado pela DRAPN em cursos APF e COTS, desde 2013.",
+          "foto_url": "https://castelform.pt/ficheiros/e4493.jpg"
+        },
+        {
+          "nome": "Maria Helena Dias Soares",
+          "biografia": "Bacharelato em Engenharia Agro-Pecuária e Pós-Garduação em Agricultura Biológica. Ministrou diversas formações na area agricola presenciais e online, nomeadamente as UFCD's 9263, 6281, 11026, 926, 6290. É sócia da Associação Portuguesa de Horticultura e da Sociedade da Ciências Agrárias de Portugal.",
+          "foto_url": "https://castelform.pt/ficheiros/e0.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "17/03/2026",
+        "fim": "09/05/2026"
+      },
+      "resumo": {
+        "horario": "2ª a 6ª das 18:30 às 22:30 / Sábado e Domingo das 09:00 às 17:00",
+        "local": "APCB - Amares"
+      },
+      "apresentacao": null,
+      "metodologia": "Activa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de casos e trabalhos de grupo",
+      "condicoes_inscricao": "Idade igual ou superior a 18 anos;Escolaridade mínima obrigatória; Situação Profissional:Activos: trabalhadores por conta de outrém, trabalhadores por conta própria ou em situação de desemprego que exercem actividade agrícola a tempo inteiro ou parcial (agricultores empresários e não empresários, trabalhadores agrícolas permanentes e eventuais, mão de obra agrícola familiar) Outros critérios:Exercer ou vir a exercer actividade relacionada com a aplicação de produtos fitofarmacêuticos",
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "17/03/2026",
+        "17/03/2026",
+        "09/05/2026"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Condições de Inscrição",
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos",
+        "Formador(es)",
+        "Metodologia"
       ]
     },
     {

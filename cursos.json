@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-02-02T09:09:14.699417+00:00",
+  "gerado_em": "2026-02-02T13:04:52.481074+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 113,
+  "total": 114,
   "cursos": [
     {
       "id_curso": 362,
@@ -708,6 +708,54 @@
       "descricao": null,
       "inscricoes_abertas": false,
       "acoes": []
+    },
+    {
+      "id_curso": 392,
+      "titulo": "UC00892 Organizar informação e tratar dados de apoio à gestão",
+      "area_formacao": "Ciências Informáticas",
+      "duracao_total": "50.0 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/C392.jpg",
+      "conteudos": [],
+      "descricao": null,
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=392&accao=818",
+          "id_curso": 392,
+          "id_accao": 818,
+          "titulo": "UC00892 Organizar informação e tratar dados de apoio à gestão",
+          "area_formacao": "Ciências Informáticas",
+          "duracao_total": "50 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/c0.jpg",
+          "objetivos": [],
+          "conteudos": [],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "02/02/2026",
+            "fim": "27/02/2026"
+          },
+          "resumo": {
+            "horario": "Pós laboral / Sábados",
+            "local": "Formação a Distância (FAD)"
+          },
+          "apresentacao": null,
+          "metodologia": null,
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "02/02/2026",
+            "02/02/2026",
+            "27/02/2026"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Área de Formação",
+            "Formador(es)"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 335,
@@ -1557,8 +1605,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "06/03/2026",
-            "fim": "01/04/2026"
+            "inicio": "17/03/2026",
+            "fim": "09/05/2026"
           },
           "resumo": {
             "horario": "2ª a 6ª das 18:30 às 22:30 / Sábado e Domingo das 09:00 às 17:00",
@@ -1571,9 +1619,9 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "06/03/2026",
-            "06/03/2026",
-            "01/04/2026"
+            "17/03/2026",
+            "17/03/2026",
+            "09/05/2026"
           ],
           "imagens": [],
           "cards_extraidas": [
