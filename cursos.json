@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-02-02T13:04:52.481074+00:00",
+  "gerado_em": "2026-02-02T15:40:15.877328+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 114,
   "cursos": [
@@ -303,8 +303,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "03/02/2026",
-            "fim": "31/03/2026"
+            "inicio": "10/02/2026",
+            "fim": "02/04/2026"
           },
           "resumo": {
             "horario": "Pós laboral das 19h30-22h30",
@@ -317,9 +317,9 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "03/02/2026",
-            "03/02/2026",
-            "31/03/2026"
+            "10/02/2026",
+            "10/02/2026",
+            "02/04/2026"
           ],
           "imagens": [],
           "cards_extraidas": [
@@ -565,8 +565,8 @@
           "conteudos": [],
           "formadores": [],
           "detalhe": {
-            "inicio": "03/02/2026",
-            "fim": "26/02/2026"
+            "inicio": "18/02/2026",
+            "fim": "11/03/2026"
           },
           "resumo": {
             "horario": "Pós laboral (19h30-23h00 e 19h30-23h30)",
@@ -579,9 +579,9 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "03/02/2026",
-            "03/02/2026",
-            "26/02/2026"
+            "18/02/2026",
+            "18/02/2026",
+            "11/03/2026"
           ],
           "imagens": [],
           "cards_extraidas": [
@@ -726,7 +726,7 @@
           "titulo": "UC00892 Organizar informação e tratar dados de apoio à gestão",
           "area_formacao": "Ciências Informáticas",
           "duracao_total": "50 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c0.jpg",
+          "imagem_url": "https://castelform.pt/ficheiros/a818.jpg",
           "objetivos": [],
           "conteudos": [],
           "formadores": [],
@@ -1259,8 +1259,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "02/02/2026",
-            "fim": "23/02/2026"
+            "inicio": "09/02/2026",
+            "fim": "25/02/2026"
           },
           "resumo": {
             "horario": "Pós-laboral",
@@ -1273,9 +1273,9 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "02/02/2026",
-            "02/02/2026",
-            "23/02/2026"
+            "09/02/2026",
+            "09/02/2026",
+            "25/02/2026"
           ],
           "imagens": [],
           "cards_extraidas": [
