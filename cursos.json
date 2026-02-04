@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-02-03T16:25:42.858805+00:00",
+  "gerado_em": "2026-02-04T09:18:44.652699+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 114,
   "cursos": [
@@ -147,52 +147,6 @@
       "descricao": null,
       "inscricoes_abertas": true,
       "acoes": [
-        {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=310&accao=758",
-          "id_curso": 310,
-          "id_accao": 758,
-          "titulo": "0757 - Folha de cálculo - funcionalidades avançadas",
-          "area_formacao": "Ciências Informáticas",
-          "duracao_total": "25 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c310.jpg",
-          "objetivos": [
-            "Executar ligações entre múltiplas folhas de cálculo.",
-            "Efetuar a análise de dados.",
-            "Automatizar ações através da utilização de macros.."
-          ],
-          "conteudos": [
-            "Múltiplas folhas de cálculo Múltiplas folhas Reunião de folhas de cálculo Ligação entre folhas Resumo de dados Inserção de subtotais Destaques Relatórios Análise de dados Análise de dados em tabelas e listas",
-            "Criação, ordenação e filtragem de dados",
-            "Formulários Criação e formatação de uma tabela dinâmica Utilização de totais e subtotais Fórmulas em tabelas dinâmicas Elaboração de gráficos Macros Macros pré",
-            "definidas Macros de personalização das barras de ferramentas Criação e gravação de uma macro Atribuição de uma macro a um botão Execução de uma macro"
-          ],
-          "formadores": [],
-          "detalhe": {
-            "inicio": "03/02/2026",
-            "fim": "26/02/2026"
-          },
-          "resumo": {
-            "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
-            "local": "Formação a Distância (FAD)"
-          },
-          "apresentacao": null,
-          "metodologia": null,
-          "condicoes_inscricao": null,
-          "destinatarios": null,
-          "requisitos": null,
-          "certificacao": null,
-          "calendario": [
-            "- 03/02/2026 das 19:30 às 23:00- 05/02/2026 das 19:30 às 23:00- 10/02/2026 das 19:30 às 22:30- 12/02/2026 das 19:30 às 22:30- 19/02/2026 das 19:30 às 22:30- 20/02/2026 das 19:30 às 22:30 - 24/02/2026 das 19:30 às 22:30- 26/02/2026 das 19:30 às 22:30"
-          ],
-          "imagens": [],
-          "cards_extraidas": [
-            "Datas de Realização",
-            "Área de Formação",
-            "Objetivos",
-            "Conteúdos Programáticos",
-            "Formador(es)"
-          ]
-        },
         {
           "url": "https://castelform.pt/informacaocurso.aspx?id=310&accao=805",
           "id_curso": 310,
