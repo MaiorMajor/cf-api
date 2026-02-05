@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-02-04T15:01:02.720555+00:00",
+  "gerado_em": "2026-02-05T09:13:49.804217+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 21,
   "acoes": [
@@ -45,6 +45,11 @@
       ],
       "formadores": [
         {
+          "nome": "Isabel Maria Ferreira Leandro Vilela",
+          "biografia": "Licenciada em Engª Agricola em 1994 pela UTAD. Formadora desde 1994 tendo já ministrado dezenas de ações de formação a diversos publicos-Alvo nas áreas agricolas. Formadora especialista em Mecanização agrícola, Aplicação de Produtos Fitofarmacêuticos (APF); viticultura; Fruticultura e Equipamentos motomanuais. È empresária agrícola com exploração viticola e frutícola.",
+          "foto_url": "https://castelform.pt/ficheiros/e1702.jpg"
+        },
+        {
           "nome": "Sílvia Pereira",
           "biografia": "(n. 1978). Licenciada em Engenharia Agronómica pel Instituto Politécnico de Bragança. Desde nov. de2001 assume funções de Técnica de viticultura nas Caves Vale do Rodo, CRL. Desde 2003 foi formadora de diversos APFs, COTs e Operação com equipamentos motomanuais. Frequentou diversos cursos específicos relacionados com APF (AMETPP; ADCAPF, DCAPF, na Consultua) e possui curso de “Técnica de Higiene e Segurança no Trabalho (Consultua, 2000), exercendo consultoria e formação na área de HST, designadamente com equipamentos motomanuais",
           "foto_url": "https://castelform.pt/ficheiros/e2755.jpg"
@@ -55,7 +60,7 @@
         "fim": "16/02/2026"
       },
       "resumo": {
-        "horario": "Pós-Laboral (18:30-22:30 Sábado - 09:00-17:00)",
+        "horario": "2ª a 6ª das 18:30 às 22:30 / Sábado e Domingo das 09:00 às 17:00",
         "local": "JF de Penajóia"
       },
       "apresentacao": null,
