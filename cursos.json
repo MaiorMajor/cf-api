@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-02-13T15:57:14.293034+00:00",
+  "gerado_em": "2026-02-16T09:07:33.121013+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 114,
+  "total": 113,
   "cursos": [
     {
       "id_curso": 362,
@@ -1894,7 +1894,7 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "Semana 125-02-2026 - 4ª feira - 14:30 - 17:30 e das 18:30 - 22:30 - 7.0 H26-02-2026 - 5ª feira - 14:30 - 17:30 e das 18:30 - 22:30 - 7.0 H27-02-2026 - 6ª feira - 14:30 - 17:30 e das 18:30 - 22:30 - 7.0 H28-02-2026 - Sábado - 14:30 - 17:30 e das 18:30 - 22:30 - 7.0 HSemana 209-03-2026 - 2ª feira - 13:30 - 17:30 - 4.0 H10-03-2026 - 3ª feira - 14:30 - 17:30 - 3.0 HSemana 317-03-2026 - 3ª feira - 13:30 - 17:30 - 4.0 H18-03-2026 - 4ª feira - 13:30 - 17:30 - 4.0 HSemana 424-03-2026 - 3ª feira - 14:30 - 17:30 - 3.0 HSemana 530-03-2026 - 2ª feira - 13:30 - 17:30 - 4.0 H"
+            "Semana 125-02-2026 - 4ª feira - 14:30 - 17:30 e das 18:30 - 22:30 - 7.0 H26-02-2026 - 5ª feira - 14:30 - 17:30 e das 18:30 - 22:30 - 7.0 H27-02-2026 - 6ª feira - 14:30 - 17:30 e das 18:30 - 22:30 - 7.0 H28-02-2026 - Sábado - 14:30 - 17:30 e das 18:30 - 22:30 - 7.0 HSemana 209-03-2026 - 2ª feira - 14:30 - 17:30 - 3.0 H10-03-2026 - 3ª feira - 14:30 - 17:30 - 3.0 HSemana 317-03-2026 - 3ª feira - 14:30 - 17:30 - 3.0 H18-03-2026 - 4ª feira - 14:30 - 17:30 - 3.0 HSemana 424-03-2026 - 3ª feira - 14:30 - 17:30 e das 19:00 - 22:00 - 6.0 HSemana 530-03-2026 - 2ª feira - 13:30 - 17:30 - 4.0 H"
           ],
           "imagens": [],
           "cards_extraidas": [
@@ -1915,19 +1915,6 @@
       "imagem_url": "https://castelform.pt/ficheiros/C75.jpg",
       "conteudos": [
         "Caracterização morfológica e fisiológica das diferentes espécies frutícolasCiclo vegetativo, estados fenológicos e hábitos de frutificaçãoConceitos básicos de enxertia Épocas adequadas para a realização da enxertia Material de enxertia Colheita e conservação do material vegetativo Tipos de enxertia Selecção do tipo de enxertiaExecução dos diferentes tipos de enxertiaConceitos básicos de poda Épocas adequadas para a realização da poda Material de poda Formas de condução e densidade Tipos de poda e relação com os hábitos de frutificação das variedades Poda de formação Poda de frutificação/renovação Técnicas de corte, proteção das feridas e sua cicatrização Poda em verde e época de realização Intensidade da poda Monda de frutos, época de realização e técnicas utilizadasDiferentes sistemas de conduçãoRelação entre o tipo de poda e o sistema de conduçãoExecução dos diferentes tipos de poda, de acordo com o estado vegetativo, sanidade e sistema de condução escolhidoBoas práticas de segurança, higiene e saúde no trabalho"
-      ],
-      "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
-    },
-    {
-      "id_curso": 387,
-      "titulo": "Podar e enxertar fruteiras (UC 4274)",
-      "area_formacao": "Produção Agrícola e Animal",
-      "duracao_total": null,
-      "imagem_url": "https://castelform.pt/ficheiros/C387.jpg",
-      "conteudos": [
-        "Efetua a poda:- Classificação das principais espécies e variedades (UFCD 6284)- Épocas de cultivo e ciclo biológico das principais espécies frutícolas (UFCD 6284)- Sistemas de plantação e de condução (UFCD 6284)- Sistemas culturais em proteção integrada e em produção integrada (UFCD 6284)- Sistemas culturais em modo de produção biológico (UFCD 6284)- Ciclo vegetativo, estados fenológicos e hábitos de frutificação (UFCD 6352)- Conceitos básicos de poda (UFCD 6352)- Diferentes sistemas de condução (UFCD 6352)- Relação entre o tipo de poda e o sistema de condução (UFCD 6352)- Execução dos diferentes tipos de poda, de acordo com o estado vegetativo, sanidade e sistema de condução escolhido (UFCD 6352)- Registo de dados (UFCD 2920)- Boas práticas de segurança, higiene e saúde no trabalho (UFCD 6352).Efetua a Enxertia:- Classificação das principais espécies e variedades (UFCD 6284)- Épocas de cultivo e ciclo biológico das principais espécies frutícolas (UFCD 6284)- Sistemas de plantação e de condução (UFCD 6284)- Sistemas culturais em proteção integrada e em produção integrada (UFCD 6284)- Sistemas culturais em modo de produção biológico (UFCD 6284)- Ciclo vegetativo, estados fenológicos e hábitos de frutificação (UFCD 6352)- Conceitos básicos de enxertia (UFCD 6352)- Boas práticas de segurança, higiene e saúde no trabalho (UFCD 6352)- Registo de dados (UFCD 2920)."
       ],
       "descricao": null,
       "inscricoes_abertas": false,
