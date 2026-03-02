@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-02-20T09:03:44.103670+00:00",
+  "gerado_em": "2026-03-02T08:53:19.415581+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 114,
   "cursos": [
@@ -19,7 +19,7 @@
       "titulo": "Técnicas do bordado (UFCD 5458)",
       "area_formacao": "Artesanato",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C200.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c200.jpg",
       "conteudos": [
         "Definição de bordadoMatérias-primasMatérias secundáriasBastidoresEquipamentos utilizados nos bordadosIntrodução ao estudo da história do bordado"
       ],
@@ -46,7 +46,7 @@
           "titulo": "0754 - Processador de texto",
           "area_formacao": "Ciências Informáticas",
           "duracao_total": "50 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/a768.jpg",
+          "imagem_url": "https://castelform.pt/ficheiros/a768.jpg?v=202507251221",
           "objetivos": [
             "Elaborar, editar e imprimir documentos.Introduzir elementos gráficos em documentos.Elaborar e editar documentos longos.."
           ],
@@ -56,8 +56,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "03/03/2026",
-            "fim": "14/04/2026"
+            "inicio": "24/03/2026",
+            "fim": "05/05/2026"
           },
           "resumo": {
             "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
@@ -70,10 +70,10 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "03/03/2026",
-            "14/04/2026",
-            "03/03/2026",
-            "14/04/2026"
+            "24/03/2026",
+            "05/05/2026",
+            "24/03/2026",
+            "05/05/2026"
           ],
           "imagens": [],
           "cards_extraidas": [
@@ -103,7 +103,7 @@
           "titulo": "0755 - Processador de texto - funcionalidades avançadas",
           "area_formacao": "Ciências Informáticas",
           "duracao_total": "25 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/a769.jpg",
+          "imagem_url": "https://castelform.pt/ficheiros/a769.jpg?v=202507251211",
           "objetivos": [
             "Automatizar tarefas de edição e elaboração de documentos.Efectuar impressões em série.Elaborar e utilizar macros e formulários.."
           ],
@@ -113,8 +113,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "02/03/2026",
-            "fim": "23/03/2026"
+            "inicio": "06/04/2026",
+            "fim": "27/04/2026"
           },
           "resumo": {
             "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
@@ -142,15 +142,15 @@
       "titulo": "0757 - Folha de cálculo - funcionalidades avançadas",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C310.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c310.jpg",
       "conteudos": [],
       "descricao": null,
       "inscricoes_abertas": true,
       "acoes": [
         {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=310&accao=805",
+          "url": "https://castelform.pt/informacaocurso.aspx?id=310&accao=823",
           "id_curso": 310,
-          "id_accao": 805,
+          "id_accao": 823,
           "titulo": "0757 - Folha de cálculo - funcionalidades avançadas",
           "area_formacao": "Ciências Informáticas",
           "duracao_total": "25 horas",
@@ -168,11 +168,11 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "03/03/2026",
-            "fim": "26/03/2026"
+            "inicio": "02/04/2026",
+            "fim": "27/04/2026"
           },
           "resumo": {
-            "horario": "Pós laboral (19h30-23h00 e 19h30-23h30)",
+            "horario": "Laboral (14h00-17h00 e 14h00-18h00)",
             "local": "Formação a Distância (FAD)"
           },
           "apresentacao": null,
@@ -181,7 +181,9 @@
           "destinatarios": null,
           "requisitos": null,
           "certificacao": null,
-          "calendario": [],
+          "calendario": [
+            "- 02/04/2026 das 14:00 às 17:00- 09/04/2026 das 14:00 às 17:00- 13/04/2026 das 14:00 às 18:00- 16/04/2026 das 14:00 às 17:00- 20/04/2026 das 14:00 às 18:00- 23/04/2026 das 14:00 às 17:00- 27/04/2026 das 14:00 às 18:00"
+          ],
           "imagens": [],
           "cards_extraidas": [
             "Datas de Realização",
@@ -209,7 +211,7 @@
       "titulo": "10526 - Literacia digital - iniciação",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C301.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c301.jpg",
       "conteudos": [
         "– Utilização do computadoro Barra de tarefaso Noção de íconeo Menu Iniciaro Programaso Pastas e ficheiros– Navegação digitalo Browsero Pesquisa e filtro de informaçãoo Análise de informação filtradao Armazenagem e recuperação da informação– Plataformas digitaiso Gestão da identidade digital em diversas plataformas (ex: e-mail, passaporte qualifica, etc.)o Interação através de plataformas digitaiso Partilha de informação e conteúdoo Colaboração através de tecnologias digitais– Segurança e privacidadeo Proteção dos dados pessoais"
       ],
@@ -238,8 +240,56 @@
       "imagem_url": "https://castelform.pt/ficheiros/C379.jpg",
       "conteudos": [],
       "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=379&accao=794",
+          "id_curso": 379,
+          "id_accao": 794,
+          "titulo": "10794 - Programação avançada com Python",
+          "area_formacao": "Ciências Informáticas",
+          "duracao_total": "50 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/a794.jpg?v=202511280447",
+          "objetivos": [
+            "Capacitar os formandos a criar soluções de alta complexidade utilizando Python, aprofundando conhecimentos em estruturas avançadas da linguagem, boas práticas de desenvolvimento, programação orientada a objetos, integração com bibliotecas especializadas e construção de aplicações robustas, eficientes e escaláveis para diferentes contextos profissionais.."
+          ],
+          "conteudos": [
+            "Tratamento idiomático de dados Comparação de operadores em cadeia Indentação Falsy Truthy Equivalente ao operador ternário Palavra reservada “in” Uso do retorno na avaliação de expressões Formatação de strings Expressões LambdaClasses e Objetos Criação de classes Privados vs públicos Herança Métodos estáticosSerialization e deserialization de objetos em PythonTeste, registo e depuraçãoCriação de livrarias e distribuição de programas em PythonÂmbito em funçõesMetaprogramação, programação dinâmica Metaclasses Código a gerar códigoIteradores, Geradores e Co",
+            "rotinas Método iter() Looping Como criar iteradores Geradores Método __next_()Desenvolvimento para a web em Python Django ou Flask Criação de webservices Acesso a dado"
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "10/03/2026",
+            "fim": "21/04/2026"
+          },
+          "resumo": {
+            "horario": "Pós laboral das 19h30-22h30",
+            "local": "Formação a Distância (FAD)"
+          },
+          "apresentacao": "Prepare-se para o Futuro da Análise de Dados! Neste curso prático e dinâmico, fica capacitado a manipular e transformar dados de forma eficiente utilizando a poderosa linguagem Python. O curso aborda desde a importação de dados até a criação de variáveis personalizadas, passando por operações de limpeza e transformação.",
+          "metodologia": "Formação a distância (totalmente \"on line\").Utilização do método demonstrativo nas sessões síncronas (on line) com execução de exercícios práticos/atividades colocados na plataforma e que os formandos descarregam para os seus PCs no inicio de cada sessão e/ou nova atividade. Havendo autorização dos formandos, as sessões de formação são gravadas e os vídeos disponibilizados após cada sessãsão. Desta forma, os vídeos são recrusos pedagógicos de apoio cuja visualização permite aos formandos repetir o exercício/atividade e desta forma ir consolidando as funcionalidades e rotinas de progrmação com Python a fim de que no final consigam a produção de dashboards e relatórios analíticos mais atrativos e informativos.",
+          "condicoes_inscricao": "Escolaridade mínima:12º ano (completo).Documentação necessária:1. Cópia do cartão de cidadão ou do Visto de Residência, com autorização para trabalho (se candidato/a estrangeiro/a).2. Certificado Escolar ou Certificado de Habilitações Académicas (ou Declaração da instituição de Ensino onde completou, com aproveitamento, o último ano escolar ou do ensino superior, atestando dessa forma as habilitações escolares ou académicas. No caso de candidato/a estrangeiro/a, o certificado de escolaridade ou o certificado de habilitações académicas deve estar reconhecido no sistema de ensino português (seja Escola Secundária, seja Universidade).3. Cópia do último recibo de vencimento (podem ser rasurados os valores auferidos).4. Declaração de Horário de trabalho (ex: de segunda a sexta feira, das 9:00h às 13:00h e das 14:00h às 18:00h).5. IBAN extraído do Netbanking onde deve constar o nome do/a candidato/a.Pagamento do subsídio de alimentação no valor de 6,00 euros/sessão, aos formandos que completem, em cada sessão, pelo menos 3 horas de formação no horário pós-laboral.",
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "10/03/2026",
+            "10/03/2026",
+            "21/04/2026"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Apresentação",
+            "Condições de Inscrição",
+            "Área de Formação",
+            "Objetivos",
+            "Objetivos Específicos",
+            "Conteúdos Programáticos",
+            "Formador(es)",
+            "Metodologia"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 365,
@@ -254,10 +304,132 @@
       "inscricoes_abertas": true,
       "acoes": [
         {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=365&accao=759",
+          "url": "https://castelform.pt/informacaocurso.aspx?id=365&accao=824",
           "id_curso": 365,
+          "id_accao": 824,
+          "titulo": "Power BI (Avançado)",
+          "area_formacao": "Ciências Informáticas",
+          "duracao_total": "25 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/c365.jpg?v=202507251152",
+          "objetivos": [
+            "-Transformar dados e criar métricas.-Interpretar a linguagem Data Analysis Expressions (DAX).."
+          ],
+          "conteudos": [
+            "Introdução à transformação de dados",
+            "Transformação de dados",
+            "Função Calculate",
+            "Relações eficazmente",
+            "Medidas semi",
+            "aditivas",
+            "Introdução ao DAX no Power BI Desktop",
+            "Inteligência de Tempo e Medidas em DAX",
+            "Introdução à otimização de desempenho",
+            "Desempenho de medidas, relacionamentos e visuais",
+            "Variáveis para melhorar o desempenho e a resolução de problemas",
+            "Redução de cardinalidade",
+            "Otimização dos modelos DirectQuery com armazenamento ao nível da tabela",
+            "Criação de gestão de agregações"
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "04/05/2026",
+            "fim": "25/05/2026"
+          },
+          "resumo": {
+            "horario": "Laboral (14h00-17h00 e 14h00-18h00)",
+            "local": "Formação a Distância (FAD)"
+          },
+          "apresentacao": null,
+          "metodologia": null,
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "- 04/05/2025 das 14:00 às 18:00- 07/05/2025 das 14:00 às 17:00- 11/05/2025 das 14:00 às 18:00- 14/05/2025 das 14:00 às 17:00- 18/05/2025 das 14:00 às 18:00- 21/05/2025 das 14:00 às 17:00- 25/05/2025 das 14:00 às 18:00"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Datas de Realização",
+            "Área de Formação",
+            "Objetivos",
+            "Conteúdos Programáticos",
+            "Formador(es)"
+          ]
+        },
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=365&accao=766",
+          "id_curso": 365,
+          "id_accao": 766,
+          "titulo": "Power BI (Avançado)",
+          "area_formacao": "Ciências Informáticas",
+          "duracao_total": "25 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/c365.jpg?v=202507251152",
+          "objetivos": [
+            "-Transformar dados e criar métricas.-Interpretar a linguagem Data Analysis Expressions (DAX).."
+          ],
+          "conteudos": [
+            "Introdução à transformação de dados",
+            "Transformação de dados",
+            "Função Calculate",
+            "Relações eficazmente",
+            "Medidas semi",
+            "aditivas",
+            "Introdução ao DAX no Power BI Desktop",
+            "Inteligência de Tempo e Medidas em DAX",
+            "Introdução à otimização de desempenho",
+            "Desempenho de medidas, relacionamentos e visuais",
+            "Variáveis para melhorar o desempenho e a resolução de problemas",
+            "Redução de cardinalidade",
+            "Otimização dos modelos DirectQuery com armazenamento ao nível da tabela",
+            "Criação de gestão de agregações"
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "11/06/2026",
+            "fim": "30/06/2026"
+          },
+          "resumo": {
+            "horario": "Pós laboral (19h30-23h00 e 19h30-22h30)",
+            "local": "Formação a Distância (FAD)"
+          },
+          "apresentacao": null,
+          "metodologia": null,
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "- 11/06/2025 das 19:30 às 23:00- 12/06/2025 das 19:30 às 23:00- 16/06/2025 das 19:30 às 22:30- 18/06/2025 das 19:30 às 22:30- 19/06/2025 das 19:30 às 22:30- 25/06/2025 das 19:30 às 22:30- 26/06/2025 das 19:30 às 22:30- 30/06/2025 das 19:30 às 22:30"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Datas de Realização",
+            "Área de Formação",
+            "Objetivos",
+            "Conteúdos Programáticos",
+            "Formador(es)"
+          ]
+        }
+      ]
+    },
+    {
+      "id_curso": 331,
+      "titulo": "10803 - Análise avançada de dados",
+      "area_formacao": "Ciências Informáticas",
+      "duracao_total": "25.0 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/C331.jpg",
+      "conteudos": [
+        "Introdução à análise avançada de dadosResumo estatísticoOutliers com visuais no Power BIClusterização de dadosTécnicas de agrupamentoAnálise de séries temporaisFunção AnaliseVisuais personalizados de análise avançadaFuncionalidade Quick InsightsFuncionalidade de inteligência artificialIntrodução ao trabalho com visões de inteligência artificialControle de qualidade visualInfluenciadores-chave visuaisElementos visuais da Árvore de DecomposiçãoAnálise de dados no Power BI Desktop"
+      ],
+      "descricao": null,
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=331&accao=759",
+          "id_curso": 331,
           "id_accao": 759,
-          "titulo": "Power BI",
+          "titulo": "10803 - Análise avançada de dados",
           "area_formacao": "Ciências Informáticas",
           "duracao_total": "25 horas",
           "imagem_url": "https://castelform.pt/ficheiros/a759.jpg",
@@ -282,11 +454,11 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "10/03/2026",
-            "fim": "31/03/2026"
+            "inicio": "02/03/2026",
+            "fim": "23/03/2026"
           },
           "resumo": {
-            "horario": "19:30-23:00",
+            "horario": "Laboral (14h00-17h00 e 14h00-18h00)",
             "local": "Formação a Distância (FAD)"
           },
           "apresentacao": null,
@@ -296,61 +468,61 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "10/03/2026",
-            "31/03/2026",
-            "10/03/2026",
-            "31/03/2026"
+            "- 02/03/2026 das 14:00 às 18:00- 05/03/2026 das 14:00 às 17:00- 09/03/2026 das 14:00 às 18:00- 12/03/2026 das 14:00 às 17:00- 16/03/2026 das 14:00 às 18:00- 19/03/2026 das 14:00 às 17:00- 23/03/2026 das 14:00 às 18:00"
           ],
           "imagens": [],
           "cards_extraidas": [
+            "Datas de Realização",
             "Área de Formação",
             "Objetivos",
             "Conteúdos Programáticos",
             "Formador(es)"
           ]
-        }
-      ]
-    },
-    {
-      "id_curso": 331,
-      "titulo": "10803 - Análise avançada de dados",
-      "area_formacao": "Ciências Informáticas",
-      "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C331.jpg",
-      "conteudos": [
-        "Introdução à análise avançada de dadosResumo estatísticoOutliers com visuais no Power BIClusterização de dadosTécnicas de agrupamentoAnálise de séries temporaisFunção AnaliseVisuais personalizados de análise avançadaFuncionalidade Quick InsightsFuncionalidade de inteligência artificialIntrodução ao trabalho com visões de inteligência artificialControle de qualidade visualInfluenciadores-chave visuaisElementos visuais da Árvore de DecomposiçãoAnálise de dados no Power BI Desktop"
-      ],
-      "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": [
+        },
         {
           "url": "https://castelform.pt/informacaocurso.aspx?id=331&accao=728",
           "id_curso": 331,
           "id_accao": 728,
-          "titulo": "Castelform",
-          "area_formacao": null,
-          "duracao_total": null,
-          "imagem_url": "https://castelform.pt/ficheiros/c331.jpg",
-          "objetivos": [],
-          "conteudos": [],
+          "titulo": "Power BI",
+          "area_formacao": "Ciências Informáticas",
+          "duracao_total": "25 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/a728.jpg?v=202410210248",
+          "objetivos": [
+            "A importância do uso correto dos dados permite uma leitura das variáveis do seu negócio e dá a perspectiva que auxilia na tomada de decisões.."
+          ],
+          "conteudos": [
+            "Introdução à análise avançada de dadosSumário estatísticoOutliers com visuais em Power BIClusterização de dadosTécnicas de agrupamentoAnálise de séries temporaisFunção AnaliseVisuais personalizados de análise avançadaFuncionalidade Quick InsightsFuncionalidade de inteligência artificialIntrodução ao trabalho com visuais de inteligência artificialVisual QAInfluenciadores",
+            "chave visuaisElementos visuais da Árvore de DecomposiçãoAnálise de dados no Power BI Desktop"
+          ],
           "formadores": [],
           "detalhe": {
-            "inicio": null,
-            "fim": null
+            "inicio": "31/03/2026",
+            "fim": "17/04/2026"
           },
           "resumo": {
-            "horario": null,
-            "local": null
+            "horario": "Pós laboral (19h30-23h00 e 19h30-22h30)",
+            "local": "Formação a Distância (FAD)"
           },
           "apresentacao": null,
-          "metodologia": null,
-          "condicoes_inscricao": null,
+          "metodologia": "Formação a distância (totalmente \"on line\").Utilização do método demonstrativo na execução de exercícios práticos/ atividades colocados na plataforma e que os formandos descarregam para os seus PCs no início de cada sessão e/ou proposta de atividade. Tendo por base as explicações teóricas, os formandos irão repetir o exercício/atividade e desta forma ir consolidando as funcionalidades e rotinas de folha de cálculo a fim de que no final consigam a produção de dashboards e relatórios analíticos mais atrativos e informativos.",
+          "condicoes_inscricao": "Ativos empregados (exceto os da Administração Pública) com habilitação igual ou superior ao 12º ano de escolaridade.Atribuição de Subsidio de Alimentação no valor de 6,00 euros por sessão frequentada, com pelo menos 3 horas de duração.",
           "destinatarios": null,
           "requisitos": null,
           "certificacao": null,
-          "calendario": [],
+          "calendario": [
+            "- 31/03/2025 das 19:30 às 23:00- 02/04/2025 das 19:30 às 23:00- 07/04/2025 das 19:30 às 22:30- 09/04/2025 das 19:30 às 22:30- 10/04/2025 das 19:30 às 22:30- 14/04/2025 das 19:30 às 22:30- 16/04/2025 das 19:30 às 22:30- 17/04/2025 das 19:30 às 22:30"
+          ],
           "imagens": [],
-          "cards_extraidas": []
+          "cards_extraidas": [
+            "Datas de Realização",
+            "Condições de Inscrição",
+            "Área de Formação",
+            "Objetivos",
+            "Objetivos Específicos",
+            "Conteúdos Programáticos",
+            "Formador(es)",
+            "Metodologia"
+          ]
         }
       ]
     },
@@ -359,7 +531,7 @@
       "titulo": "10805 - Programação em Python",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "50.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C369.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c369.jpg",
       "conteudos": [
         "Introdução ao PythonAnaconda e ambientes de desenvolvimento IDE’s ( Jupyter NotebookConceitos genéricos de programação Tipos de dados Programação Condicional Funções Iterações ClassesGitHub GitHub Conceitos básicos de gestão de versões Boas práticas de colaboraçãoProjeto de programação"
       ],
@@ -401,8 +573,44 @@
       "imagem_url": "https://castelform.pt/ficheiros/C308.jpg",
       "conteudos": [],
       "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=308&accao=770",
+          "id_curso": 308,
+          "id_accao": 770,
+          "titulo": "9188 - Fundamentos de cibersegurança",
+          "area_formacao": "Ciências Informáticas",
+          "duracao_total": "25 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/a770.jpg?v=202507250424",
+          "objetivos": [],
+          "conteudos": [],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "08/04/2026",
+            "fim": "29/04/2026"
+          },
+          "resumo": {
+            "horario": "Pós laboral (19h30-23h00 e 19h30-23h30)",
+            "local": "Formação a Distância (FAD)"
+          },
+          "apresentacao": null,
+          "metodologia": null,
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "08/04/2026",
+            "08/04/2026",
+            "29/04/2026"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Área de Formação"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 144,
@@ -454,13 +662,58 @@
       "titulo": "Folha de cálculo - funcionalidades avançadas (UFCD_0757)",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C4.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c4.jpg",
       "conteudos": [
         "Múltiplas folhas de cálculo Múltiplas folhas Reunião de folhas de cálculo Ligação entre folhas Resumo de dados Inserção de subtotais Destaques Relatórios Análise de dados Análise de dados em tabelas e listas - Criação, ordenação e filtragem de dados - Formulários Criação e formatação de uma tabela dinâmica Utilização de totais e subtotais Fórmulas em tabelas dinâmicas Elaboração de gráficos Macros Macros pré-definidas Macros de personalização das barras de ferramentas Criação e gravação de uma macro Atribuição de uma macro a um botão Execução de uma macro"
       ],
       "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=4&accao=735",
+          "id_curso": 4,
+          "id_accao": 735,
+          "titulo": "Excel Intermédio (UFCD 0758) (PÓS-LABORAL)",
+          "area_formacao": "Ciências Informáticas",
+          "duracao_total": "25 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/a735.jpg",
+          "objetivos": [
+            "Capacitar os formandos para aumentar a produtividade no tratamento e análise de dados e produção de relatórios mais atrativos.."
+          ],
+          "conteudos": [
+            "Múltiplas folhas de cálculo Múltiplas folhas Reunião de folhas de cálculo Ligação entre folhas Resumo de dados Inserção de subtotais Destaques Relatórios Análise de dados Análise de dados em tabelas e listas",
+            "Criação, ordenação e filtragem de dados",
+            "Formulários Criação e formatação de uma tabela dinâmica Utilização de totais e subtotais Fórmulas em tabelas dinâmicas Elaboração de gráficos Macros Macros pré",
+            "definidas Macros de personalização das barras de ferramentas Criação e gravação de uma macro Atribuição de uma macro a um botão Execução de uma macro"
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "07/04/2026",
+            "fim": "28/04/2026"
+          },
+          "resumo": {
+            "horario": "Pós-laboral",
+            "local": "Formação a Distância (FAD)"
+          },
+          "apresentacao": "Esta formação tem como objetivo a criação e melhoria do tratamento e processamento de dados para a análise de resultados e a produção de tabelas, gráficos e relatórios/dashboards. O curso é essencial para quem pretender seguir para a formação de Power BI. Na reta final do curso o formador fará uma apresentação e exemplificação das potencialidades do Power BI.",
+          "metodologia": "Formação a distância (totalmente \"on line\").Utilização do método demonstrativo na execução de exercícios práticos/ atividades colocados na plataforma e que os formandos descarregam para os seus PCs no início de cada sessão e/ou proposta de atividade. Tendo por base as explicações teóricas, os formandos irão repetir o exercício/atividade e desta forma ir consolidando as funcionalidades e rotinas de folha de cálculo a fim de que no final consigam a produção de tabelas dinâmicas, gráficos e dashboards mais atrativos e informativos.",
+          "condicoes_inscricao": "Mínimo 3º ciclo completoidade superior a 18 anosSituação profissional - não plicável. Exceconalmente são aceites pessoas em situação de \"Reformado/a\" ou de \"Estudante\", desde que apresente Extrato de Descontos à Segurança Social, atestando que não estão a fazer descontos.",
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [],
+          "imagens": [],
+          "cards_extraidas": [
+            "Datas de Realização",
+            "Apresentação",
+            "Condições de Inscrição",
+            "Área de Formação",
+            "Objetivos",
+            "Conteúdos Programáticos",
+            "Metodologia"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 391,
@@ -514,7 +767,7 @@
       "titulo": "Sistemas operativos - instalação e configuração (UFCD 0772)",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C267.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c267.jpg",
       "conteudos": [
         "Tipos de sistemas operativoso Exigências do sistema operativo quanto às capacidades do equipamentoo Instalação do SO a partir de periféricoso Selecção de opções na instalaçãoo Definição do plano de configuração de periféricoso Definição do modelo de loginso Configuração do SO de acordo com as necessidades de cada utilizadoro Manutenção do SO por alteração da configuração do equipamento",
         "Tipos de utilitárioso Antivíruso Gestores de discoo Compressores e descompressores de dadoso Conversores de ficheiroso Browsers de acesso a uma rede intranet/Interneto Emulação de terminaiso Transferência de ficheiros (File Transfer)o Acesso a bases de dadoso Acesso remoto a servidoreso Gestores de monitorização de tráfego de redeso Gestores de mail o Gestores de bancos de imagenso Gestores de comunicações"
@@ -566,7 +819,7 @@
           "titulo": "0393 - Internet como estratégia de marketing",
           "area_formacao": "Comércio",
           "duracao_total": "50 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/a767.jpg",
+          "imagem_url": "https://castelform.pt/ficheiros/a767.jpg?v=202507251016",
           "objetivos": [
             "Capacitar os formandos para a gestão da presença empresarial das suas Entidades Empregadoras nas redes sociais.."
           ],
@@ -583,8 +836,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "03/03/2026",
-            "fim": "14/04/2026"
+            "inicio": "17/03/2026",
+            "fim": "28/04/2026"
           },
           "resumo": {
             "horario": "Pós-laboral",
@@ -695,7 +948,7 @@
       "titulo": "Apresentação, argumentação e fecho de vendas (UFCD 0390)",
       "area_formacao": "Comércio",
       "duracao_total": "50.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C213.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c213.jpg",
       "conteudos": [],
       "descricao": null,
       "inscricoes_abertas": false,
@@ -706,7 +959,7 @@
       "titulo": "Atendimento e venda presencial (UFCD_5897)",
       "area_formacao": "O curso de formação visa desenvolver nos formandos conhecimentos de suporte à área do atendimento. Pretende-se que no final do curso os formandos sejam capazes de: Efetuar um atendimento em conformidade com os parâmetros básicos de atendimento; Gerar uma cultura de qualidade no atendimento, contribuindo para a melhoria da imagem da organização; Identificar e caraterizar os elementos intervenientes nas técnicas de venda presencial.",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C137.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c137.jpg",
       "conteudos": [],
       "descricao": null,
       "inscricoes_abertas": false,
@@ -728,7 +981,7 @@
       "titulo": "Comunicação Interpessoal e Assertividade (UFCD_5440)",
       "area_formacao": "Comércio",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C192.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c192.jpg",
       "conteudos": [
         "Comunicação interpessoal:-Elementos básicos do processo comunicacional-Determinantes da comunicação eficaz-Estilos comunicacionais-A comunicação como objeto de dinamização de uma equipa de trabalhoEstilos de comportamento e comportamento assertivo:-Estilos típicos de comportamento-Dimensões do comportamento assertivo-Componente emocional da assertividade-Desenvolvimento da assertividade"
       ],
@@ -765,7 +1018,7 @@
       "titulo": "Gestão de equipas (UFCD 7844)",
       "area_formacao": "Comércio",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C187.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c187.jpg",
       "conteudos": [
         "Organização do trabalho de equipa Comunicar eficazmente com a equipa Gestão orientada para os resultados e para as pessoas Técnicas de motivação e dinamização da equipa Gestão de conflitos Orientação da equipa para a mudança Liderança Liderança de equipas: fenómenos e dinâmicas próprias, desafios e problemas específicos Diferentes preferências pessoais e o seu impacto em funções de liderança Diferentes estilos de Liderança Competências necessárias à coordenação de equipas Estratégias de mobilização da equipa para um desempenho de excelência Gestão de situações problemáticas na equipa Trabalho em equipa Trabalho em equipa – implicações e especificidades Excelência no trabalho em equipa Diferenças interpessoais e o seu impacto no trabalho em equipa Mobilização de recursos pessoais em função da equipa Como ultrapassar impasses e obstáculos no trabalho em equipa"
       ],
@@ -778,7 +1031,7 @@
       "titulo": "Ideias e oportunidades de negócio (UFCD 7853)",
       "area_formacao": "Comércio",
       "duracao_total": "50.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C203.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c203.jpg",
       "conteudos": [
         "Criação e desenvolvimento de ideias/oportunidades de negócioNoção de negócio sustentávelIdentificação e satisfação das necessidades- Formas de identificação de necessidades de produtos/serviços para potenciais clientes/consumidores- Formas de satisfação de necessidades de potenciais clientes/consumidores, tendo presente as normas de qualidade, ambiente e inovaçãoSistematização, análise e avaliação de ideias de negócioConceito básico de negócio- Como resposta às necessidades da sociedadeDas oportunidades às ideias de negócio- Estudo e análise de bancos/bolsas de ideias- Análise de uma ideia de negócio - potenciais clientes e mercado (target)- Descrição de uma ideia de negócioNoção de oportunidade relacionada com o serviço a clientesRecolha de informação sobre ideias e oportunidades de negócio/mercadoFormas de recolha de informação- Direta – junto de clientes, da concorrência, de eventuais parceiros ou promotores- Indireta – através de associações ou serviços especializados - públicos ou privados, com recurso a estudos de mercado/viabilidade e informação disponível on-line ou noutros suportesTipo de informação a recolher- O negócio, o mercado (nacional, europeu e internacional) e a concorrência- Os produtos ou serviços- O local, as instalações e os equipamentos- A logística – transporte, armazenamento e gestão de stocks- Os meios de promoção e os clientes- O financiamento, os custos, as vendas, os lucros e os impostosAnálise de experiências de criação de negóciosContacto com diferentes experiências de empreendedorismo- Por setor de atividade/mercado- Por negócioModelos de negócio- Benchmarking- Criação/diferenciação de produto/serviço, conceito, marca e segmentação de clientes- Parceria de outsourcing- Franchising- Estruturação de raiz- Outras modalidadesDefinição do negócio e do targetDefinição sumária do negócioDescrição sumária das atividadesTarget a atingirFinanciamento, apoios e incentivos à criação de negóciosMeios e recursos de apoio à criação de negóciosServiços e apoios públicos – programas e medidasBanca, apoios privados e capitais própriosParceriasDesenvolvimento e validação da ideia de negócioAnálise do negócio a criar e sua validação préviaAnálise crítica do mercado- Estudos de mercado- Segmentação de mercadoAnálise crítica do negócio e/ou produto- Vantagens e desvantagens- Mercado e concorrência- Potencial de desenvolvimento- Instalação de arranqueEconomia de mercado e economia social – empreendedorismo comercial e empreendedorismo socialTipos de negócioNatureza e constituição jurídica do negócio- Atividade liberal- Empresário em nome individual- Sociedade por quotasContacto com entidades e recolha de informação no terrenoContactos com diferentes tipologias de entidades (municípios, entidades financiadoras, assessorias técnicas, parceiros, …)Documentos a recolher (faturas pró-forma",
         "plantas de localização e de instalações, catálogos técnicos, material de promoção de empresas ou de negócios, etc…)"
@@ -818,7 +1071,7 @@
       "titulo": "Língua inglesa - atendimento (UFCD_0354)",
       "area_formacao": "Comércio",
       "duracao_total": "50.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C238.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c238.jpg",
       "conteudos": [
         "Linguagem específica aplicada às diferentes fases do atendimento, nas vertentes orais e escritasExpressões idiomáticas"
       ],
@@ -859,7 +1112,7 @@
       "titulo": "Sistemas de informação de suporte à atividade comercial (UFCD 5896)",
       "area_formacao": "Comércio",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C318.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c318.jpg",
       "conteudos": [
         "- Equipamentos e aplicações informáticas- Caracterização das aplicações informáticas- Utilização de equipamento e aplicações informáticas"
       ],
@@ -872,7 +1125,7 @@
       "titulo": "Técnicas de Venda",
       "area_formacao": "Comércio",
       "duracao_total": "12.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C302.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c302.jpg",
       "conteudos": [
         "Mód. 1 - Funções e competências do profissional de vendas",
         "Mód. 2 - Competências de comunicação na venda",
@@ -901,7 +1154,7 @@
       "titulo": "Venda de serviços via “on-line”",
       "area_formacao": "Comércio",
       "duracao_total": "21.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C317.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c317.jpg",
       "conteudos": [
         "Introdução às Vendas de Serviços Online:",
         "Compreensão do mercado de serviços online.",
@@ -966,7 +1219,7 @@
           "titulo": "Cálculo do IVA com recurso a aplicações informáticas de contabilidade",
           "area_formacao": "Gestão e Administração",
           "duracao_total": "25 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/a760.jpg",
+          "imagem_url": "https://castelform.pt/ficheiros/a760.jpg?v=202506270643",
           "objetivos": [
             "Capacitar os formandos para as aplicações informáticas utilizadas em contabilidade, seja nas organizações, seja a nível da vida pessoal, explorando suas diversas possibilidades e funcionalidades, incluindo a apresentação de softwares específicos (ex: TOC Online), como aplicações de contabilidade Opensource e os sites oficiais para apoio ao cálculo do IVA a pagar/receber, otimizando processos e melhoria da eficiência operacional, de conformidade legal e de rentabilidade financeira.."
           ],
@@ -975,8 +1228,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "03/03/2026",
-            "fim": "24/03/2026"
+            "inicio": "11/05/2026",
+            "fim": "01/06/2026"
           },
           "resumo": {
             "horario": "Pós laboral (19h30-23h00 e 19h30-23h30)",
@@ -1036,8 +1289,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "23/02/2026",
-            "fim": "16/03/2026"
+            "inicio": "06/05/2026",
+            "fim": "27/05/2026"
           },
           "resumo": {
             "horario": "Pós-laboral",
@@ -1050,9 +1303,9 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "23/02/2026",
-            "23/02/2026",
-            "16/03/2026"
+            "06/05/2026",
+            "06/05/2026",
+            "27/05/2026"
           ],
           "imagens": [],
           "cards_extraidas": [
@@ -1074,7 +1327,7 @@
       "titulo": "Gestão da Formação - Aplicações Práticas",
       "area_formacao": "Gestão e Administração",
       "duracao_total": "16.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C176.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c176.jpg",
       "conteudos": [
         "Módulo 1: Instrumentos de apoio ao processo de diagnóstico de necessidades de formaçãoMódulo 2: Planificação e conceção da formaçãoMódulo 3: Marketing e divulgação da formaçãoMódulo 4: Instrumentos de apoio ao processo de seleção de formandosMódulo 5: Instrumentos de apoio ao processo de avaliaçãoMódulo 6: Estruturação de um DTP para formação não financiadaMódulo 7: Utilização de uma plataforma de gestão da formação"
       ],
@@ -1087,7 +1340,7 @@
       "titulo": "Plano de Negócio - criação de micronegócios (UFCD 7854)",
       "area_formacao": "Comércio",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C135.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c135.jpg",
       "conteudos": [
         "Planeamento e organização do trabalho Organização pessoal do trabalho e gestão do tempo Atitude, trabalho e orientação para os resultados Conceito de plano de ação e de negócio Principais fatores de êxito e de risco nos negócios Análise de experiências de negócio - Negócios de sucesso - Insucesso nos negócios Análise SWOT do negócio - Pontos fortes e fracos - Oportunidades e ameaças ou riscos Segmentação do mercado - Abordagem e estudo do mercado - Mercado concorrencial - Estratégias de penetração no mercado - Perspetivas futuras de mercado Plano de ação Elaboração do plano individual de ação - Atividades necessárias à operacionalização do plano de negócio - Processo de angariação de clientes e negociação contratual Estratégia empresarial Análise, formulação e posicionamento estratégico Formulação estratégica Planeamento, implementação e controlo de estratégias Negócios de base tecnológica | Start-up Políticas de gestão de parcerias | Alianças e joint-ventures Estratégias de internacionalização Qualidade e inovação na empresa Plano de negócio Principais características de um plano de negócio - Objetivos - Mercado, interno e externo, e política comercial - Modelo de negócio e/ou constituição legal da empresa - Etapas e atividades - Recursos humanos - Recursos financeiros (entidades financiadoras, linhas de crédito e capitais próprios) Formas de análise do próprio negócio de médio e longo prazo - Elaboração do plano de ação - Elaboração do plano de marketing - Desvios ao plano Avaliação do potencial de rendimento do negócio Elaboração do plano de aquisições e orçamento Definição da necessidade de empréstimo financeiro Acompanhamento do plano de negócio Negociação com os financiadores"
       ],
@@ -1100,7 +1353,7 @@
       "titulo": "Processamento de Salários",
       "area_formacao": "Gestão e Administração",
       "duracao_total": "7.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C169.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c169.jpg",
       "conteudos": [
         "Módulo 1 – Enquadramento LegalMódulo 2 – Etapas do processamento saláriosMódulo 3 - Admissão e Cessação de Trabalhador",
         "A Admissão e a Cessação de Trabalhador",
@@ -1148,7 +1401,7 @@
       "titulo": "9571 - Marketing digital aplicado ao turismo",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C305.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c305.jpg",
       "conteudos": [],
       "descricao": null,
       "inscricoes_abertas": false,
@@ -1159,7 +1412,7 @@
       "titulo": "Cozinha vegetariana",
       "area_formacao": "Hotelaria e Restauração",
       "duracao_total": "3.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C293.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c293.jpg",
       "conteudos": [
         "Breve introdução à Alimentação Vegetariana e suas variantesIdentificação das proteínas vegetais na alimentação vegetariana \"Plant Based\"Cereais integraisPlaneamento de ementas vegetarianas nutricionamente equilibradasElaboração de refeição completa vegetariana"
       ],
@@ -1185,7 +1438,7 @@
       "titulo": "Aplicação de Produtos Fitofarmacêuticos - 35 horas",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "35 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C24.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c24.jpg",
       "conteudos": [
         "Introdução ao curso 1. Apresentação do grupo 2. Levantamento de expectativas dos participantes 3. Apresentação do programa de acção BLOCO I - Princípios gerais de proteção das culturasI.1 Meios de protecção das culturas I.1.1. Luta biológica I.1.2. Luta cultural I.1.3. Luta genética I.1.4. Luta biotécnica I.1.5. Luta química I.2 Proteção integrada I.2.1. Evolução da protecção das plantas I.2.2. Legislação específica I.2.3. Princípios gerais de proteção integrada I.2.4. Estimativa do risco e modelos de previsão I.2.5. Nível económico de ataque (NEA) I.2.6. Tomada de decisão I.2.7. Luta química - Seleção de produtos fitofarmacêuticos I.2.8. Registo dos tratamentos realizados (caderno de campo) I.3 Produção integrada I.3.1. Princípios da PRODI I.3.2. Estratégia de produção I.3.3. Principais técnicas de produção I.3.4. Regulamentação e registosI.4 Agricultura biológica I.4.1. Princípios gerais I.4.2. Regulamento Comunitário relativo à Agricultura Biológica BLOCO II - Segurança na utilização de produtos fitofarmacêuticos, sistemas regulamentares e redução do risco II.1 Produtos fitofarmacêuticos II.1.1. Definição de produto fitofarmacêutico II.1.2. Classificação química II.1.3. Modos de ação II.1.4. Formulação II.2 Sistemas regulamentares dos PF II.2.1. Homologação dos produtos fitofarmacêuticos II. 2.2. Produtos ilegais - sua identificação II.2.3. Distribuição, venda e aplicação II.2.4. Gestão de resíduos de embalagens e de excedentes II.2.5. Outra legislação aplicável ou complementar II.3. Segurança na utilização dos produtos fitofarmacêuticos II.3.1. Aspetos toxicológicos inerentes à manipulação e aplicação dos produtos fitofarmacêuticos II.3.2. Símbolos toxicológicos e ecotoxicológicos II.3.3. Informação e leitura do rótulo II.3.4. Equipamento de proteção individual (EPI) II.3.5. Relação entre o EPI e as diferentes características dos produtos fitofarmacêuticos II.3.6. Sintomas de intoxicação com produtos fitofarmacêuticos II.4 Redução do risco no manuseamento e aplicação de produtos fitofarmacêuticos II.4.1. Verificação das condições de trabalho, condições atmosféricas, material de aplicação a utilizar, leitura do rótulo II.4.2. Cuidados com a preparação da calda II.4.3. Noção de dose e de concentração da calda II.4.4. Utilização do EPI correcto II.4.5. Boas práticas de segurança e saúde no trabalho II.5 Redução do risco para o ambiente, espécies e organismos não visados II.5.1. Impacte no ambiente do uso de produtos fitofarmacêuticos II.5.2. Riscos para as espécies e os organismos não visados resultantes da aplicação dos produtos fitofarmacêuticos II.5.3. Preparação da calda II.5.4. Eliminação de excedentes de calda II.5.5. Lavagem do equipamento de aplicação II.5.6. Gestão de embalagens e produtos obsoletos II.5.7. Boas práticas de segurança e saúde no trabalho II.6 Redução do risco para o consumidor II.6.1. Noção de resíduo II.6.2. Limite Máximo de Resíduo II.6.3. Intervalo de segurança II.6.4. Exposição do consumidor e cumprimento das indicações do rótulo II.6.5. Controlo de resíduos BLOCO III – Material de aplicaçãoIII.1. Material e técnicas de aplicação III.1.1. Características do material de aplicação III.1.2. Critérios para a escolha do material de aplicação III.1.3. Técnicas de aplicação, calibração e regulação do material de aplicação III.1.4. Arrastamento da calda III.1.5. Cálculo de doses concentrações e volumes de calda com herbicida, inseticidas, fungicidas e outros produtos fitofarmacêuticos III.1.6. Conservação e manutenção do material de aplicação BLOCO IV - Armazenamento, transporte e acidentes com produtos fitofarmacêuticosIV.1 Armazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticos IV.1.1. Condições e características dos locais de armazenamento de produtos fitofarmacêuticos IV.1.2. Perigos e segurança durante o armazenamento. Sinalização. IV.1.3. Perigos e segurança no transporte de pequenas quantidades de produtos fitofarmacêuticos IV.2 Acidentes com produtos fitofarmacêuticos IV.2.1. Prevenção de acidentes IV.2.2. Acidentes de trabalho IV.2.3. Medidas de primeiros socorros Avaliação e encerramentoAvaliação de conhecimentos Avaliação de conhecimentos - Prova teórica escritaAvaliação de reação e encerramento Avaliação de reação Encerramento"
       ],
@@ -1212,7 +1465,7 @@
           "titulo": "Processos e métodos de proteção fitossanitária e de aplicação de produtos fitofarmacêuticos - UFCD 6281",
           "area_formacao": "Produção Agrícola e Animal",
           "duracao_total": "50 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c2.jpg",
+          "imagem_url": "https://castelform.pt/ficheiros/c2.jpg?v=202510151102",
           "objetivos": [
             "Capacitar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com os princípios da protecção integrada.."
           ],
@@ -1264,7 +1517,7 @@
           "titulo": "Processos e métodos de proteção fitossanitária e de aplicação de produtos fitofarmacêuticos - UFCD 6281",
           "area_formacao": "Produção Agrícola e Animal",
           "duracao_total": "50 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c2.jpg",
+          "imagem_url": "https://castelform.pt/ficheiros/c2.jpg?v=202510151102",
           "objetivos": [
             "Capacitar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com os princípios da protecção integrada.."
           ],
@@ -1316,7 +1569,7 @@
           "titulo": "Processos e métodos de proteção fitossanitária e de aplicação de produtos fitofarmacêuticos - UFCD 6281",
           "area_formacao": "Produção Agrícola e Animal",
           "duracao_total": "50 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c2.jpg",
+          "imagem_url": "https://castelform.pt/ficheiros/c2.jpg?v=202510151102",
           "objetivos": [
             "Capacitar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com os princípios da protecção integrada.."
           ],
@@ -1368,7 +1621,7 @@
           "titulo": "Processos e métodos de proteção fitossanitária e de aplicação de produtos fitofarmacêuticos - UFCD 6281",
           "area_formacao": "Produção Agrícola e Animal",
           "duracao_total": "50 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c2.jpg",
+          "imagem_url": "https://castelform.pt/ficheiros/c2.jpg?v=202510151102",
           "objetivos": [
             "Capacitar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com os princípios da protecção integrada.."
           ],
@@ -1420,7 +1673,7 @@
           "titulo": "Processos e métodos de proteção fitossanitária e de aplicação de produtos fitofarmacêuticos - UFCD 6281",
           "area_formacao": "Produção Agrícola e Animal",
           "duracao_total": "50 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c2.jpg",
+          "imagem_url": "https://castelform.pt/ficheiros/c2.jpg?v=202510151102",
           "objetivos": [
             "Capacitar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com os princípios da protecção integrada.."
           ],
@@ -1472,7 +1725,7 @@
           "titulo": "Processos e métodos de proteção fitossanitária e de aplicação de produtos fitofarmacêuticos - UFCD 6281",
           "area_formacao": "Produção Agrícola e Animal",
           "duracao_total": "50 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c2.jpg",
+          "imagem_url": "https://castelform.pt/ficheiros/c2.jpg?v=202510151102",
           "objetivos": [
             "Capacitar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com os princípios da protecção integrada.."
           ],
@@ -1490,11 +1743,11 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "16/04/2026",
-            "fim": "05/05/2026"
+            "inicio": "13/04/2026",
+            "fim": "16/05/2026"
           },
           "resumo": {
-            "horario": "2ª a 6ª das 18:30 às 22:30 / Sábado e Domingo das 09:00 às 17:00",
+            "horario": "2ª a 6ª 19:00-22:30 / Sáb. 9:00-17:00",
             "local": "UF de Este (São Pedro e São Mamede)"
           },
           "apresentacao": null,
@@ -1504,12 +1757,11 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "16/04/2026",
-            "16/04/2026",
-            "05/05/2026"
+            "Semana 113-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H15-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 HSemana 220-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H22-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H24-04-2026 - 6ª feira - 18:30 - 22:30 - 4.0 HSemana 327-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H29-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 HSemana 404-05-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H06-05-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H08-05-2026 - 6ª feira - 18:30 - 22:30 - 4.0 H09-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 516-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H"
           ],
           "imagens": [],
           "cards_extraidas": [
+            "Datas de Realização",
             "Condições de Inscrição",
             "Área de Formação",
             "Objetivos",
@@ -1525,7 +1777,7 @@
           "titulo": "Processos e métodos de proteção fitossanitária e de aplicação de produtos fitofarmacêuticos - UFCD 6281",
           "area_formacao": "Produção Agrícola e Animal",
           "duracao_total": "50 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c2.jpg",
+          "imagem_url": "https://castelform.pt/ficheiros/c2.jpg?v=202510151102",
           "objetivos": [
             "Capacitar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com os princípios da protecção integrada.."
           ],
@@ -1575,7 +1827,7 @@
       "titulo": "Aplicação de Produtos Fitofarmacêuticos com Equipamentos de Pulverização Manual (UFCD 9263)",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C18.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c18.jpg",
       "conteudos": [
         "Sistemas regulamentares Autorização de produtos fitofarmacêuticos Classificação, embalagem e rotulagem Venda, aquisição e uso responsável",
         "Proteção Integrada (PI) Legislação específica e registos Prática da PI e tomada de decisão Aconselhamento agrícola Avaliação comparativa de produtos fitofarmacêuticos e segurança",
@@ -1611,7 +1863,7 @@
           "titulo": "Atualização de Aplicação de Produtos Fitofarmacêuticos (AAPF) - (UFCD 9261)",
           "area_formacao": "Produção Agrícola e Animal",
           "duracao_total": "25 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c16.jpg",
+          "imagem_url": "https://castelform.pt/ficheiros/a809.jpg?v=202602260519",
           "objetivos": [
             "Atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.."
           ],
@@ -1646,8 +1898,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "06/04/2026",
-            "fim": "23/04/2026"
+            "inicio": "08/04/2026",
+            "fim": "20/04/2026"
           },
           "resumo": {
             "horario": "Pós-Laboral (18:30-22:30 Sábado - 09:00-17:00)",
@@ -1655,17 +1907,16 @@
           },
           "apresentacao": null,
           "metodologia": "Ativa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo, podendo envolver uma visita de estudo.",
-          "condicoes_inscricao": "Formação direcionada para candidatos/as que cuja data de validade do cartão de aplicador, obtido anteriormente pela via da formação, esteja a caducar (data de validade do cartão é de 10 anos - recomendamos que a atualização seja feita com pelo menos 1 ano de antecedência da data limite da validade).Formação direcionada para candidatos/as que cuja data de validade do cartão de aplicador, obtido anteriormente pela via da formação, esteja a caducar (data de validade do cartão é de 10 anos - recomendamos que a atualização seja feita com pelo menos 1 ano de antecedência da data limite da validade).1 - Habilitação Literária: Escolaridade mínima obrigatória. Necessário cópia do certificado escolar ou do certificado de habilitações.Ser detentor de curso de Aplicação de Produtos Fitofarmacêuticos homologado pelo Ministério da Agricultura. Necessário cópia do Cartão de Aplicador.2- Comprovativo de situação profissional: a) Se trabalhadores por conta de outrem: Recibo de Vencimento do ultimo mêsb) Se coletado: Declaração de Inicio de Atividade + RVE ou Fatura recente (se trabalhadores por conta própria) ou Certidão extraída da AT sobre o enquadramento em IVA.c) Se Desempregado: Declaração do IEFP.3- Cópia do Cartão de Cidadão.4- Cópia do Cartão de Aplicador",
+          "condicoes_inscricao": "ATENÇÃO:Esta ação só pode ser frequentada por formandos que tenham realizado o curso de Aplicação de Produtos Fitofarmacêuticos de 35 ou 50 horas e cuja validade do cartão se mantenha pelo menos até à data de fim da formação.1 - Habilitação Literária: Escolaridade mínima obrigatória. Necessário cópia do certificado escolar ou do certificado de habilitações.Ser detentor de curso de Aplicação de Produtos Fitofarmacêuticos homologado pelo Ministério da Agricultura. Necessário cópia do Cartão de Aplicador.2- Comprovativo de situação profissional: a) Se trabalhadores por conta de outrem: Recibo de Vencimento do ultimo mêsb) Se coletado: Declaração de Inicio de Atividade + RVE ou Fatura recente (se trabalhadores por conta própria) ou Certidão extraída da AT sobre o enquadramento em IVA.c) Se Desempregado: Declaração do IEFP.3- Cópia do Cartão de Cidadão.4- Cópia do Cartão de Aplicador",
           "destinatarios": null,
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "06/04/2026",
-            "06/04/2026",
-            "23/04/2026"
+            "Semana 108-04-2026 - 4ª feira - 18:30 - 22:30 - 4.0 H10-04-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 215-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H17-04-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H18-04-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 320-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
           ],
           "imagens": [],
           "cards_extraidas": [
+            "Datas de Realização",
             "Condições de Inscrição",
             "Área de Formação",
             "Objetivos",
@@ -1681,7 +1932,7 @@
       "titulo": "Conduzir e Operar com o Trator em Segurança (COTS 35)",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "35.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C92.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c92.jpg",
       "conteudos": [
         "Módulo 1 - Acidentes em Portugal",
         "Módulo 2 - Condução e prevenção rodoviária com veículos agrícolas, código da estrada e normas aplicáveis",
@@ -1698,18 +1949,17 @@
     {
       "id_curso": 62,
       "titulo": "Conduzir e Operar com o trator em Segurança (COTS) (UFCD 9596)",
-      "area_formacao": "Produção Agrícola e Animal",
+      "area_formacao": "Com esta ação pretende-se que o formando complemente os conhecimentos teóricos e práticos sobre a condução e operação de tratores em segurança tendo em vista a melhoria do seu desempenho na via pública e na exploração e a redução da sinistralidade. Esta ação visa dar resposta face às recentes alterações da legislação. Condições de acesso:- Escolaridade Mínima obrigatória;- Comprovativo de situação profissional;- Carta de Condução que habilite à Condução de Veículos Agrícolas; Licença de condução de trator Agrícola, sempre que não for demonstrada formação específica na área da segurança com a utilização de tratores e máquinas Agrícolas.",
       "duracao_total": "50.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C62.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c62.jpg",
       "conteudos": [
-        "Conteúdos da UFCD 9596 - Conduzir e Operar com o trator em Segurança (COTS):",
-        "Acidentes com tratores em Portugal",
-        "Condução e prevenção rodoviária com veículos agrícolas - Código da Estrada, Código do trabalho e Normas aplicáveis",
-        "Veículo seguro - equipamento de segurança e proteção do trator",
-        "Equipamento de proteção individual",
-        "Condução e operação com o trator em segurança",
-        "Condução do trator em condições perigosas e operar com órgãos ativos",
-        "Boas práticas de segurança na condução, operação e engate/desengate de reboques e semirreboques e outras máquinas agrícolas e saúde no trabalho agrícola"
+        "Módulo 1 - Acidentes em Portugal",
+        "Módulo 2 - Condução e prevenção rodoviária com veículos agrícolas, código da estrada e normas aplicáveis",
+        "Módulo 3 - Veículo seguro - Equipamentos de segurança e proteção coletiva do trator, código do trabalho e normas aplicáveis",
+        "Módulo 4 - Equipamentos de proteção Invidual",
+        "Módulo 5 - Conduzir e Operar com o Trator em Segurança",
+        "Módulo 6 - Conduzir o trator em situações perigosas e operar com orgãos ativos",
+        "Avaliação."
       ],
       "descricao": null,
       "inscricoes_abertas": true,
@@ -1721,7 +1971,7 @@
           "titulo": "Conduzir e Operar com o trator em Segurança (COTS) (UFCD 9596)",
           "area_formacao": "Produção Agrícola e Animal",
           "duracao_total": "50 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/a787.jpg",
+          "imagem_url": "https://castelform.pt/ficheiros/a787.jpg?v=202503270550",
           "objetivos": [
             "Complementar os conhecimentos teóricos e práticos dos participantes sobre a condução e operação de tratores em segurança tendo em vista a melhoria do seu desempenho na via pública e na exploração e a redução da sinistralidade.."
           ],
@@ -1794,11 +2044,58 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "Semana 103-03-2026 - 3ª feira - 18:30 - 22:30 - 4.0 H05-03-2026 - 5ª feira - 19:00 - 22:30 - 3.5 HSemana 210-03-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H12-03-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H14-03-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 319-03-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H21-03-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 426-03-2026 - 5ª feira - 18:30 - 22:30 - 4.0 H28-03-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 501-04-2024 - 2ª feira - 9:00 - 17:30 - 7 H - dia já confirmado pela DRAPN"
+            "Semana 103-03-2026 - 3ª feira - 18:30 - 22:30 - 4.0 H05-03-2026 - 5ª feira - 19:00 - 22:30 - 3.5 HSemana 210-03-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H12-03-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H14-03-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 319-03-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H21-03-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 426-03-2026 - 5ª feira - 18:30 - 22:30 - 4.0 H28-03-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 501-04-2026 - 4ª feira - 9:00 - 17:30 - 7 H - dia já confirmado pela DRAPN"
           ],
           "imagens": [],
           "cards_extraidas": [
             "Datas de Realização",
+            "Condições de Inscrição",
+            "Área de Formação",
+            "Objetivos",
+            "Conteúdos Programáticos",
+            "Formador(es)",
+            "Metodologia"
+          ]
+        },
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=62&accao=828",
+          "id_curso": 62,
+          "id_accao": 828,
+          "titulo": "Conduzir e Operar com o trator em Segurança (COTS) (UFCD 9596)",
+          "area_formacao": "Produção Agrícola e Animal",
+          "duracao_total": "50 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/c62.jpg",
+          "objetivos": [
+            "Complementar os conhecimentos teóricos e práticos dos participantes sobre a condução e operação de tratores em segurança tendo em vista a melhoria do seu desempenho na via pública e na exploração e a redução da sinistralidade.."
+          ],
+          "conteudos": [
+            "Conteúdos da UFCD 9596",
+            "Conduzir e Operar com o trator em Segurança (COTS):• Acidentes com tratores em Portugal • Condução e prevenção rodoviária com veículos agrícolas",
+            "Código da Estrada, Código do trabalho e Normas aplicáveis • Veículo seguro",
+            "equipamento de segurança e proteção do trator • Equipamento de proteção individual • Condução e operação com o trator em segurança • Condução do trator em condições perigosas e operar com órgãos ativos • Boas práticas de segurança na condução, operação e engate/desengate de reboques e semirreboques e outras máquinas agrícolas e saúde no trabalho agrícola"
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "09/04/2026",
+            "fim": "06/06/2026"
+          },
+          "resumo": {
+            "horario": "2ª a 6ª e fins de semana",
+            "local": "Braga (local a confirmar)"
+          },
+          "apresentacao": null,
+          "metodologia": "Ativa, Centrada no participante, baseada na experiência e participação dos formandos, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em campo.",
+          "condicoes_inscricao": "Apresentar a seguinte documentação na fase de inscrição:1- Cópia do Certificado de Escolaridade ou de Habilitações Académicas2- Comprovativo de situação profissional: a) Recibo de Vencimento do ultimo mês (se trabalhadores por conta de outrem) b) Declaração de Inicio de Atividade + RVE ou Fatura recente (se trabalhadores por conta própria)3- Cópia da Carta de Condução que habilite à Condução de Veículos Agrícolas (Carta de ligeiros ou pesados)4- Cópia do Cartão de CidadãoOutras condições de inscrição e seleção:N.º de formandos máximo: 16Idade: = 18 anos Habilitações literárias:. Escolaridade obrigatória, nos termos dos n.º 3 do artigo 7.º, do Anexo do Despacho n.º 5756/2020, de 26 de maio.. De acordo com alínea b1) do n.º 3, do artigo 7.º, do Anexo, do referido despacho, podem ser ainda aceites formandos que não disponham de escolaridade obrigatória, desde que comprovem saber ler, escrever e interpretar um texto.Outros requisitos:. Carta de condução da Categoria B, C ou D;. Título de condução que habilite a conduzir veículos agrícolas, quando o seu titular pretenda atualizar conhecimentos.",
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "09/04/2026",
+            "09/04/2026",
+            "06/06/2026"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
             "Condições de Inscrição",
             "Área de Formação",
             "Objetivos",
@@ -1814,7 +2111,7 @@
       "titulo": "Cultura de plantas aromáticas, medicinais e condimentares (UFCD 6327)",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C50.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c50.jpg",
       "conteudos": [
         "1. Plantas aromáticas, medicinais e condimentares- Importância económica e regiões de maior produção- Principais países produtores e consumidores2. Botânica e fisiologia das plantas3. Ciclo vegetativo4. Exigências edafoclimáticas- Solo - textura/estrutura, drenagem, pH, salinidade- Clima - temperaturas, humidade relativa, luminosidade, dióxido de carbono- Água - água para rega, conservação da água, zonas sensíveis e vulneráveis5. Multiplicação das plantas6. Condições favoráveis à instalação e escolha das plantas7. Sistemas de cultivo – ar livre, forçagem e semi-forçagam8. Instalação da cultura- Preparação do terreno - mobilização e desinfeção do solo- Sementeira/Plantação – épocas de sementeira, esquemas e técnicas de plantação- Fertilização de fundo- Instalação e automatização do sistema de rega9. Manutenção e condução da cultura- Fertilização de cobertura- Rega- Princípios de proteção integrada- Controle de infestantes - sachas/aplicação de herbicida- Proteção fitossanitária Pragas, doenças e acidentes fisiológicos Estratégia de proteção Estimativa do risco e nível económico de ataque (NEA) Meios de luta - luta cultural, luta biológica, luta química, biotécnica e outros Fauna auxiliar e outros organismos Aplicação de produtos fitofarmacêuticos segundo a Boa Prática Agrícola- Carências e excesso de nutrientes10. Modo de Produção Biológico- Operações de instalação- Tratamentos culturais- Tratamento fitossanitários11. Secagem e conservação das plantas- Tipos de secadores e rendimento de secagem- Conservação ao ar- Outros tipos de conservação12. Formas de utilização das plantas- Infusões e chás- Tinturas- Pomadas- Condimentos13. Aproveitamento da flora natural14. Legislação, comercialização e mercados- Legislação e apoios- Mercados locais- Normas de comercialização15. Boas práticas de higiene e segurança no trabalho agrícola"
       ],
@@ -1827,7 +2124,7 @@
       "titulo": "Mecanização básica e condução de veículos agrícolas (UFCD's:2853;2854;2855;2858;2859;6280;6281)",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "250.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C142.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c142.jpg",
       "conteudos": [],
       "descricao": null,
       "inscricoes_abertas": false,
@@ -1845,52 +2142,8 @@
         "fitofármacos e procedimentos operativos e técnicas de aplicação) Acidentes fisiológicos e meteorológicos Operação de regulação/afinação e manutenção das máquinas de mobilização do solo e de distribuição de adubos e de produtos fitossanitários Manutenção da vinha em Produção Integrada Manutenção da vinha em Modo de Produção Biológico (compostagem)Técnicas e operações de colheita Determinação do momento da colheita, de acordo com os fins a que se destina a produção Métodos para determinação da época de colheita Procedimentos a observar na colheita Medidas profilácticas na conservação da uva, antes, durante e após a colheita Colheita manual e mecânica - máquinas e equipamentos para colheita da uva Normalização Operação de regulação/afinação e manutenção das máquinas e equipamentos utilizados na colheita Procedimentos operativos e técnicas de aplicaçãoTécnicas e operações de armazenamento e conservação, de acordo com o destino da produção Armazenamento e acondicionamento Condições de armazenamento Procedimentos operativos e técnicas de aplicaçãoBoas práticas de segurança, higiene e saúde no trabalho"
       ],
       "descricao": null,
-      "inscricoes_abertas": true,
-      "acoes": [
-        {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=377&accao=820",
-          "id_curso": 377,
-          "id_accao": 820,
-          "titulo": "Operações culturais de implantação, condução, manutenção e colheita da vinha (UFCD 6288)",
-          "area_formacao": "Produção Agrícola e Animal",
-          "duracao_total": "50 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/a820.jpg",
-          "objetivos": [
-            "Dominar as operações culturais da vinha — desde a implantação até à colheita — incluindo a execução prática das tarefas e o uso adequado das máquinas específicas.."
-          ],
-          "conteudos": [
-            "Exigências ecológicas da vinha e fatores edafoclimáticos, favoráveis ao seu desenvolvimentoTécnicas e operações de instalação Preparação do terreno Processos de mobilização do solo e máquinas utilizadas, de acordo com as necessidades de mobilização – surribas, ripagem, gradagem, escarificação, fresagem e outros Tipos de fertilização Exigências edafoclimáticas e necessidades em nutrientes Desequilíbrios nutricionais Principais carências Cálculo de adubação em conformidade com a análise de terra Incorporação de matéria orgânica Fertilização de fundo/aplicação de correctivos Formas e métodos de drenagem e conservação do solo Disponibilidade e qualidade da água e instalação de sistemas de rega Marcação de terreno, compasso de plantação de acordo com o sistema de piquetagem e abertura de covas Plantação de bacelos – sistemas e épocas de plantação Poda de transplantação Tutores, armação e aramação da vinha Retancha Sistemas de propagação da vinha Operação de regulação/afinação e manutenção das máquinas de mobilização do solo, de distribuição de fertilizantes e de plantação Preparação do terreno, fertilização e plantação, segundo o modo de Produção Integrada Preparação do terreno, fertilização e plantação, segundo o Modo de Produção BiológicoTécnicas e operações de condução Sistemas de condução Tipos e épocas de poda Poda de formação Poda de frutificação Podas sanitárias Empa Intervenções em verde",
-            "desladroamento, desponta, desfolha e monda de fruto Enxertias, tipo e épocas Máquinas, ferramentas e utensílios de poda e de enxertia Condução da vinha em Produção Integrada Condução da vinha em Modo de Produção BiológicoTécnicas e operações de manutenção Manutenção do solo Fertilização de produção Rega/fertirrigação Monda de frutos Protecção Integrada da vinha (doenças pragas e infestantes; luta química; fitofármacos e procedimentos operativos e técnicas de aplicação) Acidentes fisiológicos e meteorológicos Operação de regulação/afinação e manutenção das máquinas de mobilização do solo e de distribuição de adubos e de produtos fitossanitários Manutenção da vinha em Produção Integrada Manutenção da vinha em Modo de Produção Biológico (compostagem)Técnicas e operações de colheita Determinação do momento da colheita, de acordo com os fins a que se destina a produção Métodos para determinação da época de colheita Procedimentos a observar na colheita Medidas profilácticas na conservação da uva, antes, durante e após a colheita Colheita manual e mecânica",
-            "máquinas e equipamentos para colheita da uva Normalização Operação de regulação/afinação e manutenção das máquinas e equipamentos utilizados na colheita Procedimentos operativos e técnicas de aplicaçãoTécnicas e operações de armazenamento e conservação, de acordo com o destino da produção Armazenamento e acondicionamento Condições de armazenamento Procedimentos operativos e técnicas de aplicaçãoBoas práticas de segurança, higiene e saúde no trabalho"
-          ],
-          "formadores": [],
-          "detalhe": {
-            "inicio": "25/02/2026",
-            "fim": "30/03/2026"
-          },
-          "resumo": {
-            "horario": "2ª a 6ª: 14:00-22:30; 14:00-18:00; Sábado: 9:00-17:00)",
-            "local": "JF de Penajóia"
-          },
-          "apresentacao": null,
-          "metodologia": null,
-          "condicoes_inscricao": null,
-          "destinatarios": null,
-          "requisitos": null,
-          "certificacao": null,
-          "calendario": [
-            "Semana 125-02-2026 - 4ª feira - 14:30 - 17:30 e das 18:30 - 22:30 - 7.0 H26-02-2026 - 5ª feira - 14:30 - 17:30 e das 18:30 - 22:30 - 7.0 H27-02-2026 - 6ª feira - 14:30 - 17:30 e das 18:30 - 22:30 - 7.0 H28-02-2026 - Sábado - 14:30 - 17:30 e das 18:30 - 22:30 - 7.0 HSemana 209-03-2026 - 2ª feira - 14:30 - 17:30 - 3.0 H10-03-2026 - 3ª feira - 14:30 - 17:30 - 3.0 HSemana 317-03-2026 - 3ª feira - 14:30 - 17:30 - 3.0 H18-03-2026 - 4ª feira - 14:30 - 17:30 - 3.0 HSemana 424-03-2026 - 3ª feira - 14:30 - 17:30 e das 19:00 - 22:00 - 6.0 HSemana 530-03-2026 - 2ª feira - 13:30 - 17:30 - 4.0 H"
-          ],
-          "imagens": [],
-          "cards_extraidas": [
-            "Datas de Realização",
-            "Área de Formação",
-            "Objetivos",
-            "Conteúdos Programáticos",
-            "Formador(es)"
-          ]
-        }
-      ]
+      "inscricoes_abertas": false,
+      "acoes": []
     },
     {
       "id_curso": 75,
@@ -1910,7 +2163,7 @@
       "titulo": "Produtos fitofarmacêuticos - venda responsável – atualização (UFCD_9262)",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C148.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c148.jpg",
       "conteudos": [
         "Características dos produtos fitofarmacêuticos Composição/formulação Modos de ação Classificação, embalagem e rotulagem Autorização de produtos fitofarmacêuticos Tipificação das autorizações de venda e acesso a informação sobre autorizações Comercialização e distribuição de produtos fitofarmacêuticos Autorização de exercício de atividade de distribuição e venda Manual de procedimentos operativos Atribuições e obrigações do operador de venda e do técnico responsável no armazém e no estabelecimento de venda Comercialização de produtos fitofarmacêuticos de uso não profissional Venda e armazenamento responsável de produtos fitofarmacêuticos Segurança das instalações de venda Registos na distribuição e/ou venda Eliminação de resíduos de embalagens vazias e obsoletos Aconselhamento para a utilização segura de produtos fitofarmacêuticos Modos de produção e uso sustentável de produtos fitofarmacêuticos Regulamentação para a proteção integrada, produção integrada e modo de produção biológico Princípios de proteção integrada, aconselhamento responsável e registos Comercialização e utilização de produtos fitofarmacêuticos em modo de produção biológico Princípios gerais de segurança no manuseamento e utilização de produtos fitofarmacêuticos Aspetos toxicológicos inerentes à sua manipulação Noção de dose, concentração e volume de calda Informação e leitura do rótulo Produtos ilegais Princípios gerais de redução do risco no manuseamento e aplicação dos produtos fitofarmacêuticos Cuidados com a preparação da calda Equipamentos de Proteção Individual segundo as características do produto fitofarmacêutico Boas práticas de segurança e saúde no trabalho Princípios gerais de redução do risco para o ambiente, espécies e organismos não visados Inspeção, calibração e conservação de equipamentos de aplicação de produtos fitofarmacêuticos Impacte no ambiente do uso de produtos fitofarmacêuticos Risco para as espécies não visadas resultantes da aplicação dos produtos fitofarmacêuticos Redução do risco para o consumidor Boa prática agrícola e intervalo de segurança Limite máximo de resíduos Exposição do consumidor e cumprimento das indicações do rótulo Armazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticos Condições e características dos locais de armazenamento Sinalização, perigos e segurança durante o armazenamento Perigos e segurança no transporte Acidentes com produtos fitofarmacêuticos Prevenção de acidentes Acidentes de trabalho Medidas de primeiros socorros"
       ],
@@ -1923,7 +2176,7 @@
       "titulo": "Regulação, Operação e Manutenção da Motosserra (UFCD 2961)",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "50.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C61.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c61.jpg",
       "conteudos": [
         "Tipos de utilização da motoserra Constituição da motoserra Motor de ciclo a 2 tempos Constituição Sistema de transmissão Órgãos de corte Órgãos de segurança Funcionamento Afinações Afinações de ralenti e embraiagem Afinação do sistema de corte Manutenção Sistema de lubrificação da corrente Tipos de óleo utilizado Substituição de peças Limpeza da motoserra Verificação do estado do filtro do ar Verificação do sistema de ignição Verificação do nível de óleo de lubrificação da corrente Verificação do nível de combustível Verificação do sistema de segurança Proporções de mistura óleo/gasolina Reparação da corrente (substituição de elos) e anexos Operação com motosserra Sequência lógica do corte Normas de higiene e segurança no trabalho"
       ],
@@ -1936,7 +2189,7 @@
       "titulo": "Vinificações (UFCD_8195)",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "50.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C93.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c93.jpg",
       "conteudos": [
         "Centro de vinificação – projeto de instalações Localização e construção da adega – aspetos condicionantes e condições a respeitar Layout Vinificação de brancos e rosados e vinificação em tinto Preparação e correção dos mostos - -Diagramas de produção de vinhos brancos, rosados e tintos - Objetivos da vinificação de brancos e rosados - Objetivos da vinificação em tinto - -Composição do mosto - -Arrefecimento dos mostos em linha - Dióxido de carbono e gelo seco/neve carbónica - -Desengace/Esmagamento - Objetivos e importância das operações - Maceração pelicular (brancos e rosados) - Objetivos - Prática da operação - -Prensagem (brancos e rosados) - Objetivos - Oxigenação dos mostos (brancos) - Proteção antioxidante do mosto - Utilização do anidrido sulfuroso - Propriedades do anidrido sulfuroso - Aspetos toxicológicos e limites legais - Estado do anidrido sulfuroso nos mostos e nos vinhos - Formas de emprego do anidrido sulfuroso - Gestão racional do anidrido sulfuroso (doses a utilizar/cálculos numéricos) - Técnicas de aplicação - Alternativas ao anidrido sulfuroso e seus limites legais (ácido sórbico, ácido ascórbico, dicarbonato de dimetilo) - Correção dos mostos - Acidificação, desacidificação, adição de mosto concentrado retificado – limites legais - Cálculos numéricos Clarificação dos mostos (brancos e rosados) Objetivos Processos de clarificação Decantação/Defecação Filtração Centrifugação Flutuação Análise comparativa dos diferentes processos de clarificação Emprego de enzimas pectolíticas. Fichas técnicas informativas Principais efeitos da sua aplicação aos mostos Aplicação de produto clarificante Objectivos tecnológicos Escolha do produto. Fichas técnicas informativas Procedimentos para aplicação do produto - Preparação e momento da aplicação - Procedimento operativo - Controlo da turbidez Maceração (vinificação em tinto) Princípios gerais Prática da operação - Estado de maturação das uvas, tempo e temperatura de maceração - Acão mecânica durante a maceração - Técnicas de maceração Fermentação alcoólica (brancos, rosados e vinificação em tinto) Leveduras e fermentação alcoólica Fatores condicionantes da fermentação alcoólica (pH, temperatura, azoto assimilável, oxigénio, anidrido carbónico, ativadores de fermentação, fatores de sobrevivência) Fermentação espontânea e fermentação condicionada Levedura seca ativa (LSA) - fichas técnicas informativas - Objetivos tecnológicos - principais vantagens - Rehidratação – procedimento a seguir - Momento da aplicação direta ao mosto Preparação do tradicional “pé de cuba”- cálculos numéricos Condução da fermentação alcoólica - Cuidados a ter no decorrer da fermentação alcoólica - Determinação da densidade do mosto - Determinação da temperatura durante a fermentação alcoólica - Regulação da temperatura - Atuação em caso de amuo da fermentação. - Prova organoléptica do mosto/vinho - Registo das observações efetuadas, elaboração e interpretação do gráfico de fermentação - Final da fermentação - Cuidados a ter após a fermentação alcoólica Trasfega e prensagem do bagaço (vinificação em tinto) Objetivos Prática das operações – vinho de lágrima e vinho de prensa Fermentação maloláctica – FML (vinificação em tinto) Objetivos tecnológicos Fatores condicionantes da FML Inoculação do vinho com bactérias lácticas - Prática da operação - Momento e condições de aplicação - Controlo a efetuar - Correção de anidrido sulfuroso - Trasfega após a FML Trasfegas e Atestos Borras de fermentação Trasfegas - Definição - Momentos para a sua realização - Trasfegas com arejamento e sem arejamento - Prática da operação Atestos - Características do vinho para atestos - Alternativas aos atestos (utilização de gases inertes, batoques assépticos, depósitos sempre cheios, pastilhas de parafina impregnadas com um esterilizante) Composição dos vinhos Definição de vinho Substâncias de gosto açucarado, de gosto ácido e de gosto salgado Substâncias de gosto amargo e adstringente. Outras substâncias Registo de dados Controlo do processo de vinificação – preenchimento de fichas de produção Gestão do controlo de produção em adegas – sistemas informatizados Pontos críticos de controlo – segurança para o consumidor Gestão dos resíduos das matérias-primas, vinhos e outros materiais Norma portuguesa – sistema de Gestão Ambiental Boas Práticas de Produção Vitivinícola"
       ],
@@ -1971,7 +2224,7 @@
       "titulo": "Primeiros Socorros (UFCD 3564)",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C41.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c41.jpg",
       "conteudos": [
         "Tipos de acidenteComportamento perante o sinistrado- Prevenção do agravamento do acidente- Alerta dos serviços de socorro público- Exame do sinistrado- Socorros de urgência- Primeiros socorros e conselhos de prevenção nos diferentes casos de dificuldade respiratória- Dificuldades respiratórias – descrição- Socorros de urgência- Reanimação cardio-respiratóriaFeridas, fraturas, acidentes respiratórios, acidentes digestivos, acidentes pelos agentes físicos, envelhecimentoAcidentes inerentes à profissão- Queimadura- Por corrente eléctrica- Hemorragia externa por ferimento (corte)- Comportamento a seguir- Esterilização dos instrumentos- Prevenção dos acidentes de trabalho, supressão de risco, proteção coletiva, proteção individual, sinalizaçãoServiço Nacional de Proteção CivilSocorrismo e realidadeA profissão confrontada com a doençaPrevenção de acidentes e doenças profissionais- Higiene do profissional- Higiene do meio ambienteRevisão de atuação em diferentes casos- Revisão dos efeitos tardios em certos acidentes"
       ],
@@ -2008,7 +2261,7 @@
       "titulo": "Técnicas de Socorrismo - principios básicos (UFCD 4478)",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C3.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c3.jpg",
       "conteudos": [
         "Socorrismo, técnicas de socorrismoExame geral da vítima (sintomatologia)Plano de ação do socorristaChoqueAsfixia, respiração artificialIntoxicaçõesTraumatismosLesões (articulares, musculares e ósseas)QueimadurasFeridasHemorragias (pulsação, garrote)"
       ],
@@ -2035,7 +2288,7 @@
           "titulo": "Técnico/a Auxiliar de Saúde (EFA)",
           "area_formacao": "Saúde - Programas não Classificados Noutra Área de Formação",
           "duracao_total": "2020 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/a796.jpg",
+          "imagem_url": "https://castelform.pt/ficheiros/a796.jpg?v=202512040211",
           "objetivos": [
             "Desenvolver as competências profissionais, éticas e legais necessárias ao desempenho qualificado do/a Técnico/a Auxiliar de Saúde, assegurando a compreensão das suas atividades, responsabilidades, direitos e deveres, bem como a capacidade de atuar de forma segura, supervisionada, proativa e adequada aos diferentes contextos, públicos e normas institucionais no âmbito dos cuidados de saúde.."
           ],
@@ -2046,7 +2299,7 @@
             "fim": "31/12/2027"
           },
           "resumo": {
-            "horario": "09:00-13:00/14:00-18:00",
+            "horario": "9:00 às 12h30 e das 14:00 às 17:30",
             "local": "Braga (local a confirmar)"
           },
           "apresentacao": "O/A Técnico/a Auxiliar de Saúde é o/a profissional que auxilia na prestação de cuidados de saúde aos utentes, na recolha e transporte de amostras biológicas, na limpeza, higienização e transporte de roupas, materiais e equipamentos, na limpeza e higienização dos espaços e no apoio logístico e administrativo das diferentes unidades e serviços de saúde, sob orientações do profissional de saúde.",
@@ -2065,7 +2318,8 @@
             "Apresentação",
             "Condições de Inscrição",
             "Área de Formação",
-            "Objetivos"
+            "Objetivos",
+            "Formador(es)"
           ]
         }
       ]
@@ -2088,7 +2342,7 @@
       "titulo": "Controle parental e gestão de tempos das crianças nas redes sociais",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "12.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C307.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c307.jpg",
       "conteudos": [],
       "descricao": null,
       "inscricoes_abertas": false,
@@ -2110,7 +2364,7 @@
       "titulo": "Cuidados de rotina diária e atividades promotoras do desenvolvimento da criança (UFCD 9185)",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C259.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c259.jpg",
       "conteudos": [
         "Formas de organização do espaço físico, do equipamento e material necessário ao exercício da atividade de ama",
         "Desenvolvimento das rotinas com as crianças o Entrada, acolhimento e saída das crianças e familiares o Cuidados de higiene o Apoio na alimentação o Descanso o Cuidados em situação de doença ou acidente",
@@ -2126,7 +2380,7 @@
       "titulo": "Cuidados de saúde primários para crianças e jovens (UFCD 9641)",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C258.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c258.jpg",
       "conteudos": [
         "Conceito de saúde",
         "Abordagem holística da saúde",
@@ -2155,7 +2409,7 @@
       "titulo": "Desenvolvimento de crianças e jovens (UFCD 9635)",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C256.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c256.jpg",
       "conteudos": [
         "Desenvolvimento de crianças e jovenso Desenvolvimento físico e psicomotoro Desenvolvimento cognitivoo Desenvolvimento da linguagemo Desenvolvimento sócio-afetivo",
         "Especificidades do desenvolvimento de crianças e jovenso Vinculação: a criança e o adulto de referênciao Primeiros comportamentos sociaiso Importância do contexto pré-escolar e suas implicações nos comportamentos sociaiso Importância do papel do adulto como modelo de referênciao Importância do contexto escolar e suas implicações nos comportamentos sociaisoInternet e redes sociaisoPrincipais desafios do desenvolvimento da sexualidade e relações entre pares",
@@ -2172,7 +2426,7 @@
       "titulo": "Elaboração, Implementação e Gestão do Plano Individual em Creches",
       "area_formacao": "Face às exigências na Educação, é crucial que os técnicos da área infanto-juvenil intervenham de acordo com as normas, desenvolvendo competências ao nível da concepção, implementação e avaliação do Plano Individual.",
       "duracao_total": "12.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C296.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c296.jpg",
       "conteudos": [
         "Desenvolvimento de crianças e jovenso Desenvolvimento físico e psicomotoro Desenvolvimento cognitivoo Desenvolvimento da linguagemo Desenvolvimento sócio-afetivo",
         "Especificidades do desenvolvimento de crianças e jovenso Vinculação: a criança e o adulto de referênciao Primeiros comportamentos sociaiso Importância do contexto pré-escolar e suas implicações nos comportamentos sociaiso Importância do papel do adulto como modelo de referênciao Importância do contexto escolar e suas implicações nos comportamentos sociaisoInternet e redes sociaisoPrincipais desafios do desenvolvimento da sexualidade e relações entre pares",
@@ -2189,7 +2443,7 @@
       "titulo": "Interação e rotinas diárias com crianças e jovens com necessidades educativas específicas (9650)",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C255.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c255.jpg",
       "conteudos": [
         "Estratégias interativas com a criança e jovens",
         "Crianças e jovens com dificuldades alimentares o Condições médicas o Problemas oro-motores (mastigação/deglutição) o Sensibilidade oral o Seletividade alimentar o Diferentes vias de alimentação o Necessidades nutricionais específicas",
@@ -2206,7 +2460,7 @@
       "titulo": "Modelos familiares e formas de parentalidade (UFCD 9186)",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C257.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c257.jpg",
       "conteudos": [
         "Evolução e perspetivas da dinâmica familiar",
         "Diversidade de modelos familiares",
@@ -2223,7 +2477,7 @@
       "titulo": "Necessidades Educaticas Específicas (9640; 9646)",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "100.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C281.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c281.jpg",
       "conteudos": [],
       "descricao": null,
       "inscricoes_abertas": false,
@@ -2234,7 +2488,7 @@
       "titulo": "Técnicas de animação para crianças e jovens (UFCD 9851)",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C230.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c230.jpg",
       "conteudos": [
         "Perfil do animador",
         "Tipos de animação o Animação individual ? Definição ? Estratégias ? Atividadeso Animação de grupos ? Definição ? Estratégias ? Atividades",
@@ -2260,7 +2514,7 @@
       "titulo": "Manutenção e conservação da motosserra (UFCD_10010)",
       "area_formacao": "Silvicultura e Caça",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C156.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c156.jpg",
       "conteudos": [
         "Importância da manutenção e conservação da motosserra Minimização do risco associado ao equipamento Condições de funcionamento e estado de conservação da motosserra Produtividade e segurança no trabalho Esquema Geral de Manutenção Intervenções a realizar por componente ou órgão mecânico Ferramentas e peças sobressalentes utilizadas Periodicidade da intervenção Tipo de intervenção e procedimentos Limpeza e lubrificação do órgão de corte Regulação da tensão da corrente Limpeza e manutenção do arrancador Limpeza da embraiagem / pinhão de ataque Limpeza do filtro de ar Limpeza e correção da folga dos elétrodos da vela Limpeza das alhetas do cilindro e do volante magnético Afinação do carburador Afiação da corrente de corte Correção do limitador de profundidade Retificação e limpeza da lâmina-guia Rodagem de corrente Deteção e reparação de pequenas avarias Verificações a efetuar no caso de mau ou não funcionamento Identificação da avaria Reparação de pequenas avarias Armazenamento Cuidados e procedimentos"
       ],
@@ -2273,7 +2527,7 @@
       "titulo": "Motorroçadoras – constituição, utilização e manutenção (UFCD 8371)",
       "area_formacao": "Silvicultura e Caça",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C219.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c219.jpg",
       "conteudos": [
         "o Segurança e Saúde no trabalho com a motorroçadora: - Principais riscos associados ao uso da motorroçadora - Meios para garantir a segurança – medidas preventivas - Equipamentos de proteção individual (EPI). Caracterização e regras de utilizaçãoo Constituição e funcionamento da motorroçadora: - Componentes e órgãos mecânicos da motorroçadora: localização, composição, função e modo de funcionamento - Dispositivos de segurança. Caracterização, estado e uso - Tipos de utensílio de corte e de proteções. Condições de utilizaçãoo Utilização da motorroçadora nas operações florestais: - Planeamento e organização dos trabalhos e operações. Medidas preventivas - Transporte - Abastecimento - Arranque e paragem. - Operar a motorroçadora nas operações de gestão de matos e de limpeza de povoamentos. Métodos e técnicas de execução adequadas ao trabalho a realizar. - Comportamentos e procedimentos de boas práticas de segurança e saúde e medidas de proteção ambientalo Manutenção e conservação da motorroçadora: - Esquema geral de manutenção - Principais operações e procedimentos: ~ Limpeza da máquina, componentes e proteções ~ Montagem e desmontagem do órgão e utensílio de corte ~ Limpeza do filtro de ar ~ Afiação dos utensílios de corte ~ Lubrificação da cabeça de corte ~ Outras - Deteção e reparação de pequenas avarias - Armazenamento"
       ],
@@ -2286,7 +2540,7 @@
       "titulo": "Motosserras – constituição, utilização e manutenção (UFCD 8357)",
       "area_formacao": "Silvicultura e Caça",
       "duracao_total": "50.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C252.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c252.jpg",
       "conteudos": [
         "Segurança e saúde no trabalho (SST) com a Motosserra:- Principais riscos existentes na utilização da motosserra- Meios para garantir a segurança- Equipamentos de proteção individual (EPI): Caracterização e regras de utilizaçãoMotosserra:- Constituição e funcionamento- Dispositivos de segurança- Desmontagem e montagem do órgão de corte e arrancador- Simuladores de abate e corte de ramos - iniciação ao corte- Métodos e técnicas de utilização da motosserra em diversas operações florestais (arranque e paragem, abastecimento, abate, corte de ramos, traçagem e toragem).- Segurança na utilização da motosserra nas operações florestais- Manutenção e conservação da motosserra (esquema geral, montagem e desmontagem do órgão de corte, limpeza do filtro de ar, afiação da corrente de corte, funcionamento da embraiagem e tipos de carburadores, rodagem da corrente de corte)Equipamentos acessórios:- Caraterísticas, especificidades técnicas e modo de utilização - pancas, cunhas, garras, ganchos, fita de motosserristaEquipamentos auxiliares de tração:- Caraterísticas, especificidades técnicas e modo de utilização - motoguincho, tirfor, cabos estropos e roldanas- Manutenção e conservaçãoProcedimentos e riscos associados ao abate de árvores em situação difícil – árvores junto a obstáculos ou infra-estruturas, árvores enganchadas, árvores derrubadas- Utilização de cabos, motoguincho, tirfor no abate dirigido e em árvores em situação difícil- Segurança nas operações de abate d e árvores"
       ],
@@ -2310,7 +2564,7 @@
       "titulo": "Técnicas de abate dirigido com motosserra (UFCD 4547)",
       "area_formacao": "Silvicultura e Caça",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C263.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c263.jpg",
       "conteudos": [
         "Fatores que influenciam o rendimento do trabalho no abate de arvoredo com motosserra o Condições do local e obstáculos naturais o Densidade e dimensões da vegetação sob coberto o Tipo de corte: desbaste, cultural ou final o Dimensões e densidade das árvores",
         "Preparação para o abate o Verificação do estado e bom funcionamento da motosserra e equipamentos a utilizar o Limpeza e desobstrução do local o Desramação o Avaliação da direção de queda natural o Definição da direção de abate o Caminhos de fuga",
@@ -2346,7 +2600,7 @@
       "titulo": "Utilização, Manutenção e Conservação da Motosserra e da Motorroçadoura, em segurança",
       "area_formacao": "Silvicultura e Caça",
       "duracao_total": "50.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C265.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c265.jpg",
       "conteudos": [
         "Conteúdos Programáticos da UFCD 4552:",
         "Segurança na utilização da Motosserra o Acidentes, riscos e principais medidas preventivas",
@@ -2372,7 +2626,7 @@
       "titulo": "4274-Comunicação visual - fotografia e vídeo",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C306.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c306.jpg",
       "conteudos": [
         "Fotografia- Fotografia como a “ferramenta” do animador- Fotografia analógica e digital- Registo fotográfico e fotografia criativa- Noções básicas de fotografia (a máquina fotográfica, composição da imagem, diafragma e profundidade de campo, cor, velocidade de obturação etc.)Vídeo- Vídeo como a “ferramenta” do animador- Registo videográfico e vídeo criativo- Câmara de vídeo (noções gerais)- Princípios básicos do filme e videograma: composição estática e dinâmica, planos, movimentos, pontos e ângulos de vista de câmara- Captação de imagem e pós-produção"
       ],
@@ -2385,7 +2639,7 @@
       "titulo": "Animação e Ocupação dos tempos livres através da expressão musical e corporal (UFCD_7240)",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C65.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c65.jpg",
       "conteudos": [
         "Objetivos da animação e ocupação de tempos livres através da expressão musical e corporal, em contexto domiciliário e institucional Estratégias dinamização e motivação de grupos e indivíduos Acolhimento Comunicação e interação Adequação às necessidades e expectativas Técnicas de expressão musical e corporal adequadas ao contexto domiciliário e instituição Expressão musical Canto Instrumentos musicais Fatores críticos para a implementação das atividades Expressão corporal Expressão dramática Dança Jogos e outras atividades lúdicas Fatores críticos para a implementação das atividades"
       ],
@@ -2398,7 +2652,7 @@
       "titulo": "Arte, património e tradição",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C260.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c260.jpg",
       "conteudos": [
         "Conceito de património cultural e artísticoPatrimónio material, imóvel e móvel- Património material móvel: objetos de arte – pintura, escultura, códices manuscritos, ourivesaria, tapeçaria, porcelana, cerâmica, mobiliário, traje- Património material imóvel: Edificado ( monumentos civis, militares e religiosos",
         "solares – interesse público )",
@@ -2414,7 +2668,7 @@
       "titulo": "Atelier Musical (UFCD_4273)",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C52.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c52.jpg",
       "conteudos": [
         "A canção e o ritmo Famílias de instrumentos musicais Orff Altura definida e indefinida Contraste e semelhança tímbrica"
       ],
@@ -2427,7 +2681,7 @@
       "titulo": "Comunicação Interpessoal e Assertividade",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "24.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C299.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c299.jpg",
       "conteudos": [
         "Comunicação interpessoal:-Elementos básicos do processo comunicacional-Determinantes da comunicação eficaz-Estilos comunicacionais-A comunicação como objeto de dinamização de uma equipa de trabalhoEstilos de comportamento e comportamento assertivo:-Estilos típicos de comportamento-Dimensões do comportamento assertivo-Componente emocional da assertividade-Desenvolvimento da assertividade"
       ],
@@ -2440,7 +2694,7 @@
       "titulo": "Corpo e Movimento (UFCD_4263)",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C64.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c64.jpg",
       "conteudos": [
         "O esquema corporal A arquitetura do corpo Eixos e coordenadas do movimento Decomposição do movimento de modo fraccionado Dicotomias: tensão/relaxamento, movimento/pausa, interior/exterior, conter/ser contido, equilíbrio/desequilíbrio O corpo em movimento pelo espaço Partilha do espaço com outros corpos em movimento O esquema corporal do outro O corpo no coletivo do corpo dos outros/ condição para que o outro confie o seu corpo no coletivo A força expressiva da imagem inconsciente do corpo Oralidade Corporalidade Interioridade"
       ],
@@ -2453,7 +2707,7 @@
       "titulo": "Expressão plástica - técnicas e materiais (UFCD_4264)",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C27.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c27.jpg",
       "conteudos": [
         "Técnicas de rasgar, recortar, colarFormação espontânea de registoDesenho, movimentos e formasTécnicas básicas de pinturaMateriais e instrumentos de expressãoTeoria da CorRelação Forma/Matéria/TécnicaNoções de composiçãoModelo e ordenamento"
       ],
@@ -2466,7 +2720,7 @@
       "titulo": "Gestão de conflitos em equipas de ERPI´s e Centros de Dia",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "8.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C295.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c295.jpg",
       "conteudos": [
         "O conflito nas organizações",
         "Tipos de conflitos",
@@ -2491,7 +2745,7 @@
       "titulo": "Gestão de stress do profissional (UFCD_7229)",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C10.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c10.jpg",
       "conteudos": [
         "O Stress Conceito de stress Fatores de risco: emocionais, sociais, organizacionais Sinais e sintomas Consequências negativas do stress Medidas preventivas Técnicas de controlo e gestão de stress profissional Como lidar com situações de agonia e sofrimento Técnicas de auto-proteção As emoções Conceito de emoção Características fisiológicas, cognitivas e comportamentais das emoções Estratégias de gestão das emoções"
       ],
@@ -2504,7 +2758,7 @@
       "titulo": "Intervenção em espaços culturais (UFCD 4293)",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C166.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c166.jpg",
       "conteudos": [],
       "descricao": null,
       "inscricoes_abertas": false,
@@ -2515,7 +2769,7 @@
       "titulo": "Intervenção transdisciplinar em situações de demência e outras doenças mentais",
       "area_formacao": "• Processo de envelhecimento• Envelhecimento patológico• Demência: o Conceito o Perfil Cognitivo e Comportamental• A pessoa com demência o Alterações cognitivas o Sintomas comportamentais e psicológicos o Alterações nas atividades de vida diária• Intervenção transdisciplinar o A importância da intervenção transdisciplinar o Objetivos da intervenção o Áreas de intervenção ? Comunicar com a pessoa com demência ? Atividades da vida diária ? Intervenção cognitiva • Treino cognitivo • Estimulação cognitiva • Reabilitação cognitiva ? Intervenção psicológica• Elaboração de um plano de intervenção",
       "duracao_total": "15.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C297.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c297.jpg",
       "conteudos": [],
       "descricao": null,
       "inscricoes_abertas": false,
@@ -2526,7 +2780,7 @@
       "titulo": "Liderança e Gestão de Equipas",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "10.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C294.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c294.jpg",
       "conteudos": [
         "Introdução",
         "Equipa VS Grupo",
@@ -2546,7 +2800,7 @@
       "titulo": "Oficina de Expressão Dramática (UFCD 4271)",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C124.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c124.jpg",
       "conteudos": [
         "Formas animadas Animação de objectos Fantoches e marionetas Tipos e formas de manipulação Da tradição à modernidade Teatro de sombras O corpo em negativo As mãos que contam Objectos em contraluz Formas e técnicas A Máscara Do rito mágico ao espectáculo A máscara que esconde e revela: tipos e funções Jogos de máscaras A comedia dell’arte e o teatro da máscara"
       ],
@@ -2562,15 +2816,56 @@
       "imagem_url": "https://castelform.pt/ficheiros/C380.jpg",
       "conteudos": [],
       "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=380&accao=795",
+          "id_curso": 380,
+          "id_accao": 795,
+          "titulo": "Técnico/a de Geriatria (EFA)",
+          "area_formacao": "Trabalho Social e Orientação",
+          "duracao_total": "1995 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/a795.jpg?v=202512030527",
+          "objetivos": [
+            "Prestar cuidados de apoio direto ao idoso, em contexto domiciliar e institucional, contribuindo para o seu bem-estar biopsicossocial, tendo em consideração os objetivos definidos pela equipa técnica local e os princípios deontológicos de atuação.."
+          ],
+          "conteudos": [],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "16/03/2026",
+            "fim": "31/12/2027"
+          },
+          "resumo": {
+            "horario": "09:00-13:00/14:00-18:00",
+            "local": "Braga (local a confirmar)"
+          },
+          "apresentacao": "Prestar cuidados de apoio direto ao idoso, em contexto domiciliar e institucional, contribuindo para o seu bem-estar biopsicossocial, tendo em consideração os objetivos definidos pela equipa técnica local e os princípios deontológicos de atuação.",
+          "metodologia": null,
+          "condicoes_inscricao": "Idade superior a 21 anosEmpregados e desempregadosMínimo 9º ano e máximo 12º ano incompleto",
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "16/03/2026",
+            "16/03/2026",
+            "31/12/2027"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Apresentação",
+            "Condições de Inscrição",
+            "Área de Formação",
+            "Objetivos"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 228,
       "titulo": "Língua chinesa- Inf. acerca da vida quotidiana (UFCD 8775)",
       "area_formacao": "Turismo e Lazer",
       "duracao_total": "50.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C228.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c228.jpg",
       "conteudos": [],
       "descricao": null,
       "inscricoes_abertas": false,
@@ -2581,7 +2876,7 @@
       "titulo": "Língua inglesa - informação e orientação (UFCD 3462)",
       "area_formacao": "Turismo e Lazer",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C212.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c212.jpg",
       "conteudos": [
         "Vocabulário específico à informação e orientação."
       ],
@@ -2594,7 +2889,7 @@
       "titulo": "Língua alemã - informação (UFCD 6943)",
       "area_formacao": "Turismo e Lazer",
       "duracao_total": "50.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C236.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c236.jpg",
       "conteudos": [],
       "descricao": null,
       "inscricoes_abertas": false,
@@ -2605,7 +2900,7 @@
       "titulo": "Língua Chinesa - informação e orientação (UFCD 8761)",
       "area_formacao": "Turismo e Lazer",
       "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C158.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c158.jpg",
       "conteudos": [],
       "descricao": null,
       "inscricoes_abertas": false,
@@ -2616,7 +2911,7 @@
       "titulo": "Língua inglesa - informação (Ufcd 3486)",
       "area_formacao": "Turismo e Lazer",
       "duracao_total": "50.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C167.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c167.jpg",
       "conteudos": [],
       "descricao": null,
       "inscricoes_abertas": false,
@@ -2627,7 +2922,7 @@
       "titulo": "Marketing turístico (UFCD 4328)",
       "area_formacao": "Turismo e Lazer",
       "duracao_total": "50.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C179.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/c179.jpg",
       "conteudos": [
         "Conceito de Marketing Conceito de Marketing Turístico O marketing mix Política de produto Política de preço Política de distribuição Política de promoção O mix dos serviços Pessoal em contacto Imagem Processo de prestação do serviço Segmentação Definição de segmentação Razões da segmentação Processo de segmentação Principais critérios de segmentação Escolha dos critérios de segmentação Posicionamento de destinos turísticos Definição de posicionamento Importância da escolha de um posicionamento As duas dimensões de um posicionamento A escolha das características/atributos distintivos A qualidade de um posicionamento Elaboração de uma estratégia de marketing turístico A análise e diagnóstico da situação do destino e espaço turístico (SWOT...) Definição de objectivos As opções estratégicas de marketing Elaboração e formulação do marketing mix A avaliação do plano de acção Instrumentos promocionais Novos conceitos estratégicos de marketing para o turismo Marketing relacional O e-marketing"
       ],
