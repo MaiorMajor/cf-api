@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-03-04T09:07:55.654919+00:00",
+  "gerado_em": "2026-03-05T09:33:15.619135+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 115,
   "cursos": [
@@ -203,8 +203,45 @@
       "imagem_url": "https://castelform.pt/ficheiros/C25.jpg",
       "conteudos": [],
       "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=25&accao=830",
+          "id_curso": 25,
+          "id_accao": 830,
+          "titulo": "0778 - Folha de cálculo",
+          "area_formacao": "Comércio",
+          "duracao_total": "50 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/c25.jpg?v=202502210120",
+          "objetivos": [],
+          "conteudos": [],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "05/03/2026",
+            "fim": "17/03/2026"
+          },
+          "resumo": {
+            "horario": "Pós laboral (9h00-13h00 / 14h00-17h00 / 19h00-23h30)",
+            "local": "Travessa das Rosas nº116300-503 Guardapedro.lima@esplendorvisual.com"
+          },
+          "apresentacao": null,
+          "metodologia": null,
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "05/03/2026",
+            "05/03/2026",
+            "17/03/2026"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Área de Formação",
+            "Formador(es)"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 301,
@@ -2264,45 +2301,8 @@
       "imagem_url": "https://castelform.pt/ficheiros/C394.jpg",
       "conteudos": [],
       "descricao": null,
-      "inscricoes_abertas": true,
-      "acoes": [
-        {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=394&accao=829",
-          "id_curso": 394,
-          "id_accao": 829,
-          "titulo": "Metodologia da Abordagem Educacional por Princípios",
-          "area_formacao": "Serviços de Apoio a Crianças e Jovens",
-          "duracao_total": "15 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/a829.jpg?v=202603030212",
-          "objetivos": [],
-          "conteudos": [],
-          "formadores": [],
-          "detalhe": {
-            "inicio": "04/03/2026",
-            "fim": "18/03/2026"
-          },
-          "resumo": {
-            "horario": "19h30-22h30",
-            "local": "Formação a Distância (FAD)"
-          },
-          "apresentacao": null,
-          "metodologia": null,
-          "condicoes_inscricao": null,
-          "destinatarios": null,
-          "requisitos": null,
-          "certificacao": null,
-          "calendario": [
-            "04/03/2026",
-            "04/03/2026",
-            "18/03/2026"
-          ],
-          "imagens": [],
-          "cards_extraidas": [
-            "Área de Formação",
-            "Formador(es)"
-          ]
-        }
-      ]
+      "inscricoes_abertas": false,
+      "acoes": []
     },
     {
       "id_curso": 257,

@@ -1,32 +1,32 @@
 {
-  "gerado_em": "2026-03-04T09:06:23.728106+00:00",
+  "gerado_em": "2026-03-05T09:31:34.929602+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 23,
   "acoes": [
     {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=394&accao=829",
-      "id_curso": 394,
-      "id_accao": 829,
-      "titulo": "Metodologia da Abordagem Educacional por Princípios",
-      "area_formacao": "Serviços de Apoio a Crianças e Jovens",
-      "duracao_total": "15 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a829.jpg?v=202603030212",
+      "url": "https://castelform.pt/informacaocurso.aspx?id=25&accao=830",
+      "id_curso": 25,
+      "id_accao": 830,
+      "titulo": "0778 - Folha de cálculo",
+      "area_formacao": "Comércio",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/c25.jpg?v=202502210120",
       "objetivos": [],
       "conteudos": [],
       "formadores": [
         {
-          "nome": "Ana Reis",
-          "biografia": "(n.1972). Educadora de Infância. Trabalha em IPSS há 25 anos tendo sido Educadora em sala durante 7 anos, Directora Pedagógica sem sala fixa durante 12 anos com a responsabilidade de gerir as equipas educativas, materiais pedagógicos, acompanhar as actividades desenvolvidas nas salas e a elaboração dos Projectos Pedagógicos e Educativos. Desde 2016 desempenha a função de Directora Técnica tendo como responsabilidade a gestão das equipas educativas e técnicas das diferentes valências, gestão de utentes, controle e gestão financeira, colocar em prática as orientações emanadas dos Órgãos Sociais da Instituição. Frequentou outras formações que apoiaram a sua prática profissional entre elas destaca-se: Gestão de Organizações Sociais, Oficina no Modelo Pedagógico do Movimento da Escola Moderna e Gestão de Qualidade",
-          "foto_url": "https://castelform.pt/ficheiros/e10033.jpg"
+          "nome": "Bruno Pinto da Conceição",
+          "biografia": "",
+          "foto_url": "https://castelform.pt/ficheiros/e0.jpg"
         }
       ],
       "detalhe": {
-        "inicio": "04/03/2026",
-        "fim": "18/03/2026"
+        "inicio": "05/03/2026",
+        "fim": "17/03/2026"
       },
       "resumo": {
-        "horario": "19h30-22h30",
-        "local": "Formação a Distância (FAD)"
+        "horario": "Pós laboral (9h00-13h00 / 14h00-17h00 / 19h00-23h30)",
+        "local": "Travessa das Rosas nº116300-503 Guardapedro.lima@esplendorvisual.com"
       },
       "apresentacao": null,
       "metodologia": null,
@@ -35,9 +35,9 @@
       "requisitos": null,
       "certificacao": null,
       "calendario": [
-        "04/03/2026",
-        "04/03/2026",
-        "18/03/2026"
+        "05/03/2026",
+        "05/03/2026",
+        "17/03/2026"
       ],
       "imagens": [],
       "cards_extraidas": [
@@ -277,6 +277,16 @@
       ],
       "conteudos": [],
       "formadores": [
+        {
+          "nome": "Ana Rita Rodrigues Matias Andrade",
+          "biografia": "Licenciatura em Cardiopneumologia na Escola Superior de Saúde Alto Ave em 2011. Formadora em diversas entidades formadoras desde 2020.",
+          "foto_url": "https://castelform.pt/ficheiros/e13964.jpg"
+        },
+        {
+          "nome": "Patricia Ferreira",
+          "biografia": "Mestrado em Ciências da Matemática pela Universidade do Minho em 2017. Vasta experiência em ensino e formação.",
+          "foto_url": "https://castelform.pt/ficheiros/e0.jpg"
+        },
         {
           "nome": "Paula Machado",
           "biografia": "(n. 1975). Enfermeira desde 1998 e formadora desde 2014. Atualmente desempenha funções como enfermeira no âmbito da saúde escolar no Aces Cávado I- Braga. Formadora no Centro de Formação Profissional de Braga. Formadora na Castelform nas áreas da Saúde e Socorrismo",
