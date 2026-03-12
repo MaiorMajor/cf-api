@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-03-11T09:17:30.688591+00:00",
+  "gerado_em": "2026-03-12T09:11:30.890740+00:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 115,
   "cursos": [
@@ -259,8 +259,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "17/03/2026",
-            "fim": "28/04/2026"
+            "inicio": "24/03/2026",
+            "fim": "26/05/2026"
           },
           "resumo": {
             "horario": "Pós laboral das 19h30-22h30",
@@ -273,9 +273,9 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "17/03/2026",
-            "17/03/2026",
-            "28/04/2026"
+            "24/03/2026",
+            "24/03/2026",
+            "26/05/2026"
           ],
           "imagens": [],
           "cards_extraidas": [
@@ -2117,8 +2117,51 @@
         "Socorrismo, técnicas de socorrismoExame geral da vítima (sintomatologia)Plano de ação do socorristaChoqueAsfixia, respiração artificialIntoxicaçõesTraumatismosLesões (articulares, musculares e ósseas)QueimadurasFeridasHemorragias (pulsação, garrote)"
       ],
       "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=3&accao=834",
+          "id_curso": 3,
+          "id_accao": 834,
+          "titulo": "4478 - Técnicas de socorrismo - princípios básicos",
+          "area_formacao": "Produção Agrícola e Animal",
+          "duracao_total": "25 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/c3.jpg",
+          "objetivos": [
+            "Aplicar técnicas básicas de socorrismo.."
+          ],
+          "conteudos": [
+            "Socorrismo, técnicas de socorrismoExame geral da vítima (sintomatologia)Plano de ação do socorristaChoqueAsfixia, respiração artificialIntoxicaçõesTraumatismosLesões (articulares, musculares e ósseas)QueimadurasFeridasHemorragias (pulsação, garrote)"
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "12/03/2026",
+            "fim": "31/03/2026"
+          },
+          "resumo": {
+            "horario": "Laboral",
+            "local": "Rua Doutor Nélson da Silva Pereira5110-673 Vila Seca - Armamar"
+          },
+          "apresentacao": null,
+          "metodologia": null,
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "12/03/2026",
+            "12/03/2026",
+            "31/03/2026"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Área de Formação",
+            "Objetivos",
+            "Conteúdos Programáticos",
+            "Formador(es)"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 381,
