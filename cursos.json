@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-03-12T09:11:30.890740+00:00",
+  "gerado_em": "2026-03-13T09:12:37.001165+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 115,
+  "total": 117,
   "cursos": [
     {
       "id_curso": 362,
@@ -1282,6 +1282,17 @@
       "acoes": []
     },
     {
+      "id_curso": 396,
+      "titulo": "Parcerias - Castelform",
+      "area_formacao": "Gestão e Administração",
+      "duracao_total": null,
+      "imagem_url": "https://castelform.pt/ficheiros/C396.jpg",
+      "conteudos": [],
+      "descricao": null,
+      "inscricoes_abertas": false,
+      "acoes": []
+    },
+    {
       "id_curso": 135,
       "titulo": "Plano de Negócio - criação de micronegócios (UFCD 7854)",
       "area_formacao": "Comércio",
@@ -1531,7 +1542,7 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "17/03/2026",
+            "inicio": "24/03/2026",
             "fim": "02/05/2026"
           },
           "resumo": {
@@ -1545,7 +1556,7 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "Semana 117-03-2026 - 3ª feira - 18:30 - 22:30 - 4.0 HSemana 224-03-2026 - 3ª feira - 18:30 - 22:30 - 4.0 HSemana 331-03-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H02-04-2026 - 5ª feira - 19:00 - 22:30 - 3.5 HSemana 407-04-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H09-04-2026 - 5ª feira - 19:00 - 22:30 - 3.5 HSemana 514-04-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H16-04-2026 - 5ª feira - 19:00 - 22:30 - 3.5 HSemana 621-04-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H23-04-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H25-04-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 702-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H"
+            "Semana 124-03-2026 - 3ª feira - 18:30 - 22:30 - 4.0 HSemana 231-03-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H02-04-2026 - 5ª feira - 19:00 - 22:30 - 3.5 HSemana 307-04-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H09-04-2026 - 5ª feira - 19:00 - 22:30 - 3.5 HSemana 414-04-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H16-04-2026 - 5ª feira - 19:00 - 22:30 - 3.5 HSemana 521-04-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H23-04-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H25-04-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 602-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H"
           ],
           "imagens": [],
           "cards_extraidas": [
@@ -1971,6 +1982,17 @@
       "acoes": []
     },
     {
+      "id_curso": 397,
+      "titulo": "Formandos Plantibraga",
+      "area_formacao": "Produção Agrícola e Animal",
+      "duracao_total": null,
+      "imagem_url": "https://castelform.pt/ficheiros/C397.jpg",
+      "conteudos": [],
+      "descricao": null,
+      "inscricoes_abertas": false,
+      "acoes": []
+    },
+    {
       "id_curso": 142,
       "titulo": "Mecanização básica e condução de veículos agrícolas (UFCD's:2853;2854;2855;2858;2859;6280;6281)",
       "area_formacao": "Produção Agrícola e Animal",
@@ -2117,51 +2139,8 @@
         "Socorrismo, técnicas de socorrismoExame geral da vítima (sintomatologia)Plano de ação do socorristaChoqueAsfixia, respiração artificialIntoxicaçõesTraumatismosLesões (articulares, musculares e ósseas)QueimadurasFeridasHemorragias (pulsação, garrote)"
       ],
       "descricao": null,
-      "inscricoes_abertas": true,
-      "acoes": [
-        {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=3&accao=834",
-          "id_curso": 3,
-          "id_accao": 834,
-          "titulo": "4478 - Técnicas de socorrismo - princípios básicos",
-          "area_formacao": "Produção Agrícola e Animal",
-          "duracao_total": "25 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c3.jpg",
-          "objetivos": [
-            "Aplicar técnicas básicas de socorrismo.."
-          ],
-          "conteudos": [
-            "Socorrismo, técnicas de socorrismoExame geral da vítima (sintomatologia)Plano de ação do socorristaChoqueAsfixia, respiração artificialIntoxicaçõesTraumatismosLesões (articulares, musculares e ósseas)QueimadurasFeridasHemorragias (pulsação, garrote)"
-          ],
-          "formadores": [],
-          "detalhe": {
-            "inicio": "12/03/2026",
-            "fim": "31/03/2026"
-          },
-          "resumo": {
-            "horario": "Laboral",
-            "local": "Rua Doutor Nélson da Silva Pereira5110-673 Vila Seca - Armamar"
-          },
-          "apresentacao": null,
-          "metodologia": null,
-          "condicoes_inscricao": null,
-          "destinatarios": null,
-          "requisitos": null,
-          "certificacao": null,
-          "calendario": [
-            "12/03/2026",
-            "12/03/2026",
-            "31/03/2026"
-          ],
-          "imagens": [],
-          "cards_extraidas": [
-            "Área de Formação",
-            "Objetivos",
-            "Conteúdos Programáticos",
-            "Formador(es)"
-          ]
-        }
-      ]
+      "inscricoes_abertas": false,
+      "acoes": []
     },
     {
       "id_curso": 381,
