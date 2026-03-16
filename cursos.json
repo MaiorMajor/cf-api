@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-03-13T09:12:37.001165+00:00",
+  "gerado_em": "2026-03-16T09:04:32.994522+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 117,
+  "total": 114,
   "cursos": [
     {
       "id_curso": 362,
@@ -1282,17 +1282,6 @@
       "acoes": []
     },
     {
-      "id_curso": 396,
-      "titulo": "Parcerias - Castelform",
-      "area_formacao": "Gestão e Administração",
-      "duracao_total": null,
-      "imagem_url": "https://castelform.pt/ficheiros/C396.jpg",
-      "conteudos": [],
-      "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
-    },
-    {
       "id_curso": 135,
       "titulo": "Plano de Negócio - criação de micronegócios (UFCD 7854)",
       "area_formacao": "Comércio",
@@ -1982,17 +1971,6 @@
       "acoes": []
     },
     {
-      "id_curso": 397,
-      "titulo": "Formandos Plantibraga",
-      "area_formacao": "Produção Agrícola e Animal",
-      "duracao_total": null,
-      "imagem_url": "https://castelform.pt/ficheiros/C397.jpg",
-      "conteudos": [],
-      "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
-    },
-    {
       "id_curso": 142,
       "titulo": "Mecanização básica e condução de veículos agrícolas (UFCD's:2853;2854;2855;2858;2859;6280;6281)",
       "area_formacao": "Produção Agrícola e Animal",
@@ -2102,8 +2080,69 @@
         "Tipos de acidenteComportamento perante o sinistrado- Prevenção do agravamento do acidente- Alerta dos serviços de socorro público- Exame do sinistrado- Socorros de urgência- Primeiros socorros e conselhos de prevenção nos diferentes casos de dificuldade respiratória- Dificuldades respiratórias – descrição- Socorros de urgência- Reanimação cardio-respiratóriaFeridas, fraturas, acidentes respiratórios, acidentes digestivos, acidentes pelos agentes físicos, envelhecimentoAcidentes inerentes à profissão- Queimadura- Por corrente eléctrica- Hemorragia externa por ferimento (corte)- Comportamento a seguir- Esterilização dos instrumentos- Prevenção dos acidentes de trabalho, supressão de risco, proteção coletiva, proteção individual, sinalizaçãoServiço Nacional de Proteção CivilSocorrismo e realidadeA profissão confrontada com a doençaPrevenção de acidentes e doenças profissionais- Higiene do profissional- Higiene do meio ambienteRevisão de atuação em diferentes casos- Revisão dos efeitos tardios em certos acidentes"
       ],
       "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=41&accao=836",
+          "id_curso": 41,
+          "id_accao": 836,
+          "titulo": "3564 - Primeiros socorros",
+          "area_formacao": "Trabalho Social e Orientação",
+          "duracao_total": "25 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/c41.jpg",
+          "objetivos": [
+            "Capacitar os/as formandos/as para compreender e atuar de forma eficaz na prevenção e resposta a acidentes e doenças profissionais, promovendo uma cultura de segurança no ambiente de trabalho e na comunidade.."
+          ],
+          "conteudos": [
+            "Tipos de acidenteComportamento perante o sinistrado",
+            "Prevenção do agravamento do acidente",
+            "Alerta dos serviços de socorro público",
+            "Exame do sinistrado",
+            "Socorros de urgência",
+            "Primeiros socorros e conselhos de prevenção nos diferentes casos de dificuldade respiratória",
+            "Dificuldades respiratórias – descrição",
+            "Socorros de urgência",
+            "Reanimação cardio",
+            "respiratóriaFeridas, fraturas, acidentes respiratórios, acidentes digestivos, acidentes pelos agentes físicos, envelhecimentoAcidentes inerentes à profissão",
+            "Queimadura",
+            "Por corrente eléctrica",
+            "Hemorragia externa por ferimento (corte)",
+            "Comportamento a seguir",
+            "Esterilização dos instrumentos",
+            "Prevenção dos acidentes de trabalho, supressão de risco, proteção coletiva, proteção individual, sinalizaçãoServiço Nacional de Proteção CivilSocorrismo e realidadeA profissão confrontada com a doençaPrevenção de acidentes e doenças profissionais",
+            "Higiene do profissional",
+            "Higiene do meio ambienteRevisão de atuação em diferentes casos",
+            "Revisão dos efeitos tardios em certos acidentes"
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "16/03/2026",
+            "fim": "20/04/2026"
+          },
+          "resumo": {
+            "horario": "Segundas e quartas feiras das 15h30-18h00",
+            "local": "Rua da Boavista nº 152 – 1544700-416 Braga"
+          },
+          "apresentacao": null,
+          "metodologia": null,
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "16/03/2026",
+            "16/03/2026",
+            "20/04/2026"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Área de Formação",
+            "Objetivos",
+            "Conteúdos Programáticos",
+            "Formador(es)"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 361,
@@ -2324,17 +2363,6 @@
         "Higiene da pele",
         "Posicionamento"
       ],
-      "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
-    },
-    {
-      "id_curso": 394,
-      "titulo": "Metodologia da Abordagem Educacional por Princípios",
-      "area_formacao": "Serviços de Apoio a Crianças e Jovens",
-      "duracao_total": "15.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C394.jpg",
-      "conteudos": [],
       "descricao": null,
       "inscricoes_abertas": false,
       "acoes": []

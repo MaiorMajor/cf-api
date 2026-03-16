@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-03-13T09:11:01.482557+00:00",
+  "gerado_em": "2026-03-16T09:03:00.456486+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 23,
+  "total": 24,
   "acoes": [
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=2&accao=821",
@@ -153,6 +153,72 @@
         "Condições de Inscrição",
         "Área de Formação",
         "Objetivos",
+        "Formador(es)"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=41&accao=836",
+      "id_curso": 41,
+      "id_accao": 836,
+      "titulo": "3564 - Primeiros socorros",
+      "area_formacao": "Trabalho Social e Orientação",
+      "duracao_total": "25 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/c41.jpg",
+      "objetivos": [
+        "Capacitar os/as formandos/as para compreender e atuar de forma eficaz na prevenção e resposta a acidentes e doenças profissionais, promovendo uma cultura de segurança no ambiente de trabalho e na comunidade.."
+      ],
+      "conteudos": [
+        "Tipos de acidenteComportamento perante o sinistrado",
+        "Prevenção do agravamento do acidente",
+        "Alerta dos serviços de socorro público",
+        "Exame do sinistrado",
+        "Socorros de urgência",
+        "Primeiros socorros e conselhos de prevenção nos diferentes casos de dificuldade respiratória",
+        "Dificuldades respiratórias – descrição",
+        "Socorros de urgência",
+        "Reanimação cardio",
+        "respiratóriaFeridas, fraturas, acidentes respiratórios, acidentes digestivos, acidentes pelos agentes físicos, envelhecimentoAcidentes inerentes à profissão",
+        "Queimadura",
+        "Por corrente eléctrica",
+        "Hemorragia externa por ferimento (corte)",
+        "Comportamento a seguir",
+        "Esterilização dos instrumentos",
+        "Prevenção dos acidentes de trabalho, supressão de risco, proteção coletiva, proteção individual, sinalizaçãoServiço Nacional de Proteção CivilSocorrismo e realidadeA profissão confrontada com a doençaPrevenção de acidentes e doenças profissionais",
+        "Higiene do profissional",
+        "Higiene do meio ambienteRevisão de atuação em diferentes casos",
+        "Revisão dos efeitos tardios em certos acidentes"
+      ],
+      "formadores": [
+        {
+          "nome": "Paula Machado",
+          "biografia": "(n. 1975). Enfermeira desde 1998 e formadora desde 2014. Atualmente desempenha funções como enfermeira no âmbito da saúde escolar no Aces Cávado I- Braga. Formadora no Centro de Formação Profissional de Braga. Formadora na Castelform nas áreas da Saúde e Socorrismo",
+          "foto_url": "https://castelform.pt/ficheiros/e10100.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "16/03/2026",
+        "fim": "20/04/2026"
+      },
+      "resumo": {
+        "horario": "Segundas e quartas feiras das 15h30-18h00",
+        "local": "Rua da Boavista nº 152 – 1544700-416 Braga"
+      },
+      "apresentacao": null,
+      "metodologia": null,
+      "condicoes_inscricao": null,
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "16/03/2026",
+        "16/03/2026",
+        "20/04/2026"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos",
         "Formador(es)"
       ]
     },
