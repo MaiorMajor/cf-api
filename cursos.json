@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-03-19T09:11:03.392394+00:00",
+  "gerado_em": "2026-03-20T09:14:52.451839+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 115,
+  "total": 116,
   "cursos": [
     {
       "id_curso": 362,
@@ -934,6 +934,54 @@
       "descricao": null,
       "inscricoes_abertas": false,
       "acoes": []
+    },
+    {
+      "id_curso": 400,
+      "titulo": "Estratégias Digitais e Marketing Automation",
+      "area_formacao": "Comércio",
+      "duracao_total": "100.0 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/C400.jpg",
+      "conteudos": [],
+      "descricao": null,
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=400&accao=839",
+          "id_curso": 400,
+          "id_accao": 839,
+          "titulo": "Estratégias Digitais e Marketing Automation",
+          "area_formacao": "Comércio",
+          "duracao_total": "100 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/c400.jpg?v=202603190556",
+          "objetivos": [],
+          "conteudos": [],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "20/03/2026",
+            "fim": "15/05/2026"
+          },
+          "resumo": {
+            "horario": "Pós laboral",
+            "local": "Rua de Leiria nº68 - Loja A2425-039 Monte Real - Leiria"
+          },
+          "apresentacao": null,
+          "metodologia": null,
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "20/03/2026",
+            "20/03/2026",
+            "15/05/2026"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Área de Formação",
+            "Formador(es)"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 352,
