@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-03-23T09:07:32.508857+00:00",
+  "gerado_em": "2026-03-24T08:44:04.172159+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 22,
+  "total": 24,
   "acoes": [
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=2&accao=816",
@@ -124,13 +124,7 @@
         "Tratamento idiomático de dados Comparação de operadores em cadeia Indentação Falsy Truthy Equivalente ao operador ternário Palavra reservada “in” Uso do retorno na avaliação de expressões Formatação de strings Expressões LambdaClasses e Objetos Criação de classes Privados vs públicos Herança Métodos estáticosSerialization e deserialization de objetos em PythonTeste, registo e depuraçãoCriação de livrarias e distribuição de programas em PythonÂmbito em funçõesMetaprogramação, programação dinâmica Metaclasses Código a gerar códigoIteradores, Geradores e Co",
         "rotinas Método iter() Looping Como criar iteradores Geradores Método __next_()Desenvolvimento para a web em Python Django ou Flask Criação de webservices Acesso a dado"
       ],
-      "formadores": [
-        {
-          "nome": "Ricardo Mourão",
-          "biografia": "Licenciado em Criminologia pelo Instituto Universitário da Maia - ISMAI (2010-2013). Fundador e CEO da Crime&Lógica (desde 2019) e da (desde 2020), focadas em soluções inovadoras em criminologia, desenvolvimento web e marketing digital. Formador (desde 2020) em programação (Python, C/C++, JavaScript, PHP), engenharia de software e literacia digital. Entusiasta de IA e programação, com experiência de docência no Instituto Português de Criminologia.",
-          "foto_url": "https://castelform.pt/ficheiros/e16338.jpg"
-        }
-      ],
+      "formadores": [],
       "detalhe": {
         "inicio": "24/03/2026",
         "fim": "26/05/2026"
@@ -158,7 +152,6 @@
         "Objetivos",
         "Objetivos Específicos",
         "Conteúdos Programáticos",
-        "Formador(es)",
         "Metodologia"
       ]
     },
@@ -811,6 +804,55 @@
       ]
     },
     {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=2&accao=840",
+      "id_curso": 2,
+      "id_accao": 840,
+      "titulo": "Processos e métodos de proteção fitossanitária e de aplicação de produtos fitofarmacêuticos - UFCD 6281",
+      "area_formacao": "Produção Agrícola e Animal",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/c2.jpg?v=202603100557",
+      "objetivos": [
+        "Capacitar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com os princípios da protecção integrada.."
+      ],
+      "conteudos": [
+        "Introdução ao curso 1. Apresentação do grupo 2. Levantamento de expectativas dos participantes 3. Apresentação do programa de acção BLOCO I",
+        "Princípios gerais de proteção das culturasI.1 Meios de protecção das culturas",
+        "controlo de doenças, pragas e infestantes I.1.1. Luta biológica I.1.2. Luta cultural I.1.3. Luta genética I.1.4. Luta biotécnica I.1.5. Luta química I.2 Proteção integrada I.2.1. Evolução da protecção das plantas I.2.2. Legislação específica I.2.3. Princípios gerais de proteção integrada I.2.4. Estimativa do risco e modelos de previsão I.2.5. Nível económico de ataque (NEA) I.2.6. Tomada de decisão I.2.7. Luta química",
+        "Seleção de produtos fitofarmacêuticos I.2.8. Registo dos tratamentos realizados (caderno de campo) I.3 Produção integrada I.3.1. Princípios da PRODI I.3.2. Estratégia de produção I.3.3. Principais técnicas de produção I.3.4. Regulamentação e registosI.4 Agricultura biológica I.4.1. Princípios gerais I.4.2. Regulamento Comunitário relativo à Agricultura Biológica BLOCO II",
+        "Segurança na utilização de produtos fitofarmacêuticos, sistemas regulamentares e redução do risco II.1 Produtos fitofarmacêiticos II.1.1. Definição de produto fitofarmacêutico II.1.2. Classificação química II.1.3. Modos de ação II.1.4. Formulação II.2 Sistemas regulamentares dos PF II.2.1. Homologação dos produtos fitofarmacêuticos II. 2.2. Produtos ilegais",
+        "sua identificação II.2.3. Distribuição, venda e aplicação II.2.4. Gestão de resíduos de embalagens e de excedentes II.2.5. Outra legislação aplicável ou complementar II.3. Segurança na utilização dos produtos fitofarmacêuticos II.3.1. Aspetos toxicológicos inerentes à manipulação e aplicação dos produtos fitofarmacêuticos II.3.2. Símbolos toxicológicos e ecotoxicológicos II.3.3. Informação e leitura do rótulo II.3.4. Equipamento de proteção individual (EPI) II.3.5. Relação entre o EPI e as diferentes características dos produtos fitofarmacêuticos II.3.6. Sintomas de intoxicação com produtos fitofarmacêuticos II.4 Redução do risco no manuseamento e aplicação de produtos fitofarmacêuticos II.4.1. Verificação das condições de trabalho, condições atmosféricas, material de aplicação a utilizar, leitura do rótulo II.4.2. Cuidados com a preparação da calda II.4.3. Noção de dose e de concentração da calda II.4.4. Utilização do EPI correcto II.4.5. Boas práticas de segurança e saúde no trabalho II.5 Redução do risco para o ambiente, espécies e organismos não visados II.5.1. Impacte no ambiente do uso de produtos fitofarmacêuticos II.5.2. Riscos para as espécies e os organismos não visados resultantes da aplicação dos produtos fitofarmacêuticos II.5.3. Preparação da calda II.5.4. Eliminação de excedentes de calda II.5.5. Lavagem do equipamento de aplicação II.5.6. Gestão de embalagens e produtos obsoletos II.5.7. Boas práticas de segurança e saúde no trabalho II.6 Redução do risco para o consumidor II.6.1. Noção de resíduo II.6.2. Limite Máximo de Resíduo II.6.3. Intervalo de segurança II.6.4. Exposição do consumidor e cumprimento das indicações do rótulo II.6.5. Controlo de resíduos BLOCO III",
+        "Máquinas de aplicação de produtos fitofarmacêuticos e técnicas de aplicaçãoIII.1. Máquinas de aplicação",
+        "pulverizadores, atomizadores e polvilhadores III.1.1. Tipos, constituição e funcionamento III.1.2. Equipamentos combinados de mobilização, sementeira e tratamento fitossanitário III.1.3. Critérios para a seleção das máquinas de aplicação III.1.4. Engate das máquinas ao trator e regulações comuns III.1.5. Inspeção do equipamento e verificação do estado de funcionamento III.1.6. Técnicas de calibração e regulação das máquinas de aplicação III.1.7. Limpeza, conservação e manutenção do material de aplicação III.1.8. Operações de engate ao trator e regulação, de calibração e regulação de máquinas de aplicação e de limpeza, conservação e manutenção III.1.9. Boas práticas de segurança e saúde no trabalhoIII.2. Preparação da calda e técnicas de aplicação III.2.1. Cálculo de doses, concentrações e volumes de calda com herbicidas, inseticidas, fungicidas e outros produtos fitofarmacêuticos III.2.2. Preparação da calda III.2.3. Técnicas de aplicação III.2.4. Arrastamento da calda III.2.5. Cuidados com o equipamento após aplicação III.2.6. Eliminação de excedentes de calda e de embalagens III.2.7. Operações de aplicação de PF III.2.8. Boas práticas de segurança e saúde no trabalho BLOCO IV",
+        "Armazenamento, transporte e acidentes com produtos fitofarmacêuticosIV.1 Armazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticos IV.1.1. Condições e características dos locais de armazenamento de produtos fitofarmacêuticos IV.1.2. Perigos e segurança durante o armazenamento. Sinalização. IV.1.3. Perigos e segurança no transporte de pequenas quantidades de produtos fitofarmacêuticos IV.2 Acidentes com produtos fitofarmacêuticos IV.2.1. Prevenção de acidentes IV.2.2. Acidentes de trabalho IV.2.3. Medidas de primeiros socorros Avaliação e encerramentoAvaliação de conhecimentos Avaliação de conhecimentos",
+        "Prova teórica escritaAvaliação de reação e encerramento Avaliação de reação Encerramento"
+      ],
+      "formadores": [],
+      "detalhe": {
+        "inicio": "21/04/2026",
+        "fim": "14/05/2026"
+      },
+      "resumo": {
+        "horario": "2ª a 6ª 18:00-22:00 / Sáb. 9:00-17:00",
+        "local": "Quinta de Santa Eufémia"
+      },
+      "apresentacao": null,
+      "metodologia": "Activa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de casos e trabalhos de grupo",
+      "condicoes_inscricao": "Idade igual ou superior a 18 anos;Escolaridade mínima obrigatória; Situação Profissional:Activos: trabalhadores por conta de outrém, trabalhadores por conta própria ou em situação de desemprego que exercem actividade agrícola a tempo inteiro ou parcial (agricultores empresários e não empresários, trabalhadores agrícolas permanentes e eventuais, mão de obra agrícola familiar) Outros critérios:Exercer ou vir a exercer actividade relacionada com a aplicação de produtos fitofarmacêuticos",
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [],
+      "imagens": [],
+      "cards_extraidas": [
+        "Datas de Realização",
+        "Condições de Inscrição",
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos",
+        "Metodologia"
+      ]
+    },
+    {
       "url": "https://castelform.pt/informacaocurso.aspx?id=365&accao=824",
       "id_curso": 365,
       "id_accao": 824,
@@ -871,47 +913,40 @@
       ]
     },
     {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=62&accao=828",
-      "id_curso": 62,
-      "id_accao": 828,
-      "titulo": "Conduzir e Operar com o trator em Segurança (COTS) (UFCD 9596)",
+      "url": "https://castelform.pt/informacaocurso.aspx?id=142&accao=841",
+      "id_curso": 142,
+      "id_accao": 841,
+      "titulo": "Mecanização Básica e Condução de Veículos Agrícolas (MBCVA)",
       "area_formacao": "Produção Agrícola e Animal",
-      "duracao_total": "50 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/c62.jpg",
+      "duracao_total": "250 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a841.jpg?v=202603230546",
       "objetivos": [
-        "Complementar os conhecimentos teóricos e práticos dos participantes sobre a condução e operação de tratores em segurança tendo em vista a melhoria do seu desempenho na via pública e na exploração e a redução da sinistralidade.."
+        "Capacitar os participantes para conduzir veículos agrícolas da categoria III e efetuar a manutenção, regular, afinar e operar o trator e as máquinas agrícolas básicas de: preparaçao do solo, de sementeira e plantação, de fertilização e correção e de aplicação de produtos fitofarmacêuticos.",
+        "Ter em consideração as condições edafoclimáticas, a poteção ambiental, a segurança alimentar e a segurança,higiene e saúde no trabalho.."
       ],
       "conteudos": [
-        "Conteúdos da UFCD 9596",
-        "Conduzir e Operar com o trator em Segurança (COTS):• Acidentes com tratores em Portugal • Condução e prevenção rodoviária com veículos agrícolas",
-        "Código da Estrada, Código do trabalho e Normas aplicáveis • Veículo seguro",
-        "equipamento de segurança e proteção do trator • Equipamento de proteção individual • Condução e operação com o trator em segurança • Condução do trator em condições perigosas e operar com órgãos ativos • Boas práticas de segurança na condução, operação e engate/desengate de reboques e semirreboques e outras máquinas agrícolas e saúde no trabalho agrícola"
+        "UFCD 2854 – Código da estradaUFCD 2853 – Trator e máquinas agrícolas",
+        "constituição, funcionamento, manutenção e regulaçãoUFCD 2855 – Condução do trator com reboque e máquinas agrícolasUFCD 2858 – Processos e métodos de mobilização do soloUFCD 2859 – Processos e métodos de correção e fertilização do soloUFCD 6280 – Processos e métodos de sementeira e plantaçãoUFCD 6281 – Processos e métodos de proteção fitossanitária e de aplicação de produtos fitofarmacêuticos"
       ],
-      "formadores": [
-        {
-          "nome": "Carlos Manuel da Cunha Carvalho Marques",
-          "biografia": "Licenciado em Engenharia Agronómica e pós graduado em Enologia e Viticultura (a concluir tese de mestrado). Atualmente presta consultoria a explorações agrícolas nas operações de tratamentos fitossanitários e na calibração e inspeção de equipamentos de pulverização. Ministrou várias formções na área agricola e florestal, nomeadamente as UFCD's 4552, 9998, COTS (35h/50h), ADCAPF e APF.",
-          "foto_url": "https://castelform.pt/ficheiros/e11547.jpg"
-        }
-      ],
+      "formadores": [],
       "detalhe": {
-        "inicio": "04/05/2026",
-        "fim": "02/06/2026"
+        "inicio": "06/05/2026",
+        "fim": "24/06/2026"
       },
       "resumo": {
-        "horario": "2ª a 6ª (18:30h-22:30h), Sábado",
-        "local": "Fradelos - Braga"
+        "horario": "09:00-13:00/14:00-18:00",
+        "local": "JF de Arco de Baúlhe"
       },
       "apresentacao": null,
-      "metodologia": "Ativa, Centrada no participante, baseada na experiência e participação dos formandos, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em campo.",
-      "condicoes_inscricao": "Apresentar a seguinte documentação na fase de inscrição:1- Cópia do Certificado de Escolaridade ou de Habilitações Académicas2- Comprovativo de situação profissional: a) Recibo de Vencimento do ultimo mês (se trabalhadores por conta de outrem) b) Declaração de Inicio de Atividade + RVE ou Fatura recente (se trabalhadores por conta própria)3- Cópia da Carta de Condução que habilite à Condução de Veículos Agrícolas (Carta de ligeiros ou pesados)4- Cópia do Cartão de CidadãoOutras condições de inscrição e seleção:N.º de formandos máximo: 16Idade: = 18 anos Habilitações literárias:. Escolaridade obrigatória, nos termos dos n.º 3 do artigo 7.º, do Anexo do Despacho n.º 5756/2020, de 26 de maio.. De acordo com alínea b1) do n.º 3, do artigo 7.º, do Anexo, do referido despacho, podem ser ainda aceites formandos que não disponham de escolaridade obrigatória, desde que comprovem saber ler, escrever e interpretar um texto.Outros requisitos:. Carta de condução da Categoria B, C ou D;. Título de condução que habilite a conduzir veículos agrícolas, quando o seu titular pretenda atualizar conhecimentos.",
+      "metodologia": "Ativa, centrada no participante, utilizando diversas técnicas de ensino como: exposição dialogada, demonstração, simulação, estudo de caso e trabalho individual e de grupo. A formação prática será realizada essencialmente no campo, sob a forma de prática simulada.",
+      "condicoes_inscricao": "Escolaridade obrigatória, nos termos das alíneas a) e b) do n.º 3, do artigo 7.º, do Anexo do Despacho n.º 5756/2020, de 26 de maio.",
       "destinatarios": null,
       "requisitos": null,
       "certificacao": null,
       "calendario": [
-        "04/05/2026",
-        "04/05/2026",
-        "02/06/2026"
+        "06/05/2026",
+        "06/05/2026",
+        "24/06/2026"
       ],
       "imagens": [],
       "cards_extraidas": [
@@ -919,7 +954,6 @@
         "Área de Formação",
         "Objetivos",
         "Conteúdos Programáticos",
-        "Formador(es)",
         "Metodologia"
       ]
     },
@@ -1025,6 +1059,61 @@
         "Objetivos",
         "Conteúdos Programáticos",
         "Formador(es)"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=62&accao=828",
+      "id_curso": 62,
+      "id_accao": 828,
+      "titulo": "Conduzir e Operar com o trator em Segurança (COTS) (UFCD 9596)",
+      "area_formacao": "Produção Agrícola e Animal",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/c62.jpg",
+      "objetivos": [
+        "Complementar os conhecimentos teóricos e práticos dos participantes sobre a condução e operação de tratores em segurança tendo em vista a melhoria do seu desempenho na via pública e na exploração e a redução da sinistralidade.."
+      ],
+      "conteudos": [
+        "Conteúdos da UFCD 9596",
+        "Conduzir e Operar com o trator em Segurança (COTS):• Acidentes com tratores em Portugal • Condução e prevenção rodoviária com veículos agrícolas",
+        "Código da Estrada, Código do trabalho e Normas aplicáveis • Veículo seguro",
+        "equipamento de segurança e proteção do trator • Equipamento de proteção individual • Condução e operação com o trator em segurança • Condução do trator em condições perigosas e operar com órgãos ativos • Boas práticas de segurança na condução, operação e engate/desengate de reboques e semirreboques e outras máquinas agrícolas e saúde no trabalho agrícola"
+      ],
+      "formadores": [
+        {
+          "nome": "Carlos Manuel da Cunha Carvalho Marques",
+          "biografia": "Licenciado em Engenharia Agronómica e pós graduado em Enologia e Viticultura (a concluir tese de mestrado). Atualmente presta consultoria a explorações agrícolas nas operações de tratamentos fitossanitários e na calibração e inspeção de equipamentos de pulverização. Ministrou várias formções na área agricola e florestal, nomeadamente as UFCD's 4552, 9998, COTS (35h/50h), ADCAPF e APF.",
+          "foto_url": "https://castelform.pt/ficheiros/e11547.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "08/05/2026",
+        "fim": "02/06/2026"
+      },
+      "resumo": {
+        "horario": "2ª a 6ª (18:30h-22:30h), Sábado",
+        "local": "Fradelos - Braga"
+      },
+      "apresentacao": null,
+      "metodologia": "Ativa, Centrada no participante, baseada na experiência e participação dos formandos, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em campo.",
+      "condicoes_inscricao": "Apresentar a seguinte documentação na fase de inscrição:1- Cópia do Certificado de Escolaridade ou de Habilitações Académicas2- Comprovativo de situação profissional: a) Recibo de Vencimento do ultimo mês (se trabalhadores por conta de outrem) b) Declaração de Inicio de Atividade + RVE ou Fatura recente (se trabalhadores por conta própria)3- Cópia da Carta de Condução que habilite à Condução de Veículos Agrícolas (Carta de ligeiros ou pesados)4- Cópia do Cartão de CidadãoOutras condições de inscrição e seleção:N.º de formandos máximo: 16Idade: = 18 anos Habilitações literárias:. Escolaridade obrigatória, nos termos dos n.º 3 do artigo 7.º, do Anexo do Despacho n.º 5756/2020, de 26 de maio.. De acordo com alínea b1) do n.º 3, do artigo 7.º, do Anexo, do referido despacho, podem ser ainda aceites formandos que não disponham de escolaridade obrigatória, desde que comprovem saber ler, escrever e interpretar um texto.Outros requisitos:. Carta de condução da Categoria B, C ou D;. Título de condução que habilite a conduzir veículos agrícolas, quando o seu titular pretenda atualizar conhecimentos.",
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "08/05/2026",
+        "08/05/2026",
+        "02/06/2026",
+        "Homologação inicial entregue a 23/03/2026"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Condições de Inscrição",
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos",
+        "Formador(es)",
+        "Metodologia",
+        "Observações"
       ]
     },
     {
