@@ -1,8 +1,63 @@
 {
-  "gerado_em": "2026-03-24T08:45:32.493711+00:00",
+  "gerado_em": "2026-03-25T08:56:25.030123+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 116,
+  "total": 117,
   "cursos": [
+    {
+      "id_curso": 401,
+      "titulo": "Execução de Peças de Olaria (UFCD 0244)",
+      "area_formacao": "Artesanato",
+      "duracao_total": "50.0 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/C401.jpg",
+      "conteudos": [
+        "Preparação do barroTécnicas de execução de formas cilíndricas Centrar Abrir Levantar / subirFerramentas e utensílios para diferentes técnicas de execuçãoAcabamentosSecagem"
+      ],
+      "descricao": null,
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=401&accao=842",
+          "id_curso": 401,
+          "id_accao": 842,
+          "titulo": "Execução de Peças de Olaria (UFCD 0244)",
+          "area_formacao": "Artesanato",
+          "duracao_total": "50 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/c401.jpg?v=202603240531",
+          "objetivos": [
+            "Executar operações de manuseamento do barro.Modelar peças de olaria.."
+          ],
+          "conteudos": [
+            "Preparação do barroTécnicas de execução de formas cilíndricas Centrar Abrir Levantar / subirFerramentas e utensílios para diferentes técnicas de execuçãoAcabamentosSecagem"
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "13/04/2026",
+            "fim": "01/05/2026"
+          },
+          "resumo": {
+            "horario": "09:00-13:00/14:00-18:00",
+            "local": "Museu da Agricultura de Fermentões"
+          },
+          "apresentacao": null,
+          "metodologia": null,
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "13/04/2026",
+            "13/04/2026",
+            "01/05/2026"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Área de Formação",
+            "Objetivos",
+            "Conteúdos Programáticos"
+          ]
+        }
+      ]
+    },
     {
       "id_curso": 362,
       "titulo": "Revitalização da Olaria de Guimarães",
@@ -56,8 +111,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "24/03/2026",
-            "fim": "05/05/2026"
+            "inicio": "02/04/2026",
+            "fim": "19/05/2026"
           },
           "resumo": {
             "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
@@ -70,10 +125,10 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "24/03/2026",
-            "05/05/2026",
-            "24/03/2026",
-            "05/05/2026"
+            "02/04/2026",
+            "19/05/2026",
+            "02/04/2026",
+            "19/05/2026"
           ],
           "imagens": [],
           "cards_extraidas": [
@@ -240,55 +295,8 @@
       "imagem_url": "https://castelform.pt/ficheiros/C379.jpg",
       "conteudos": [],
       "descricao": null,
-      "inscricoes_abertas": true,
-      "acoes": [
-        {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=379&accao=794",
-          "id_curso": 379,
-          "id_accao": 794,
-          "titulo": "10794 - Programação avançada com Python",
-          "area_formacao": "Ciências Informáticas",
-          "duracao_total": "50 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/a794.jpg?v=202511280447",
-          "objetivos": [
-            "Capacitar os formandos a criar soluções de alta complexidade utilizando Python, aprofundando conhecimentos em estruturas avançadas da linguagem, boas práticas de desenvolvimento, programação orientada a objetos, integração com bibliotecas especializadas e construção de aplicações robustas, eficientes e escaláveis para diferentes contextos profissionais.."
-          ],
-          "conteudos": [
-            "Tratamento idiomático de dados Comparação de operadores em cadeia Indentação Falsy Truthy Equivalente ao operador ternário Palavra reservada “in” Uso do retorno na avaliação de expressões Formatação de strings Expressões LambdaClasses e Objetos Criação de classes Privados vs públicos Herança Métodos estáticosSerialization e deserialization de objetos em PythonTeste, registo e depuraçãoCriação de livrarias e distribuição de programas em PythonÂmbito em funçõesMetaprogramação, programação dinâmica Metaclasses Código a gerar códigoIteradores, Geradores e Co",
-            "rotinas Método iter() Looping Como criar iteradores Geradores Método __next_()Desenvolvimento para a web em Python Django ou Flask Criação de webservices Acesso a dado"
-          ],
-          "formadores": [],
-          "detalhe": {
-            "inicio": "24/03/2026",
-            "fim": "26/05/2026"
-          },
-          "resumo": {
-            "horario": "Pós laboral das 19h30-22h30",
-            "local": "Formação a Distância (FAD)"
-          },
-          "apresentacao": "Prepare-se para o Futuro da Análise de Dados! Neste curso prático e dinâmico, fica capacitado a manipular e transformar dados de forma eficiente utilizando a poderosa linguagem Python. O curso aborda desde a importação de dados até a criação de variáveis personalizadas, passando por operações de limpeza e transformação.",
-          "metodologia": "Formação a distância (totalmente \"on line\").Utilização do método demonstrativo nas sessões síncronas (on line) com execução de exercícios práticos/atividades colocados na plataforma e que os formandos descarregam para os seus PCs no inicio de cada sessão e/ou nova atividade. Havendo autorização dos formandos, as sessões de formação são gravadas e os vídeos disponibilizados após cada sessãsão. Desta forma, os vídeos são recrusos pedagógicos de apoio cuja visualização permite aos formandos repetir o exercício/atividade e desta forma ir consolidando as funcionalidades e rotinas de progrmação com Python a fim de que no final consigam a produção de dashboards e relatórios analíticos mais atrativos e informativos.",
-          "condicoes_inscricao": "Escolaridade mínima:12º ano (completo).Documentação necessária:1. Cópia do cartão de cidadão ou do Visto de Residência, com autorização para trabalho (se candidato/a estrangeiro/a).2. Certificado Escolar ou Certificado de Habilitações Académicas (ou Declaração da instituição de Ensino onde completou, com aproveitamento, o último ano escolar ou do ensino superior, atestando dessa forma as habilitações escolares ou académicas. No caso de candidato/a estrangeiro/a, o certificado de escolaridade ou o certificado de habilitações académicas deve estar reconhecido no sistema de ensino português (seja Escola Secundária, seja Universidade).3. Cópia do último recibo de vencimento (podem ser rasurados os valores auferidos).4. Declaração de Horário de trabalho (ex: de segunda a sexta feira, das 9:00h às 13:00h e das 14:00h às 18:00h).5. IBAN extraído do Netbanking onde deve constar o nome do/a candidato/a.Pagamento do subsídio de alimentação no valor de 6,00 euros/sessão, aos formandos que completem, em cada sessão, pelo menos 3 horas de formação no horário pós-laboral.",
-          "destinatarios": null,
-          "requisitos": null,
-          "certificacao": null,
-          "calendario": [
-            "24/03/2026",
-            "24/03/2026",
-            "26/05/2026"
-          ],
-          "imagens": [],
-          "cards_extraidas": [
-            "Apresentação",
-            "Condições de Inscrição",
-            "Área de Formação",
-            "Objetivos",
-            "Objetivos Específicos",
-            "Conteúdos Programáticos",
-            "Metodologia"
-          ]
-        }
-      ]
+      "inscricoes_abertas": false,
+      "acoes": []
     },
     {
       "id_curso": 365,
@@ -1426,58 +1434,6 @@
       "inscricoes_abertas": true,
       "acoes": [
         {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=2&accao=816",
-          "id_curso": 2,
-          "id_accao": 816,
-          "titulo": "Processos e métodos de proteção fitossanitária e de aplicação de produtos fitofarmacêuticos - UFCD 6281",
-          "area_formacao": "Produção Agrícola e Animal",
-          "duracao_total": "50 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c2.jpg?v=202603100557",
-          "objetivos": [
-            "Capacitar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com os princípios da protecção integrada.."
-          ],
-          "conteudos": [
-            "Introdução ao curso 1. Apresentação do grupo 2. Levantamento de expectativas dos participantes 3. Apresentação do programa de acção BLOCO I",
-            "Princípios gerais de proteção das culturasI.1 Meios de protecção das culturas",
-            "controlo de doenças, pragas e infestantes I.1.1. Luta biológica I.1.2. Luta cultural I.1.3. Luta genética I.1.4. Luta biotécnica I.1.5. Luta química I.2 Proteção integrada I.2.1. Evolução da protecção das plantas I.2.2. Legislação específica I.2.3. Princípios gerais de proteção integrada I.2.4. Estimativa do risco e modelos de previsão I.2.5. Nível económico de ataque (NEA) I.2.6. Tomada de decisão I.2.7. Luta química",
-            "Seleção de produtos fitofarmacêuticos I.2.8. Registo dos tratamentos realizados (caderno de campo) I.3 Produção integrada I.3.1. Princípios da PRODI I.3.2. Estratégia de produção I.3.3. Principais técnicas de produção I.3.4. Regulamentação e registosI.4 Agricultura biológica I.4.1. Princípios gerais I.4.2. Regulamento Comunitário relativo à Agricultura Biológica BLOCO II",
-            "Segurança na utilização de produtos fitofarmacêuticos, sistemas regulamentares e redução do risco II.1 Produtos fitofarmacêiticos II.1.1. Definição de produto fitofarmacêutico II.1.2. Classificação química II.1.3. Modos de ação II.1.4. Formulação II.2 Sistemas regulamentares dos PF II.2.1. Homologação dos produtos fitofarmacêuticos II. 2.2. Produtos ilegais",
-            "sua identificação II.2.3. Distribuição, venda e aplicação II.2.4. Gestão de resíduos de embalagens e de excedentes II.2.5. Outra legislação aplicável ou complementar II.3. Segurança na utilização dos produtos fitofarmacêuticos II.3.1. Aspetos toxicológicos inerentes à manipulação e aplicação dos produtos fitofarmacêuticos II.3.2. Símbolos toxicológicos e ecotoxicológicos II.3.3. Informação e leitura do rótulo II.3.4. Equipamento de proteção individual (EPI) II.3.5. Relação entre o EPI e as diferentes características dos produtos fitofarmacêuticos II.3.6. Sintomas de intoxicação com produtos fitofarmacêuticos II.4 Redução do risco no manuseamento e aplicação de produtos fitofarmacêuticos II.4.1. Verificação das condições de trabalho, condições atmosféricas, material de aplicação a utilizar, leitura do rótulo II.4.2. Cuidados com a preparação da calda II.4.3. Noção de dose e de concentração da calda II.4.4. Utilização do EPI correcto II.4.5. Boas práticas de segurança e saúde no trabalho II.5 Redução do risco para o ambiente, espécies e organismos não visados II.5.1. Impacte no ambiente do uso de produtos fitofarmacêuticos II.5.2. Riscos para as espécies e os organismos não visados resultantes da aplicação dos produtos fitofarmacêuticos II.5.3. Preparação da calda II.5.4. Eliminação de excedentes de calda II.5.5. Lavagem do equipamento de aplicação II.5.6. Gestão de embalagens e produtos obsoletos II.5.7. Boas práticas de segurança e saúde no trabalho II.6 Redução do risco para o consumidor II.6.1. Noção de resíduo II.6.2. Limite Máximo de Resíduo II.6.3. Intervalo de segurança II.6.4. Exposição do consumidor e cumprimento das indicações do rótulo II.6.5. Controlo de resíduos BLOCO III",
-            "Máquinas de aplicação de produtos fitofarmacêuticos e técnicas de aplicaçãoIII.1. Máquinas de aplicação",
-            "pulverizadores, atomizadores e polvilhadores III.1.1. Tipos, constituição e funcionamento III.1.2. Equipamentos combinados de mobilização, sementeira e tratamento fitossanitário III.1.3. Critérios para a seleção das máquinas de aplicação III.1.4. Engate das máquinas ao trator e regulações comuns III.1.5. Inspeção do equipamento e verificação do estado de funcionamento III.1.6. Técnicas de calibração e regulação das máquinas de aplicação III.1.7. Limpeza, conservação e manutenção do material de aplicação III.1.8. Operações de engate ao trator e regulação, de calibração e regulação de máquinas de aplicação e de limpeza, conservação e manutenção III.1.9. Boas práticas de segurança e saúde no trabalhoIII.2. Preparação da calda e técnicas de aplicação III.2.1. Cálculo de doses, concentrações e volumes de calda com herbicidas, inseticidas, fungicidas e outros produtos fitofarmacêuticos III.2.2. Preparação da calda III.2.3. Técnicas de aplicação III.2.4. Arrastamento da calda III.2.5. Cuidados com o equipamento após aplicação III.2.6. Eliminação de excedentes de calda e de embalagens III.2.7. Operações de aplicação de PF III.2.8. Boas práticas de segurança e saúde no trabalho BLOCO IV",
-            "Armazenamento, transporte e acidentes com produtos fitofarmacêuticosIV.1 Armazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticos IV.1.1. Condições e características dos locais de armazenamento de produtos fitofarmacêuticos IV.1.2. Perigos e segurança durante o armazenamento. Sinalização. IV.1.3. Perigos e segurança no transporte de pequenas quantidades de produtos fitofarmacêuticos IV.2 Acidentes com produtos fitofarmacêuticos IV.2.1. Prevenção de acidentes IV.2.2. Acidentes de trabalho IV.2.3. Medidas de primeiros socorros Avaliação e encerramentoAvaliação de conhecimentos Avaliação de conhecimentos",
-            "Prova teórica escritaAvaliação de reação e encerramento Avaliação de reação Encerramento"
-          ],
-          "formadores": [],
-          "detalhe": {
-            "inicio": "24/03/2026",
-            "fim": "02/05/2026"
-          },
-          "resumo": {
-            "horario": "2ª a 6ª das 18:30 às 22:30 / Sábado e Domingo das 09:00 às 17:00",
-            "local": "APCB - Amares"
-          },
-          "apresentacao": null,
-          "metodologia": "Activa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de casos e trabalhos de grupo",
-          "condicoes_inscricao": "Idade igual ou superior a 18 anos;Escolaridade mínima obrigatória; Situação Profissional:Activos: trabalhadores por conta de outrém, trabalhadores por conta própria ou em situação de desemprego que exercem actividade agrícola a tempo inteiro ou parcial (agricultores empresários e não empresários, trabalhadores agrícolas permanentes e eventuais, mão de obra agrícola familiar) Outros critérios:Exercer ou vir a exercer actividade relacionada com a aplicação de produtos fitofarmacêuticos",
-          "destinatarios": null,
-          "requisitos": null,
-          "certificacao": null,
-          "calendario": [
-            "Semana 124-03-2026 - 3ª feira - 19:00 - 22:30 - 4.0 HSemana 231-03-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H02-04-2026 - 5ª feira - 19:00 - 22:30 - 3.5 HSemana 307-04-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H09-04-2026 - 5ª feira - 19:00 - 22:30 - 3.5 HSemana 414-04-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H16-04-2026 - 5ª feira - 19:00 - 22:30 - 3.5 HSemana 521-04-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H23-04-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H25-04-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 628-04-2026 - 3ª feira - 19:00 - 22:30 - 4.0 H02-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H"
-          ],
-          "imagens": [],
-          "cards_extraidas": [
-            "Datas de Realização",
-            "Condições de Inscrição",
-            "Área de Formação",
-            "Objetivos",
-            "Conteúdos Programáticos",
-            "Formador(es)",
-            "Metodologia"
-          ]
-        },
-        {
           "url": "https://castelform.pt/informacaocurso.aspx?id=2&accao=833",
           "id_curso": 2,
           "id_accao": 833,
@@ -1902,20 +1858,19 @@
             "horario": "2ª a 6ª (18:30h-22:30h), Sábado",
             "local": "Fradelos - Braga"
           },
-          "apresentacao": null,
+          "apresentacao": "Com esta ação pretende-se que o formando complemente os conhecimentos teóricos e práticos sobre a condução e operação de tratores em segurança tendo em vista a melhoria do seu desempenho na via pública e na exploração e a redução da sinistralidade. Esta ação visa dar resposta face às recentes alterações da legislação. Condições de acesso:- Escolaridade Mínima obrigatória;- Comprovativo de situação profissional;- Carta de Condução que habilite à Condução de Veículos Agrícolas; Licença de condução de trator Agrícola, sempre que não for demonstrada formação específica na área da segurança com a utilização de tratores e máquinas Agrícolas.",
           "metodologia": "Ativa, Centrada no participante, baseada na experiência e participação dos formandos, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em campo.",
           "condicoes_inscricao": "Apresentar a seguinte documentação na fase de inscrição:1- Cópia do Certificado de Escolaridade ou de Habilitações Académicas2- Comprovativo de situação profissional: a) Recibo de Vencimento do ultimo mês (se trabalhadores por conta de outrem) b) Declaração de Inicio de Atividade + RVE ou Fatura recente (se trabalhadores por conta própria)3- Cópia da Carta de Condução que habilite à Condução de Veículos Agrícolas (Carta de ligeiros ou pesados)4- Cópia do Cartão de CidadãoOutras condições de inscrição e seleção:N.º de formandos máximo: 16Idade: = 18 anos Habilitações literárias:. Escolaridade obrigatória, nos termos dos n.º 3 do artigo 7.º, do Anexo do Despacho n.º 5756/2020, de 26 de maio.. De acordo com alínea b1) do n.º 3, do artigo 7.º, do Anexo, do referido despacho, podem ser ainda aceites formandos que não disponham de escolaridade obrigatória, desde que comprovem saber ler, escrever e interpretar um texto.Outros requisitos:. Carta de condução da Categoria B, C ou D;. Título de condução que habilite a conduzir veículos agrícolas, quando o seu titular pretenda atualizar conhecimentos.",
           "destinatarios": null,
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "08/05/2026",
-            "08/05/2026",
-            "02/06/2026",
-            "Homologação inicial entregue a 23/03/2026"
+            "Semana 108-05-2026 - 6ª feira - 19:00 - 22:30 - 4.0 HSemana 211-05-2026 - 2ª feira - 19:00 - 22:30 - 4.0 H12-05-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H16-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 318-05-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H23-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 425-05-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H28-05-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H30-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 502-06-2026 - 3ª feira - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H"
           ],
           "imagens": [],
           "cards_extraidas": [
+            "Datas de Realização",
+            "Apresentação",
             "Condições de Inscrição",
             "Área de Formação",
             "Objetivos",
