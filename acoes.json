@@ -1,48 +1,8 @@
 {
-  "gerado_em": "2026-03-25T08:54:54.008065+00:00",
+  "gerado_em": "2026-03-25T14:38:36.699728+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 23,
+  "total": 22,
   "acoes": [
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=380&accao=795",
-      "id_curso": 380,
-      "id_accao": 795,
-      "titulo": "Técnico/a de Geriatria (EFA)",
-      "area_formacao": "Trabalho Social e Orientação",
-      "duracao_total": "1995 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a795.jpg?v=202512030527",
-      "objetivos": [
-        "Prestar cuidados de apoio direto ao idoso, em contexto domiciliar e institucional, contribuindo para o seu bem-estar biopsicossocial, tendo em consideração os objetivos definidos pela equipa técnica local e os princípios deontológicos de atuação.."
-      ],
-      "conteudos": [],
-      "formadores": [],
-      "detalhe": {
-        "inicio": "30/03/2026",
-        "fim": "31/12/2027"
-      },
-      "resumo": {
-        "horario": "09:00-13:00/14:00-18:00",
-        "local": "Braga (local a confirmar)"
-      },
-      "apresentacao": "Prestar cuidados de apoio direto ao idoso, em contexto domiciliar e institucional, contribuindo para o seu bem-estar biopsicossocial, tendo em consideração os objetivos definidos pela equipa técnica local e os princípios deontológicos de atuação.",
-      "metodologia": null,
-      "condicoes_inscricao": "Idade superior a 21 anosEmpregados e desempregadosMínimo 9º ano e máximo 12º ano incompleto",
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "30/03/2026",
-        "30/03/2026",
-        "31/12/2027"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Apresentação",
-        "Condições de Inscrição",
-        "Área de Formação",
-        "Objetivos"
-      ]
-    },
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=381&accao=796",
       "id_curso": 381,
@@ -708,10 +668,16 @@
       "conteudos": [
         "Preparação do barroTécnicas de execução de formas cilíndricas Centrar Abrir Levantar / subirFerramentas e utensílios para diferentes técnicas de execuçãoAcabamentosSecagem"
       ],
-      "formadores": [],
+      "formadores": [
+        {
+          "nome": "Maria Fernanda Lima do Rosário Inácio Braga",
+          "biografia": "Entre 1997 e 1998 frequentou e concluíu o Curso de Olaria, integrado no Projeto CPC - Conservação do Património Cultural. Carta de Artesão pela Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais, em 11 de Março de 2004. Animadora e formadora de dezenas de oficinas criativas, atelies, workshops, mostras de olaria, modelagem em barro, Mais de uma dezena de UFCDs dadas do referencial de Oleiro/a da ANQEP. - Certificação da Cantarinha dos Namorados, peça emblemática da cerâmica vimaranense em Maio de 2022, em cerimónia oficial na FIA de Lisboa. Facebook.com/presepiosembarromariafernandabraga Blog : maosnobarro.wordpress.com",
+          "foto_url": "https://castelform.pt/ficheiros/e0.jpg"
+        }
+      ],
       "detalhe": {
         "inicio": "13/04/2026",
-        "fim": "01/05/2026"
+        "fim": "14/05/2026"
       },
       "resumo": {
         "horario": "09:00-13:00/14:00-18:00",
@@ -726,13 +692,14 @@
       "calendario": [
         "13/04/2026",
         "13/04/2026",
-        "01/05/2026"
+        "14/05/2026"
       ],
       "imagens": [],
       "cards_extraidas": [
         "Área de Formação",
         "Objetivos",
-        "Conteúdos Programáticos"
+        "Conteúdos Programáticos",
+        "Formador(es)"
       ]
     },
     {
