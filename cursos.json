@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-03-26T09:02:26.422273+00:00",
+  "gerado_em": "2026-03-27T09:07:29.506498+00:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 117,
+  "total": 116,
   "cursos": [
     {
       "id_curso": 401,
@@ -24,51 +24,41 @@
           "duracao_total": "50 horas",
           "imagem_url": "https://castelform.pt/ficheiros/c401.jpg?v=202603240531",
           "objetivos": [
-            "Executar operações de manuseamento do barro.Modelar peças de olaria.."
+            "Dominar técnicas de manuseamento do barro e modelagem de peças de olaria.."
           ],
           "conteudos": [
             "Preparação do barroTécnicas de execução de formas cilíndricas Centrar Abrir Levantar / subirFerramentas e utensílios para diferentes técnicas de execuçãoAcabamentosSecagem"
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "13/04/2026",
-            "fim": "14/05/2026"
+            "inicio": "15/04/2026",
+            "fim": "25/05/2026"
           },
           "resumo": {
-            "horario": "09:00-13:00/14:00-18:00",
+            "horario": "19:00-23:00",
             "local": "Museu da Agricultura de Fermentões"
           },
           "apresentacao": null,
-          "metodologia": null,
-          "condicoes_inscricao": null,
+          "metodologia": "Formação prática focada na modelagem de peças em barro, com base numa breve explicação teórica da formadora e demonstração de técnicas, posteriormente replicadas pelos/as formandos/as.As peças serão depois cozidas em forno de oleiro para adquirir a cor final e maior resistência.Privilegia-se o método demonstrativo.",
+          "condicoes_inscricao": "Condições de Inscrição:1- Se Ativos:a) Se trabalhadores por conta de outrem - Recibo de Vencimento do último mês + Declaração da Entidade Empregadora com o Horário de Trabalho. Se a declaração tiver o vínculo profissional à Entidade não é exigido o recibo de vencimento.b) Se trabalhadores por conta própria – declaração de Inicio de atividade + Atual situação cadastral extraído da AT ou RVE ou Recibo de Pagamento da prestação social à SS - trabalho independente ou Certidão de Enquadramento em IVA extraído da AT. 2 - Se desempregados:a) Declaração do IEFP (com menos de 30 dias), ou extrato detalhado de remunerações da Segurança Social - último ano (opcional e aplicável no caso de não ser possível a declaração do IEFP.Outros documentos necessários:- Cópia do Certificado escolar ou de habilitações académicas- Cópia do Cartão de cidadão - podem colocar na fotocópia a menção \"autorizado à Castelform para efeitos de formação profissional\".- IBAN extraído do Netbanking ou solicitado ao banco - necessário ter o nome do/a formando/aNOTA: Os formandos recebem 6,00 euros por cada sessão de formação com pelo menos 3 horas assistidas fora do horário de trabalho. Por esse motivo necessitamos do horário de trabalho para confirmar essa situação.",
           "destinatarios": null,
           "requisitos": null,
           "certificacao": null,
-          "calendario": [
-            "13/04/2026",
-            "13/04/2026",
-            "14/05/2026"
-          ],
+          "calendario": [],
           "imagens": [],
           "cards_extraidas": [
+            "Datas de Realização",
+            "Condições de Inscrição",
             "Área de Formação",
             "Objetivos",
+            "Objetivos Específicos",
             "Conteúdos Programáticos",
-            "Formador(es)"
+            "Formador(es)",
+            "Metodologia",
+            "Avaliação"
           ]
         }
       ]
-    },
-    {
-      "id_curso": 362,
-      "titulo": "Revitalização da Olaria de Guimarães",
-      "area_formacao": "Artesanato",
-      "duracao_total": "150.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C362.jpg",
-      "conteudos": [],
-      "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
     },
     {
       "id_curso": 200,
