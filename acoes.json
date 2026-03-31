@@ -1,75 +1,13 @@
 {
-  "gerado_em": "2026-03-30T09:05:31.125396+01:00",
+  "gerado_em": "2026-03-31T09:13:21.629359+01:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 23,
   "acoes": [
     {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=381&accao=796",
-      "id_curso": 381,
-      "id_accao": 796,
-      "titulo": "Técnico/a Auxiliar de Saúde (EFA)",
-      "area_formacao": "Saúde - Programas não Classificados Noutra Área de Formação",
-      "duracao_total": "2020 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a796.jpg?v=202512040211",
-      "objetivos": [
-        "Desenvolver as competências profissionais, éticas e legais necessárias ao desempenho qualificado do/a Técnico/a Auxiliar de Saúde, assegurando a compreensão das suas atividades, responsabilidades, direitos e deveres, bem como a capacidade de atuar de forma segura, supervisionada, proativa e adequada aos diferentes contextos, públicos e normas institucionais no âmbito dos cuidados de saúde.."
-      ],
-      "conteudos": [],
-      "formadores": [
-        {
-          "nome": "Ana Rita Rodrigues Matias Andrade",
-          "biografia": "Licenciatura em Cardiopneumologia na Escola Superior de Saúde Alto Ave em 2011. Formadora em diversas entidades formadoras desde 2020.",
-          "foto_url": "https://castelform.pt/ficheiros/e13964.jpg"
-        },
-        {
-          "nome": "Cândida Pinto",
-          "biografia": "(n.1980). Licenciada em Inglês e Alemão. Atualmente, exerce atividade como Formadora de Inglês, Intérprete, Tradutora e revisora de artigos científicos, teses e diversos textos de cariz académico. Foi tradutora na Revista ELLE, Discovery Channel e Edições Asa. Exerceu os cargos de Coordenadora do Departamento de Línguas e da disciplina de Inglês, Gestora do Projeto dos Exames da Universidade de Cambridge, e Cambridge Examiner em colégio privado e instituto de línguas. Possui formação em Tecnologias da Informação e da Comunicação, Design de Moda e Styling. Atualmente, exerce o cargo de diretora criativa numa agência de comunicação",
-          "foto_url": "https://castelform.pt/ficheiros/e7676.jpg"
-        },
-        {
-          "nome": "Patricia Ferreira",
-          "biografia": "Mestrado em Ciências da Matemática pela Universidade do Minho em 2017. Vasta experiência em ensino e formação.",
-          "foto_url": "https://castelform.pt/ficheiros/e0.jpg"
-        },
-        {
-          "nome": "Paula Machado",
-          "biografia": "(n. 1975). Enfermeira desde 1998 e formadora desde 2014. Atualmente desempenha funções como enfermeira no âmbito da saúde escolar no Aces Cávado I- Braga. Formadora no Centro de Formação Profissional de Braga. Formadora na Castelform nas áreas da Saúde e Socorrismo",
-          "foto_url": "https://castelform.pt/ficheiros/e10100.jpg"
-        }
-      ],
-      "detalhe": {
-        "inicio": "30/03/2026",
-        "fim": "31/12/2027"
-      },
-      "resumo": {
-        "horario": "9:00 às 12h30 e das 14:00 às 17:30",
-        "local": "Braga (local a confirmar)"
-      },
-      "apresentacao": "O/A Técnico/a Auxiliar de Saúde é o/a profissional que auxilia na prestação de cuidados de saúde aos utentes, na recolha e transporte de amostras biológicas, na limpeza, higienização e transporte de roupas, materiais e equipamentos, na limpeza e higienização dos espaços e no apoio logístico e administrativo das diferentes unidades e serviços de saúde, sob orientações do profissional de saúde.",
-      "metodologia": null,
-      "condicoes_inscricao": "Idade igual ou superior a 21 anosEmpregados e desempregadosMínimo 9º ano e máximo 12º ano incompleto",
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "30/03/2026",
-        "30/03/2026",
-        "31/12/2027"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Apresentação",
-        "Condições de Inscrição",
-        "Área de Formação",
-        "Objetivos",
-        "Formador(es)"
-      ]
-    },
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=331&accao=728",
-      "id_curso": 331,
+      "url": "https://castelform.pt/informacaocurso.aspx?id=403&accao=728",
+      "id_curso": 403,
       "id_accao": 728,
-      "titulo": "Power BI",
+      "titulo": "10799 - Modelação de dados",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "25 horas",
       "imagem_url": "https://castelform.pt/ficheiros/a728.jpg?v=202410210248",
@@ -114,67 +52,6 @@
         "Conteúdos Programáticos",
         "Formador(es)",
         "Metodologia"
-      ]
-    },
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=366&accao=767",
-      "id_curso": 366,
-      "id_accao": 767,
-      "titulo": "0393 - Internet como estratégia de marketing",
-      "area_formacao": "Comércio",
-      "duracao_total": "50 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a767.jpg?v=202507251016",
-      "objetivos": [
-        "Capacitar os formandos para a gestão da presença empresarial das suas Entidades Empregadoras nas redes sociais.."
-      ],
-      "conteudos": [
-        "Tipos de presença e funcionalidades específicas",
-        "Tipologias de conteúdos",
-        "Métricas e reporting",
-        "Exemplos e análise de casos",
-        "Instagram marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
-        "LinkedIn marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
-        "Youtube marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
-        "Outras redes sociais",
-        "Gestão de sinergias entre diferentes redes sociais"
-      ],
-      "formadores": [
-        {
-          "nome": "Flávia Vilas Boas",
-          "biografia": "Licenciada em Marketing pela Escola de Economia e Gestão da Universidade do Minho. Pós-graduada em gestão e negócios também pela Universidade do Minho. Foi responsável pelo gabinete de comunicação e imagem do Hospital de Braga, nomeadamente pelo Facebook do Banco de Sangue e do Linkedin do Hospital de Braga (2023). É responsável pela gestão de redes sociais e website de algumas empresas clientes, desde janeiro de 2022. Foi responsável pelo desenvolvimento de uma estratégia empresarial e de marketing para a Aplicação Shop&Go do Ikea. Finalista da Competição Nacional StartUp Programme Junior Achievement Portugal (JAP) - Desenvolvimento de uma ideia de negócio. Consultora e Formadora de Gestão de Redes Sociais. Formadora na Castelform nas temáticas de Marketing (Plano de negócios; Neuromarketing; Gestão de Redes Sociais), com a avaliação de 4,85 na escala de 1 a 5.",
-          "foto_url": "https://castelform.pt/ficheiros/e12277.jpg"
-        }
-      ],
-      "detalhe": {
-        "inicio": "31/03/2026",
-        "fim": "12/05/2026"
-      },
-      "resumo": {
-        "horario": "Pós-laboral",
-        "local": "Formação a Distância (FAD)"
-      },
-      "apresentacao": "Esta formação tem como objetivo capacitar os formandos e as empresas/organizações a desenvolver estratégias de comunicação eficazes para as redes sociais, considerando as particularidades e funcionalidades de cada plataforma. Durante a formação, será abordada a gestão de redes sociais e a comunicação de produtos e serviços através de campanhas online, destacando a importância de uma abordagem estratégica e alinhada ao público-alvo de cada rede social.Além disso, serão explorados os elementos fundamentais do marketing digital, incluindo mídias sociais e anúncios digitais, como ferramentas indispensáveis para divulgar produtos e serviços de forma impactante.",
-      "metodologia": "Curso de Formação a distancia: 50% síncrono (on line) e 50% assíncrono:- Nas sessões síncronas o/a formador/a apresenta os conteúdos teóricos e desenvolve aplicações práticas que os formandos poderão depois explorar e replicar.- Nas sessões assíncronas os formandos têm a possibilidade de desenvolver as propostas de trabalho sugeridas nas sessões síncronas, para testar os conhecimentos adquiridos.",
-      "condicoes_inscricao": "Ativos/as empregados/as (por conta de outrem do setor privado com ou sem fins lucrativos), maiores de 18 anos, com escolaridade igual ou superior ao 9º ano.Cumpridos os critérios de elegibilidade, a seleção é efetuada por ordem de inscrição.Os formandos necessitam de computador com microfone, câmara e acesso à Internet.Documentação necessária:- Cópia do Certificado de Habilitações;- Cópia do último recibo de vencimento;- Declaração da entidade empregadora com horário de trabalho, assinada, carimbada e datada;- Comprovativo de IBAN em nome do/a formando/a.",
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "Terças e Quintas Feiras- Sessões síncronas: das 19:30-23:30 horas ou das 19:30-23:00 horas"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Datas de Realização",
-        "Apresentação",
-        "Condições de Inscrição",
-        "Área de Formação",
-        "Objetivos",
-        "Objetivos Específicos",
-        "Conteúdos Programáticos",
-        "Formador(es)",
-        "Metodologia",
-        "Avaliação",
-        "Observações"
       ]
     },
     {
@@ -435,6 +312,67 @@
         "Conteúdos Programáticos",
         "Formador(es)",
         "Metodologia"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=366&accao=767",
+      "id_curso": 366,
+      "id_accao": 767,
+      "titulo": "0393 - Internet como estratégia de marketing",
+      "area_formacao": "Comércio",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a767.jpg?v=202507251016",
+      "objetivos": [
+        "Capacitar os formandos para a gestão da presença empresarial das suas Entidades Empregadoras nas redes sociais.."
+      ],
+      "conteudos": [
+        "Tipos de presença e funcionalidades específicas",
+        "Tipologias de conteúdos",
+        "Métricas e reporting",
+        "Exemplos e análise de casos",
+        "Instagram marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
+        "LinkedIn marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
+        "Youtube marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
+        "Outras redes sociais",
+        "Gestão de sinergias entre diferentes redes sociais"
+      ],
+      "formadores": [
+        {
+          "nome": "Flávia Vilas Boas",
+          "biografia": "Licenciada em Marketing pela Escola de Economia e Gestão da Universidade do Minho. Pós-graduada em gestão e negócios também pela Universidade do Minho. Foi responsável pelo gabinete de comunicação e imagem do Hospital de Braga, nomeadamente pelo Facebook do Banco de Sangue e do Linkedin do Hospital de Braga (2023). É responsável pela gestão de redes sociais e website de algumas empresas clientes, desde janeiro de 2022. Foi responsável pelo desenvolvimento de uma estratégia empresarial e de marketing para a Aplicação Shop&Go do Ikea. Finalista da Competição Nacional StartUp Programme Junior Achievement Portugal (JAP) - Desenvolvimento de uma ideia de negócio. Consultora e Formadora de Gestão de Redes Sociais. Formadora na Castelform nas temáticas de Marketing (Plano de negócios; Neuromarketing; Gestão de Redes Sociais), com a avaliação de 4,85 na escala de 1 a 5.",
+          "foto_url": "https://castelform.pt/ficheiros/e12277.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "07/04/2026",
+        "fim": "19/05/2026"
+      },
+      "resumo": {
+        "horario": "Pós-laboral",
+        "local": "Formação a Distância (FAD)"
+      },
+      "apresentacao": "Esta formação tem como objetivo capacitar os formandos e as empresas/organizações a desenvolver estratégias de comunicação eficazes para as redes sociais, considerando as particularidades e funcionalidades de cada plataforma. Durante a formação, será abordada a gestão de redes sociais e a comunicação de produtos e serviços através de campanhas online, destacando a importância de uma abordagem estratégica e alinhada ao público-alvo de cada rede social.Além disso, serão explorados os elementos fundamentais do marketing digital, incluindo mídias sociais e anúncios digitais, como ferramentas indispensáveis para divulgar produtos e serviços de forma impactante.",
+      "metodologia": "Curso de Formação a distancia: 50% síncrono (on line) e 50% assíncrono:- Nas sessões síncronas o/a formador/a apresenta os conteúdos teóricos e desenvolve aplicações práticas que os formandos poderão depois explorar e replicar.- Nas sessões assíncronas os formandos têm a possibilidade de desenvolver as propostas de trabalho sugeridas nas sessões síncronas, para testar os conhecimentos adquiridos.",
+      "condicoes_inscricao": "Ativos/as empregados/as (por conta de outrem do setor privado com ou sem fins lucrativos), maiores de 18 anos, com escolaridade igual ou superior ao 9º ano.Cumpridos os critérios de elegibilidade, a seleção é efetuada por ordem de inscrição.Os formandos necessitam de computador com microfone, câmara e acesso à Internet.Documentação necessária:- Cópia do Certificado de Habilitações;- Cópia do último recibo de vencimento;- Declaração da entidade empregadora com horário de trabalho, assinada, carimbada e datada;- Comprovativo de IBAN em nome do/a formando/a.",
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "Terças e Quintas Feiras- Sessões síncronas: das 19:30-23:30 horas ou das 19:30-23:00 horas"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Datas de Realização",
+        "Apresentação",
+        "Condições de Inscrição",
+        "Área de Formação",
+        "Objetivos",
+        "Objetivos Específicos",
+        "Conteúdos Programáticos",
+        "Formador(es)",
+        "Metodologia",
+        "Avaliação",
+        "Observações"
       ]
     },
     {
@@ -922,6 +860,69 @@
       ]
     },
     {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=2&accao=844",
+      "id_curso": 2,
+      "id_accao": 844,
+      "titulo": "Processos e métodos de proteção fitossanitária e de aplicação de produtos fitofarmacêuticos - UFCD 6281",
+      "area_formacao": "Produção Agrícola e Animal",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/c2.jpg?v=202603100557",
+      "objetivos": [
+        "Capacitar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com os princípios da protecção integrada.."
+      ],
+      "conteudos": [
+        "Introdução ao curso 1. Apresentação do grupo 2. Levantamento de expectativas dos participantes 3. Apresentação do programa de acção BLOCO I",
+        "Princípios gerais de proteção das culturasI.1 Meios de protecção das culturas",
+        "controlo de doenças, pragas e infestantes I.1.1. Luta biológica I.1.2. Luta cultural I.1.3. Luta genética I.1.4. Luta biotécnica I.1.5. Luta química I.2 Proteção integrada I.2.1. Evolução da protecção das plantas I.2.2. Legislação específica I.2.3. Princípios gerais de proteção integrada I.2.4. Estimativa do risco e modelos de previsão I.2.5. Nível económico de ataque (NEA) I.2.6. Tomada de decisão I.2.7. Luta química",
+        "Seleção de produtos fitofarmacêuticos I.2.8. Registo dos tratamentos realizados (caderno de campo) I.3 Produção integrada I.3.1. Princípios da PRODI I.3.2. Estratégia de produção I.3.3. Principais técnicas de produção I.3.4. Regulamentação e registosI.4 Agricultura biológica I.4.1. Princípios gerais I.4.2. Regulamento Comunitário relativo à Agricultura Biológica BLOCO II",
+        "Segurança na utilização de produtos fitofarmacêuticos, sistemas regulamentares e redução do risco II.1 Produtos fitofarmacêiticos II.1.1. Definição de produto fitofarmacêutico II.1.2. Classificação química II.1.3. Modos de ação II.1.4. Formulação II.2 Sistemas regulamentares dos PF II.2.1. Homologação dos produtos fitofarmacêuticos II. 2.2. Produtos ilegais",
+        "sua identificação II.2.3. Distribuição, venda e aplicação II.2.4. Gestão de resíduos de embalagens e de excedentes II.2.5. Outra legislação aplicável ou complementar II.3. Segurança na utilização dos produtos fitofarmacêuticos II.3.1. Aspetos toxicológicos inerentes à manipulação e aplicação dos produtos fitofarmacêuticos II.3.2. Símbolos toxicológicos e ecotoxicológicos II.3.3. Informação e leitura do rótulo II.3.4. Equipamento de proteção individual (EPI) II.3.5. Relação entre o EPI e as diferentes características dos produtos fitofarmacêuticos II.3.6. Sintomas de intoxicação com produtos fitofarmacêuticos II.4 Redução do risco no manuseamento e aplicação de produtos fitofarmacêuticos II.4.1. Verificação das condições de trabalho, condições atmosféricas, material de aplicação a utilizar, leitura do rótulo II.4.2. Cuidados com a preparação da calda II.4.3. Noção de dose e de concentração da calda II.4.4. Utilização do EPI correcto II.4.5. Boas práticas de segurança e saúde no trabalho II.5 Redução do risco para o ambiente, espécies e organismos não visados II.5.1. Impacte no ambiente do uso de produtos fitofarmacêuticos II.5.2. Riscos para as espécies e os organismos não visados resultantes da aplicação dos produtos fitofarmacêuticos II.5.3. Preparação da calda II.5.4. Eliminação de excedentes de calda II.5.5. Lavagem do equipamento de aplicação II.5.6. Gestão de embalagens e produtos obsoletos II.5.7. Boas práticas de segurança e saúde no trabalho II.6 Redução do risco para o consumidor II.6.1. Noção de resíduo II.6.2. Limite Máximo de Resíduo II.6.3. Intervalo de segurança II.6.4. Exposição do consumidor e cumprimento das indicações do rótulo II.6.5. Controlo de resíduos BLOCO III",
+        "Máquinas de aplicação de produtos fitofarmacêuticos e técnicas de aplicaçãoIII.1. Máquinas de aplicação",
+        "pulverizadores, atomizadores e polvilhadores III.1.1. Tipos, constituição e funcionamento III.1.2. Equipamentos combinados de mobilização, sementeira e tratamento fitossanitário III.1.3. Critérios para a seleção das máquinas de aplicação III.1.4. Engate das máquinas ao trator e regulações comuns III.1.5. Inspeção do equipamento e verificação do estado de funcionamento III.1.6. Técnicas de calibração e regulação das máquinas de aplicação III.1.7. Limpeza, conservação e manutenção do material de aplicação III.1.8. Operações de engate ao trator e regulação, de calibração e regulação de máquinas de aplicação e de limpeza, conservação e manutenção III.1.9. Boas práticas de segurança e saúde no trabalhoIII.2. Preparação da calda e técnicas de aplicação III.2.1. Cálculo de doses, concentrações e volumes de calda com herbicidas, inseticidas, fungicidas e outros produtos fitofarmacêuticos III.2.2. Preparação da calda III.2.3. Técnicas de aplicação III.2.4. Arrastamento da calda III.2.5. Cuidados com o equipamento após aplicação III.2.6. Eliminação de excedentes de calda e de embalagens III.2.7. Operações de aplicação de PF III.2.8. Boas práticas de segurança e saúde no trabalho BLOCO IV",
+        "Armazenamento, transporte e acidentes com produtos fitofarmacêuticosIV.1 Armazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticos IV.1.1. Condições e características dos locais de armazenamento de produtos fitofarmacêuticos IV.1.2. Perigos e segurança durante o armazenamento. Sinalização. IV.1.3. Perigos e segurança no transporte de pequenas quantidades de produtos fitofarmacêuticos IV.2 Acidentes com produtos fitofarmacêuticos IV.2.1. Prevenção de acidentes IV.2.2. Acidentes de trabalho IV.2.3. Medidas de primeiros socorros Avaliação e encerramentoAvaliação de conhecimentos Avaliação de conhecimentos",
+        "Prova teórica escritaAvaliação de reação e encerramento Avaliação de reação Encerramento"
+      ],
+      "formadores": [
+        {
+          "nome": "Carlos Manuel da Cunha Carvalho Marques",
+          "biografia": "Licenciado em Engenharia Agronómica e pós graduado em Enologia e Viticultura (a concluir tese de mestrado). Atualmente presta consultoria a explorações agrícolas nas operações de tratamentos fitossanitários e na calibração e inspeção de equipamentos de pulverização. Ministrou várias formções na área agricola e florestal, nomeadamente as UFCD's 4552, 9998, COTS (35h/50h), ADCAPF e APF.",
+          "foto_url": "https://castelform.pt/ficheiros/e11547.jpg"
+        },
+        {
+          "nome": "Maria Helena Dias Soares",
+          "biografia": "Bacharelato em Engenharia Agro-Pecuária e Pós-Garduação em Agricultura Biológica. Ministrou diversas formações na area agricola presenciais e online, nomeadamente as UFCD's 9263, 6281, 11026, 926, 6290. É sócia da Associação Portuguesa de Horticultura e da Sociedade da Ciências Agrárias de Portugal.",
+          "foto_url": "https://castelform.pt/ficheiros/e14715.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "06/05/2026",
+        "fim": "15/06/2026"
+      },
+      "resumo": {
+        "horario": "2ª a 6ª das 18:30 às 22:30 / Sábado e Domingo das 09:00 às 17:00",
+        "local": "Fradelos - Braga"
+      },
+      "apresentacao": null,
+      "metodologia": "Activa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de casos e trabalhos de grupo",
+      "condicoes_inscricao": "Idade igual ou superior a 18 anos;Escolaridade mínima obrigatória; Situação Profissional:Activos: trabalhadores por conta de outrém, trabalhadores por conta própria ou em situação de desemprego que exercem actividade agrícola a tempo inteiro ou parcial (agricultores empresários e não empresários, trabalhadores agrícolas permanentes e eventuais, mão de obra agrícola familiar) Outros critérios:Exercer ou vir a exercer actividade relacionada com a aplicação de produtos fitofarmacêuticos",
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "Semana 106-05-2026 - 4ª feira - 18:30 - 22:30 - 4.0 HSemana 213-05-2026 - 4ª feira - 18:30 - 22:30 - 4.0 H15-05-2026 - 6ª feira - 18:30 - 22:30 - 4.0 HSemana 320-05-2026 - 4ª feira - 19:30 - 22:30 - 3.0 H22-05-2026 - 6ª feira - 19:30 - 22:30 - 3.0 HSemana 427-05-2026 - 4ª feira - 19:30 - 22:30 - 3.0 H29-05-2026 - 6ª feira - 19:30 - 22:30 - 3.0 HSemana 503-06-2026 - 4ª feira - 19:30 - 22:30 - 3.0 H05-06-2026 - 6ª feira - 19:30 - 22:30 - 3.0 H06-06-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 610-06-2026 - 4ª feira - 19:30 - 22:30 - 3.0 H13-06-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 715-06-2026 - 2ª feira - 19:30 - 22:30 - 3.0 H"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Datas de Realização",
+        "Condições de Inscrição",
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos",
+        "Formador(es)",
+        "Metodologia"
+      ]
+    },
+    {
       "url": "https://castelform.pt/informacaocurso.aspx?id=358&accao=741",
       "id_curso": 358,
       "id_accao": 741,
@@ -1064,7 +1065,7 @@
       "requisitos": null,
       "certificacao": null,
       "calendario": [
-        "Semana 108-05-2026 - 6ª feira - 19:00 - 22:30 - 4.0 HSemana 211-05-2026 - 2ª feira - 19:00 - 22:30 - 4.0 H12-05-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H16-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 318-05-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H23-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 425-05-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H28-05-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H30-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 502-06-2026 - 3ª feira - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H"
+        "Semana 1:08-05-2025 - 6ª feira - 19:00 - 22:30 - 4.0 HSemana 211-05-2026 - 2ª feira - 19:00 - 22:30 - 4.0 H14-05-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H16-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 318-05-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H23-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 425-05-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H28-05-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H30-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 502-06-2026 - 3ª feira - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H"
       ],
       "imagens": [],
       "cards_extraidas": [
