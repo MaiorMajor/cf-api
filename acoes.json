@@ -1,99 +1,8 @@
 {
-  "gerado_em": "2026-04-02T08:49:15.151988+01:00",
+  "gerado_em": "2026-04-07T09:08:43.174023+01:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 20,
+  "total": 19,
   "acoes": [
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=310&accao=823",
-      "id_curso": 310,
-      "id_accao": 823,
-      "titulo": "0757 - Folha de cálculo - funcionalidades avançadas",
-      "area_formacao": "Ciências Informáticas",
-      "duracao_total": "25 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/c310.jpg",
-      "objetivos": [
-        "Executar ligações entre múltiplas folhas de cálculo.",
-        "Efetuar a análise de dados.",
-        "Automatizar ações através da utilização de macros.."
-      ],
-      "conteudos": [
-        "Múltiplas folhas de cálculo Múltiplas folhas Reunião de folhas de cálculo Ligação entre folhas Resumo de dados Inserção de subtotais Destaques Relatórios Análise de dados Análise de dados em tabelas e listas",
-        "Criação, ordenação e filtragem de dados",
-        "Formulários Criação e formatação de uma tabela dinâmica Utilização de totais e subtotais Fórmulas em tabelas dinâmicas Elaboração de gráficos Macros Macros pré",
-        "definidas Macros de personalização das barras de ferramentas Criação e gravação de uma macro Atribuição de uma macro a um botão Execução de uma macro"
-      ],
-      "formadores": [
-        {
-          "nome": "Ricardo Costa",
-          "biografia": "(n. 1978). Licenciado em Economia. A sua experiência profissional na área da Informática tem sido desenvolvida desde 2002 até ao presente. Atualmente desempenho funções com formador e professor na área das TIC e Robótica. Integra a equipa de formadores da Castelform, onde nos últimos 4 anos (entre nov. 2020 e maio de 2024), lecionou 17 ações de Excel Avançado e 5 de PowerBI, envolvendo mais de 500 formandos, tendo obtido avaliação de satisfação 4,9 (excelente), na escala de 1 a 5",
-          "foto_url": "https://castelform.pt/ficheiros/e7679.jpg"
-        }
-      ],
-      "detalhe": {
-        "inicio": "02/04/2026",
-        "fim": "27/04/2026"
-      },
-      "resumo": {
-        "horario": "Laboral (14h00-17h00 e 14h00-18h00)",
-        "local": "Formação a Distância (FAD)"
-      },
-      "apresentacao": null,
-      "metodologia": null,
-      "condicoes_inscricao": null,
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "- 02/04/2026 das 14:00 às 18:00- 09/04/2026 das 14:00 às 17:00- 13/04/2026 das 14:00 às 18:00- 16/04/2026 das 14:00 às 17:00- 20/04/2026 das 14:00 às 18:00- 23/04/2026 das 14:00 às 17:00- 27/04/2026 das 14:00 às 18:00"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Datas de Realização",
-        "Área de Formação",
-        "Objetivos",
-        "Conteúdos Programáticos",
-        "Formador(es)"
-      ]
-    },
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=368&accao=769",
-      "id_curso": 368,
-      "id_accao": 769,
-      "titulo": "0755 - Processador de texto - funcionalidades avançadas",
-      "area_formacao": "Ciências Informáticas",
-      "duracao_total": "25 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a769.jpg?v=202507251211",
-      "objetivos": [
-        "Automatizar tarefas de edição e elaboração de documentos.Efectuar impressões em série.Elaborar e utilizar macros e formulários.."
-      ],
-      "conteudos": [
-        "Modelos e assistentes Criação de modelos Modelos pré",
-        "definidos Modelo normal Criação de documentos com recurso a assistentesImpressão em série Documento principal Documento de dadosFormulários Criação de campos de formulários Preenchimento de formuláriosMacros Criação Gravação Execução"
-      ],
-      "formadores": [],
-      "detalhe": {
-        "inicio": "06/04/2026",
-        "fim": "27/04/2026"
-      },
-      "resumo": {
-        "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
-        "local": "Formação a Distância (FAD)"
-      },
-      "apresentacao": null,
-      "metodologia": null,
-      "condicoes_inscricao": null,
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [],
-      "imagens": [],
-      "cards_extraidas": [
-        "Datas de Realização",
-        "Área de Formação",
-        "Objetivos",
-        "Conteúdos Programáticos"
-      ]
-    },
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=2&accao=833",
       "id_curso": 2,
@@ -260,6 +169,41 @@
         "Objetivos",
         "Conteúdos Programáticos",
         "Metodologia"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=405&accao=848",
+      "id_curso": 405,
+      "id_accao": 848,
+      "titulo": "UC00294 Utilizar aplicações digitais de produtividade, colaboração e comunicação",
+      "area_formacao": "Ciências Informáticas",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/c0.jpg",
+      "objetivos": [],
+      "conteudos": [],
+      "formadores": [],
+      "detalhe": {
+        "inicio": "07/04/2026",
+        "fim": "28/04/2026"
+      },
+      "resumo": {
+        "horario": "Pós laboral das 19h00-23h00 ou das 19h00-22h00",
+        "local": "Formação a Distância (FAD)"
+      },
+      "apresentacao": null,
+      "metodologia": null,
+      "condicoes_inscricao": null,
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "07/04/2026",
+        "07/04/2026",
+        "28/04/2026"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Área de Formação"
       ]
     },
     {
@@ -475,12 +419,12 @@
         "fim": "17/05/2026"
       },
       "resumo": {
-        "horario": "2ª a 6ª 19:00-22:30 / Sáb. 9:00-17:00",
+        "horario": "Pós-laboral",
         "local": "UF de Este (São Pedro e São Mamede)"
       },
       "apresentacao": null,
       "metodologia": "Activa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de casos e trabalhos de grupo",
-      "condicoes_inscricao": "Idade igual ou superior a 18 anos;Escolaridade mínima obrigatória; Situação Profissional:Activos: trabalhadores por conta de outrém, trabalhadores por conta própria ou em situação de desemprego que exercem actividade agrícola a tempo inteiro ou parcial (agricultores empresários e não empresários, trabalhadores agrícolas permanentes e eventuais, mão de obra agrícola familiar) Outros critérios:Exercer ou vir a exercer actividade relacionada com a aplicação de produtos fitofarmacêuticos",
+      "condicoes_inscricao": "Idade igual ou superior a 18 anos;Escolaridade mínima obrigatória; Situação Profissional:Activos: trabalhadores por conta de outrém, trabalhadores por conta própria ou em situação de desemprego que exercem actividade agrícola a tempo inteiro ou parcial (agricultores empresários e não empresários, trabalhadores agrícolas permanentes e eventuais, mão de obra agrícola familiar) Outros critérios:Exercer ou vir a exercer actividade relacionada com a aplicação de produtos fitofarmacêuticos.Excecionalmnete poderão ser aceites pessoas em situação de reforma desde que apresentem um Extrato de Descontos (carreira contributiva) extraído da Segurança Social e um documento que comprove que ainda faz agricultura (cartão de gasóleo ou uma caderneta predial rústica ou uma declaração da junta de freguesia comprovando essa atividade)Documentação necessária para finalizar o processo de formando/a:1. Cópia do cartão de cidadão.2. Cópia do certificado escolar/certificado de habilitações. Em alternativa, declaração da Escola/Instituição de ensino onde concluiu o último grau escolar/académico.3. Comprovativo de situação profissional:- Trabalhadores p/ conta de outrem: Apresentar cópia de recibo de vencimento do último mês.- Trabalhadores p/ conta propria: Apresentar declaração de enquadramento em IVA (extraída do site da autoridade tributária).- Desempregados: Declaração do IEFP em como se encontra registado/a no IEFP à procura de emprego ou Extrato de Remunerações estraído da Segurança Social Direta.- Outras situações - analisar com a coordenação do curso.",
       "destinatarios": null,
       "requisitos": null,
       "certificacao": null,
@@ -716,13 +660,24 @@
         "UFCD 2854 – Código da estradaUFCD 2853 – Trator e máquinas agrícolas",
         "constituição, funcionamento, manutenção e regulaçãoUFCD 2855 – Condução do trator com reboque e máquinas agrícolasUFCD 2858 – Processos e métodos de mobilização do soloUFCD 2859 – Processos e métodos de correção e fertilização do soloUFCD 6280 – Processos e métodos de sementeira e plantaçãoUFCD 6281 – Processos e métodos de proteção fitossanitária e de aplicação de produtos fitofarmacêuticos"
       ],
-      "formadores": [],
+      "formadores": [
+        {
+          "nome": "João Fernandes",
+          "biografia": "Licenciado em Engenharia Agropecuária. Desde 2002, é empresário agrícola com exploração de cunicultura industrial. Formador em cursos de Mecanização Básica e Condução de Veiculos Agrícolas de Categoria II ou III (MBCVA) e Condução e Operação de Tratores em Segurança (COTS), em diversas Entidades Formadoras (EFs). Formador em cuross de Distribuição Comercialização e Aplicação de Produtos Fitofarmacêuticos em diversas EFs.",
+          "foto_url": "https://castelform.pt/ficheiros/e12157.jpg"
+        },
+        {
+          "nome": "Gracinda Alves",
+          "biografia": "(n. 1980) . Licenciatura em Engenharia Agronómica, Ramo Zootecnia. Professora do ensino profissional agrícola na temática de mecanização e colaboradora em exploração agrícola familiar. Formadora em cursos de zootecnia, produção agícola e mecanização agrícola. Possui formação específica em mecanização agrícola estando homologada pela DRAPN para ministrar cursos de Condução e Operação com o Trator em Segurança (COTs)",
+          "foto_url": "https://castelform.pt/ficheiros/e3759.jpg"
+        }
+      ],
       "detalhe": {
         "inicio": "06/05/2026",
         "fim": "24/06/2026"
       },
       "resumo": {
-        "horario": "09:00-13:00/14:00-18:00",
+        "horario": "Pós laboral",
         "local": "JF de Arco de Baúlhe"
       },
       "apresentacao": null,
@@ -732,17 +687,18 @@
       "requisitos": null,
       "certificacao": null,
       "calendario": [
-        "06/05/2026",
-        "06/05/2026",
-        "24/06/2026"
+        "Semana 106-05-2026 - 4ª feira - 14:30 - 18:30 e das 19:30 - 22:30 - 7.0 H07-05-2026 - 5ª feira - 14:30 - 18:30 e das 19:30 - 22:30 - 7.0 H08-05-2026 - 6ª feira - 19:30 - 22:30 - 3.0 H09-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H10-05-2026 - Domingo - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 211-05-2026 - 2ª feira - 18:30 - 22:30 - 4.0 H12-05-2026 - 3ª feira - 18:30 - 22:30 - 4.0 H13-05-2026 - 4ª feira - 18:30 - 22:30 - 4.0 H14-05-2026 - 5ª feira - 18:30 - 22:30 - 4.0 H15-05-2026 - 6ª feira - 17:30 - 21:30 - 4.0 H16-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H17-05-2026 - Domingo - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 318-05-2026 - 2ª feira - 18:30 - 22:30 - 4.0 H19-05-2026 - 3ª feira - 18:30 - 22:30 - 4.0 H20-05-2026 - 4ª feira - 18:30 - 22:30 - 4.0 H21-05-2026 - 5ª feira - 18:30 - 22:30 - 4.0 H22-05-2026 - 6ª feira - 18:30 - 22:30 - 4.0 H23-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H24-05-2026 - Domingo - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 425-05-2026 - 2ª feira - 18:30 - 22:30 - 4.0 H26-05-2026 - 3ª feira - 18:30 - 22:30 - 4.0 H27-05-2026 - 4ª feira - 18:30 - 22:30 - 4.0 H28-05-2026 - 5ª feira - 18:30 - 22:30 - 4.0 H29-05-2026 - 6ª feira - 18:30 - 22:30 - 4.0 H30-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H31-05-2026 - Domingo - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 501-06-2026 - 2ª feira - 18:30 - 22:30 - 4.0 H02-06-2026 - 3ª feira - 18:30 - 22:30 - 4.0 H03-06-2026 - 4ª feira - 18:00 - 22:00 - 4.0 H05-06-2026 - 6ª feira - 17:30 - 21:30 - 4.0 H06-06-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H07-06-2026 - Domingo - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 608-06-2026 - 2ª feira - 18:30 - 22:30 - 4.0 H09-06-2026 - 3ª feira - 18:30 - 22:30 - 4.0 H10-06-2026 - 4ª feira - 18:30 - 22:30 - 4.0 H11-06-2026 - 5ª feira - 18:30 - 22:30 - 4.0 H12-06-2026 - 6ª feira - 18:30 - 22:30 - 4.0 H13-06-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H14-06-2026 - Domingo - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 715-06-2026 - 2ª feira - 18:00 - 22:00 - 4.0 H16-06-2026 - 3ª feira - 18:00 - 22:00 - 4.0 H17-06-2026 - 4ª feira - 18:00 - 22:00 - 4.0 H18-06-2026 - 5ª feira - 18:00 - 22:00 - 4.0 H19-06-2026 - 6ª feira - 18:00 - 22:00 - 4.0 H20-06-2026 - Sábado - 09:00 - 12:00 e das 13:00 - 17:00 - 7.0 H21-06-2026 - Domingo - 09:00 - 12:00 e das 13:00 - 17:00 - 7.0 HSemana 822-06-2026 - 2ª feira - 09:00 - 13:00 e das 14:00 - 16:30 - 6.5 H23-06-2026 - 3ª feira - 09:00 - 13:00 e das 14:00 - 16:30 - 6.5 H24-06-2026 - 4ª feira - 09:00 - 13:00 e das 14:00 - 16:00 - 6.0 H"
       ],
       "imagens": [],
       "cards_extraidas": [
+        "Datas de Realização",
         "Condições de Inscrição",
         "Área de Formação",
         "Objetivos",
         "Conteúdos Programáticos",
-        "Metodologia"
+        "Formador(es)",
+        "Metodologia",
+        "Observações"
       ]
     },
     {
