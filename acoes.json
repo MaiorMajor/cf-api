@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-07T09:08:43.174023+01:00",
+  "gerado_em": "2026-04-07T14:00:04.218734+01:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 19,
+  "total": 20,
   "acoes": [
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=2&accao=833",
@@ -178,10 +178,16 @@
       "titulo": "UC00294 Utilizar aplicações digitais de produtividade, colaboração e comunicação",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "50 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/c0.jpg",
+      "imagem_url": "https://castelform.pt/ficheiros/a848.jpg?v=202604071045",
       "objetivos": [],
       "conteudos": [],
-      "formadores": [],
+      "formadores": [
+        {
+          "nome": "Elisabete Sofia Rei Lopes",
+          "biografia": "Mestrado em TIC na Educação e Formação (2023). Licenciatura em Educação de Infância pela Escola Superior de Educação de Bragança (ESEB), concluído em julho de 2003. Ensino Secundário, curso de humanidades concluído em 1999, na Escola Secundária de Mirandela. Formadora do IEFP desde 2024 nas temáticas Proficiência digital 0759 – Base de dados. Professora de Informática e programação na Agrupamento de Escolas de Mirandela desde 2021 até ao presente. Educadora de Infância no Colégio Nossa Senhora do Amparo. Formadora da Cefosap desde 2020.",
+          "foto_url": "https://castelform.pt/ficheiros/e16585.jpg"
+        }
+      ],
       "detalhe": {
         "inicio": "07/04/2026",
         "fim": "28/04/2026"
@@ -203,82 +209,50 @@
       ],
       "imagens": [],
       "cards_extraidas": [
-        "Área de Formação"
+        "Área de Formação",
+        "Formador(es)"
       ]
     },
     {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=16&accao=809",
-      "id_curso": 16,
-      "id_accao": 809,
-      "titulo": "Atualização de Aplicação de Produtos Fitofarmacêuticos (AAPF) - (UFCD 9261)",
-      "area_formacao": "Produção Agrícola e Animal",
+      "url": "https://castelform.pt/informacaocurso.aspx?id=406&accao=849",
+      "id_curso": 406,
+      "id_accao": 849,
+      "titulo": "UC02721 Utilizar tecnologias de informação na logística",
+      "area_formacao": "Comércio",
       "duracao_total": "25 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a809.jpg?v=202603270533",
-      "objetivos": [
-        "Atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.."
-      ],
-      "conteudos": [
-        "Sistemas regulamentares",
-        "Autorização de produtos fitofarmacêuticos",
-        "Classificação, embalagem e rotulagem",
-        "Venda, aquisição e uso responsávelProteção Integrada (PI)",
-        "Legislação específica e registos",
-        "Prática da PI e tomada de decisão",
-        "Aconselhamento agrícola",
-        "Avaliação comparativa de produtos fitofarmacêuticos e segurançaProdução Integrada (PRODI)",
-        "Princípios da PRODI",
-        "Regulamentação e registos",
-        "Caderno de campoModo de Produção Biológico",
-        "Princípios gerais",
-        "Regulamento comunitário relativo ao modo de produção biológico",
-        "Utilização de produtos fitofarmacêuticos em modo de produção biológicoSegurança na utilização de produtos fitofarmacêuticos",
-        "Aspetos toxicológicos inerentes à sua manipulação e aplicação",
-        "Noção de dose, concentração e volume de calda",
-        "Informação e leitura do rótulo",
-        "Produtos ilegais",
-        "Equipamentos de proteção individual (EPI) segundo as características do produto fitofarmacêuticoRedução do risco na aplicação dos produtos fitofarmacêuticos",
-        "Inspeção periódica de equipamentos",
-        "Características do equipamento de aplicação",
-        "Critérios para a escolha do material de aplicação",
-        "Técnicas de aplicação, calibração, regulação do material de aplicação e inspeção",
-        "Arrastamento da calda e dispositivos anti deriva",
-        "Redução do risco para o ambiente, espécies e organismos não visados",
-        "Impacte no ambiente do uso de produtos fitofarmacêuticos",
-        "Risco para as espécies não visadas e medidas de mitigação do riscoSegurança na manipulação e preparação de caldas e limpeza de equipamentos de aplicaçãoGestão de resíduos de embalagens e resíduos de excedentes de produtos fitofarmacêuticos (obsoletos)Segurança alimentarLimite máximo de resíduosIntervalo de segurançaExposição do consumidor e cumprimento das indicações do rótuloArmazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticosCondições e características dos locais de armazenamentoSinalização, perigos e segurança durante o armazenamentoPerigos e segurança no transporteAcidentes com produtos fitofarmacêuticosPrevenção de acidentesAcidentes de trabalhoSintomas de intoxicação e medidas de primeiros socorros"
-      ],
+      "imagem_url": "https://castelform.pt/ficheiros/c406.jpg?v=202604070121",
+      "objetivos": [],
+      "conteudos": [],
       "formadores": [
         {
-          "nome": "Carlos Manuel da Cunha Carvalho Marques",
-          "biografia": "Licenciado em Engenharia Agronómica e pós graduado em Enologia e Viticultura (a concluir tese de mestrado). Atualmente presta consultoria a explorações agrícolas nas operações de tratamentos fitossanitários e na calibração e inspeção de equipamentos de pulverização. Ministrou várias formções na área agricola e florestal, nomeadamente as UFCD's 4552, 9998, COTS (35h/50h), ADCAPF e APF.",
-          "foto_url": "https://castelform.pt/ficheiros/e11547.jpg"
+          "nome": "Gilberto Carlos de Carvalho Pereira",
+          "biografia": "",
+          "foto_url": "https://castelform.pt/ficheiros/e0.jpg"
         }
       ],
       "detalhe": {
-        "inicio": "08/04/2026",
-        "fim": "20/04/2026"
+        "inicio": "07/04/2026",
+        "fim": "28/04/2026"
       },
       "resumo": {
-        "horario": "Pós-Laboral (18:30-22:30 Sábado - 09:00-17:00)",
-        "local": "Junta de Freguesia de Arentim e Cunha (Braga)"
+        "horario": "Pós laboral das 19h00-23h00 ou das 19h00-22h00",
+        "local": "Formação a Distância (FAD)"
       },
       "apresentacao": null,
-      "metodologia": "Ativa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo, podendo envolver uma visita de estudo.",
-      "condicoes_inscricao": "ATENÇÃO:Esta ação só pode ser frequentada por formandos que tenham realizado o curso de Aplicação de Produtos Fitofarmacêuticos de 35 ou 50 horas e cuja validade do cartão se mantenha pelo menos até à data de fim da formação.1 - Habilitação Literária: Escolaridade mínima obrigatória. Necessário cópia do certificado escolar ou do certificado de habilitações.Ser detentor de curso de Aplicação de Produtos Fitofarmacêuticos homologado pelo Ministério da Agricultura. Necessário cópia do Cartão de Aplicador.2- Comprovativo de situação profissional: a) Se trabalhadores por conta de outrem: Recibo de Vencimento do ultimo mêsb) Se coletado: Declaração de Inicio de Atividade + RVE ou Fatura recente (se trabalhadores por conta própria) ou Certidão extraída da AT sobre o enquadramento em IVA.c) Se Desempregado: Declaração do IEFP.3- Cópia do Cartão de Cidadão.4- Cópia do Cartão de Aplicador",
+      "metodologia": null,
+      "condicoes_inscricao": null,
       "destinatarios": null,
       "requisitos": null,
       "certificacao": null,
       "calendario": [
-        "Semana 108-04-2026 - 4ª feira - 18:30 - 22:30 - 4.0 H10-04-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 215-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H17-04-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H18-04-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 320-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
+        "07/04/2026",
+        "07/04/2026",
+        "28/04/2026"
       ],
       "imagens": [],
       "cards_extraidas": [
-        "Datas de Realização",
-        "Condições de Inscrição",
         "Área de Formação",
-        "Objetivos",
-        "Conteúdos Programáticos",
-        "Formador(es)",
-        "Metodologia"
+        "Formador(es)"
       ]
     },
     {
@@ -430,6 +404,81 @@
       "certificacao": null,
       "calendario": [
         "Semana 113-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H15-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 HSemana 220-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H22-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H24-04-2026 - 6ª feira - 18:30 - 22:30 - 4.0 HSemana 327-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H29-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 HSemana 404-05-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H06-05-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H08-05-2026 - 6ª feira - 18:30 - 22:30 - 4.0 H10-05-2026 - Domingo - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 517-05-2026 - Domingo - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Datas de Realização",
+        "Condições de Inscrição",
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos",
+        "Formador(es)",
+        "Metodologia"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=16&accao=809",
+      "id_curso": 16,
+      "id_accao": 809,
+      "titulo": "Atualização de Aplicação de Produtos Fitofarmacêuticos (AAPF) - (UFCD 9261)",
+      "area_formacao": "Produção Agrícola e Animal",
+      "duracao_total": "25 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a809.jpg?v=202603270533",
+      "objetivos": [
+        "Atualizar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com o novo quadro regulamentar e a inovação técnica ocorrida.."
+      ],
+      "conteudos": [
+        "Sistemas regulamentares",
+        "Autorização de produtos fitofarmacêuticos",
+        "Classificação, embalagem e rotulagem",
+        "Venda, aquisição e uso responsávelProteção Integrada (PI)",
+        "Legislação específica e registos",
+        "Prática da PI e tomada de decisão",
+        "Aconselhamento agrícola",
+        "Avaliação comparativa de produtos fitofarmacêuticos e segurançaProdução Integrada (PRODI)",
+        "Princípios da PRODI",
+        "Regulamentação e registos",
+        "Caderno de campoModo de Produção Biológico",
+        "Princípios gerais",
+        "Regulamento comunitário relativo ao modo de produção biológico",
+        "Utilização de produtos fitofarmacêuticos em modo de produção biológicoSegurança na utilização de produtos fitofarmacêuticos",
+        "Aspetos toxicológicos inerentes à sua manipulação e aplicação",
+        "Noção de dose, concentração e volume de calda",
+        "Informação e leitura do rótulo",
+        "Produtos ilegais",
+        "Equipamentos de proteção individual (EPI) segundo as características do produto fitofarmacêuticoRedução do risco na aplicação dos produtos fitofarmacêuticos",
+        "Inspeção periódica de equipamentos",
+        "Características do equipamento de aplicação",
+        "Critérios para a escolha do material de aplicação",
+        "Técnicas de aplicação, calibração, regulação do material de aplicação e inspeção",
+        "Arrastamento da calda e dispositivos anti deriva",
+        "Redução do risco para o ambiente, espécies e organismos não visados",
+        "Impacte no ambiente do uso de produtos fitofarmacêuticos",
+        "Risco para as espécies não visadas e medidas de mitigação do riscoSegurança na manipulação e preparação de caldas e limpeza de equipamentos de aplicaçãoGestão de resíduos de embalagens e resíduos de excedentes de produtos fitofarmacêuticos (obsoletos)Segurança alimentarLimite máximo de resíduosIntervalo de segurançaExposição do consumidor e cumprimento das indicações do rótuloArmazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticosCondições e características dos locais de armazenamentoSinalização, perigos e segurança durante o armazenamentoPerigos e segurança no transporteAcidentes com produtos fitofarmacêuticosPrevenção de acidentesAcidentes de trabalhoSintomas de intoxicação e medidas de primeiros socorros"
+      ],
+      "formadores": [
+        {
+          "nome": "Carlos Manuel da Cunha Carvalho Marques",
+          "biografia": "Licenciado em Engenharia Agronómica e pós graduado em Enologia e Viticultura (a concluir tese de mestrado). Atualmente presta consultoria a explorações agrícolas nas operações de tratamentos fitossanitários e na calibração e inspeção de equipamentos de pulverização. Ministrou várias formções na área agricola e florestal, nomeadamente as UFCD's 4552, 9998, COTS (35h/50h), ADCAPF e APF.",
+          "foto_url": "https://castelform.pt/ficheiros/e11547.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "14/04/2026",
+        "fim": "20/04/2026"
+      },
+      "resumo": {
+        "horario": "Pós-Laboral (18:30-22:30 Sábado - 09:00-17:00)",
+        "local": "Junta de Freguesia de Arentim e Cunha (Braga)"
+      },
+      "apresentacao": null,
+      "metodologia": "Ativa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo, podendo envolver uma visita de estudo.",
+      "condicoes_inscricao": "ATENÇÃO:Esta ação só pode ser frequentada por formandos que tenham realizado o curso de Aplicação de Produtos Fitofarmacêuticos de 35 ou 50 horas e cuja validade do cartão se mantenha pelo menos até à data de fim da formação.1 - Habilitação Literária: Escolaridade mínima obrigatória. Necessário cópia do certificado escolar ou do certificado de habilitações.Ser detentor de curso de Aplicação de Produtos Fitofarmacêuticos homologado pelo Ministério da Agricultura. Necessário cópia do Cartão de Aplicador.2- Comprovativo de situação profissional: a) Se trabalhadores por conta de outrem: Recibo de Vencimento do ultimo mêsb) Se coletado: Declaração de Inicio de Atividade + RVE ou Fatura recente (se trabalhadores por conta própria) ou Certidão extraída da AT sobre o enquadramento em IVA.c) Se Desempregado: Declaração do IEFP.3- Cópia do Cartão de Cidadão.4- Cópia do Cartão de Aplicador",
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "Semana 114-04-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H15-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H16-04-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H17-04-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H18-04-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 220-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
       ],
       "imagens": [],
       "cards_extraidas": [

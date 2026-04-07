@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-07T09:10:22.002193+01:00",
+  "gerado_em": "2026-04-07T14:01:37.205498+01:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 119,
+  "total": 120,
   "cursos": [
     {
       "id_curso": 401,
@@ -627,7 +627,7 @@
           "titulo": "UC00294 Utilizar aplicações digitais de produtividade, colaboração e comunicação",
           "area_formacao": "Ciências Informáticas",
           "duracao_total": "50 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c0.jpg",
+          "imagem_url": "https://castelform.pt/ficheiros/a848.jpg?v=202604071045",
           "objetivos": [],
           "conteudos": [],
           "formadores": [],
@@ -652,7 +652,8 @@
           ],
           "imagens": [],
           "cards_extraidas": [
-            "Área de Formação"
+            "Área de Formação",
+            "Formador(es)"
           ]
         }
       ]
@@ -1040,6 +1041,54 @@
       "descricao": null,
       "inscricoes_abertas": false,
       "acoes": []
+    },
+    {
+      "id_curso": 406,
+      "titulo": "UC02721 Utilizar tecnologias de informação na logística",
+      "area_formacao": "Comércio",
+      "duracao_total": "25.0 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/C406.jpg",
+      "conteudos": [],
+      "descricao": null,
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=406&accao=849",
+          "id_curso": 406,
+          "id_accao": 849,
+          "titulo": "UC02721 Utilizar tecnologias de informação na logística",
+          "area_formacao": "Comércio",
+          "duracao_total": "25 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/c406.jpg?v=202604070121",
+          "objetivos": [],
+          "conteudos": [],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "07/04/2026",
+            "fim": "28/04/2026"
+          },
+          "resumo": {
+            "horario": "Pós laboral das 19h00-23h00 ou das 19h00-22h00",
+            "local": "Formação a Distância (FAD)"
+          },
+          "apresentacao": null,
+          "metodologia": null,
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "07/04/2026",
+            "07/04/2026",
+            "28/04/2026"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Área de Formação",
+            "Formador(es)"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 317,
@@ -1696,7 +1745,7 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "08/04/2026",
+            "inicio": "14/04/2026",
             "fim": "20/04/2026"
           },
           "resumo": {
@@ -1710,7 +1759,7 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "Semana 108-04-2026 - 4ª feira - 18:30 - 22:30 - 4.0 H10-04-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 215-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H17-04-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H18-04-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 320-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
+            "Semana 114-04-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H15-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H16-04-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H17-04-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H18-04-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 220-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
           ],
           "imagens": [],
           "cards_extraidas": [
