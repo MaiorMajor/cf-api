@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-09T09:13:03.840386+01:00",
+  "gerado_em": "2026-04-10T09:10:35.580336+01:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 120,
+  "total": 121,
   "cursos": [
     {
       "id_curso": 401,
@@ -465,8 +465,53 @@
         "Múltiplas folhas de cálculo Múltiplas folhas Reunião de folhas de cálculo Ligação entre folhas Resumo de dados Inserção de subtotais Destaques Relatórios Análise de dados Análise de dados em tabelas e listas - Criação, ordenação e filtragem de dados - Formulários Criação e formatação de uma tabela dinâmica Utilização de totais e subtotais Fórmulas em tabelas dinâmicas Elaboração de gráficos Macros Macros pré-definidas Macros de personalização das barras de ferramentas Criação e gravação de uma macro Atribuição de uma macro a um botão Execução de uma macro"
       ],
       "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=4&accao=735",
+          "id_curso": 4,
+          "id_accao": 735,
+          "titulo": "Excel Intermédio (UFCD 0758) (PÓS-LABORAL)",
+          "area_formacao": "Ciências Informáticas",
+          "duracao_total": "25 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/a735.jpg",
+          "objetivos": [
+            "Capacitar os formandos para aumentar a produtividade no tratamento e análise de dados e produção de relatórios mais atrativos.."
+          ],
+          "conteudos": [
+            "Múltiplas folhas de cálculo Múltiplas folhas Reunião de folhas de cálculo Ligação entre folhas Resumo de dados Inserção de subtotais Destaques Relatórios Análise de dados Análise de dados em tabelas e listas",
+            "Criação, ordenação e filtragem de dados",
+            "Formulários Criação e formatação de uma tabela dinâmica Utilização de totais e subtotais Fórmulas em tabelas dinâmicas Elaboração de gráficos Macros Macros pré",
+            "definidas Macros de personalização das barras de ferramentas Criação e gravação de uma macro Atribuição de uma macro a um botão Execução de uma macro"
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "11/06/2026",
+            "fim": "09/07/2026"
+          },
+          "resumo": {
+            "horario": "Pós-laboral",
+            "local": "Formação a Distância (FAD)"
+          },
+          "apresentacao": "Esta formação tem como objetivo a criação e melhoria do tratamento e processamento de dados para a análise de resultados e a produção de tabelas, gráficos e relatórios/dashboards. O curso é essencial para quem pretender seguir para a formação de Power BI. Na reta final do curso o formador fará uma apresentação e exemplificação das potencialidades do Power BI.",
+          "metodologia": "Formação a distância (totalmente \"on line\").Utilização do método demonstrativo na execução de exercícios práticos/ atividades colocados na plataforma e que os formandos descarregam para os seus PCs no início de cada sessão e/ou proposta de atividade. Tendo por base as explicações teóricas, os formandos irão repetir o exercício/atividade e desta forma ir consolidando as funcionalidades e rotinas de folha de cálculo a fim de que no final consigam a produção de tabelas dinâmicas, gráficos e dashboards mais atrativos e informativos.",
+          "condicoes_inscricao": "Mínimo 3º ciclo completoidade superior a 18 anosSituação profissional - não plicável. Exceconalmente são aceites pessoas em situação de \"Reformado/a\" ou de \"Estudante\", desde que apresente Extrato de Descontos à Segurança Social, atestando que não estão a fazer descontos.",
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [],
+          "imagens": [],
+          "cards_extraidas": [
+            "Datas de Realização",
+            "Apresentação",
+            "Condições de Inscrição",
+            "Área de Formação",
+            "Objetivos",
+            "Conteúdos Programáticos",
+            "Metodologia"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 391,
@@ -1252,6 +1297,58 @@
           ]
         },
         {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=2&accao=832",
+          "id_curso": 2,
+          "id_accao": 832,
+          "titulo": "Processos e métodos de proteção fitossanitária e de aplicação de produtos fitofarmacêuticos - UFCD 6281",
+          "area_formacao": "Produção Agrícola e Animal",
+          "duracao_total": "50 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/c2.jpg?v=202603100557",
+          "objetivos": [
+            "Capacitar os participantes para a manipulação e aplicação segura de produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, de acordo com os princípios da protecção integrada.."
+          ],
+          "conteudos": [
+            "Introdução ao curso 1. Apresentação do grupo 2. Levantamento de expectativas dos participantes 3. Apresentação do programa de acção BLOCO I",
+            "Princípios gerais de proteção das culturasI.1 Meios de protecção das culturas",
+            "controlo de doenças, pragas e infestantes I.1.1. Luta biológica I.1.2. Luta cultural I.1.3. Luta genética I.1.4. Luta biotécnica I.1.5. Luta química I.2 Proteção integrada I.2.1. Evolução da protecção das plantas I.2.2. Legislação específica I.2.3. Princípios gerais de proteção integrada I.2.4. Estimativa do risco e modelos de previsão I.2.5. Nível económico de ataque (NEA) I.2.6. Tomada de decisão I.2.7. Luta química",
+            "Seleção de produtos fitofarmacêuticos I.2.8. Registo dos tratamentos realizados (caderno de campo) I.3 Produção integrada I.3.1. Princípios da PRODI I.3.2. Estratégia de produção I.3.3. Principais técnicas de produção I.3.4. Regulamentação e registosI.4 Agricultura biológica I.4.1. Princípios gerais I.4.2. Regulamento Comunitário relativo à Agricultura Biológica BLOCO II",
+            "Segurança na utilização de produtos fitofarmacêuticos, sistemas regulamentares e redução do risco II.1 Produtos fitofarmacêiticos II.1.1. Definição de produto fitofarmacêutico II.1.2. Classificação química II.1.3. Modos de ação II.1.4. Formulação II.2 Sistemas regulamentares dos PF II.2.1. Homologação dos produtos fitofarmacêuticos II. 2.2. Produtos ilegais",
+            "sua identificação II.2.3. Distribuição, venda e aplicação II.2.4. Gestão de resíduos de embalagens e de excedentes II.2.5. Outra legislação aplicável ou complementar II.3. Segurança na utilização dos produtos fitofarmacêuticos II.3.1. Aspetos toxicológicos inerentes à manipulação e aplicação dos produtos fitofarmacêuticos II.3.2. Símbolos toxicológicos e ecotoxicológicos II.3.3. Informação e leitura do rótulo II.3.4. Equipamento de proteção individual (EPI) II.3.5. Relação entre o EPI e as diferentes características dos produtos fitofarmacêuticos II.3.6. Sintomas de intoxicação com produtos fitofarmacêuticos II.4 Redução do risco no manuseamento e aplicação de produtos fitofarmacêuticos II.4.1. Verificação das condições de trabalho, condições atmosféricas, material de aplicação a utilizar, leitura do rótulo II.4.2. Cuidados com a preparação da calda II.4.3. Noção de dose e de concentração da calda II.4.4. Utilização do EPI correcto II.4.5. Boas práticas de segurança e saúde no trabalho II.5 Redução do risco para o ambiente, espécies e organismos não visados II.5.1. Impacte no ambiente do uso de produtos fitofarmacêuticos II.5.2. Riscos para as espécies e os organismos não visados resultantes da aplicação dos produtos fitofarmacêuticos II.5.3. Preparação da calda II.5.4. Eliminação de excedentes de calda II.5.5. Lavagem do equipamento de aplicação II.5.6. Gestão de embalagens e produtos obsoletos II.5.7. Boas práticas de segurança e saúde no trabalho II.6 Redução do risco para o consumidor II.6.1. Noção de resíduo II.6.2. Limite Máximo de Resíduo II.6.3. Intervalo de segurança II.6.4. Exposição do consumidor e cumprimento das indicações do rótulo II.6.5. Controlo de resíduos BLOCO III",
+            "Máquinas de aplicação de produtos fitofarmacêuticos e técnicas de aplicaçãoIII.1. Máquinas de aplicação",
+            "pulverizadores, atomizadores e polvilhadores III.1.1. Tipos, constituição e funcionamento III.1.2. Equipamentos combinados de mobilização, sementeira e tratamento fitossanitário III.1.3. Critérios para a seleção das máquinas de aplicação III.1.4. Engate das máquinas ao trator e regulações comuns III.1.5. Inspeção do equipamento e verificação do estado de funcionamento III.1.6. Técnicas de calibração e regulação das máquinas de aplicação III.1.7. Limpeza, conservação e manutenção do material de aplicação III.1.8. Operações de engate ao trator e regulação, de calibração e regulação de máquinas de aplicação e de limpeza, conservação e manutenção III.1.9. Boas práticas de segurança e saúde no trabalhoIII.2. Preparação da calda e técnicas de aplicação III.2.1. Cálculo de doses, concentrações e volumes de calda com herbicidas, inseticidas, fungicidas e outros produtos fitofarmacêuticos III.2.2. Preparação da calda III.2.3. Técnicas de aplicação III.2.4. Arrastamento da calda III.2.5. Cuidados com o equipamento após aplicação III.2.6. Eliminação de excedentes de calda e de embalagens III.2.7. Operações de aplicação de PF III.2.8. Boas práticas de segurança e saúde no trabalho BLOCO IV",
+            "Armazenamento, transporte e acidentes com produtos fitofarmacêuticosIV.1 Armazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticos IV.1.1. Condições e características dos locais de armazenamento de produtos fitofarmacêuticos IV.1.2. Perigos e segurança durante o armazenamento. Sinalização. IV.1.3. Perigos e segurança no transporte de pequenas quantidades de produtos fitofarmacêuticos IV.2 Acidentes com produtos fitofarmacêuticos IV.2.1. Prevenção de acidentes IV.2.2. Acidentes de trabalho IV.2.3. Medidas de primeiros socorros Avaliação e encerramentoAvaliação de conhecimentos Avaliação de conhecimentos",
+            "Prova teórica escritaAvaliação de reação e encerramento Avaliação de reação Encerramento"
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "20/04/2026",
+            "fim": "25/05/2026"
+          },
+          "resumo": {
+            "horario": "2ª a 6ª 19:00-22:30 / Sáb. 9:00-17:00",
+            "local": "Braga - Passos (São Julião)"
+          },
+          "apresentacao": null,
+          "metodologia": "Activa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de casos e trabalhos de grupo",
+          "condicoes_inscricao": "Idade igual ou superior a 18 anos;Escolaridade mínima obrigatória; Situação Profissional:Activos: trabalhadores por conta de outrém, trabalhadores por conta própria ou em situação de desemprego que exercem actividade agrícola a tempo inteiro ou parcial (agricultores empresários e não empresários, trabalhadores agrícolas permanentes e eventuais, mão de obra agrícola familiar) Outros critérios:Exercer ou vir a exercer actividade relacionada com a aplicação de produtos fitofarmacêuticos",
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "Semana 120-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H22-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 HSemana 227-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H29-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 HSemana 308-05-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 414-05-2026 - 5ª feira - 19:00 - 22:30 - 3.5 HSemana 523-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H24-05-2026 - Domingo - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 625-05-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Datas de Realização",
+            "Condições de Inscrição",
+            "Área de Formação",
+            "Objetivos",
+            "Conteúdos Programáticos",
+            "Formador(es)",
+            "Metodologia"
+          ]
+        },
+        {
           "url": "https://castelform.pt/informacaocurso.aspx?id=2&accao=840",
           "id_curso": 2,
           "id_accao": 840,
@@ -1444,7 +1541,7 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "Semana 108-04-2026 - 4ª feira - 19:00 - 22:30 - 4.0 H10-04-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 215-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H17-04-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H18-04-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 320-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
+            "Semana 114-04-2026 - 3ª feira - 18:30 - 22:30 - 4.0 H15-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H16-04-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H17-04-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H18-04-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 220-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
           ],
           "imagens": [],
           "cards_extraidas": [
@@ -1458,6 +1555,19 @@
           ]
         }
       ]
+    },
+    {
+      "id_curso": 407,
+      "titulo": "Atualização em aplicação de produtos fitofarmacêuticos com equipamentos de pulverização manual (AAPFEPM25)",
+      "area_formacao": "Introdução• Apresentação do grupo• Levantamento das expetativas dos participantes• Apresentação do programa de açãoI: Sistemas regulamentares• Autorização de produtos fitofarmacêuticos: Principais figuras e procedimentos legais relevantes para utilizadores profissionais• Aplicação de produtos fitofarmacêuticos em zonas urbanas, áreas de lazer e vias de comunicação• Classificação, embalagem e rotulagem de produtos fitofarmacêuticos (Reg. 1272/2008)• Símbolos de perigo, advertências de perigo (frases H) e frases de prudência (frases P)• Venda, aquisição e utilização responsável de produtos fitofarmacêuticos• Sistema de Informação e Divulgação relativa a produtos fitofarmacêuticos (SIFITO)II: Proteção Integrada• Legislação específica e registos (princípios gerais)• A prática da Proteção Integrada e tomada de decisão• O aconselhamento agrícola• O Serviço Nacional de Avisos Agrícolas e o Serviço de Aconselhamento Agrícola e Florestal• Avaliação comparativa de produtos fitofarmacêuticos e segurança• Decisão de substituição e alternativas a produtos químicosIII: Produção Integrada• Princípios da PRODI• Regulamentação e registos• O caderno de campo• Controlos oficiais: registo e acompanhamento da cultura, das práticas e monitorização de resultadosIV: Modo de Produção Biológico• Princípios gerais• Regulamento comunitário relativo ao Modo de Produção Biológico• A autorização de produtos fitofarmacêuticos e substâncias de base e sua utilização em Modo de Produção BiológicoV: Segurança na utilização de produtos fitofarmacêuticos• Aspetos toxicológicos inerentes à manipulação e aplicação dos produtos fitofarmacêuticos• Noção de dose, concentração e volume de calda• Preparação da calda em segurança• Informação e leitura do rótulo• Segurança para o operador na aplicação manual de produtos fitofarmacêuticos• Equipamentos de proteção individual (EPI)• Escolha do EPI e as diferentes características do produto fitofarmacêuticoVI: Redução do risco na aplicação dos produtos fitofarmacêuticos (equipamentos/técnicas)• Tipos e características do material de aplicação manual• Critérios para a escolha do material de aplicação manual• Inspeção de equipamentos de aplicação manual• Técnicas de aplicação, calibração e regulação do equipamento de aplicação manual• Arrastamento da calda e práticas de redução do arrastamento da calda de pulverização• Conservação e manutenção do material de aplicação manualVII: Redução do risco para o ambiente, espécies e organismos não visados• Impacte no ambiente do uso de produtos fitofarmacêuticos• A proteção do solo e dos recursos hídicos• Risco para as espécies não visadas e medidas de mitigação do risco• Conceito de zona tampão, faixas biodiversas e medidas de proteção de pessoas estranhas aos tratamentos• Segurança na manipulação e preparação de caldas e limpeza de equipamentos de aplicação manual• Gestão de resíduos de embalagens e resíduos de excedentes de PF (produtos obsoletos)• Boas práticas na gestão de existências em armazémVIII: Segurança alimentar• Limite Máximo de Resíduos (LMR)• Controlo oficial de resíduos em géneros alimentícios de origem vegetal e rastreabilidade• Intervalo de segurança• Exposição do consumidor e cumprimento das indicações do rótulo• Medidas de higiene e segurança nas operações culturais, de colheita e acondicionamento dos produtos hortofrutícolas para consumoIX: Armazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticos• Condições e características dos locais de armazenamento de produtos fitofarmacêuticos• Equipamentos de armazenagem de produtos perigosos e boas práticas de armazenagem de produtos fitofarmacêuticos• Perigos e segurança durante o armazenamento. Sinalização do equipamento• Perigos e segurança durante o armazenamento, sinalização no armazém e transporte de pequenas quantidades de produtos fitofarmacêuticos• Boas práticas no acondicionamento para transporte de produtos fitofarmacêuticosX: Acidentes com produtos fitofarmacêuticos• Prevenção de acidentes• Leitura da Ficha de Dados de Segurança e do rótulo quando ocorre um acidente• Acidentes de trabalho• Sintomas de intoxicação e medidas de primeiros socorros• O CIAV e a comunicação de exposição ao produto fitofarmacêuticoAVAL: Avaliação e encerramento• Avaliação de conhecimentos - prova teórica escrita• Avaliação de reação• Encerramento",
+      "duracao_total": "25.0 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/C407.jpg",
+      "conteudos": [
+        "Sistemas regulamentares- Autorização de produtos fitofarmacêuticos- Classificação, embalagem e rotulagem- Venda, aquisição e uso responsávelProteção Integrada (PI)- Legislação específica e registos- Prática da PI e tomada de decisão- Aconselhamento agrícola- Avaliação comparativa de produtos fitofarmacêuticos e segurançaProdução Integrada (PRODI)- Princípios da PRODI- Regulamentação e registos- Caderno de campoModo de Produção Biológico- Princípios gerais- Regulamento comunitário relativo ao modo de produção biológico- Utilização de produtos fitofarmacêuticos em modo de produção biológicoSegurança na utilização de produtos fitofarmacêuticos- Aspetos toxicológicos inerentes à sua manipulação e aplicação- Noção de dose, concentração e volume de calda- Informação e leitura do rótulo- Produtos ilegais- Equipamentos de proteção individual (EPI) segundo as características do produto fitofarmacêuticoRedução do risco na aplicação dos produtos fitofarmacêuticos- Inspeção periódica de equipamentos- Características do equipamento de aplicação- Critérios para a escolha do material de aplicação- Técnicas de aplicação, calibração, regulação do material de aplicação e inspeção- Arrastamento da calda e dispositivos anti deriva- Redução do risco para o ambiente, espécies e organismos não visados- Impacte no ambiente do uso de produtos fitofarmacêuticos- Risco para as espécies não visadas e medidas de mitigação do riscoSegurança na manipulação e preparação de caldas e limpeza de equipamentos de aplicaçãoGestão de resíduos de embalagens e resíduos de excedentes de produtos fitofarmacêuticos (obsoletos)Segurança alimentarLimite máximo de resíduosIntervalo de segurançaExposição do consumidor e cumprimento das indicações do rótuloArmazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticosCondições e características dos locais de armazenamentoSinalização, perigos e segurança durante o armazenamentoPerigos e segurança no transporteAcidentes com produtos fitofarmacêuticosPrevenção de acidentesAcidentes de trabalhoSintomas de intoxicação e medidas de primeiros socorros"
+      ],
+      "descricao": null,
+      "inscricoes_abertas": false,
+      "acoes": []
     },
     {
       "id_curso": 92,
