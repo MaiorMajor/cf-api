@@ -1,81 +1,36 @@
 {
-  "gerado_em": "2026-04-15T09:02:37.266682+01:00",
+  "gerado_em": "2026-04-16T09:18:38.706515+01:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 14,
   "acoes": [
     {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=401&accao=842",
-      "id_curso": 401,
-      "id_accao": 842,
-      "titulo": "Execução de Peças de Olaria (UFCD 0244)",
-      "area_formacao": "Artesanato",
-      "duracao_total": "50 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/c401.jpg?v=202603240531",
+      "url": "https://castelform.pt/informacaocurso.aspx?id=3&accao=853",
+      "id_curso": 3,
+      "id_accao": 853,
+      "titulo": "4478 - Técnicas de socorrismo - princípios básicos",
+      "area_formacao": "Produção Agrícola e Animal",
+      "duracao_total": "25 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/c3.jpg",
       "objetivos": [
-        "Dominar técnicas de manuseamento do barro e modelagem de peças de olaria.."
+        "Aplicar técnicas básicas de socorrismo.."
       ],
       "conteudos": [
-        "Preparação do barroTécnicas de execução de formas cilíndricas Centrar Abrir Levantar / subirFerramentas e utensílios para diferentes técnicas de execuçãoAcabamentosSecagem"
+        "Socorrismo, técnicas de socorrismoExame geral da vítima (sintomatologia)Plano de ação do socorristaChoqueAsfixia, respiração artificialIntoxicaçõesTraumatismosLesões (articulares, musculares e ósseas)QueimadurasFeridasHemorragias (pulsação, garrote)"
       ],
       "formadores": [
         {
-          "nome": "Fernanda Braga",
-          "biografia": "Entre 1997 e 1998 frequentou e concluíu o Curso de Olaria, integrado no Projeto CPC - Conservação do Património Cultural. Carta de Artesão pela Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais, em 11 de Março de 2004. Animadora e formadora de dezenas de oficinas criativas, atelies, workshops, mostras de olaria, modelagem em barro, Mais de uma dezena de UFCDs dadas do referencial de Oleiro/a da ANQEP. - Certificação da Cantarinha dos Namorados, peça emblemática da cerâmica vimaranense em Maio de 2022, em cerimónia oficial na FIA de Lisboa. Na Castelform ministrou 150 horas de formação no curso de Revitalização da Olaria de Guimarães. Facebook.com/presepiosembarromariafernandabraga Insta: https://www.instagram.com/maria_fernanda__braga/ Blog : maosnobarro.wordpress.com",
-          "foto_url": "https://castelform.pt/ficheiros/e16427.jpg"
+          "nome": "Luísa Maria Oliveira Silva",
+          "biografia": "Licenciatura em Enfermagem pela Universidade de Trás os Montes e Alto Douro (2011). Enfermeira na Unidade Local de Saúde de Trás-os-Montes e Alto Douro, Vila Real desde 2020. Formadora desde 2012 na area da enfermagem na Associação Humanitaria de Bombeiros Voluntários de Armamar.",
+          "foto_url": "https://castelform.pt/ficheiros/e17761.jpg"
         }
       ],
       "detalhe": {
-        "inicio": "15/04/2026",
-        "fim": "25/05/2026"
-      },
-      "resumo": {
-        "horario": "19:00-23:00",
-        "local": "Museu da Agricultura de Fermentões"
-      },
-      "apresentacao": null,
-      "metodologia": "Formação prática focada na modelagem de peças em barro, com base numa breve explicação teórica da formadora e demonstração de técnicas, posteriormente replicadas pelos/as formandos/as.As peças serão depois cozidas em forno de oleiro para adquirir a cor final e maior resistência.Privilegia-se o método demonstrativo.",
-      "condicoes_inscricao": "Condições de Inscrição:1- Se Ativos:a) Se trabalhadores por conta de outrem - Recibo de Vencimento do último mês + Declaração da Entidade Empregadora com o Horário de Trabalho. Se a declaração tiver o vínculo profissional à Entidade não é exigido o recibo de vencimento.b) Se trabalhadores por conta própria – declaração de Inicio de atividade + Atual situação cadastral extraído da AT ou RVE ou Recibo de Pagamento da prestação social à SS - trabalho independente ou Certidão de Enquadramento em IVA extraído da AT. 2 - Se desempregados:a) Declaração do IEFP (com menos de 30 dias), ou extrato detalhado de remunerações da Segurança Social - último ano (opcional e aplicável no caso de não ser possível a declaração do IEFP.Outros documentos necessários:- Cópia do Certificado escolar ou de habilitações académicas- Cópia do Cartão de cidadão - podem colocar na fotocópia a menção \"autorizado à Castelform para efeitos de formação profissional\".- IBAN extraído do Netbanking ou solicitado ao banco - necessário ter o nome do/a formando/aNOTA: Os formandos recebem 6,00 euros por cada sessão de formação com pelo menos 3 horas assistidas fora do horário de trabalho. Por esse motivo necessitamos do horário de trabalho para confirmar essa situação.",
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [],
-      "imagens": [],
-      "cards_extraidas": [
-        "Datas de Realização",
-        "Condições de Inscrição",
-        "Área de Formação",
-        "Objetivos",
-        "Objetivos Específicos",
-        "Conteúdos Programáticos",
-        "Formador(es)",
-        "Metodologia",
-        "Avaliação",
-        "Observações"
-      ]
-    },
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=367&accao=768",
-      "id_curso": 367,
-      "id_accao": 768,
-      "titulo": "0754 - Processador de texto",
-      "area_formacao": "Ciências Informáticas",
-      "duracao_total": "50 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a768.jpg?v=202507251221",
-      "objetivos": [
-        "Elaborar, editar e imprimir documentos.Introduzir elementos gráficos em documentos.Elaborar e editar documentos longos.."
-      ],
-      "conteudos": [
-        "Processador de texto – introdução Janela principal Inserção de texto (teclado) Modos de visualização básicos AjudaOperações básicas Criação, gravação e abertura de documentos Seleção de texto Anulação e repetição de açõesFormatações Formatações globais do documento Formatação do tipo de letra Formatações de parágrafo Utilização das tabelas pré",
-        "definidas Criação de listas Limites e sombreadosEdição e revisão de texto Múltiplos documentos abertos Cópia do texto Verificação ortográfica Comando “localizar e substituir”Impressão Impressão de documentos, envelopes e etiquetasTabulações, tabelas e colunas Definir tabulações Criação, modificação e formatação de tabelas Divisão do texto em colunasMelhorar o aspeto visual Símbolos Caixas de texto Desenho, importação de imagens, inserção de formas automáticasDocumentos longos Quebras de página e de seleção Cabeçalhos e rodapés EstilosPercorrer o documento rapidamente Divisão do ecrã Marcadores e referências cruzadas Legendas e notas de rodapé Criação de índice Destaques Visualização do mapa de um documento Junção de documentos"
-      ],
-      "formadores": [],
-      "detalhe": {
         "inicio": "16/04/2026",
-        "fim": "02/06/2026"
+        "fim": "30/04/2026"
       },
       "resumo": {
-        "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
-        "local": "Formação a Distância (FAD)"
+        "horario": "Pós laboral",
+        "local": "Escola Primária de Armamar"
       },
       "apresentacao": null,
       "metodologia": null,
@@ -85,15 +40,15 @@
       "certificacao": null,
       "calendario": [
         "16/04/2026",
-        "02/06/2026",
         "16/04/2026",
-        "02/06/2026"
+        "30/04/2026"
       ],
       "imagens": [],
       "cards_extraidas": [
         "Área de Formação",
         "Objetivos",
-        "Conteúdos Programáticos"
+        "Conteúdos Programáticos",
+        "Formador(es)"
       ]
     },
     {
@@ -266,6 +221,49 @@
         "Objetivos",
         "Conteúdos Programáticos",
         "Formador(es)"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=367&accao=768",
+      "id_curso": 367,
+      "id_accao": 768,
+      "titulo": "0754 - Processador de texto",
+      "area_formacao": "Ciências Informáticas",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a768.jpg?v=202507251221",
+      "objetivos": [
+        "Elaborar, editar e imprimir documentos.Introduzir elementos gráficos em documentos.Elaborar e editar documentos longos.."
+      ],
+      "conteudos": [
+        "Processador de texto – introdução Janela principal Inserção de texto (teclado) Modos de visualização básicos AjudaOperações básicas Criação, gravação e abertura de documentos Seleção de texto Anulação e repetição de açõesFormatações Formatações globais do documento Formatação do tipo de letra Formatações de parágrafo Utilização das tabelas pré",
+        "definidas Criação de listas Limites e sombreadosEdição e revisão de texto Múltiplos documentos abertos Cópia do texto Verificação ortográfica Comando “localizar e substituir”Impressão Impressão de documentos, envelopes e etiquetasTabulações, tabelas e colunas Definir tabulações Criação, modificação e formatação de tabelas Divisão do texto em colunasMelhorar o aspeto visual Símbolos Caixas de texto Desenho, importação de imagens, inserção de formas automáticasDocumentos longos Quebras de página e de seleção Cabeçalhos e rodapés EstilosPercorrer o documento rapidamente Divisão do ecrã Marcadores e referências cruzadas Legendas e notas de rodapé Criação de índice Destaques Visualização do mapa de um documento Junção de documentos"
+      ],
+      "formadores": [],
+      "detalhe": {
+        "inicio": "04/05/2026",
+        "fim": "02/06/2026"
+      },
+      "resumo": {
+        "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
+        "local": "Formação a Distância (FAD)"
+      },
+      "apresentacao": null,
+      "metodologia": null,
+      "condicoes_inscricao": null,
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "04/05/2026",
+        "02/06/2026",
+        "04/05/2026",
+        "02/06/2026"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos"
       ]
     },
     {
