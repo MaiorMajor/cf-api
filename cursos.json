@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-04-16T09:20:08.057002+01:00",
+  "gerado_em": "2026-04-17T09:11:42.286756+01:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 121,
   "cursos": [
@@ -1780,51 +1780,8 @@
         "Socorrismo, técnicas de socorrismoExame geral da vítima (sintomatologia)Plano de ação do socorristaChoqueAsfixia, respiração artificialIntoxicaçõesTraumatismosLesões (articulares, musculares e ósseas)QueimadurasFeridasHemorragias (pulsação, garrote)"
       ],
       "descricao": null,
-      "inscricoes_abertas": true,
-      "acoes": [
-        {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=3&accao=853",
-          "id_curso": 3,
-          "id_accao": 853,
-          "titulo": "4478 - Técnicas de socorrismo - princípios básicos",
-          "area_formacao": "Produção Agrícola e Animal",
-          "duracao_total": "25 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c3.jpg",
-          "objetivos": [
-            "Aplicar técnicas básicas de socorrismo.."
-          ],
-          "conteudos": [
-            "Socorrismo, técnicas de socorrismoExame geral da vítima (sintomatologia)Plano de ação do socorristaChoqueAsfixia, respiração artificialIntoxicaçõesTraumatismosLesões (articulares, musculares e ósseas)QueimadurasFeridasHemorragias (pulsação, garrote)"
-          ],
-          "formadores": [],
-          "detalhe": {
-            "inicio": "16/04/2026",
-            "fim": "30/04/2026"
-          },
-          "resumo": {
-            "horario": "Pós laboral",
-            "local": "Escola Primária de Armamar"
-          },
-          "apresentacao": null,
-          "metodologia": null,
-          "condicoes_inscricao": null,
-          "destinatarios": null,
-          "requisitos": null,
-          "certificacao": null,
-          "calendario": [
-            "16/04/2026",
-            "16/04/2026",
-            "30/04/2026"
-          ],
-          "imagens": [],
-          "cards_extraidas": [
-            "Área de Formação",
-            "Objetivos",
-            "Conteúdos Programáticos",
-            "Formador(es)"
-          ]
-        }
-      ]
+      "inscricoes_abertas": false,
+      "acoes": []
     },
     {
       "id_curso": 381,
