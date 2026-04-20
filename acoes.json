@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-17T09:10:05.656355+01:00",
+  "gerado_em": "2026-04-20T09:15:04.443158+01:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 13,
+  "total": 14,
   "acoes": [
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=2&accao=832",
@@ -53,7 +53,7 @@
       "requisitos": null,
       "certificacao": null,
       "calendario": [
-        "Semana 120-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H22-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 HSemana 227-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H29-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 HSemana 308-05-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 414-05-2026 - 5ª feira - 19:00 - 22:30 - 3.5 HSemana 523-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H24-05-2026 - Domingo - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 625-05-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
+        "Semana 120-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H (D)22-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H (D)26-04-2026 - DomingoSemana 227-04-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H (D)29-04-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H (D)Semana 308-05-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H (D)Semana 414-05-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H (D)Semana 523-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H - D24-05-2026 - Domingo - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H - TSemana 625-05-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H (D+T)"
       ],
       "imagens": [],
       "cards_extraidas": [
@@ -64,6 +64,93 @@
         "Conteúdos Programáticos",
         "Formador(es)",
         "Metodologia"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=381&accao=796",
+      "id_curso": 381,
+      "id_accao": 796,
+      "titulo": "Técnico/a Auxiliar de Saúde (EFA)",
+      "area_formacao": "Saúde - Programas não Classificados Noutra Área de Formação",
+      "duracao_total": "2020 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a796.jpg?v=202512040211",
+      "objetivos": [
+        "Desenvolver as competências profissionais, éticas e legais necessárias ao desempenho qualificado do/a Técnico/a Auxiliar de Saúde, assegurando a compreensão das suas atividades, responsabilidades, direitos e deveres, bem como a capacidade de atuar de forma segura, supervisionada, proativa e adequada aos diferentes contextos, públicos e normas institucionais no âmbito dos cuidados de saúde.."
+      ],
+      "conteudos": [],
+      "formadores": [
+        {
+          "nome": "Ana Gomes",
+          "biografia": "Ana Filipa Pereira Gomes (1986). Mestrado em direito. Licenciatura em solicitadoria. Pós-graduação em gestão da formação (150h). Técnica de formação nas entidades formadoras: CSW - Competitive Services in the World, SEMET, IPME, de 2012 a 2019. Técnica de formação na Castelform, desde fev. 2020.",
+          "foto_url": "https://castelform.pt/ficheiros/e6450.jpg"
+        },
+        {
+          "nome": "Ana Rita Rodrigues Matias Andrade",
+          "biografia": "Licenciatura em Cardiopneumologia na Escola Superior de Saúde Alto Ave em 2011. Formadora em diversas entidades formadoras desde 2020.",
+          "foto_url": "https://castelform.pt/ficheiros/e13964.jpg"
+        },
+        {
+          "nome": "Cândida Pinto",
+          "biografia": "(n.1980). Licenciada em Inglês e Alemão. Atualmente, exerce atividade como Formadora de Inglês, Intérprete, Tradutora e revisora de artigos científicos, teses e diversos textos de cariz académico. Foi tradutora na Revista ELLE, Discovery Channel e Edições Asa. Exerceu os cargos de Coordenadora do Departamento de Línguas e da disciplina de Inglês, Gestora do Projeto dos Exames da Universidade de Cambridge, e Cambridge Examiner em colégio privado e instituto de línguas. Possui formação em Tecnologias da Informação e da Comunicação, Design de Moda e Styling. Atualmente, exerce o cargo de diretora criativa numa agência de comunicação",
+          "foto_url": "https://castelform.pt/ficheiros/e7676.jpg"
+        },
+        {
+          "nome": "Daniela Filipa Frade Anjos",
+          "biografia": "",
+          "foto_url": "https://castelform.pt/ficheiros/e0.jpg"
+        },
+        {
+          "nome": "Jorge Daniel Borges Valente Rodrigues",
+          "biografia": "Licenciado em Engenharia Biotecnológica. Formador em diversas entidades formadoras de formação modular certificada desde 2017. Desde 2020 que é formador em cursos de Educação e Formação de Adultos (EFA).",
+          "foto_url": "https://castelform.pt/ficheiros/e9989.jpg"
+        },
+        {
+          "nome": "Maria Celma",
+          "biografia": "",
+          "foto_url": "https://castelform.pt/ficheiros/e0.jpg"
+        },
+        {
+          "nome": "Patricia Ferreira",
+          "biografia": "Mestrado em Ciências da Matemática pela Universidade do Minho em 2017. Vasta experiência em ensino e formação.",
+          "foto_url": "https://castelform.pt/ficheiros/e0.jpg"
+        },
+        {
+          "nome": "Paula Machado",
+          "biografia": "(n. 1975). Enfermeira desde 1998 e formadora desde 2014. Atualmente desempenha funções como enfermeira no âmbito da saúde escolar no Aces Cávado I- Braga. Formadora no Centro de Formação Profissional de Braga. Formadora na Castelform nas áreas da Saúde e Socorrismo",
+          "foto_url": "https://castelform.pt/ficheiros/e10100.jpg"
+        },
+        {
+          "nome": "Sandra Cantinho Ferreira",
+          "biografia": "",
+          "foto_url": "https://castelform.pt/ficheiros/e0.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "20/04/2026",
+        "fim": "10/12/2027"
+      },
+      "resumo": {
+        "horario": "Segunda a sexta das 8:00 às 13:30",
+        "local": "São Lázaro"
+      },
+      "apresentacao": "O/A Técnico/a Auxiliar de Saúde é o/a profissional que auxilia na prestação de cuidados de saúde aos utentes, na recolha e transporte de amostras biológicas, na limpeza, higienização e transporte de roupas, materiais e equipamentos, na limpeza e higienização dos espaços e no apoio logístico e administrativo das diferentes unidades e serviços de saúde, sob orientações do profissional de saúde.",
+      "metodologia": null,
+      "condicoes_inscricao": "Idade igual ou superior a 21 anosEmpregados e desempregadosMínimo 9º ano e máximo 12º ano incompleto",
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "20/04/2026",
+        "20/04/2026",
+        "10/12/2027"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Apresentação",
+        "Condições de Inscrição",
+        "Área de Formação",
+        "Objetivos",
+        "Formador(es)"
       ]
     },
     {
