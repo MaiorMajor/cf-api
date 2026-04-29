@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-04-28T09:18:03.623507+01:00",
+  "gerado_em": "2026-04-29T09:00:59.707188+01:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 121,
   "cursos": [
@@ -650,64 +650,8 @@
         "Marketing direto na Internet E-mail e enquadramento legal Regras básicas de utilização eficaz do e-mail Utilizar o e-mail como estratégia de fidelização de clientes Gerir as reclamações via e-mailComunicação personalizada e adaptada a cada cliente Visitantes do seu site Produtos e serviços à medida de cada cliente Instrumentos para captar novos clientes Produtos e serviços personalizados para antecipar necessidades e exceder as expectativas de cada clienteInternet na estratégia de conquista e fidelização de clientes Objectivo dos serviços de atendimento a clientes via Internet Identificar e atrair e-customers Rentabilizar o custo de aquisição de novos clientes Necessidades funcionais de cada cliente Determinar o perfil e rentabilidade do consumidor net"
       ],
       "descricao": null,
-      "inscricoes_abertas": true,
-      "acoes": [
-        {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=366&accao=767",
-          "id_curso": 366,
-          "id_accao": 767,
-          "titulo": "0393 - Internet como estratégia de marketing",
-          "area_formacao": "Comércio",
-          "duracao_total": "50 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/a767.jpg?v=202507251016",
-          "objetivos": [
-            "Capacitar os formandos para a gestão da presença empresarial das suas Entidades Empregadoras nas redes sociais.."
-          ],
-          "conteudos": [
-            "Tipos de presença e funcionalidades específicas",
-            "Tipologias de conteúdos",
-            "Métricas e reporting",
-            "Exemplos e análise de casos",
-            "Instagram marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
-            "LinkedIn marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
-            "Youtube marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
-            "Outras redes sociais",
-            "Gestão de sinergias entre diferentes redes sociais"
-          ],
-          "formadores": [],
-          "detalhe": {
-            "inicio": "28/04/2026",
-            "fim": "09/06/2026"
-          },
-          "resumo": {
-            "horario": "Pós-laboral",
-            "local": "Formação a Distância (FAD)"
-          },
-          "apresentacao": "Esta formação tem como objetivo capacitar os formandos e as empresas/organizações a desenvolver estratégias de comunicação eficazes para as redes sociais, considerando as particularidades e funcionalidades de cada plataforma. Durante a formação, será abordada a gestão de redes sociais e a comunicação de produtos e serviços através de campanhas online, destacando a importância de uma abordagem estratégica e alinhada ao público-alvo de cada rede social.Além disso, serão explorados os elementos fundamentais do marketing digital, incluindo mídias sociais e anúncios digitais, como ferramentas indispensáveis para divulgar produtos e serviços de forma impactante.",
-          "metodologia": "Curso de Formação a distancia: 50% síncrono (on line) e 50% assíncrono:- Nas sessões síncronas o/a formador/a apresenta os conteúdos teóricos e desenvolve aplicações práticas que os formandos poderão depois explorar e replicar.- Nas sessões assíncronas os formandos têm a possibilidade de desenvolver as propostas de trabalho sugeridas nas sessões síncronas, para testar os conhecimentos adquiridos.",
-          "condicoes_inscricao": "Ativos/as empregados/as (por conta de outrem do setor privado com ou sem fins lucrativos), maiores de 18 anos, com escolaridade igual ou superior ao 9º ano.Cumpridos os critérios de elegibilidade, a seleção é efetuada por ordem de inscrição.Os formandos necessitam de computador com microfone, câmara e acesso à Internet.Documentação necessária:- Cópia do Certificado de Habilitações;- Cópia do último recibo de vencimento;- Declaração da entidade empregadora com horário de trabalho, assinada, carimbada e datada;- Comprovativo de IBAN em nome do/a formando/a.",
-          "destinatarios": null,
-          "requisitos": null,
-          "certificacao": null,
-          "calendario": [
-            "Terças e Quintas Feiras- Sessões síncronas: das 19:30-23:30 horas ou das 19:30-23:00 horas"
-          ],
-          "imagens": [],
-          "cards_extraidas": [
-            "Datas de Realização",
-            "Apresentação",
-            "Condições de Inscrição",
-            "Área de Formação",
-            "Objetivos",
-            "Objetivos Específicos",
-            "Conteúdos Programáticos",
-            "Formador(es)",
-            "Metodologia",
-            "Avaliação",
-            "Observações"
-          ]
-        }
-      ]
+      "inscricoes_abertas": false,
+      "acoes": []
     },
     {
       "id_curso": 319,
