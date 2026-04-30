@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-04-29T08:59:29.566769+01:00",
+  "gerado_em": "2026-04-30T09:32:12.495977+01:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 19,
   "acoes": [
@@ -156,7 +156,7 @@
       "requisitos": null,
       "certificacao": null,
       "calendario": [
-        "Semana 106-05-2026 - 4ª feira - 18:30 - 22:30 - 4.0 HSemana 213-05-2026 - 4ª feira - 18:30 - 22:30 - 4.0 H15-05-2026 - 6ª feira - 18:30 - 22:30 - 4.0 HSemana 320-05-2026 - 4ª feira - 19:30 - 22:30 - 3.0 H22-05-2026 - 6ª feira - 19:30 - 22:30 - 3.0 HSemana 427-05-2026 - 4ª feira - 19:30 - 22:30 - 3.0 H29-05-2026 - 6ª feira - 19:30 - 22:30 - 3.0 HSemana 503-06-2026 - 4ª feira - 19:30 - 22:30 - 3.0 H05-06-2026 - 6ª feira - 19:30 - 22:30 - 3.0 H06-06-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 611-06-2026 - 4ª feira - 19:30 - 22:30 - 3.0 H13-06-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 715-06-2026 - 2ª feira - 19:30 - 22:30 - 3.0 H"
+        "Semana 106-05-2026 - 4ª feira - 18:30 - 22:30 - 4.0 HSemana 213-05-2026 - 4ª feira - 18:30 - 22:30 - 4.0 H15-05-2026 - 6ª feira - 18:30 - 22:30 - 4.0 HSemana 320-05-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H22-05-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 427-05-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H29-05-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 503-06-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H05-06-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H06-06-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 613-06-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 715-06-2026 - 2ª feira - 19:30 - 22:30 - 3.0 H"
       ],
       "imagens": [],
       "cards_extraidas": [
@@ -323,8 +323,7 @@
         "Objetivos",
         "Conteúdos Programáticos",
         "Formador(es)",
-        "Metodologia",
-        "Observações"
+        "Metodologia"
       ]
     },
     {
@@ -479,70 +478,6 @@
       "url": "https://castelform.pt/informacaocurso.aspx?id=18&accao=858",
       "id_curso": 18,
       "id_accao": 858,
-      "titulo": "Aplicação de Produtos Fitofarmacêuticos com Equipamentos de Pulverização Manual (UFCD 9263)",
-      "area_formacao": "Produção Agrícola e Animal",
-      "duracao_total": "25 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/c18.jpg",
-      "objetivos": [
-        "Capacitar os participantes para manipular e aplicar de forma segura produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, utilizando equipamentos de pulverização manual.."
-      ],
-      "conteudos": [
-        "Sistemas regulamentares Autorização de produtos fitofarmacêuticos Classificação, embalagem e rotulagem Venda, aquisição e uso responsável",
-        "Proteção Integrada (PI) Legislação específica e registos Prática da PI e tomada de decisão Aconselhamento agrícola Avaliação comparativa de produtos fitofarmacêuticos e segurança",
-        "Produção Integrada (PRODI) Princípios da PRODI Regulamentação e registos Caderno de campo",
-        "Modo de Produção Biológico Princípios gerais Regulamento comunitário relativo ao modo de produção biológico Utilização de produtos fitofarmacêuticos em modo de produção biológico",
-        "Segurança na utilização de produtos fitofarmacêuticos Aspetos toxicológicos inerentes à sua manipulação e aplicação Noção de dose, concentração e volume de calda Informação e leitura do rótulo Segurança para o operador na aplicação manual Equipamentos de proteção individual (EPI) segundo as características do produto fitofarmacêutico",
-        "Redução do risco na aplicação dos produtos fitofarmacêuticos com equipamentos de pulverização manual Tipos e características do material de aplicação manual Critérios para a escolha do material de aplicação Técnicas de aplicação, calibração, regulação do equipamento de aplicação manual Arrastamento da calda e práticas de redução do arrastamento da calda de pulverização Conservação e manutenção do material de aplicação manual",
-        "Redução do risco para o ambiente, espécies e organismos não visados Impacte no ambiente do uso de produtos fitofarmacêuticos Risco para as espécies não visadas e medidas de mitigação do risco Segurança na manipulação e preparação de caldas e limpeza de equipamentos de aplicação Gestão de resíduos de embalagens e resíduos de excedentes de produtos fitofarmacêuticos (obsoletos)",
-        "Segurança alimentar Limite máximo de resíduos Intervalo de segurança Exposição do consumidor e cumprimento das indicações do rótulo",
-        "Armazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticos Condições e características dos locais de armazenamento Sinalização, perigos e segurança durante o armazenamento Perigos e segurança no transporte",
-        "Acidentes com produtos fitofarmacêuticos Prevenção de acidentes Acidentes de trabalho Sintomas de intoxicação e medidas de primeiros socorros"
-      ],
-      "formadores": [
-        {
-          "nome": "Custódio de Sousa Oliveira",
-          "biografia": "Mestre em Agricultura Biológica. Foi Director Geral da Adega Cooperativa de Braga, Crl entre 1994 e 2001. Téncico Agricola na Cavagri-Cooperativa Agrícola do Alto Cávado, Crl, entre 2001 e 2009. Participação nos workshops regionais do Projecto “Bio-Regiões\", dinamizado pela Rede Rural Nacional e Rede Internacional das Bio-Regiões (INNER). Formador desde 2010, já lecionou diversas formações na área agricola. Formador homologado pela DRAPN em cursos APF e COTS, desde 2013.",
-          "foto_url": "https://castelform.pt/ficheiros/e4493.jpg"
-        },
-        {
-          "nome": "Maria Helena Dias Soares",
-          "biografia": "Bacharelato em Engenharia Agro-Pecuária e Pós-Garduação em Agricultura Biológica. Ministrou diversas formações na area agricola presenciais e online, nomeadamente as UFCD's 9263, 6281, 11026, 926, 6290. É sócia da Associação Portuguesa de Horticultura e da Sociedade da Ciências Agrárias de Portugal.",
-          "foto_url": "https://castelform.pt/ficheiros/e14715.jpg"
-        }
-      ],
-      "detalhe": {
-        "inicio": "14/05/2026",
-        "fim": "01/06/2026"
-      },
-      "resumo": {
-        "horario": "Pós-laboral",
-        "local": "JF de Barreiros"
-      },
-      "apresentacao": null,
-      "metodologia": "Ativa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo, podendo envolver uma visita de estudo.",
-      "condicoes_inscricao": "Escolaridade Minima Obrigatória.Destinatários: Agricultores que apenas utilizem equipamentos de pulverização manual e que, caso não tenham a Escolaridade Minima Obrigatória, comprovem saber ler, fazer cálculos simples e interpretar o rótulo de um produto fitofarmacêutico.Documentos necessários:Certificado de HabilitaçõesDocumento comprovativo de situação profissional",
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "14/05/2026",
-        "14/05/2026",
-        "01/06/2026"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Condições de Inscrição",
-        "Área de Formação",
-        "Objetivos",
-        "Conteúdos Programáticos",
-        "Formador(es)",
-        "Metodologia"
-      ]
-    },
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=18&accao=862",
-      "id_curso": 18,
-      "id_accao": 862,
       "titulo": "Aplicação de Produtos Fitofarmacêuticos com Equipamentos de Pulverização Manual (UFCD 9263)",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "25 horas",
@@ -775,6 +710,57 @@
       ]
     },
     {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=407&accao=864",
+      "id_curso": 407,
+      "id_accao": 864,
+      "titulo": "Atualização em aplicação de produtos fitofarmacêuticos com equipamentos de pulverização manual (AAPFEPM25)",
+      "area_formacao": "Produção Agrícola e Animal",
+      "duracao_total": "25 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/c407.jpg?v=202604091223",
+      "objetivos": [],
+      "conteudos": [
+        "Introdução• Apresentação do grupo• Levantamento das expetativas dos participantes• Apresentação do programa de açãoI: Sistemas regulamentares• Autorização de produtos fitofarmacêuticos: Principais figuras e procedimentos legais relevantes para utilizadores profissionais• Aplicação de produtos fitofarmacêuticos em zonas urbanas, áreas de lazer e vias de comunicação• Classificação, embalagem e rotulagem de produtos fitofarmacêuticos (Reg. 1272/2008)• Símbolos de perigo, advertências de perigo (frases H) e frases de prudência (frases P)• Venda, aquisição e utilização responsável de produtos fitofarmacêuticos• Sistema de Informação e Divulgação relativa a produtos fitofarmacêuticos (SIFITO)II: Proteção Integrada• Legislação específica e registos (princípios gerais)• A prática da Proteção Integrada e tomada de decisão• O aconselhamento agrícola• O Serviço Nacional de Avisos Agrícolas e o Serviço de Aconselhamento Agrícola e Florestal• Avaliação comparativa de produtos fitofarmacêuticos e segurança• Decisão de substituição e alternativas a produtos químicosIII: Produção Integrada• Princípios da PRODI• Regulamentação e registos• O caderno de campo• Controlos oficiais: registo e acompanhamento da cultura, das práticas e monitorização de resultadosIV: Modo de Produção Biológico• Princípios gerais• Regulamento comunitário relativo ao Modo de Produção Biológico• A autorização de produtos fitofarmacêuticos e substâncias de base e sua utilização em Modo de Produção BiológicoV: Segurança na utilização de produtos fitofarmacêuticos• Aspetos toxicológicos inerentes à manipulação e aplicação dos produtos fitofarmacêuticos• Noção de dose, concentração e volume de calda• Preparação da calda em segurança• Informação e leitura do rótulo• Segurança para o operador na aplicação manual de produtos fitofarmacêuticos• Equipamentos de proteção individual (EPI)• Escolha do EPI e as diferentes características do produto fitofarmacêuticoVI: Redução do risco na aplicação dos produtos fitofarmacêuticos (equipamentos/técnicas)• Tipos e características do material de aplicação manual• Critérios para a escolha do material de aplicação manual• Inspeção de equipamentos de aplicação manual• Técnicas de aplicação, calibração e regulação do equipamento de aplicação manual• Arrastamento da calda e práticas de redução do arrastamento da calda de pulverização• Conservação e manutenção do material de aplicação manualVII: Redução do risco para o ambiente, espécies e organismos não visados• Impacte no ambiente do uso de produtos fitofarmacêuticos• A proteção do solo e dos recursos hídicos• Risco para as espécies não visadas e medidas de mitigação do risco• Conceito de zona tampão, faixas biodiversas e medidas de proteção de pessoas estranhas aos tratamentos• Segurança na manipulação e preparação de caldas e limpeza de equipamentos de aplicação manual• Gestão de resíduos de embalagens e resíduos de excedentes de PF (produtos obsoletos)• Boas práticas na gestão de existências em armazémVIII: Segurança alimentar• Limite Máximo de Resíduos (LMR)• Controlo oficial de resíduos em géneros alimentícios de origem vegetal e rastreabilidade• Intervalo de segurança• Exposição do consumidor e cumprimento das indicações do rótulo• Medidas de higiene e segurança nas operações culturais, de colheita e acondicionamento dos produtos hortofrutícolas para consumoIX: Armazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticos• Condições e características dos locais de armazenamento de produtos fitofarmacêuticos• Equipamentos de armazenagem de produtos perigosos e boas práticas de armazenagem de produtos fitofarmacêuticos• Perigos e segurança durante o armazenamento. Sinalização do equipamento• Perigos e segurança durante o armazenamento, sinalização no armazém e transporte de pequenas quantidades de produtos fitofarmacêuticos• Boas práticas no acondicionamento para transporte de produtos fitofarmacêuticosX: Acidentes com produtos fitofarmacêuticos• Prevenção de acidentes• Leitura da Ficha de Dados de Segurança e do rótulo quando ocorre um acidente• Acidentes de trabalho• Sintomas de intoxicação e medidas de primeiros socorros• O CIAV e a comunicação de exposição ao produto fitofarmacêuticoAVAL: Avaliação e encerramento• Avaliação de conhecimentos",
+        "prova teórica escrita• Avaliação de reação• Encerramento"
+      ],
+      "formadores": [
+        {
+          "nome": "Carlos Manuel da Cunha Carvalho Marques",
+          "biografia": "Licenciado em Engenharia Agronómica e pós graduado em Enologia e Viticultura (a concluir tese de mestrado). Atualmente presta consultoria a explorações agrícolas nas operações de tratamentos fitossanitários e na calibração e inspeção de equipamentos de pulverização. Ministrou várias formções na área agricola e florestal, nomeadamente as UFCD's 4552, 9998, COTS (35h/50h), ADCAPF e APF.",
+          "foto_url": "https://castelform.pt/ficheiros/e11547.jpg"
+        },
+        {
+          "nome": "Maria Helena Dias Soares",
+          "biografia": "Bacharelato em Engenharia Agro-Pecuária e Pós-Garduação em Agricultura Biológica. Ministrou diversas formações na area agricola presenciais e online, nomeadamente as UFCD's 9263, 6281, 11026, 926, 6290. É sócia da Associação Portuguesa de Horticultura e da Sociedade da Ciências Agrárias de Portugal.",
+          "foto_url": "https://castelform.pt/ficheiros/e14715.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "02/06/2026",
+        "fim": "15/06/2026"
+      },
+      "resumo": {
+        "horario": "Pós laboral",
+        "local": "Junta de Freguesia de Barreiros"
+      },
+      "apresentacao": null,
+      "metodologia": null,
+      "condicoes_inscricao": null,
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "02/06/2026",
+        "02/06/2026",
+        "15/06/2026"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Área de Formação",
+        "Conteúdos Programáticos",
+        "Formador(es)"
+      ]
+    },
+    {
       "url": "https://castelform.pt/informacaocurso.aspx?id=407&accao=851",
       "id_curso": 407,
       "id_accao": 851,
@@ -851,7 +837,7 @@
       ],
       "detalhe": {
         "inicio": "08/06/2026",
-        "fim": "22/06/2026"
+        "fim": "26/06/2026"
       },
       "resumo": {
         "horario": "2ª a 6ª (18:30h-22:30h), Sábado",
@@ -864,7 +850,7 @@
       "requisitos": null,
       "certificacao": null,
       "calendario": [
-        "Semana 108-06-2026 - 2ª feira - 18:30 - 22:30 - 4.0 H09-06-2026 - 3ª feira - 18:30 - 22:30 - 4.0 H11-06-2026 - 5ª feira - 18:30 - 22:30 - 4.0 H12-06-2026 - 6ª feira - 18:30 - 22:30 - 4.0 H13-06-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 216-06-2026 - 3ª feira - 19:30 - 22:30 - 3.0 H18-06-2026 - 5ª feira - 19:30 - 22:30 - 3.0 H20-06-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H21-06-2026 - Domingo - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 322-06-2026 - 2ª feira - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H"
+        "Semana 108-06-2026 - 2ª feira - 18:30 - 22:30 - 4.0 H09-06-2026 - 3ª feira - 18:30 - 22:30 - 4.0 H11-06-2026 - 5ª feira - 18:30 - 22:30 - 4.0 H12-06-2026 - 6ª feira - 18:30 - 22:30 - 4.0 H13-06-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 216-06-2026 - 3ª feira - 19:30 - 22:30 - 3.0 H18-06-2026 - 5ª feira - 19:30 - 22:30 - 3.0 H20-06-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H21-06-2026 - Domingo - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 326-06-2026 - 6ª feira - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H - Data confirmada pela DRAPN"
       ],
       "imagens": [],
       "cards_extraidas": [
