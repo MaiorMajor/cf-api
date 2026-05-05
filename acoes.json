@@ -1,111 +1,8 @@
 {
-  "gerado_em": "2026-05-04T09:14:06.989049+01:00",
+  "gerado_em": "2026-05-05T09:04:14.245447+01:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 19,
+  "total": 18,
   "acoes": [
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=365&accao=824",
-      "id_curso": 365,
-      "id_accao": 824,
-      "titulo": "Power BI (Avançado)",
-      "area_formacao": "Ciências Informáticas",
-      "duracao_total": "25 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/c365.jpg?v=202507251152",
-      "objetivos": [
-        "-Transformar dados e criar métricas.-Interpretar a linguagem Data Analysis Expressions (DAX).."
-      ],
-      "conteudos": [
-        "Introdução à transformação de dados",
-        "Transformação de dados",
-        "Função Calculate",
-        "Relações eficazmente",
-        "Medidas semi",
-        "aditivas",
-        "Introdução ao DAX no Power BI Desktop",
-        "Inteligência de Tempo e Medidas em DAX",
-        "Introdução à otimização de desempenho",
-        "Desempenho de medidas, relacionamentos e visuais",
-        "Variáveis para melhorar o desempenho e a resolução de problemas",
-        "Redução de cardinalidade",
-        "Otimização dos modelos DirectQuery com armazenamento ao nível da tabela",
-        "Criação de gestão de agregações"
-      ],
-      "formadores": [
-        {
-          "nome": "Ricardo Costa",
-          "biografia": "(n. 1978). Licenciado em Economia. A sua experiência profissional na área da Informática tem sido desenvolvida desde 2002 até ao presente. Atualmente desempenho funções com formador e professor na área das TIC e Robótica. Integra a equipa de formadores da Castelform, onde nos últimos 4 anos (entre nov. 2020 e maio de 2024), lecionou 17 ações de Excel Avançado e 5 de PowerBI, envolvendo mais de 500 formandos, tendo obtido avaliação de satisfação 4,9 (excelente), na escala de 1 a 5",
-          "foto_url": "https://castelform.pt/ficheiros/e7679.jpg"
-        }
-      ],
-      "detalhe": {
-        "inicio": "04/05/2026",
-        "fim": "25/05/2026"
-      },
-      "resumo": {
-        "horario": "Laboral (14h00-17h00 e 14h00-18h00)",
-        "local": "Formação a Distância (FAD)"
-      },
-      "apresentacao": null,
-      "metodologia": null,
-      "condicoes_inscricao": null,
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "- 04/05/2025 das 14:00 às 18:00- 07/05/2025 das 14:00 às 17:00- 11/05/2025 das 14:00 às 18:00- 14/05/2025 das 14:00 às 17:00- 18/05/2025 das 14:00 às 18:00- 21/05/2025 das 14:00 às 17:00- 25/05/2025 das 14:00 às 18:00"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Datas de Realização",
-        "Área de Formação",
-        "Objetivos",
-        "Conteúdos Programáticos",
-        "Formador(es)"
-      ]
-    },
-    {
-      "url": "https://castelform.pt/informacaocurso.aspx?id=367&accao=768",
-      "id_curso": 367,
-      "id_accao": 768,
-      "titulo": "0754 - Processador de texto",
-      "area_formacao": "Ciências Informáticas",
-      "duracao_total": "50 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/a768.jpg?v=202507251221",
-      "objetivos": [
-        "Elaborar, editar e imprimir documentos.Introduzir elementos gráficos em documentos.Elaborar e editar documentos longos.."
-      ],
-      "conteudos": [
-        "Processador de texto – introdução Janela principal Inserção de texto (teclado) Modos de visualização básicos AjudaOperações básicas Criação, gravação e abertura de documentos Seleção de texto Anulação e repetição de açõesFormatações Formatações globais do documento Formatação do tipo de letra Formatações de parágrafo Utilização das tabelas pré",
-        "definidas Criação de listas Limites e sombreadosEdição e revisão de texto Múltiplos documentos abertos Cópia do texto Verificação ortográfica Comando “localizar e substituir”Impressão Impressão de documentos, envelopes e etiquetasTabulações, tabelas e colunas Definir tabulações Criação, modificação e formatação de tabelas Divisão do texto em colunasMelhorar o aspeto visual Símbolos Caixas de texto Desenho, importação de imagens, inserção de formas automáticasDocumentos longos Quebras de página e de seleção Cabeçalhos e rodapés EstilosPercorrer o documento rapidamente Divisão do ecrã Marcadores e referências cruzadas Legendas e notas de rodapé Criação de índice Destaques Visualização do mapa de um documento Junção de documentos"
-      ],
-      "formadores": [],
-      "detalhe": {
-        "inicio": "04/05/2026",
-        "fim": "02/06/2026"
-      },
-      "resumo": {
-        "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
-        "local": "Formação a Distância (FAD)"
-      },
-      "apresentacao": null,
-      "metodologia": null,
-      "condicoes_inscricao": null,
-      "destinatarios": null,
-      "requisitos": null,
-      "certificacao": null,
-      "calendario": [
-        "04/05/2026",
-        "02/06/2026",
-        "04/05/2026",
-        "02/06/2026"
-      ],
-      "imagens": [],
-      "cards_extraidas": [
-        "Área de Formação",
-        "Objetivos",
-        "Conteúdos Programáticos"
-      ]
-    },
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=2&accao=844",
       "id_curso": 2,
@@ -460,12 +357,11 @@
       "requisitos": null,
       "certificacao": null,
       "calendario": [
-        "12/05/2026",
-        "12/05/2026",
-        "19/05/2026"
+        "Semana 112-05-2026 - 3ª feira - 18:30 - 22:30 - 4.0 H13-05-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H15-05-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H16-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 218-05-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H19-05-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H"
       ],
       "imagens": [],
       "cards_extraidas": [
+        "Datas de Realização",
         "Condições de Inscrição",
         "Área de Formação",
         "Objetivos",
@@ -536,6 +432,49 @@
         "Conteúdos Programáticos",
         "Formador(es)",
         "Metodologia"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=367&accao=768",
+      "id_curso": 367,
+      "id_accao": 768,
+      "titulo": "0754 - Processador de texto",
+      "area_formacao": "Ciências Informáticas",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/a768.jpg?v=202507251221",
+      "objetivos": [
+        "Elaborar, editar e imprimir documentos.Introduzir elementos gráficos em documentos.Elaborar e editar documentos longos.."
+      ],
+      "conteudos": [
+        "Processador de texto – introdução Janela principal Inserção de texto (teclado) Modos de visualização básicos AjudaOperações básicas Criação, gravação e abertura de documentos Seleção de texto Anulação e repetição de açõesFormatações Formatações globais do documento Formatação do tipo de letra Formatações de parágrafo Utilização das tabelas pré",
+        "definidas Criação de listas Limites e sombreadosEdição e revisão de texto Múltiplos documentos abertos Cópia do texto Verificação ortográfica Comando “localizar e substituir”Impressão Impressão de documentos, envelopes e etiquetasTabulações, tabelas e colunas Definir tabulações Criação, modificação e formatação de tabelas Divisão do texto em colunasMelhorar o aspeto visual Símbolos Caixas de texto Desenho, importação de imagens, inserção de formas automáticasDocumentos longos Quebras de página e de seleção Cabeçalhos e rodapés EstilosPercorrer o documento rapidamente Divisão do ecrã Marcadores e referências cruzadas Legendas e notas de rodapé Criação de índice Destaques Visualização do mapa de um documento Junção de documentos"
+      ],
+      "formadores": [],
+      "detalhe": {
+        "inicio": "18/05/2026",
+        "fim": "16/06/2026"
+      },
+      "resumo": {
+        "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
+        "local": "Formação a Distância (FAD)"
+      },
+      "apresentacao": null,
+      "metodologia": null,
+      "condicoes_inscricao": null,
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "18/05/2026",
+        "16/06/2026",
+        "18/05/2026",
+        "16/06/2026"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos"
       ]
     },
     {
@@ -799,12 +738,11 @@
       "requisitos": null,
       "certificacao": null,
       "calendario": [
-        "08/06/2026",
-        "08/06/2026",
-        "22/06/2026"
+        "Semana 108-06-2026 - 2ª feira - 18:30 - 22:30 - 4.0 H11-06-2026 - 5ª feira - 19:00 - 22:30 - 3.5 HSemana 217-06-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H19-06-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H20-06-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 322-06-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
       ],
       "imagens": [],
       "cards_extraidas": [
+        "Datas de Realização",
         "Área de Formação",
         "Conteúdos Programáticos",
         "Formador(es)"

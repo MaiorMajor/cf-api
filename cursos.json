@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-04T09:15:42.024547+01:00",
+  "gerado_em": "2026-05-05T09:05:50.804599+01:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 121,
   "cursos": [
@@ -58,8 +58,8 @@
           ],
           "formadores": [],
           "detalhe": {
-            "inicio": "04/05/2026",
-            "fim": "02/06/2026"
+            "inicio": "18/05/2026",
+            "fim": "16/06/2026"
           },
           "resumo": {
             "horario": "19:30-22:30 (com 2 sessões das 19:30 às 23:00)",
@@ -72,10 +72,10 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "04/05/2026",
-            "02/06/2026",
-            "04/05/2026",
-            "02/06/2026"
+            "18/05/2026",
+            "16/06/2026",
+            "18/05/2026",
+            "16/06/2026"
           ],
           "imagens": [],
           "cards_extraidas": [
@@ -232,60 +232,6 @@
       "descricao": null,
       "inscricoes_abertas": true,
       "acoes": [
-        {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=365&accao=824",
-          "id_curso": 365,
-          "id_accao": 824,
-          "titulo": "Power BI (Avançado)",
-          "area_formacao": "Ciências Informáticas",
-          "duracao_total": "25 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c365.jpg?v=202507251152",
-          "objetivos": [
-            "-Transformar dados e criar métricas.-Interpretar a linguagem Data Analysis Expressions (DAX).."
-          ],
-          "conteudos": [
-            "Introdução à transformação de dados",
-            "Transformação de dados",
-            "Função Calculate",
-            "Relações eficazmente",
-            "Medidas semi",
-            "aditivas",
-            "Introdução ao DAX no Power BI Desktop",
-            "Inteligência de Tempo e Medidas em DAX",
-            "Introdução à otimização de desempenho",
-            "Desempenho de medidas, relacionamentos e visuais",
-            "Variáveis para melhorar o desempenho e a resolução de problemas",
-            "Redução de cardinalidade",
-            "Otimização dos modelos DirectQuery com armazenamento ao nível da tabela",
-            "Criação de gestão de agregações"
-          ],
-          "formadores": [],
-          "detalhe": {
-            "inicio": "04/05/2026",
-            "fim": "25/05/2026"
-          },
-          "resumo": {
-            "horario": "Laboral (14h00-17h00 e 14h00-18h00)",
-            "local": "Formação a Distância (FAD)"
-          },
-          "apresentacao": null,
-          "metodologia": null,
-          "condicoes_inscricao": null,
-          "destinatarios": null,
-          "requisitos": null,
-          "certificacao": null,
-          "calendario": [
-            "- 04/05/2025 das 14:00 às 18:00- 07/05/2025 das 14:00 às 17:00- 11/05/2025 das 14:00 às 18:00- 14/05/2025 das 14:00 às 17:00- 18/05/2025 das 14:00 às 18:00- 21/05/2025 das 14:00 às 17:00- 25/05/2025 das 14:00 às 18:00"
-          ],
-          "imagens": [],
-          "cards_extraidas": [
-            "Datas de Realização",
-            "Área de Formação",
-            "Objetivos",
-            "Conteúdos Programáticos",
-            "Formador(es)"
-          ]
-        },
         {
           "url": "https://castelform.pt/informacaocurso.aspx?id=365&accao=766",
           "id_curso": 365,
@@ -1389,12 +1335,11 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "12/05/2026",
-            "12/05/2026",
-            "19/05/2026"
+            "Semana 112-05-2026 - 3ª feira - 18:30 - 22:30 - 4.0 H13-05-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H15-05-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H16-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 218-05-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H19-05-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H"
           ],
           "imagens": [],
           "cards_extraidas": [
+            "Datas de Realização",
             "Condições de Inscrição",
             "Área de Formação",
             "Objetivos",
@@ -1726,12 +1671,11 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "08/06/2026",
-            "08/06/2026",
-            "22/06/2026"
+            "Semana 108-06-2026 - 2ª feira - 18:30 - 22:30 - 4.0 H11-06-2026 - 5ª feira - 19:00 - 22:30 - 3.5 HSemana 217-06-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H19-06-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H20-06-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 322-06-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
           ],
           "imagens": [],
           "cards_extraidas": [
+            "Datas de Realização",
             "Área de Formação",
             "Conteúdos Programáticos",
             "Formador(es)"
