@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-12T09:12:47.316669+01:00",
+  "gerado_em": "2026-05-13T09:12:21.165457+01:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 121,
   "cursos": [
@@ -348,8 +348,44 @@
       "imagem_url": "https://castelform.pt/ficheiros/C308.jpg",
       "conteudos": [],
       "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=308&accao=770",
+          "id_curso": 308,
+          "id_accao": 770,
+          "titulo": "9188 - Fundamentos de cibersegurança",
+          "area_formacao": "Ciências Informáticas",
+          "duracao_total": "25 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/a770.jpg?v=202507250424",
+          "objetivos": [],
+          "conteudos": [],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "01/06/2026",
+            "fim": "24/06/2026"
+          },
+          "resumo": {
+            "horario": "Pós laboral (19h30-23h00 e 19h30-23h30)",
+            "local": "Formação a Distância (FAD)"
+          },
+          "apresentacao": null,
+          "metodologia": null,
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "01/06/2026",
+            "01/06/2026",
+            "24/06/2026"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Área de Formação"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 144,
@@ -560,8 +596,64 @@
         "Marketing direto na Internet E-mail e enquadramento legal Regras básicas de utilização eficaz do e-mail Utilizar o e-mail como estratégia de fidelização de clientes Gerir as reclamações via e-mailComunicação personalizada e adaptada a cada cliente Visitantes do seu site Produtos e serviços à medida de cada cliente Instrumentos para captar novos clientes Produtos e serviços personalizados para antecipar necessidades e exceder as expectativas de cada clienteInternet na estratégia de conquista e fidelização de clientes Objectivo dos serviços de atendimento a clientes via Internet Identificar e atrair e-customers Rentabilizar o custo de aquisição de novos clientes Necessidades funcionais de cada cliente Determinar o perfil e rentabilidade do consumidor net"
       ],
       "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=366&accao=767",
+          "id_curso": 366,
+          "id_accao": 767,
+          "titulo": "0393 - Internet como estratégia de marketing",
+          "area_formacao": "Comércio",
+          "duracao_total": "50 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/a767.jpg?v=202507251016",
+          "objetivos": [
+            "Capacitar os formandos para a gestão da presença empresarial das suas Entidades Empregadoras nas redes sociais.."
+          ],
+          "conteudos": [
+            "Tipos de presença e funcionalidades específicas",
+            "Tipologias de conteúdos",
+            "Métricas e reporting",
+            "Exemplos e análise de casos",
+            "Instagram marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
+            "LinkedIn marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
+            "Youtube marketing o Tipos de presença e funcionalidades específicas o Tipologias de conteúdos o Métricas e reporting o Exemplos e análise de casos",
+            "Outras redes sociais",
+            "Gestão de sinergias entre diferentes redes sociais"
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "19/05/2026",
+            "fim": "30/06/2026"
+          },
+          "resumo": {
+            "horario": "Pós-laboral",
+            "local": "Formação a Distância (FAD)"
+          },
+          "apresentacao": "Esta formação tem como objetivo capacitar os formandos e as empresas/organizações a desenvolver estratégias de comunicação eficazes para as redes sociais, considerando as particularidades e funcionalidades de cada plataforma. Durante a formação, será abordada a gestão de redes sociais e a comunicação de produtos e serviços através de campanhas online, destacando a importância de uma abordagem estratégica e alinhada ao público-alvo de cada rede social.Além disso, serão explorados os elementos fundamentais do marketing digital, incluindo mídias sociais e anúncios digitais, como ferramentas indispensáveis para divulgar produtos e serviços de forma impactante.",
+          "metodologia": "Curso de Formação a distancia: 50% síncrono (on line) e 50% assíncrono:- Nas sessões síncronas o/a formador/a apresenta os conteúdos teóricos e desenvolve aplicações práticas que os formandos poderão depois explorar e replicar.- Nas sessões assíncronas os formandos têm a possibilidade de desenvolver as propostas de trabalho sugeridas nas sessões síncronas, para testar os conhecimentos adquiridos.",
+          "condicoes_inscricao": "Ativos/as empregados/as (por conta de outrem do setor privado com ou sem fins lucrativos), maiores de 18 anos, com escolaridade igual ou superior ao 9º ano.Cumpridos os critérios de elegibilidade, a seleção é efetuada por ordem de inscrição.Os formandos necessitam de computador com microfone, câmara e acesso à Internet.Documentação necessária:- Cópia do Certificado de Habilitações;- Cópia do último recibo de vencimento;- Declaração da entidade empregadora com horário de trabalho, assinada, carimbada e datada;- Comprovativo de IBAN em nome do/a formando/a.",
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "Terças e Quintas Feiras- Sessões síncronas: das 19:30-23:30 horas ou das 19:30-23:00 horas"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Datas de Realização",
+            "Apresentação",
+            "Condições de Inscrição",
+            "Área de Formação",
+            "Objetivos",
+            "Objetivos Específicos",
+            "Conteúdos Programáticos",
+            "Formador(es)",
+            "Metodologia",
+            "Avaliação",
+            "Observações"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 319,
@@ -937,8 +1029,52 @@
         "Aplicações informáticasAs aplicações informáticas e as organizaçõesAspossibilidades das aplicações informáticasAplicação informáticaApresentação do software Aplicação de contabilidade"
       ],
       "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=357&accao=760",
+          "id_curso": 357,
+          "id_accao": 760,
+          "titulo": "Cálculo do IVA com recurso a aplicações informáticas de contabilidade",
+          "area_formacao": "Gestão e Administração",
+          "duracao_total": "25 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/a760.jpg?v=202506270643",
+          "objetivos": [
+            "Capacitar os formandos para as aplicações informáticas utilizadas em contabilidade, seja nas organizações, seja a nível da vida pessoal, explorando suas diversas possibilidades e funcionalidades, incluindo a apresentação de softwares específicos (ex: TOC Online), como aplicações de contabilidade Opensource e os sites oficiais para apoio ao cálculo do IVA a pagar/receber, otimizando processos e melhoria da eficiência operacional, de conformidade legal e de rentabilidade financeira.."
+          ],
+          "conteudos": [
+            "Aplicações informáticas As aplicações informáticas e as organizações Aspossibilidades das aplicações informáticasAplicação informática Apresentação do software Aplicação de contabilidade"
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "01/06/2026",
+            "fim": "24/06/2026"
+          },
+          "resumo": {
+            "horario": "Pós laboral (19h30-23h00 e 19h30-23h30)",
+            "local": "Formação a Distância (FAD)"
+          },
+          "apresentacao": null,
+          "metodologia": "Formato de Formação a Distância (FAD)Sessões Síncronas de âmbito teórico - das 19:00 às 22:30 h - com todo o grupo de formandos e formadora “on line”, na plataforma ZOOM.Com compomnete de prática simulada em que os formandos, de forma individual ou em salas partilhadas - desenvolvem tarefas e aplicações práticas sugeridas pela formadora.",
+          "condicoes_inscricao": "Situação Profissional:Este curso destina-se apenas a \"trabalhadores por conta de outrém\" do setor privado (empresarial ou social).(NOTA: não são elegíveis desempregados, trabalhadores independentes ou funcionários públicos).Escolaridade mínima:3º ciclo ou 9º ano (completo).Documentação necessária:1. Cópia do cartão de cidadão ou do Visto de Residência, com autorização para trabalho (se candidato/a estrangeiro/a).2. Certificado Escolar ou Certificado de Habilitações Académicas (ou Declaração da instituição de Ensino onde completou com aproveitamenteo o último ano de escolaridade ou do ensino superior, atestando dessa forma as habilitações escolares ou académicas. No caso de formandos estrangeiros, o certificado de escolaridade ou o certificado de habilitações académicas deve estar reconhecido no sistema de ensino português (seja Escola Secundária, seja Universidade).3. Cópia do último recibo de vencimento.4. Declaração de Horário de trabalho (ex: de segunda a sexta feira, das 9:00h às 13:00h e das 14:00h às 18:00h).5. IBAN extraído do Netbanking onde deve constar o nome do/a candidato/a.Pagamento do subsidio de alimentação no valor de 6,00 euros/sessão, aos formandos que completem pelo menos 3 horas de formação no horário pós-laboral.",
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [],
+          "imagens": [],
+          "cards_extraidas": [
+            "Datas de Realização",
+            "Condições de Inscrição",
+            "Área de Formação",
+            "Objetivos",
+            "Conteúdos Programáticos",
+            "Formador(es)",
+            "Metodologia",
+            "Avaliação",
+            "Observações"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 358,
@@ -1164,58 +1300,6 @@
       "inscricoes_abertas": true,
       "acoes": [
         {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=18&accao=826",
-          "id_curso": 18,
-          "id_accao": 826,
-          "titulo": "Aplicação de Produtos Fitofarmacêuticos com Equipamentos de Pulverização Manual (UFCD 9263)",
-          "area_formacao": "Produção Agrícola e Animal",
-          "duracao_total": "25 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/c18.jpg",
-          "objetivos": [
-            "Capacitar os participantes para manipular e aplicar de forma segura produtos fitofarmacêuticos, minimizando os riscos para o aplicador, o ambiente, espécies e organismos não visados e o consumidor, utilizando equipamentos de pulverização manual.."
-          ],
-          "conteudos": [
-            "Sistemas regulamentares Autorização de produtos fitofarmacêuticos Classificação, embalagem e rotulagem Venda, aquisição e uso responsável",
-            "Proteção Integrada (PI) Legislação específica e registos Prática da PI e tomada de decisão Aconselhamento agrícola Avaliação comparativa de produtos fitofarmacêuticos e segurança",
-            "Produção Integrada (PRODI) Princípios da PRODI Regulamentação e registos Caderno de campo",
-            "Modo de Produção Biológico Princípios gerais Regulamento comunitário relativo ao modo de produção biológico Utilização de produtos fitofarmacêuticos em modo de produção biológico",
-            "Segurança na utilização de produtos fitofarmacêuticos Aspetos toxicológicos inerentes à sua manipulação e aplicação Noção de dose, concentração e volume de calda Informação e leitura do rótulo Segurança para o operador na aplicação manual Equipamentos de proteção individual (EPI) segundo as características do produto fitofarmacêutico",
-            "Redução do risco na aplicação dos produtos fitofarmacêuticos com equipamentos de pulverização manual Tipos e características do material de aplicação manual Critérios para a escolha do material de aplicação Técnicas de aplicação, calibração, regulação do equipamento de aplicação manual Arrastamento da calda e práticas de redução do arrastamento da calda de pulverização Conservação e manutenção do material de aplicação manual",
-            "Redução do risco para o ambiente, espécies e organismos não visados Impacte no ambiente do uso de produtos fitofarmacêuticos Risco para as espécies não visadas e medidas de mitigação do risco Segurança na manipulação e preparação de caldas e limpeza de equipamentos de aplicação Gestão de resíduos de embalagens e resíduos de excedentes de produtos fitofarmacêuticos (obsoletos)",
-            "Segurança alimentar Limite máximo de resíduos Intervalo de segurança Exposição do consumidor e cumprimento das indicações do rótulo",
-            "Armazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticos Condições e características dos locais de armazenamento Sinalização, perigos e segurança durante o armazenamento Perigos e segurança no transporte",
-            "Acidentes com produtos fitofarmacêuticos Prevenção de acidentes Acidentes de trabalho Sintomas de intoxicação e medidas de primeiros socorros"
-          ],
-          "formadores": [],
-          "detalhe": {
-            "inicio": "12/05/2026",
-            "fim": "19/05/2026"
-          },
-          "resumo": {
-            "horario": "2ª e 4ª 19:00-22:30 / Sáb. 9:00-17:00",
-            "local": "Junta de Freguesia de Gondizalves"
-          },
-          "apresentacao": null,
-          "metodologia": "Ativa, centrada no participante, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em sala, em armazém simulado e no campo, podendo envolver uma visita de estudo.",
-          "condicoes_inscricao": "Escolaridade Minima Obrigatória.Destinatários: Agricultores que apenas utilizem equipamentos de pulverização manual e que, caso não tenham a Escolaridade Minima Obrigatória, comprovem saber ler, fazer cálculos simples e interpretar o rótulo de um produto fitofarmacêutico.Documentos necessários:Certificado de HabilitaçõesDocumento comprovativo de situação profissional",
-          "destinatarios": null,
-          "requisitos": null,
-          "certificacao": null,
-          "calendario": [
-            "Semana 112-05-2026 - 3ª feira - 19:00 - 22:30 - 3,5 H13-05-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H15-05-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H16-05-2026 - Sábado - ( Manhã - a partir das 9:00 horas)Semana 218-05-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H19-05-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H"
-          ],
-          "imagens": [],
-          "cards_extraidas": [
-            "Datas de Realização",
-            "Condições de Inscrição",
-            "Área de Formação",
-            "Objetivos",
-            "Conteúdos Programáticos",
-            "Formador(es)",
-            "Metodologia"
-          ]
-        },
-        {
           "url": "https://castelform.pt/informacaocurso.aspx?id=18&accao=858",
           "id_curso": 18,
           "id_accao": 858,
@@ -1254,12 +1338,11 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "14/05/2026",
-            "14/05/2026",
-            "01/06/2026"
+            "Semana 114-05-2026 - 5ª feira - 18:30 - 22:30 - 4.0 H15-05-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 218-05-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H19-05-2026 - 3ª feira - 19:00 - 22:30 - 3.5 HSemana 330-05-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 401-06-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
           ],
           "imagens": [],
           "cards_extraidas": [
+            "Datas de Realização",
             "Condições de Inscrição",
             "Área de Formação",
             "Objetivos",
