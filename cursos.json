@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-05-21T09:05:45.393043+01:00",
+  "gerado_em": "2026-05-22T09:23:09.400878+01:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 121,
+  "total": 117,
   "cursos": [
     {
       "id_curso": 401,
@@ -880,71 +880,12 @@
       "acoes": []
     },
     {
-      "id_curso": 357,
-      "titulo": "0664 - Aplicações informáticas de contabilidade",
-      "area_formacao": "Gestão e Administração",
-      "duracao_total": "25.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C357.jpg",
-      "conteudos": [
-        "Aplicações informáticasAs aplicações informáticas e as organizaçõesAspossibilidades das aplicações informáticasAplicação informáticaApresentação do software Aplicação de contabilidade"
-      ],
-      "descricao": null,
-      "inscricoes_abertas": true,
-      "acoes": [
-        {
-          "url": "https://castelform.pt/informacaocurso.aspx?id=357&accao=760",
-          "id_curso": 357,
-          "id_accao": 760,
-          "titulo": "Cálculo do IVA com recurso a aplicações informáticas de contabilidade",
-          "area_formacao": "Gestão e Administração",
-          "duracao_total": "25 horas",
-          "imagem_url": "https://castelform.pt/ficheiros/a760.jpg?v=202506270643",
-          "objetivos": [
-            "Capacitar os formandos para as aplicações informáticas utilizadas em contabilidade, seja nas organizações, seja a nível da vida pessoal, explorando suas diversas possibilidades e funcionalidades, incluindo a apresentação de softwares específicos (ex: TOC Online), como aplicações de contabilidade Opensource e os sites oficiais para apoio ao cálculo do IVA a pagar/receber, otimizando processos e melhoria da eficiência operacional, de conformidade legal e de rentabilidade financeira.."
-          ],
-          "conteudos": [
-            "Aplicações informáticas As aplicações informáticas e as organizações Aspossibilidades das aplicações informáticasAplicação informática Apresentação do software Aplicação de contabilidade"
-          ],
-          "formadores": [],
-          "detalhe": {
-            "inicio": "01/06/2026",
-            "fim": "24/06/2026"
-          },
-          "resumo": {
-            "horario": "Pós laboral (19h30-23h00 e 19h30-23h30)",
-            "local": "Formação a Distância (FAD)"
-          },
-          "apresentacao": null,
-          "metodologia": "Formato de Formação a Distância (FAD)Sessões Síncronas de âmbito teórico - das 19:00 às 22:30 h - com todo o grupo de formandos e formadora “on line”, na plataforma ZOOM.Com compomnete de prática simulada em que os formandos, de forma individual ou em salas partilhadas - desenvolvem tarefas e aplicações práticas sugeridas pela formadora.",
-          "condicoes_inscricao": "Situação Profissional:Este curso destina-se apenas a \"trabalhadores por conta de outrém\" do setor privado (empresarial ou social).(NOTA: não são elegíveis desempregados, trabalhadores independentes ou funcionários públicos).Escolaridade mínima:3º ciclo ou 9º ano (completo).Documentação necessária:1. Cópia do cartão de cidadão ou do Visto de Residência, com autorização para trabalho (se candidato/a estrangeiro/a).2. Certificado Escolar ou Certificado de Habilitações Académicas (ou Declaração da instituição de Ensino onde completou com aproveitamenteo o último ano de escolaridade ou do ensino superior, atestando dessa forma as habilitações escolares ou académicas. No caso de formandos estrangeiros, o certificado de escolaridade ou o certificado de habilitações académicas deve estar reconhecido no sistema de ensino português (seja Escola Secundária, seja Universidade).3. Cópia do último recibo de vencimento.4. Declaração de Horário de trabalho (ex: de segunda a sexta feira, das 9:00h às 13:00h e das 14:00h às 18:00h).5. IBAN extraído do Netbanking onde deve constar o nome do/a candidato/a.Pagamento do subsidio de alimentação no valor de 6,00 euros/sessão, aos formandos que completem pelo menos 3 horas de formação no horário pós-laboral.",
-          "destinatarios": null,
-          "requisitos": null,
-          "certificacao": null,
-          "calendario": [],
-          "imagens": [],
-          "cards_extraidas": [
-            "Datas de Realização",
-            "Condições de Inscrição",
-            "Área de Formação",
-            "Objetivos",
-            "Conteúdos Programáticos",
-            "Formador(es)",
-            "Metodologia",
-            "Avaliação",
-            "Observações"
-          ]
-        }
-      ]
-    },
-    {
       "id_curso": 358,
       "titulo": "Aplicações informáticas de gestão de pessoal (UFCD 0616)",
       "area_formacao": "Capaictar os formandos para a utilização de uma aplicação informática da área de gestão de pessoal e para a utilização de base de dados com ligação a outras aplicações.",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C358.jpg",
-      "conteudos": [
-        "Aplicações informáticasAs aplicações informáticas e as organizaçõesAspossibilidades das aplicações informáticasAplicação informáticaApresentação do software Aplicação de contabilidade"
-      ],
+      "conteudos": [],
       "descricao": null,
       "inscricoes_abertas": true,
       "acoes": [
@@ -1094,32 +1035,6 @@
       "imagem_url": "https://castelform.pt/ficheiros/c293.jpg",
       "conteudos": [
         "Breve introdução à Alimentação Vegetariana e suas variantesIdentificação das proteínas vegetais na alimentação vegetariana \"Plant Based\"Cereais integraisPlaneamento de ementas vegetarianas nutricionamente equilibradasElaboração de refeição completa vegetariana"
-      ],
-      "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
-    },
-    {
-      "id_curso": 364,
-      "titulo": "Técnico/a de Restaurante/Bar",
-      "area_formacao": "Hotelaria e Restauração",
-      "duracao_total": "0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/C364.jpg",
-      "conteudos": [
-        "UC/UFCD obrigatóriasCP_1 Liberdade e responsabilidade democráticas - 50 horasCP_4 Processos identitários - 50 horasCP_5 Deontologia e princípios éticos - 50 horasSTC_5 Redes de informação e comunicação - 50 horasSTC_6 Modelos de urbanismo e mobilidade - 50 horasSTC_7 Sociedade, tecnologia e ciência - fundamentos - 50 horasCLC_5 Cultura, comunicação e média - 50 horasCLC_6 Culturas de urbanismo e mobilidade - 50 horasCLC_7 Fundamentos de cultura língua e comunicação - 50 horas7297 Turismo Inclusivo - oportunidades e desafios - 25 horas7298 Turismo inclusivo na restauração - 25 horas7844 Gestão de equipas - 25 horas3353 Serviço de pequenos-almoços - 25 horas4214 Língua inglesa aplicada ao restaurante/bar - 25 horas7731 Higiene e segurança alimentar na restauração - 25 horas8211 Higiene e segurança no trabalho na restauração - 25 horas8259 Princípios de nutrição e dietética - 25 horas8260 Comunicação, vendas e reclamações na restauração - 50 horas8271 Serviço de restaurante/bar – serviços especiais - 50 horas8283 Organização da cozinha - 25 horas8286 Controlo de custos na restauração - 50 horas8287 Capitações, fichas técnicas, cartas e ementas - 25 horas8288 Serviço de restaurante/bar – mise-en-place e técnicas de serviço - 50 horas8297 Preparações e confeções básicas de cozinha - 50 horas8317 Língua inglesa – o profissional na restauração - 25 horas8329 Restauração - informação turística - 25 horas8332 Confeções de sala - 50 horas8333 Arte cisória - 50 horas8334 Teoria de serviço de bebidas - 25 horas8335 Serviço de bar - 25 horas8336 Serviço de vinhos - preparação e execução - 25 horas8337 Vinhos de Portugal e do mundo - 25 horas8338 Execução do serviço de restaurante/bar - 50 horas8339 Serviço casual de restaurante - 50 horas8340 Serviço clássico de restaurante - 50 horas8341 Serviço fine dinning - 50 horas8342 Serviço de bebidas simples - 50 horas8343 Serviço de bebidas compostas - 50 horasUC/UFCD opcionais da componente tecnológica4215 Língua francesa aplicada ao restaurante/bar - 25 horas8330 Aplicações informáticas na restauração - 50 horas8318 Língua francesa – o profissional na restauração - 25 horasUC/UFCD opcionais da componente de baseCLC_LEC_FRA Francês - Continuação - 50 horasCLC_LEC_ING Inglês - Continuação - 50 horasPRA - Portefólio Reflexivo de Aprendizagens85 horasFormação em Contexto de Trabalho210 horas"
-      ],
-      "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
-    },
-    {
-      "id_curso": 24,
-      "titulo": "Aplicação de Produtos Fitofarmacêuticos - 35 horas",
-      "area_formacao": "Produção Agrícola e Animal",
-      "duracao_total": "35 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/c24.jpg",
-      "conteudos": [
-        "Introdução ao curso 1. Apresentação do grupo 2. Levantamento de expectativas dos participantes 3. Apresentação do programa de acção BLOCO I - Princípios gerais de proteção das culturasI.1 Meios de protecção das culturas I.1.1. Luta biológica I.1.2. Luta cultural I.1.3. Luta genética I.1.4. Luta biotécnica I.1.5. Luta química I.2 Proteção integrada I.2.1. Evolução da protecção das plantas I.2.2. Legislação específica I.2.3. Princípios gerais de proteção integrada I.2.4. Estimativa do risco e modelos de previsão I.2.5. Nível económico de ataque (NEA) I.2.6. Tomada de decisão I.2.7. Luta química - Seleção de produtos fitofarmacêuticos I.2.8. Registo dos tratamentos realizados (caderno de campo) I.3 Produção integrada I.3.1. Princípios da PRODI I.3.2. Estratégia de produção I.3.3. Principais técnicas de produção I.3.4. Regulamentação e registosI.4 Agricultura biológica I.4.1. Princípios gerais I.4.2. Regulamento Comunitário relativo à Agricultura Biológica BLOCO II - Segurança na utilização de produtos fitofarmacêuticos, sistemas regulamentares e redução do risco II.1 Produtos fitofarmacêuticos II.1.1. Definição de produto fitofarmacêutico II.1.2. Classificação química II.1.3. Modos de ação II.1.4. Formulação II.2 Sistemas regulamentares dos PF II.2.1. Homologação dos produtos fitofarmacêuticos II. 2.2. Produtos ilegais - sua identificação II.2.3. Distribuição, venda e aplicação II.2.4. Gestão de resíduos de embalagens e de excedentes II.2.5. Outra legislação aplicável ou complementar II.3. Segurança na utilização dos produtos fitofarmacêuticos II.3.1. Aspetos toxicológicos inerentes à manipulação e aplicação dos produtos fitofarmacêuticos II.3.2. Símbolos toxicológicos e ecotoxicológicos II.3.3. Informação e leitura do rótulo II.3.4. Equipamento de proteção individual (EPI) II.3.5. Relação entre o EPI e as diferentes características dos produtos fitofarmacêuticos II.3.6. Sintomas de intoxicação com produtos fitofarmacêuticos II.4 Redução do risco no manuseamento e aplicação de produtos fitofarmacêuticos II.4.1. Verificação das condições de trabalho, condições atmosféricas, material de aplicação a utilizar, leitura do rótulo II.4.2. Cuidados com a preparação da calda II.4.3. Noção de dose e de concentração da calda II.4.4. Utilização do EPI correcto II.4.5. Boas práticas de segurança e saúde no trabalho II.5 Redução do risco para o ambiente, espécies e organismos não visados II.5.1. Impacte no ambiente do uso de produtos fitofarmacêuticos II.5.2. Riscos para as espécies e os organismos não visados resultantes da aplicação dos produtos fitofarmacêuticos II.5.3. Preparação da calda II.5.4. Eliminação de excedentes de calda II.5.5. Lavagem do equipamento de aplicação II.5.6. Gestão de embalagens e produtos obsoletos II.5.7. Boas práticas de segurança e saúde no trabalho II.6 Redução do risco para o consumidor II.6.1. Noção de resíduo II.6.2. Limite Máximo de Resíduo II.6.3. Intervalo de segurança II.6.4. Exposição do consumidor e cumprimento das indicações do rótulo II.6.5. Controlo de resíduos BLOCO III – Material de aplicaçãoIII.1. Material e técnicas de aplicação III.1.1. Características do material de aplicação III.1.2. Critérios para a escolha do material de aplicação III.1.3. Técnicas de aplicação, calibração e regulação do material de aplicação III.1.4. Arrastamento da calda III.1.5. Cálculo de doses concentrações e volumes de calda com herbicida, inseticidas, fungicidas e outros produtos fitofarmacêuticos III.1.6. Conservação e manutenção do material de aplicação BLOCO IV - Armazenamento, transporte e acidentes com produtos fitofarmacêuticosIV.1 Armazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticos IV.1.1. Condições e características dos locais de armazenamento de produtos fitofarmacêuticos IV.1.2. Perigos e segurança durante o armazenamento. Sinalização. IV.1.3. Perigos e segurança no transporte de pequenas quantidades de produtos fitofarmacêuticos IV.2 Acidentes com produtos fitofarmacêuticos IV.2.1. Prevenção de acidentes IV.2.2. Acidentes de trabalho IV.2.3. Medidas de primeiros socorros Avaliação e encerramentoAvaliação de conhecimentos Avaliação de conhecimentos - Prova teórica escritaAvaliação de reação e encerramento Avaliação de reação Encerramento"
       ],
       "descricao": null,
       "inscricoes_abertas": false,
@@ -1389,38 +1304,13 @@
       ]
     },
     {
-      "id_curso": 92,
-      "titulo": "Conduzir e Operar com o Trator em Segurança (COTS 35)",
-      "area_formacao": "Produção Agrícola e Animal",
-      "duracao_total": "35.0 horas",
-      "imagem_url": "https://castelform.pt/ficheiros/c92.jpg",
-      "conteudos": [
-        "Módulo 1 - Acidentes em Portugal",
-        "Módulo 2 - Condução e prevenção rodoviária com veículos agrícolas, código da estrada e normas aplicáveis",
-        "Módulo 3 - Veículo seguro - Equipamentos de segurança e proteção coletiva do trator, código do trabalho e normas aplicáveis",
-        "Módulo 4 - Equipamentos de proteção Invidual",
-        "Módulo 5 - Conduzir e Operar com o Trator em Segurança",
-        "Módulo 6 - Conduzir o trator em situações perigosas e operar com orgãos ativos",
-        "Avaliação."
-      ],
-      "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
-    },
-    {
       "id_curso": 62,
       "titulo": "Conduzir e Operar com o trator em Segurança (COTS) (UFCD 9596)",
       "area_formacao": "Com esta ação pretende-se que o formando complemente os conhecimentos teóricos e práticos sobre a condução e operação de tratores em segurança tendo em vista a melhoria do seu desempenho na via pública e na exploração e a redução da sinistralidade. Esta ação visa dar resposta face às recentes alterações da legislação. Condições de acesso:- Escolaridade Mínima obrigatória;- Comprovativo de situação profissional;- Carta de Condução que habilite à Condução de Veículos Agrícolas; Licença de condução de trator Agrícola, sempre que não for demonstrada formação específica na área da segurança com a utilização de tratores e máquinas Agrícolas.",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c62.jpg",
       "conteudos": [
-        "Módulo 1 - Acidentes em Portugal",
-        "Módulo 2 - Condução e prevenção rodoviária com veículos agrícolas, código da estrada e normas aplicáveis",
-        "Módulo 3 - Veículo seguro - Equipamentos de segurança e proteção coletiva do trator, código do trabalho e normas aplicáveis",
-        "Módulo 4 - Equipamentos de proteção Invidual",
-        "Módulo 5 - Conduzir e Operar com o Trator em Segurança",
-        "Módulo 6 - Conduzir o trator em situações perigosas e operar com orgãos ativos",
-        "Avaliação."
+        "Sistemas regulamentares- Autorização de produtos fitofarmacêuticos- Classificação, embalagem e rotulagem- Venda, aquisição e uso responsávelProteção Integrada (PI)- Legislação específica e registos- Prática da PI e tomada de decisão- Aconselhamento agrícola- Avaliação comparativa de produtos fitofarmacêuticos e segurançaProdução Integrada (PRODI)- Princípios da PRODI- Regulamentação e registos- Caderno de campoModo de Produção Biológico- Princípios gerais- Regulamento comunitário relativo ao modo de produção biológico- Utilização de produtos fitofarmacêuticos em modo de produção biológicoSegurança na utilização de produtos fitofarmacêuticos- Aspetos toxicológicos inerentes à sua manipulação e aplicação- Noção de dose, concentração e volume de calda- Informação e leitura do rótulo- Produtos ilegais- Equipamentos de proteção individual (EPI) segundo as características do produto fitofarmacêuticoRedução do risco na aplicação dos produtos fitofarmacêuticos- Inspeção periódica de equipamentos- Características do equipamento de aplicação- Critérios para a escolha do material de aplicação- Técnicas de aplicação, calibração, regulação do material de aplicação e inspeção- Arrastamento da calda e dispositivos anti deriva- Redução do risco para o ambiente, espécies e organismos não visados- Impacte no ambiente do uso de produtos fitofarmacêuticos- Risco para as espécies não visadas e medidas de mitigação do riscoSegurança na manipulação e preparação de caldas e limpeza de equipamentos de aplicaçãoGestão de resíduos de embalagens e resíduos de excedentes de produtos fitofarmacêuticos (obsoletos)Segurança alimentarLimite máximo de resíduosIntervalo de segurançaExposição do consumidor e cumprimento das indicações do rótuloArmazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticosCondições e características dos locais de armazenamentoSinalização, perigos e segurança durante o armazenamentoPerigos e segurança no transporteAcidentes com produtos fitofarmacêuticosPrevenção de acidentesAcidentes de trabalhoSintomas de intoxicação e medidas de primeiros socorros"
       ],
       "descricao": null,
       "inscricoes_abertas": true,
