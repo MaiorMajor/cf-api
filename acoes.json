@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-05-25T09:03:19.785990+01:00",
+  "gerado_em": "2026-05-26T08:56:32.914277+01:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 10,
+  "total": 11,
   "acoes": [
     {
       "url": "https://castelform.pt/informacaocurso.aspx?id=308&accao=770",
@@ -558,6 +558,59 @@
       ],
       "imagens": [],
       "cards_extraidas": [
+        "Condições de Inscrição",
+        "Área de Formação",
+        "Objetivos",
+        "Conteúdos Programáticos",
+        "Formador(es)",
+        "Metodologia"
+      ]
+    },
+    {
+      "url": "https://castelform.pt/informacaocurso.aspx?id=62&accao=878",
+      "id_curso": 62,
+      "id_accao": 878,
+      "titulo": "Conduzir e Operar com o trator em Segurança (COTS) (UFCD 9596)",
+      "area_formacao": "Produção Agrícola e Animal",
+      "duracao_total": "50 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/c62.jpg",
+      "objetivos": [
+        "Complementar os conhecimentos teóricos e práticos dos participantes sobre a condução e operação de tratores em segurança tendo em vista a melhoria do seu desempenho na via pública e na exploração e a redução da sinistralidade.."
+      ],
+      "conteudos": [
+        "Conteúdos da UFCD 9596",
+        "Conduzir e Operar com o trator em Segurança (COTS):• Acidentes com tratores em Portugal • Condução e prevenção rodoviária com veículos agrícolas",
+        "Código da Estrada, Código do trabalho e Normas aplicáveis • Veículo seguro",
+        "equipamento de segurança e proteção do trator • Equipamento de proteção individual • Condução e operação com o trator em segurança • Condução do trator em condições perigosas e operar com órgãos ativos • Boas práticas de segurança na condução, operação e engate/desengate de reboques e semirreboques e outras máquinas agrícolas e saúde no trabalho agrícola"
+      ],
+      "formadores": [
+        {
+          "nome": "Custódio de Sousa Oliveira",
+          "biografia": "Mestre em Agricultura Biológica. Foi Director Geral da Adega Cooperativa de Braga, Crl entre 1994 e 2001. Téncico Agricola na Cavagri-Cooperativa Agrícola do Alto Cávado, Crl, entre 2001 e 2009. Participação nos workshops regionais do Projecto “Bio-Regiões\", dinamizado pela Rede Rural Nacional e Rede Internacional das Bio-Regiões (INNER). Formador desde 2010, já lecionou diversas formações na área agricola. Formador homologado pela DRAPN em cursos APF e COTS, desde 2013.",
+          "foto_url": "https://castelform.pt/ficheiros/e4493.jpg"
+        }
+      ],
+      "detalhe": {
+        "inicio": "09/07/2026",
+        "fim": "05/08/2026"
+      },
+      "resumo": {
+        "horario": "2ª a 6ª (18:30h-22:30h), Sábado",
+        "local": "JF de Bico (Amares)"
+      },
+      "apresentacao": "Com esta ação pretende-se que o formando complemente os conhecimentos teóricos e práticos sobre a condução e operação de tratores em segurança tendo em vista a melhoria do seu desempenho na via pública e na exploração e a redução da sinistralidade. Esta ação visa dar resposta face às recentes alterações da legislação. Condições de acesso:- Escolaridade Mínima obrigatória;- Comprovativo de situação profissional;- Carta de Condução que habilite à Condução de Veículos Agrícolas; Licença de condução de trator Agrícola, sempre que não for demonstrada formação específica na área da segurança com a utilização de tratores e máquinas Agrícolas.",
+      "metodologia": "Ativa, Centrada no participante, baseada na experiência e participação dos formandos, utilizando diversas técnicas de ensino como, exposição dialogada, demonstração, simulação, estudo de caso, trabalho individual e de grupo. A formação prática será realizada em campo.",
+      "condicoes_inscricao": "Apresentar a seguinte documentação na fase de inscrição:1- Cópia do Certificado de Escolaridade ou de Habilitações Académicas2- Comprovativo de situação profissional: a) Recibo de Vencimento do ultimo mês (se trabalhadores por conta de outrem) b) Declaração de Inicio de Atividade + RVE ou Fatura recente (se trabalhadores por conta própria)3- Cópia da Carta de Condução que habilite à Condução de Veículos Agrícolas (Carta de ligeiros ou pesados)4- Cópia do Cartão de CidadãoOutras condições de inscrição e seleção:N.º de formandos máximo: 16Idade: = 18 anos Habilitações literárias:. Escolaridade obrigatória, nos termos dos n.º 3 do artigo 7.º, do Anexo do Despacho n.º 5756/2020, de 26 de maio.. De acordo com alínea b1) do n.º 3, do artigo 7.º, do Anexo, do referido despacho, podem ser ainda aceites formandos que não disponham de escolaridade obrigatória, desde que comprovem saber ler, escrever e interpretar um texto.Outros requisitos:. Carta de condução da Categoria B, C ou D;. Título de condução que habilite a conduzir veículos agrícolas, quando o seu titular pretenda atualizar conhecimentos.",
+      "destinatarios": null,
+      "requisitos": null,
+      "certificacao": null,
+      "calendario": [
+        "(Calendário Provisório)Semana 109-07-2026 - 5ª feira - 18:30 - 22:30 - 4.0 H10-07-2026 - 6ª feira - 18:30 - 22:30 - 4.0 H12-07-2026 - Domingo - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 213-07-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H14-07-2026 - 3ª feira - 19:00 - 22:30 - 3.5 H16-07-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H19-07-2026 - Domingo - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 321-07-2026 - 3ª feira - 19:00 - 22:30 - 3.5 HSemana 402-08-2026 - Domingo - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 505-08-2026 - 4ª feira - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 H"
+      ],
+      "imagens": [],
+      "cards_extraidas": [
+        "Datas de Realização",
+        "Apresentação",
         "Condições de Inscrição",
         "Área de Formação",
         "Objetivos",
