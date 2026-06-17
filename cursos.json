@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-06-16T09:22:00.847532+01:00",
+  "gerado_em": "2026-06-17T17:50:18.270800+01:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 117,
   "cursos": [
@@ -339,8 +339,53 @@
       "imagem_url": "https://castelform.pt/ficheiros/C405.jpg",
       "conteudos": [],
       "descricao": null,
-      "inscricoes_abertas": false,
-      "acoes": []
+      "inscricoes_abertas": true,
+      "acoes": [
+        {
+          "url": "https://castelform.pt/informacaocurso.aspx?id=405&accao=888",
+          "id_curso": 405,
+          "id_accao": 888,
+          "titulo": "UC00294 - Utilizar aplicações digitais de produtividade, colaboração e comunicação",
+          "area_formacao": "Ciências Informáticas",
+          "duracao_total": "50 horas",
+          "imagem_url": "https://castelform.pt/ficheiros/c405.jpg?v=202604070120",
+          "objetivos": [],
+          "conteudos": [
+            "Realizações:• Pesquisar informação e partilhar dados e conteúdos em meios digitais.• Criar documentos em processador de texto.• Criar folhas de cálculo.• Criar e configurar apresentações.• Gerir e arquivar documentos.Atendendo a que os formandos gerem e executam processos e intervenções formativas, seja enquanto gestores e coordenadores pedagógicos, seja enquanto formadores, através desta UC pretende",
+            "se desenvolver as seguintes aplicações práticas:1",
+            "Exemplo completo e Instrução de trabalho em PDF e em Vídeo",
+            "de como fazer um plano de sessão usando as UCs que cumpra com os requisitos da DGERT.2",
+            "Exemplo de como aplicar instrumentos de avaliação mais inovadores e cujos resultados possam ser integrados num instrumento síntese, que possa ser usado nas evidências de avaliação da ação;3",
+            "Exemplo de um Manual do formando e como usar a IA (ex: notebook LM) para o fazer a partir de uma pasta com legislação, powerpoints antigos e PDFs)."
+          ],
+          "formadores": [],
+          "detalhe": {
+            "inicio": "17/06/2026",
+            "fim": "29/06/2026"
+          },
+          "resumo": {
+            "horario": "Misto",
+            "local": "Centro Comercial de São Lázaro - Rua Sá de Miranda nº 564 Loja 1 e 24700-352 Braga"
+          },
+          "apresentacao": null,
+          "metodologia": null,
+          "condicoes_inscricao": null,
+          "destinatarios": null,
+          "requisitos": null,
+          "certificacao": null,
+          "calendario": [
+            "17/06/2026",
+            "17/06/2026",
+            "29/06/2026"
+          ],
+          "imagens": [],
+          "cards_extraidas": [
+            "Área de Formação",
+            "Conteúdos Programáticos",
+            "Formador(es)"
+          ]
+        }
+      ]
     },
     {
       "id_curso": 392,
@@ -965,12 +1010,11 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "07/07/2026",
-            "07/07/2026",
-            "13/07/2026"
+            "Semana 107-07-2026 - 3ª feira - 18:30 - 22:30 - 4.0 H08-07-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H09-07-2026 - 5ª feira - 19:00 - 22:30 - 3.5 H10-07-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H11-07-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 213-07-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
           ],
           "imagens": [],
           "cards_extraidas": [
+            "Datas de Realização",
             "Condições de Inscrição",
             "Área de Formação",
             "Objetivos",
@@ -2024,13 +2068,14 @@
           "url": "https://castelform.pt/informacaocurso.aspx?id=418&accao=885",
           "id_curso": 418,
           "id_accao": 885,
-          "titulo": "Introdução ao Yoga: Prática, Anatomia, Respiração e Fundamentos Teóricos",
-          "area_formacao": "Trabalho Social e Orientação",
+          "titulo": "Yoga / Desenvolver técnicas de animação através da expressão musical e corporal (UC04177)",
+          "area_formacao": "Serviços de Apoio a Crianças e Jovens",
           "duracao_total": "50 horas",
           "imagem_url": "https://castelform.pt/ficheiros/c418.jpg?v=202606021029",
           "objetivos": [],
           "conteudos": [
-            "Introdução ao Yoga e Consciência Corporal",
+            "Yoga / Desenvolver técnicas de animação através da expressão musical e corporal (UC04177)",
+            "Aplicação Prática da UC04177:",
             "Fundamentos do Yoga e Respiração",
             "Anatomia Aplicada ao Movimento",
             "Coluna Vertebral, Mobilidade e Alinhamento",
@@ -2042,7 +2087,20 @@
             "Equilíbrio, Coordenação e Consciência Corporal",
             "Sequenciação e Estrutura de Aula",
             "Meditação, Relaxamento e Integração",
-            "Avaliação Final, Prática Integrada e Encerramento"
+            "Avaliação Final, Prática Integrada e Encerramento",
+            "Conhecimentos via UC04177:",
+            "Objetivos da animação e ocupação de tempos livres através da expressão musical e corporal",
+            "Estratégias dinamização e motivação de grupos e indivíduos.",
+            "Comunicação e interação.",
+            "Técnicas de expressão musical e corporal.",
+            "Expressão musical – jogos rítmicos, improvisação musical, voz, eco vocal e instrumentos simples.",
+            "Expressão corporal – jogos de movimento (estátua, espelho, entre outros), exploração do espaço e de objetos, coreografias.",
+            "Expressão dramática, música e corpo – danças do mundo, percussão corporal coreografada, teatro musical improvisados, dramatização de contos.",
+            "Fatores críticos para a implementação das atividades.",
+            "Planeamento de atividades –caracterização do grupo (idade, capacidades, interesses, limitações, motivações, interesses), tema, objetivos, metodologias, técnicas, materiais (seguros, económicos, adaptáveis), recursos, espaço e logística.",
+            "Dinamização de atividades – aprendizagem pela experimentação, mediação criativa, grupos de trabalho, apresentação dos trabalhos.",
+            "Avaliação das atividades – participação e envolvimento, interação entre participantes, grau de autonomia, criatividade e exploração de técnicas, satisfação do grupo, impacto emocional e social.",
+            "Regras e normas definidas."
           ],
           "formadores": [],
           "detalhe": {
