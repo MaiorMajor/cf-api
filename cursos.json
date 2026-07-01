@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-06-30T09:07:57.980926+01:00",
+  "gerado_em": "2026-07-01T08:58:46.195390+01:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 117,
   "cursos": [
@@ -1068,12 +1068,11 @@
           "requisitos": null,
           "certificacao": null,
           "calendario": [
-            "22/07/2026",
-            "22/07/2026",
-            "03/08/2026"
+            "Semana 122-07-2026 - 4ª feira - 18:30 - 22:30 - 4.0 H24-07-2026 - 6ª feira - 19:00 - 22:30 - 3.5 HSemana 229-07-2026 - 4ª feira - 19:00 - 22:30 - 3.5 H31-07-2026 - 6ª feira - 19:00 - 22:30 - 3.5 H01-08-2026 - Sábado - 09:00 - 13:00 e das 14:00 - 17:00 - 7.0 HSemana 303-08-2026 - 2ª feira - 19:00 - 22:30 - 3.5 H"
           ],
           "imagens": [],
           "cards_extraidas": [
+            "Datas de Realização",
             "Condições de Inscrição",
             "Área de Formação",
             "Objetivos",
@@ -2034,7 +2033,7 @@
           },
           "resumo": {
             "horario": "Pós-laboral",
-            "local": "Guimarães"
+            "local": "Silvares - Guimarães"
           },
           "apresentacao": null,
           "metodologia": null,
