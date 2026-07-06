@@ -1,11 +1,11 @@
 {
-  "gerado_em": "2026-07-06T09:17:11.172986+01:00",
+  "gerado_em": "2026-07-06T10:56:13.068670+01:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 118,
   "cursos": [
     {
       "id_curso": 401,
-      "titulo": "Execução de Peças de Olaria (UFCD 0244)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Artesanato",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C401.jpg",
@@ -18,7 +18,7 @@
     },
     {
       "id_curso": 200,
-      "titulo": "Técnicas do bordado (UFCD 5458)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Artesanato",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c200.jpg",
@@ -31,7 +31,7 @@
     },
     {
       "id_curso": 367,
-      "titulo": "0754 - Processador de texto",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C367.jpg",
@@ -44,7 +44,7 @@
     },
     {
       "id_curso": 368,
-      "titulo": "0755 - Processador de texto - funcionalidades avançadas",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C368.jpg",
@@ -57,7 +57,7 @@
     },
     {
       "id_curso": 310,
-      "titulo": "0757 - Folha de cálculo - funcionalidades avançadas",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c310.jpg",
@@ -68,7 +68,7 @@
     },
     {
       "id_curso": 25,
-      "titulo": "0778 - Folha de Cálculo",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C25.jpg",
@@ -79,7 +79,7 @@
     },
     {
       "id_curso": 301,
-      "titulo": "10526 - Literacia digital - iniciação",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c301.jpg",
@@ -92,7 +92,7 @@
     },
     {
       "id_curso": 404,
-      "titulo": "10788 - Fundamentos da linguagem SQL",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C404.jpg",
@@ -103,7 +103,7 @@
     },
     {
       "id_curso": 356,
-      "titulo": "10793 - Fundamentos de Python",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C356.jpg",
@@ -116,7 +116,7 @@
     },
     {
       "id_curso": 379,
-      "titulo": "10794 - Programação avançada com Python",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C379.jpg",
@@ -127,7 +127,7 @@
     },
     {
       "id_curso": 403,
-      "titulo": "10799 - Modelação de dados",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C403.jpg",
@@ -138,7 +138,7 @@
     },
     {
       "id_curso": 365,
-      "titulo": "10800 - Transformação de dados",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C365.jpg",
@@ -151,7 +151,7 @@
     },
     {
       "id_curso": 331,
-      "titulo": "10803 - Análise avançada de dados",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C331.jpg",
@@ -164,7 +164,7 @@
     },
     {
       "id_curso": 369,
-      "titulo": "10805 - Programação em Python",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c369.jpg",
@@ -177,7 +177,7 @@
     },
     {
       "id_curso": 371,
-      "titulo": "7846 - Informática - noções básicas",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C371.jpg",
@@ -190,7 +190,7 @@
     },
     {
       "id_curso": 209,
-      "titulo": "7847 - Aplicações informáticas na ótica do utilizador",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Artesanato",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C209.jpg",
@@ -203,7 +203,7 @@
     },
     {
       "id_curso": 308,
-      "titulo": "9188 - Fundamentos de cibersegurança",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C308.jpg",
@@ -214,7 +214,7 @@
     },
     {
       "id_curso": 144,
-      "titulo": "9214 - Marketing Digital",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C144.jpg",
@@ -233,7 +233,7 @@
     },
     {
       "id_curso": 355,
-      "titulo": "Excel Avançado (Não Financiado)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C355.jpg",
@@ -246,7 +246,7 @@
     },
     {
       "id_curso": 342,
-      "titulo": "Excel com Power Query",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "12.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C342.jpg",
@@ -259,7 +259,7 @@
     },
     {
       "id_curso": 4,
-      "titulo": "Folha de cálculo - funcionalidades avançadas (UFCD_0757)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c4.jpg",
@@ -272,7 +272,7 @@
     },
     {
       "id_curso": 391,
-      "titulo": "Pensamento Computacional e IA Aplicada à Criação de Conteúdos",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C391.jpg",
@@ -283,7 +283,7 @@
     },
     {
       "id_curso": 303,
-      "titulo": "Power BI",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C303.jpg",
@@ -319,7 +319,7 @@
     },
     {
       "id_curso": 267,
-      "titulo": "Sistemas operativos - instalação e configuração (UFCD 0772)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c267.jpg",
@@ -333,7 +333,7 @@
     },
     {
       "id_curso": 405,
-      "titulo": "UC00294 Utilizar aplicações digitais de produtividade, colaboração e comunicação",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C405.jpg",
@@ -344,7 +344,7 @@
     },
     {
       "id_curso": 392,
-      "titulo": "UC00892 Organizar informação e tratar dados de apoio à gestão",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Ciências Informáticas",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C392.jpg",
@@ -355,7 +355,7 @@
     },
     {
       "id_curso": 335,
-      "titulo": "0366 - Plano de marketing",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C335.jpg",
@@ -368,7 +368,7 @@
     },
     {
       "id_curso": 319,
-      "titulo": "10672 - Introdução à utilização e proteção dos dados pessoais",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C319.jpg",
@@ -381,7 +381,7 @@
     },
     {
       "id_curso": 325,
-      "titulo": "10784 - Gestão da presença empresarial nas redes sociais",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C325.jpg",
@@ -402,7 +402,7 @@
     },
     {
       "id_curso": 313,
-      "titulo": "9216 - Meios de comunicação digital",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C313.jpg",
@@ -413,7 +413,7 @@
     },
     {
       "id_curso": 360,
-      "titulo": "9219 - Social Media",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C360.jpg",
@@ -431,7 +431,7 @@
     },
     {
       "id_curso": 351,
-      "titulo": "9222 - Processo de venda não presencial",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C351.jpg",
@@ -442,7 +442,7 @@
     },
     {
       "id_curso": 213,
-      "titulo": "Apresentação, argumentação e fecho de vendas (UFCD 0390)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c213.jpg",
@@ -453,7 +453,7 @@
     },
     {
       "id_curso": 137,
-      "titulo": "Atendimento e venda presencial (UFCD_5897)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "O curso de formação visa desenvolver nos formandos conhecimentos de suporte à área do atendimento. Pretende-se que no final do curso os formandos sejam capazes de: Efetuar um atendimento em conformidade com os parâmetros básicos de atendimento; Gerar uma cultura de qualidade no atendimento, contribuindo para a melhoria da imagem da organização; Identificar e caraterizar os elementos intervenientes nas técnicas de venda presencial.",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c137.jpg",
@@ -464,7 +464,7 @@
     },
     {
       "id_curso": 354,
-      "titulo": "Atendimento, Gestão Documental e de Conflitos nas vendas não presenciais",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C354.jpg",
@@ -475,7 +475,7 @@
     },
     {
       "id_curso": 192,
-      "titulo": "Comunicação Interpessoal e Assertividade (UFCD_5440)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c192.jpg",
@@ -488,7 +488,7 @@
     },
     {
       "id_curso": 400,
-      "titulo": "Estratégias Digitais e Marketing Automation",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "100.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C400.jpg",
@@ -499,7 +499,7 @@
     },
     {
       "id_curso": 352,
-      "titulo": "Gestão de Conteúdos e Publicidade Digital",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C352.jpg",
@@ -523,7 +523,7 @@
     },
     {
       "id_curso": 187,
-      "titulo": "Gestão de equipas (UFCD 7844)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c187.jpg",
@@ -536,7 +536,7 @@
     },
     {
       "id_curso": 203,
-      "titulo": "Ideias e oportunidades de negócio (UFCD 7853)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c203.jpg",
@@ -550,7 +550,7 @@
     },
     {
       "id_curso": 372,
-      "titulo": "Inteligência Emocional (UFCD 9208)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C372.jpg",
@@ -563,7 +563,7 @@
     },
     {
       "id_curso": 344,
-      "titulo": "Língua francesa - atividade comercial e comércio internacional",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C344.jpg",
@@ -576,7 +576,7 @@
     },
     {
       "id_curso": 238,
-      "titulo": "Língua inglesa - atendimento (UFCD_0354)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c238.jpg",
@@ -589,7 +589,7 @@
     },
     {
       "id_curso": 359,
-      "titulo": "Língua inglesa - marketing na venda (UFCD 0380)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C359.jpg",
@@ -603,7 +603,7 @@
     },
     {
       "id_curso": 353,
-      "titulo": "Neuromarketing (UFCD 9213)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C353.jpg",
@@ -617,7 +617,7 @@
     },
     {
       "id_curso": 318,
-      "titulo": "Sistemas de informação de suporte à atividade comercial (UFCD 5896)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c318.jpg",
@@ -630,7 +630,7 @@
     },
     {
       "id_curso": 302,
-      "titulo": "Técnicas de Venda",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "12.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c302.jpg",
@@ -646,7 +646,7 @@
     },
     {
       "id_curso": 363,
-      "titulo": "Técnico/a de Vendas",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C363.jpg",
@@ -659,7 +659,7 @@
     },
     {
       "id_curso": 406,
-      "titulo": "UC02721 Utilizar tecnologias de informação na logística",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C406.jpg",
@@ -670,7 +670,7 @@
     },
     {
       "id_curso": 317,
-      "titulo": "Venda de serviços via “on-line”",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "21.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c317.jpg",
@@ -721,7 +721,7 @@
     },
     {
       "id_curso": 398,
-      "titulo": "Gestão Eficiente e Competências Digitais",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Eletricidade e Energia",
       "duracao_total": "100.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C398.jpg",
@@ -732,7 +732,7 @@
     },
     {
       "id_curso": 358,
-      "titulo": "Aplicações informáticas de gestão de pessoal (UFCD 0616)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Capaictar os formandos para a utilização de uma aplicação informática da área de gestão de pessoal e para a utilização de base de dados com ligação a outras aplicações.",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C358.jpg",
@@ -743,7 +743,7 @@
     },
     {
       "id_curso": 176,
-      "titulo": "Gestão da Formação - Aplicações Práticas",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Gestão e Administração",
       "duracao_total": "16.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c176.jpg",
@@ -756,7 +756,7 @@
     },
     {
       "id_curso": 135,
-      "titulo": "Plano de Negócio - criação de micronegócios (UFCD 7854)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Comércio",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c135.jpg",
@@ -769,7 +769,7 @@
     },
     {
       "id_curso": 169,
-      "titulo": "Processamento de Salários",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Gestão e Administração",
       "duracao_total": "7.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c169.jpg",
@@ -804,7 +804,7 @@
     },
     {
       "id_curso": 326,
-      "titulo": "3297 - Sistema HACCP (Hazard Analysis and Critical Control Points)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Hotelaria e Restauração",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C326.jpg",
@@ -817,7 +817,7 @@
     },
     {
       "id_curso": 305,
-      "titulo": "9571 - Marketing digital aplicado ao turismo",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c305.jpg",
@@ -828,7 +828,7 @@
     },
     {
       "id_curso": 293,
-      "titulo": "Cozinha vegetariana",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Hotelaria e Restauração",
       "duracao_total": "3.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c293.jpg",
@@ -841,7 +841,7 @@
     },
     {
       "id_curso": 2,
-      "titulo": "Aplicação de Produtos Fitofarmacêuticos - UFCD 6281",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C2.jpg",
@@ -855,7 +855,7 @@
           "url": "https://castelform.pt/informacaocurso.aspx?id=2&accao=884",
           "id_curso": 2,
           "id_accao": 884,
-          "titulo": "Processos e métodos de proteção fitossanitária e de aplicação de produtos fitofarmacêuticos - UFCD 6281",
+          "titulo": "Funcional Sempre ativo",
           "area_formacao": "Produção Agrícola e Animal",
           "duracao_total": "50 horas",
           "imagem_url": "https://castelform.pt/ficheiros/c2.jpg?v=202603100557",
@@ -907,7 +907,7 @@
     },
     {
       "id_curso": 18,
-      "titulo": "Aplicação de Produtos Fitofarmacêuticos com Equipamentos de Pulverização Manual (UFCD 9263)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c18.jpg",
@@ -930,7 +930,7 @@
           "url": "https://castelform.pt/informacaocurso.aspx?id=18&accao=861",
           "id_curso": 18,
           "id_accao": 861,
-          "titulo": "Aplicação de Produtos Fitofarmacêuticos com Equipamentos de Pulverização Manual (UFCD 9263)",
+          "titulo": "Funcional Sempre ativo",
           "area_formacao": "Produção Agrícola e Animal",
           "duracao_total": "25 horas",
           "imagem_url": "https://castelform.pt/ficheiros/c18.jpg",
@@ -981,7 +981,7 @@
           "url": "https://castelform.pt/informacaocurso.aspx?id=18&accao=883",
           "id_curso": 18,
           "id_accao": 883,
-          "titulo": "Aplicação de Produtos Fitofarmacêuticos com Equipamentos de Pulverização Manual (UFCD 9263)",
+          "titulo": "Funcional Sempre ativo",
           "area_formacao": "Produção Agrícola e Animal",
           "duracao_total": "25 horas",
           "imagem_url": "https://castelform.pt/ficheiros/c18.jpg",
@@ -1033,7 +1033,7 @@
           "url": "https://castelform.pt/informacaocurso.aspx?id=18&accao=862",
           "id_curso": 18,
           "id_accao": 862,
-          "titulo": "Aplicação de Produtos Fitofarmacêuticos com Equipamentos de Pulverização Manual (UFCD 9263)",
+          "titulo": "Funcional Sempre ativo",
           "area_formacao": "Produção Agrícola e Animal",
           "duracao_total": "25 horas",
           "imagem_url": "https://castelform.pt/ficheiros/c18.jpg",
@@ -1085,7 +1085,7 @@
           "url": "https://castelform.pt/informacaocurso.aspx?id=18&accao=827",
           "id_curso": 18,
           "id_accao": 827,
-          "titulo": "Aplicação de Produtos Fitofarmacêuticos com Equipamentos de Pulverização Manual",
+          "titulo": "Funcional Sempre ativo",
           "area_formacao": "Produção Agrícola e Animal",
           "duracao_total": "25 horas",
           "imagem_url": "https://castelform.pt/ficheiros/c18.jpg",
@@ -1155,7 +1155,7 @@
     },
     {
       "id_curso": 16,
-      "titulo": "Atualização de Aplicação de Produtos Fitofarmacêuticos (AAPF) - (UFCD 9261)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C16.jpg",
@@ -1168,7 +1168,7 @@
     },
     {
       "id_curso": 407,
-      "titulo": "Atualização em aplicação de produtos fitofarmacêuticos com equipamentos de pulverização manual (AAPFEPM25)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Introdução• Apresentação do grupo• Levantamento das expetativas dos participantes• Apresentação do programa de açãoI: Sistemas regulamentares• Autorização de produtos fitofarmacêuticos: Principais figuras e procedimentos legais relevantes para utilizadores profissionais• Aplicação de produtos fitofarmacêuticos em zonas urbanas, áreas de lazer e vias de comunicação• Classificação, embalagem e rotulagem de produtos fitofarmacêuticos (Reg. 1272/2008)• Símbolos de perigo, advertências de perigo (frases H) e frases de prudência (frases P)• Venda, aquisição e utilização responsável de produtos fitofarmacêuticos• Sistema de Informação e Divulgação relativa a produtos fitofarmacêuticos (SIFITO)II: Proteção Integrada• Legislação específica e registos (princípios gerais)• A prática da Proteção Integrada e tomada de decisão• O aconselhamento agrícola• O Serviço Nacional de Avisos Agrícolas e o Serviço de Aconselhamento Agrícola e Florestal• Avaliação comparativa de produtos fitofarmacêuticos e segurança• Decisão de substituição e alternativas a produtos químicosIII: Produção Integrada• Princípios da PRODI• Regulamentação e registos• O caderno de campo• Controlos oficiais: registo e acompanhamento da cultura, das práticas e monitorização de resultadosIV: Modo de Produção Biológico• Princípios gerais• Regulamento comunitário relativo ao Modo de Produção Biológico• A autorização de produtos fitofarmacêuticos e substâncias de base e sua utilização em Modo de Produção BiológicoV: Segurança na utilização de produtos fitofarmacêuticos• Aspetos toxicológicos inerentes à manipulação e aplicação dos produtos fitofarmacêuticos• Noção de dose, concentração e volume de calda• Preparação da calda em segurança• Informação e leitura do rótulo• Segurança para o operador na aplicação manual de produtos fitofarmacêuticos• Equipamentos de proteção individual (EPI)• Escolha do EPI e as diferentes características do produto fitofarmacêuticoVI: Redução do risco na aplicação dos produtos fitofarmacêuticos (equipamentos/técnicas)• Tipos e características do material de aplicação manual• Critérios para a escolha do material de aplicação manual• Inspeção de equipamentos de aplicação manual• Técnicas de aplicação, calibração e regulação do equipamento de aplicação manual• Arrastamento da calda e práticas de redução do arrastamento da calda de pulverização• Conservação e manutenção do material de aplicação manualVII: Redução do risco para o ambiente, espécies e organismos não visados• Impacte no ambiente do uso de produtos fitofarmacêuticos• A proteção do solo e dos recursos hídicos• Risco para as espécies não visadas e medidas de mitigação do risco• Conceito de zona tampão, faixas biodiversas e medidas de proteção de pessoas estranhas aos tratamentos• Segurança na manipulação e preparação de caldas e limpeza de equipamentos de aplicação manual• Gestão de resíduos de embalagens e resíduos de excedentes de PF (produtos obsoletos)• Boas práticas na gestão de existências em armazémVIII: Segurança alimentar• Limite Máximo de Resíduos (LMR)• Controlo oficial de resíduos em géneros alimentícios de origem vegetal e rastreabilidade• Intervalo de segurança• Exposição do consumidor e cumprimento das indicações do rótulo• Medidas de higiene e segurança nas operações culturais, de colheita e acondicionamento dos produtos hortofrutícolas para consumoIX: Armazenamento e transporte de pequenas quantidades de produtos fitofarmacêuticos• Condições e características dos locais de armazenamento de produtos fitofarmacêuticos• Equipamentos de armazenagem de produtos perigosos e boas práticas de armazenagem de produtos fitofarmacêuticos• Perigos e segurança durante o armazenamento. Sinalização do equipamento• Perigos e segurança durante o armazenamento, sinalização no armazém e transporte de pequenas quantidades de produtos fitofarmacêuticos• Boas práticas no acondicionamento para transporte de produtos fitofarmacêuticosX: Acidentes com produtos fitofarmacêuticos• Prevenção de acidentes• Leitura da Ficha de Dados de Segurança e do rótulo quando ocorre um acidente• Acidentes de trabalho• Sintomas de intoxicação e medidas de primeiros socorros• O CIAV e a comunicação de exposição ao produto fitofarmacêuticoAVAL: Avaliação e encerramento• Avaliação de conhecimentos - prova teórica escrita• Avaliação de reação• Encerramento",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C407.jpg",
@@ -1181,7 +1181,7 @@
     },
     {
       "id_curso": 62,
-      "titulo": "Conduzir e Operar com o trator em Segurança (COTS) (UFCD 9596)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Com esta ação pretende-se que o formando complemente os conhecimentos teóricos e práticos sobre a condução e operação de tratores em segurança tendo em vista a melhoria do seu desempenho na via pública e na exploração e a redução da sinistralidade. Esta ação visa dar resposta face às recentes alterações da legislação. Condições de acesso:- Escolaridade Mínima obrigatória;- Comprovativo de situação profissional;- Carta de Condução que habilite à Condução de Veículos Agrícolas; Licença de condução de trator Agrícola, sempre que não for demonstrada formação específica na área da segurança com a utilização de tratores e máquinas Agrícolas.",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c62.jpg",
@@ -1195,7 +1195,7 @@
           "url": "https://castelform.pt/informacaocurso.aspx?id=62&accao=878",
           "id_curso": 62,
           "id_accao": 878,
-          "titulo": "Conduzir e Operar com o trator em Segurança (COTS) (UFCD 9596)",
+          "titulo": "Funcional Sempre ativo",
           "area_formacao": "Produção Agrícola e Animal",
           "duracao_total": "50 horas",
           "imagem_url": "https://castelform.pt/ficheiros/c62.jpg",
@@ -1242,7 +1242,7 @@
     },
     {
       "id_curso": 50,
-      "titulo": "Cultura de plantas aromáticas, medicinais e condimentares (UFCD 6327)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c50.jpg",
@@ -1255,7 +1255,7 @@
     },
     {
       "id_curso": 142,
-      "titulo": "Mecanização Básica e Condução de Veículos Agrícolas (MBCVA)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "250.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C142.jpg",
@@ -1268,7 +1268,7 @@
     },
     {
       "id_curso": 377,
-      "titulo": "Operações culturais de implantação, condução, manutenção e colheita da vinha (UFCD 6288)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C377.jpg",
@@ -1283,7 +1283,7 @@
     },
     {
       "id_curso": 75,
-      "titulo": "Poda e enxertia em fruticultura (UFCD 6352)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C75.jpg",
@@ -1297,7 +1297,7 @@
           "url": "https://castelform.pt/informacaocurso.aspx?id=75&accao=889",
           "id_curso": 75,
           "id_accao": 889,
-          "titulo": "Poda e enxertia em fruticultura (UFCD 6352)",
+          "titulo": "Funcional Sempre ativo",
           "area_formacao": "Produção Agrícola e Animal",
           "duracao_total": "50 horas",
           "imagem_url": "https://castelform.pt/ficheiros/a889.jpg?v=202601081126",
@@ -1350,7 +1350,7 @@
           "url": "https://castelform.pt/informacaocurso.aspx?id=75&accao=890",
           "id_curso": 75,
           "id_accao": 890,
-          "titulo": "Poda e enxertia em fruticultura (UFCD 6352)",
+          "titulo": "Funcional Sempre ativo",
           "area_formacao": "Produção Agrícola e Animal",
           "duracao_total": "50 horas",
           "imagem_url": "https://castelform.pt/ficheiros/a890.jpg?v=202601081126",
@@ -1403,7 +1403,7 @@
     },
     {
       "id_curso": 148,
-      "titulo": "Produtos fitofarmacêuticos - venda responsável – atualização (UFCD_9262)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c148.jpg",
@@ -1416,7 +1416,7 @@
     },
     {
       "id_curso": 61,
-      "titulo": "Regulação, Operação e Manutenção da Motosserra (UFCD 2961)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c61.jpg",
@@ -1429,7 +1429,7 @@
     },
     {
       "id_curso": 93,
-      "titulo": "Vinificações (UFCD_8195)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c93.jpg",
@@ -1442,7 +1442,7 @@
     },
     {
       "id_curso": 330,
-      "titulo": "Higiene e Segurança no Trabalho",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Protecção de Pessoas e Bens",
       "duracao_total": "4.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C330.jpg",
@@ -1453,7 +1453,7 @@
     },
     {
       "id_curso": 349,
-      "titulo": "Manuseamento de extintores",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Protecção de Pessoas e Bens",
       "duracao_total": "10.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C349.jpg",
@@ -1464,7 +1464,7 @@
     },
     {
       "id_curso": 41,
-      "titulo": "Primeiros Socorros (UFCD 3564)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c41.jpg",
@@ -1477,7 +1477,7 @@
     },
     {
       "id_curso": 361,
-      "titulo": "Saúde e socorrismo (UFCD 4283)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Serviços de Apoio a Crianças e Jovens",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C361.jpg",
@@ -1490,7 +1490,7 @@
     },
     {
       "id_curso": 348,
-      "titulo": "Suporte Básico de Vida",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Saúde",
       "duracao_total": "10.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C348.jpg",
@@ -1501,7 +1501,7 @@
     },
     {
       "id_curso": 3,
-      "titulo": "Técnicas de Socorrismo - principios básicos (UFCD 4478)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Produção Agrícola e Animal",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c3.jpg",
@@ -1514,7 +1514,7 @@
     },
     {
       "id_curso": 381,
-      "titulo": "Técnico/a Auxiliar de Saúde (EFA)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Saúde - Programas não Classificados Noutra Área de Formação",
       "duracao_total": "0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C381.jpg",
@@ -1527,7 +1527,7 @@
     },
     {
       "id_curso": 26,
-      "titulo": "Animação e ocupação de tempos livres através de expressão plástica (UFCD 7239)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Serviços de Apoio a Crianças e Jovens",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C26.jpg",
@@ -1540,7 +1540,7 @@
     },
     {
       "id_curso": 307,
-      "titulo": "Controle parental e gestão de tempos das crianças nas redes sociais",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "12.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c307.jpg",
@@ -1551,7 +1551,7 @@
     },
     {
       "id_curso": 384,
-      "titulo": "Crianças com necessidades específicas de educação",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Serviços de Apoio a Crianças e Jovens",
       "duracao_total": "20.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C384.jpg",
@@ -1562,7 +1562,7 @@
     },
     {
       "id_curso": 259,
-      "titulo": "Cuidados de rotina diária e atividades promotoras do desenvolvimento da criança (UFCD 9185)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c259.jpg",
@@ -1578,7 +1578,7 @@
     },
     {
       "id_curso": 258,
-      "titulo": "Cuidados de saúde primários para crianças e jovens (UFCD 9641)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c258.jpg",
@@ -1607,7 +1607,7 @@
     },
     {
       "id_curso": 256,
-      "titulo": "Desenvolvimento de crianças e jovens (UFCD 9635)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c256.jpg",
@@ -1624,7 +1624,7 @@
     },
     {
       "id_curso": 296,
-      "titulo": "Elaboração, Implementação e Gestão do Plano Individual em Creches",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Face às exigências na Educação, é crucial que os técnicos da área infanto-juvenil intervenham de acordo com as normas, desenvolvendo competências ao nível da concepção, implementação e avaliação do Plano Individual.",
       "duracao_total": "12.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c296.jpg",
@@ -1641,7 +1641,7 @@
     },
     {
       "id_curso": 255,
-      "titulo": "Interação e rotinas diárias com crianças e jovens com necessidades educativas específicas (9650)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c255.jpg",
@@ -1658,7 +1658,7 @@
     },
     {
       "id_curso": 257,
-      "titulo": "Modelos familiares e formas de parentalidade (UFCD 9186)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c257.jpg",
@@ -1675,7 +1675,7 @@
     },
     {
       "id_curso": 281,
-      "titulo": "Necessidades Educaticas Específicas (9640; 9646)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "100.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c281.jpg",
@@ -1686,7 +1686,7 @@
     },
     {
       "id_curso": 230,
-      "titulo": "Técnicas de animação para crianças e jovens (UFCD 9851)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Serviço de Apoio a Crianças e Jovens",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c230.jpg",
@@ -1701,7 +1701,7 @@
     },
     {
       "id_curso": 146,
-      "titulo": "Constituição, funcionamento, conservação dos equipamentos moto manuais e normas SHS/EPI (UFCD_3124)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Silvicultura e Caça",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C146.jpg",
@@ -1712,7 +1712,7 @@
     },
     {
       "id_curso": 156,
-      "titulo": "Manutenção e conservação da motosserra (UFCD_10010)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Silvicultura e Caça",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c156.jpg",
@@ -1725,7 +1725,7 @@
     },
     {
       "id_curso": 219,
-      "titulo": "Motorroçadoras – constituição, utilização e manutenção (UFCD 8371)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Silvicultura e Caça",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c219.jpg",
@@ -1738,7 +1738,7 @@
     },
     {
       "id_curso": 252,
-      "titulo": "Motosserras – constituição, utilização e manutenção (UFCD 8357)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Silvicultura e Caça",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c252.jpg",
@@ -1751,7 +1751,7 @@
     },
     {
       "id_curso": 383,
-      "titulo": "Operacional de Queima",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Silvicultura e Caça",
       "duracao_total": null,
       "imagem_url": "https://castelform.pt/ficheiros/C383.jpg",
@@ -1762,7 +1762,7 @@
     },
     {
       "id_curso": 263,
-      "titulo": "Técnicas de abate dirigido com motosserra (UFCD 4547)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Silvicultura e Caça",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c263.jpg",
@@ -1780,7 +1780,7 @@
     },
     {
       "id_curso": 298,
-      "titulo": "Utilização da motosserra nas operações florestais (UFCD 4552)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "I. REGRAS DE SEGURANÇA • Acidentes, riscos e principais medidas preventivas no uso da motosserra • Medidas preventivas e de proteção - Planeamento e organização, sinalização, distâncias de segurança e comunicação • Operador seguro: Equipamento de Proteção Individual (EPI). Caracterização e regras de utilização. Princípios biomecânicos e economia de esforço • Máquina segura: dispositivos de segurança, homologação, manual de instruções e manutenção II. A MOTOSSERRA - CONSTITUIÇÃO E PRINCÍPIOS DE FUNCIONAMENTO • Constituintes mecânicos do equipamento e suas funções. • Motor • Sistema de alimentação • Sistema de ignição • Embraiagem • Transmissão • Órgão de corte • Lâmina-guia • Corrente de corte • Dispositivo de tensão da corrente de corte • Sistema de lubrificação • Dispositivos de segurança. III. OPERAR A MOTOSSERRA EM SEGURANÇA • Cuidados a ter na seleção, verificação e preparação da motosserra • Abastecimento, arranque e paragem em segurança • Preparação da mistura • Medidas e especificações técnicas a respeitar antes do abate - Identificação de perigos na zona envolvente - Identificação do estado fitossanitário da árvore - Identificação da direção de queda natural e direção de abate - Preparação dos caminhos de fuga - Preparação da área de trabalho - Desramação da árvore em pé: altura máxima de trabalho, postura ergonómica, direção e orientação da desramação em pé, motosserra fora do alcance do operador - Limpeza do colo da árvore • No corte de arvoredo - Tipos e técnicas de abate e corte de entalhe (caracterização) - Posicionamento do operador relativamente à arvore na execução dos cortes de entalhe e abate - Precisão e técnica de execução do corte de entalhe e do corte de abate - Medidas e especificações técnicas a respeitar - Controlo da direção de queda da árvore - Utilização de equipamentos acessórios e auxiliares para um abate seguro: cunhas, panca e machado - Utilização de equipamentos auxiliares de tração: tirfor e guincho - Casos particulares de árvores em situação difícil, árvores de grande porte, em terrenos de elevado declive e árvores enganchadas - Na desramação, traçagem e toragem da árvore • Estabilidade da árvore abatida e do tronco - Identificação das forças de tensão que o tronco e ramos estão sujeitos, como técnicas de execução de corte - Posicionamento do operador, posturas ergonómicas e perigo de ressalto - Utilização das diferentes técnicas de desramação consoante o tipo de ramificação (método dos seis pontos, método do pêndulo e método do passo a passo) IV. MANUTENÇÃO E CONSERVAÇÃO DA MOTOSSERRA: REGULAÇÕES, AFINAÇÕES E MANUTENÇÃO • Importância da manutenção e conservação da motosserra • Esquema geral da manutenção - Intervenções a realizar por componente ou órgão mecânico - Periodicidade da intervenção (diária, semanal, anual) • Tipo de intervenção e procedimentos - Limpeza e lubrificação do órgão de corte - Regulação da tensão da corrente - Limpeza e manutenção do sistema de arranque, da embraiagem e pinhão de ataque - Limpeza do filtro do ar, das alhetas do motor e do volante magnético - Limpeza e correção da folga dos elétrodos da vela - Afiação da cadeia de corte - Correção do limitador de profundidade - Retificação e limpeza da lâmina • Cuidados a ter no acondicionamento da motosserra por longos períodos de tempo.",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C298.jpg",
@@ -1798,7 +1798,7 @@
     },
     {
       "id_curso": 265,
-      "titulo": "Utilização, Manutenção e Conservação da Motosserra e da Motorroçadoura, em segurança",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Silvicultura e Caça",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c265.jpg",
@@ -1824,7 +1824,7 @@
     },
     {
       "id_curso": 306,
-      "titulo": "4274-Comunicação visual - fotografia e vídeo",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c306.jpg",
@@ -1837,7 +1837,7 @@
     },
     {
       "id_curso": 65,
-      "titulo": "Animação e Ocupação dos tempos livres através da expressão musical e corporal (UFCD_7240)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c65.jpg",
@@ -1850,7 +1850,7 @@
     },
     {
       "id_curso": 260,
-      "titulo": "Arte, património e tradição",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c260.jpg",
@@ -1866,7 +1866,7 @@
     },
     {
       "id_curso": 422,
-      "titulo": "Assistente Familiar e de Apoio à Comunidade",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C422.jpg",
@@ -1878,7 +1878,7 @@
           "url": "https://castelform.pt/informacaocurso.aspx?id=422&accao=896",
           "id_curso": 422,
           "id_accao": 896,
-          "titulo": "Assistente Familiar e de Apoio à Comunidade",
+          "titulo": "Funcional Sempre ativo",
           "area_formacao": "Trabalho Social e Orientação",
           "duracao_total": "1070 horas",
           "imagem_url": "https://castelform.pt/ficheiros/c422.jpg?v=202607020450",
@@ -1913,7 +1913,7 @@
     },
     {
       "id_curso": 52,
-      "titulo": "Atelier Musical (UFCD_4273)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c52.jpg",
@@ -1926,7 +1926,7 @@
     },
     {
       "id_curso": 299,
-      "titulo": "Comunicação Interpessoal e Assertividade",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "24.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c299.jpg",
@@ -1939,7 +1939,7 @@
     },
     {
       "id_curso": 64,
-      "titulo": "Corpo e Movimento (UFCD_4263)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c64.jpg",
@@ -1952,7 +1952,7 @@
     },
     {
       "id_curso": 27,
-      "titulo": "Expressão plástica - técnicas e materiais (UFCD_4264)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c27.jpg",
@@ -1965,7 +1965,7 @@
     },
     {
       "id_curso": 295,
-      "titulo": "Gestão de conflitos em equipas de ERPI´s e Centros de Dia",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "8.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c295.jpg",
@@ -1990,7 +1990,7 @@
     },
     {
       "id_curso": 10,
-      "titulo": "Gestão de stress do profissional (UFCD_7229)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c10.jpg",
@@ -2003,7 +2003,7 @@
     },
     {
       "id_curso": 166,
-      "titulo": "Intervenção em espaços culturais (UFCD 4293)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c166.jpg",
@@ -2014,7 +2014,7 @@
     },
     {
       "id_curso": 297,
-      "titulo": "Intervenção transdisciplinar em situações de demência e outras doenças mentais",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "• Processo de envelhecimento• Envelhecimento patológico• Demência: o Conceito o Perfil Cognitivo e Comportamental• A pessoa com demência o Alterações cognitivas o Sintomas comportamentais e psicológicos o Alterações nas atividades de vida diária• Intervenção transdisciplinar o A importância da intervenção transdisciplinar o Objetivos da intervenção o Áreas de intervenção ? Comunicar com a pessoa com demência ? Atividades da vida diária ? Intervenção cognitiva • Treino cognitivo • Estimulação cognitiva • Reabilitação cognitiva ? Intervenção psicológica• Elaboração de um plano de intervenção",
       "duracao_total": "15.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c297.jpg",
@@ -2025,7 +2025,7 @@
     },
     {
       "id_curso": 418,
-      "titulo": "Introdução ao Yoga: Prática, Anatomia, Respiração e Fundamentos Teóricos",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": null,
       "imagem_url": "https://castelform.pt/ficheiros/C418.jpg",
@@ -2038,7 +2038,7 @@
     },
     {
       "id_curso": 294,
-      "titulo": "Liderança e Gestão de Equipas",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "10.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c294.jpg",
@@ -2058,7 +2058,7 @@
     },
     {
       "id_curso": 124,
-      "titulo": "Oficina de Expressão Dramática (UFCD 4271)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c124.jpg",
@@ -2071,7 +2071,7 @@
     },
     {
       "id_curso": 380,
-      "titulo": "Técnico/a de Geriatria (EFA)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Trabalho Social e Orientação",
       "duracao_total": "0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/C380.jpg",
@@ -2082,7 +2082,7 @@
     },
     {
       "id_curso": 228,
-      "titulo": "Língua chinesa- Inf. acerca da vida quotidiana (UFCD 8775)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Turismo e Lazer",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c228.jpg",
@@ -2093,7 +2093,7 @@
     },
     {
       "id_curso": 212,
-      "titulo": "Língua inglesa - informação e orientação (UFCD 3462)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Turismo e Lazer",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c212.jpg",
@@ -2106,7 +2106,7 @@
     },
     {
       "id_curso": 236,
-      "titulo": "Língua alemã - informação (UFCD 6943)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Turismo e Lazer",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c236.jpg",
@@ -2117,7 +2117,7 @@
     },
     {
       "id_curso": 158,
-      "titulo": "Língua Chinesa - informação e orientação (UFCD 8761)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Turismo e Lazer",
       "duracao_total": "25.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c158.jpg",
@@ -2128,7 +2128,7 @@
     },
     {
       "id_curso": 167,
-      "titulo": "Língua inglesa - informação (Ufcd 3486)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Turismo e Lazer",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c167.jpg",
@@ -2139,7 +2139,7 @@
     },
     {
       "id_curso": 179,
-      "titulo": "Marketing turístico (UFCD 4328)",
+      "titulo": "Funcional Sempre ativo",
       "area_formacao": "Turismo e Lazer",
       "duracao_total": "50.0 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c179.jpg",
