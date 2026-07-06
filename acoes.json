@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-06T16:18:02.794915+01:00",
+  "gerado_em": "2026-07-06T17:11:37.232989+01:00",
   "fonte_homepage": "https://castelform.pt",
   "total": 9,
   "acoes": [
@@ -372,14 +372,14 @@
       "id_accao": 896,
       "titulo": "Funcional Sempre ativo",
       "area_formacao": "Trabalho Social e Orientação",
-      "duracao_total": "1070 horas",
+      "duracao_total": "1520 horas",
       "imagem_url": "https://castelform.pt/ficheiros/c422.jpg?v=202607020450",
       "objetivos": [],
       "conteudos": [],
       "formadores": [],
       "detalhe": {
-        "inicio": "23/09/2026",
-        "fim": "29/10/2027"
+        "inicio": "03/09/2026",
+        "fim": "21/12/2027"
       },
       "resumo": {
         "horario": "14h00-18h00",
@@ -392,9 +392,9 @@
       "requisitos": null,
       "certificacao": null,
       "calendario": [
-        "23/09/2026",
-        "23/09/2026",
-        "29/10/2027"
+        "03/09/2026",
+        "03/09/2026",
+        "21/12/2027"
       ],
       "imagens": [],
       "cards_extraidas": [
