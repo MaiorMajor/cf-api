@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-07-08T09:06:20.216660+01:00",
+  "gerado_em": "2026-07-09T09:06:57.723182+01:00",
   "fonte_homepage": "https://castelform.pt",
-  "total": 118,
+  "total": 119,
   "cursos": [
     {
       "id_curso": 401,
@@ -1549,6 +1549,19 @@
         "Medidas de prevenção e atuação para crianças e jovens com necessidades de saúde específicaso Criança e jovem com doença crónica complexao Criança e jovem com doença agudao Criança e jovem com alergias e intolerâncias alimentareso Criança e jovem com diabetes",
         "Evicção escolar",
         "Linhas de aconselhamento de saúdeo Linha de saúde 24o Outras linhas de apoio e aconselhamento"
+      ],
+      "descricao": null,
+      "inscricoes_abertas": false,
+      "acoes": []
+    },
+    {
+      "id_curso": 423,
+      "titulo": "Funcional Sempre ativo",
+      "area_formacao": "Serviços de Apoio a Crianças e Jovens",
+      "duracao_total": "50.0 horas",
+      "imagem_url": "https://castelform.pt/ficheiros/C423.jpg",
+      "conteudos": [
+        "Conhecimentos Aptidões Atitudes Objetivos da animação e ocupação de tempos livres através da expressão musical e corporal Estratégias dinamização e motivação de grupos e indivíduos. Comunicação e interação. Técnicas de expressão musical e corporal. Expressão musical – jogos rítmicos, improvisação musical, voz, eco vocal e instrumentos simples. Expressão corporal – jogos de movimento (estátua, espelho, entre outros), exploração do espaço e de objetos, coreografias. Expressão dramática, música e corpo – danças do mundo, percussão corporal coreografada, teatro musical improvisados, dramatização de contos. Fatores críticos para a implementação das atividades. Planeamento de atividades – caracterização do grupo (idade, capacidades, interesses, limitações, motivações, interesses), tema, objetivos, metodologias, técnicas, materiais (seguros, económicos, adaptáveis), recursos, espaço e logística. Dinamização de atividades – aprendizagem pela experimentação, mediação criativa, grupos de trabalho, apresentação dos trabalhos. Avaliação das atividades – participação e envolvimento, interação entre participantes, grau de autonomia, criatividade e exploração de técnicas, satisfação do grupo, impacto emocional e social. Regras e normas definidas. Caracterizar o grupo. Definir objetivos para a atividade. Selecionar materiais e equipamentos. Desenhar atividades de expressão musical para animação. Desenhar atividades de expressão corporal para animação. Conjugar métodos criativos de expressão musical e corporal. Organizar o espaço de trabalho seguro. Aplicar técnicas de expressão musical. Aplicar técnicas de expressão corporal. Dinamizar as atividades de expressão plástica. Acompanhar e registar as etapas do processo criativo. Avaliar os resultados alcançados. Aplicar regras e normas definidas. Responsabilidade pelas suas ações. Autonomia no âmbito das suas funções. Iniciativa e proatividade. Empenho. Sentido criativo e estético. Destreza. Assertividade e empatia na comunicação. Escuta ativa. Flexibilidade e adaptabilidade. Respeito pela sensibilidade e bem-estar dos outros. Respeito pelas regras e normas definidas."
       ],
       "descricao": null,
       "inscricoes_abertas": false,
